@@ -1,0 +1,219 @@
+Terms and Conditions
+（For Users outside of Japan）
+＊If you are using our service outside of Japan, please be sure to read and agree
+to the following Terms and Conditions.
+These Terms and Conditions set forth the terms and conditions of use for the
+services provided through "ABEMA" (hereinafter referred to as the "Service", together
+with the application that must be installed when using the Service) operated by
+AbemaTV, Inc. (hereinafter referred to as "Abema", "we", "our" or "us"). In order to
+ensure the smooth operation of the Service, the guidelines, precautions, and other
+rules and regulations regarding the use of the Service that are separately stipulated
+by Abema within the Service as necessary shall be incorporated as part of these
+Terms and Conditions. (if a person under the age of eighteen (18) uses the Service,
+please obtain prior consent from a person with parental authority and use the Service
+together)
+Before using the Service, please be sure to read and agree to these Terms of
+Use and  Privacy Policy.
+By using the Service, you (hereinafter referred to as the “User”) agree to
+comply with these Terms and Conditions. If you do not agree with these
+Terms and Conditions, please do not use the Service.
+Article 1 (Terms and Conditions for the use of the Service)
+1. The User may use the Service on the premise that they agree to these Terms and
+Conditions. The User shall use the Service within the scope specified by us according
+to the conditions stipulated by us, such as usage and usage environment. When using
+the Service, the User shall always confirm these Terms and Conditions for each
+function or service.
+2. If necessary, we may add new services to the Service, change the contents or
+name of the Service, and the User shall use the Service upon prior consent to these
+changes.
+Article 2 (User Information)
+1. We may obtain the following information (hereinafter referred to as “User
+Information") regarding the Service.
+(1) Personal information: The User's name, email address, date of birth and gender.
+(2) Information about the terminal used: Device, OS, the User agent, cookies,
+advertisement identifier "IDFA/Android Ad ID", terminal language setting, access
+country, etc.
+(3) Information on communication environment: telecommunications carriers,
+communication environments, IP addresses, access areas, etc.
+(4) Usage information: version of the Service, history of use of the Service, etc.
+2. When storing and accumulating the User Information, we shall handle the User
+Information in accordance with our Privacy Policy, and use it for the following
+purposes:
+(1) Operation of the Service (including providing all information to the User from
+Abema).
+(2) Planning and providing better services and advertisements by analyzing user
+trends and measuring advertising effectiveness.
+(3) Adjustment to prevent the same advertisement from being exposed more than
+once by retaining information such as status.
+(4) Providing information about our services (not limited to the Service) or the
+products and services of advertisers and affiliated companies that we deem useful to
+the User.
+(5) Contacting the User about matters that significantly affect the operation of the
+Service (including, but not limited to, significant changes in the Service content and
+suspension).
+(6) Contacting the User to request consent for the handling of the User Information.
+(7) Compiling statistical information pertaining to the usage of the Service,
+publication of such statistical information on the Service or our website, etc., and
+sales or other provision to third parties..
+(8) Providing program recommendations, behavioral targeting advertisements and
+other optimal information based on the age, occupation, gender, hobbies and
+preferences of the User.
+3. When the User terminates the use of the Service or we terminate the operation of
+the Service, we reserve the right, in our sole discretion to delete all User Information
+and will not respond to requests to return such information.
+Our contact point for the Service is as follows:
+Customer Services Group
+info@support.abema.tv
+Article 3 (Fees and Expenses)
+1. In principle, the User shall be able to use the Service free of charge. However, we
+may charge for all or part of the features that can be added or extended by the
+User's choice, and provide other paid services.
+2. We may at our discretion, change the price of any feature of the Service that is
+free or charged. Users shall give advance consent that if they do not agree to such
+changes, they may not be able to use all or part of the Service.
+3. The User shall bear the cost of the purchasing, installing, and maintaining the
+terminal necessary for the use of the Service, as well as any communication costs
+incurred when receiving the Service.
+Article 4 (Campaigns and Questionnaires)
+1. We shall be able to conduct campaigns and questionnaires at any time as part of
+the Service to the User.
+2. Intellectual property rights such as copyrights and other rights arising on contents
+of responses such as campaigns and questionnaires by the User shall be transferred
+to us as soon as the User sends a response to us, the information contained in the
+content of response, shall be used in accordance with the Privacy Policy stipulated by
+us.
+3. In the event of a campaign or questionnaire, we may provide gifts to persons
+separately selected by us among the Users (hereinafter referred to as "Winner").
+4. Users who wish to participate in a campaign or questionnaire may be required to
+register the information necessary in a method specified by us to receive gift(s), etc.
+5. If a Winner does not register as described in the preceding paragraph, or registers
+false information, or if Abema determines that there is a possibility that the Winner
+may have registered false information, the Winner will not be able to receive the gift.
+6. We shall not be obligated to compensate the Winner for any damages caused by
+the gift or the preceding paragraph.
+7. The User shall not assign, transfer, pledge or otherwise dispose of any position
+regarding the gift(s) given by us to any third party.
+Article 5 (Cooperation with Partner Services)
+1. We may link the Service with services operated by third parties such as our
+affiliated companies (hereinafter referred to as "Partner Services").
+2. Users who learn about the Service through the Partner Services shall recognize
+that the Partner Services and the Service are separate services and shall agree to
+these Terms and Conditions separately from the terms of use of the Partner Services.
+3. Users who get to know Partner Services through the Service shall understand that
+the Partner Services and the Service are separate services, and if there are any terms
+of use of the Partner Services other than these Terms of Use, they shall agree to
+them and use the Partner Services in accordance with the method specified by
+Partner Services.
+4. We shall not be liable for the use of the Partner Services by the User and the
+information that the User receives from the Partner Services.
+Article 6 (Intellectual Property Rights)
+1. Copyrights and other intellectual property rights, portrait rights, publicity rights
+and other moral rights, ownership rights and other property rights arising from the
+various content provided through the Service (hereinafter referred to as "Contents"),
+the text, images, programs and any other information that constitutes the Service
+belong to Abema or a third party with the right.
+2. Users shall not use (reprint, duplicate, modify, store, or transfer) the Contents
+beyond the scope of use granted by us in the Service. Users shall agree in advance
+that Abema may change the terms of use of the Contents as necessary and that
+Abema may take measures deemed necessary, such as deleting or suspending the
+use of the relevant Contents, depending on the content of such changes in the terms
+of use.
+Article 7 (Prohibited Items)
+1. The User shall not engage in any of the following acts or acts that may lead to
+such acts:
+(1) Acts that violate laws, public order and morals, or these Terms and Conditions;
+(2) Acts that infringe copyrights or other intellectual property rights, portrait rights,
+publicity rights or moral rights, ownership rights or other property rights of Abema or
+any third party;
+(3) The act of modifying, damaging, or disassembling, decompiling, or reverse
+engineering the Service;
+(4) Act of acquiring the Contents in an unauthorized manner or encouraging such
+actions;
+(5) Acts that unfairly discriminate or slander Abema or a third party, or acts that
+impair the reputation or credibility of Abema or the Service;
+(6) A profit-making act that is conducted without the approval of us;
+(7) Any acts that cause or may cause nuisance or damage to Abema or a third party;
+(8) Acts that interfere with the operation of the Service;
+(9) Any other acts deemed inappropriate by Abema.
+2. In the event that we deem that a User has engaged in any of the prohibited
+activities set forth in the preceding paragraph, we may suspend the use of all or part
+of the Service, restrict the use of the Service, or take any other measures deemed
+appropriate by us.
+3. If the User falls under any of the items in Paragraph 1, we shall be entitled to
+demand compensation from the User for any and all damages (including reasonable
+attorney’s fees) incurred by us as a result of the User's actions.
+Article 8 (Suspension, Discontinuation and Termination of the Service)
+1. We may suspend all or part of the Service for any of the following reasons:
+(1) When we perform regular or emergency maintenance and inspection of the
+computer system for the provision of the Service;
+(2) When the operation of the Service becomes impossible due to emergency
+situations such as fires, blackouts, or natural disasters;
+(3) When the operation of the Service becomes impossible due to wars, civil strifes,
+riots, disturbances, labor disputes, etc.;
+(4) If the Service cannot be provided due to malfunction of the computer system
+used for providing the Service, unauthorized access from a third party, infection of
+computer viruses, etc.;
+(5) If the Service cannot be provided due to measures taken in accordance with laws,
+ordinances, etc.;
+(6) When we have informed the User in advance by email or other means within a
+reasonable extent;
+(7) Other cases where we deem it unavoidable.
+2. When we stop operating the Service pursuant to the preceding paragraph, we
+shall, to a reasonable extent, notify the User to that effect in advance by means of
+posting to the Service or the website separately designated by us. However, this shall
+not apply in the event of an emergency.
+Article 9 (Form of Provision of the Service)
+1. We may, without prior consent of the User, use the Service to post advertisements
+and the like.
+2. We may, without the prior consent of the User, categorize or rank the Service in a
+manner we deem as appropriate. In addition, we may, at any time, provide the Users
+with different types of services according to the categorization or ranking, and in
+different forms for each User.
+Article 10 (Disclaimer)
+1. We do not warrant the legality, accuracy, appropriateness, validity, morality, or
+existence of rights or licensing with respect to any information contained in the
+Service.
+2. We shall, in the event that the content of the advertisement information delivered
+through the Service violates the rights of the User or third parties, or in the event
+disputes arises due to infringement of the rights, we shall not be liable for such
+infringement or disputes, except in cases of willful misconduct or gross negligence
+on our part.
+3. We shall not be liable for any and all damages (including, but not limited to,
+damages resulting from loss of information, etc.) incurred by the User due to the
+suspension, discontinuation, or termination of the Service in accordance with Article
+8, Paragraph 1, or changes to the Service in accordance with Article 1, Paragraph 2,
+except in cases where we were intentionally or grossly negligent.
+4. We shall not be liable for any damages arising from the environment of the
+communication terminal, line, software, etc. used by the User, or by computer virus
+infection, etc. In addition, we may notify the User about the relevant environment, etc.
+by the method separately determined.
+5. We shall not be liable for any damages incurred by the User arising from the use of
+the Service other than those listed in the preceding paragraphs, except in cases
+where we were intentionally or grossly negligent.
+Article 11 (Prohibition of Assignment of Rights and Obligations)
+The User shall not assign, succeed or pledge, or otherwise dispose of any rights or
+obligations under these Terms and Conditions to any third party without the prior
+written consent of Abema.
+Article12 (Revision of these Terms and Conditions)
+1. We may revise these Terms and Conditions at any time.
+2. When we intend to revise these Terms and Conditions, we shall notify the User at
+any time using the Service or the website specified separately by us.
+3. In accordance with the preceding paragraph, if the User continues to use the
+Service after a period of time specified by us from the date of notification of the
+revision of these Terms and Conditions, the User shall be deemed to have consented
+to the revision of these Terms and Conditions, the amended Terms and Conditions
+shall become effective between the User and Abema.
+4. The User shall not be able to file the ignorance or non-acceptance of such content
+after the time of the effective occurrence as stipulated in the preceding paragraph.
+Article13 (Consultation and Court of Jurisdiction)
+1. In the event of any doubt or problem arising between the User, Abema, or a third
+party in connection to the Service, Abema shall consult in good faith on a case-by-
+case basis and attempt to resolve the issue.
+2. All lawsuits and other disputes relating to these Terms and Conditions shall be
+subject to the exclusive jurisdiction of the Tokyo Summary Court or the Tokyo District
+Court in the first instance.
+Article14 (Governing law)
+These Terms and Conditions shall be governed by Japanese law and construed in
+accordance with the Japanese law.
+Effective Date: February 1st, 2019
+Revision Date: September 15th, 2021

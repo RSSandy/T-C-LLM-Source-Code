@@ -1,0 +1,636 @@
+Regulamin
+REGULAMIN
+ALBICLA.COM
+Let
+AlBiCla - Let All Be Clear
+ALBICLA jest bezpłatnym serwisem społecznościowym umożliwiającym
+wolną od cenzury wymianę myśli, idei, opinii.
+Nie ingerujemy w udostępniane przez użytkowników treści,
+chyba że naruszają one prawo.
+Poniżej znajduje się Regulamin ALBICLA, który w szczególności
+ określa zasady świadczenia usług przez ALBICLA, a także są wskazuje na jakie
+warunki godzą się Użytkownicy ALBICLA.
+Poszczególne rozdziały zawierają:     
+   
+I.           
+Definicje pojęć użytych w Regulaminie     
+ 
+II.           
+Warunki niezbędne do rozpoczęcia korzystania z ALBICLA    
+III.           
+Funkcje ALBICLA
+IV.           
+Zasady korzystania z ALBICLA     
+
+V.           
+Odpowiedzialność Użytkowników
+VI.           
+Zablokowanie Konta/usunięcie treści
+VII.           
+Odpowiedzialność ALBICLA
+VIII.           
+Reklamacje i rozwiązywanie sporów    
+IX.           
+Prawa Użytkownika     
+ 
+X.           
+Prawa autorskie    
+XI.           
+Dane osobowe
+XII.           
+Postanowienia końcowe     
+  
+I.           
+Definicje:
+1.       Regulamin- niniejszy dokument, w którym zawarte są reguły korzystania z serwisu
+ALBICLA.COM;
+2.       ALBICLA- serwis społecznościowy dostępny pod adresem https://albicla.com/;
+3.             Usługodawca- właściciel ALBICLA: Słowo Niezależne spółka z ograniczoną odpowiedzialnością z
+siedzibą w Warszawie, 02-056,
+wpisana do Krajowego Rejestru Sądowego
+ prowadzonego przez Sąd Rejonowy dla m. st. Warszawy, XII Wydział Gospodarczy
+Krajowego
+Rejestru Sądowego pod numerem KRS 0000246403, kapitał zakładowy 247 000 zł
+w całości wpłacony, posiadająca numer
+identyfikacji podatkowej NIP: 5252351210,
+REGON: 140377118;
+4.       Rejestracja- proces polegający na wypełnieniu formularza rejestracyjnego w celu utworzenia
+Konta Użytkownika;
+5.       Użytkownik-
+każdy podmiot po dokonaniu Rejestracji, korzystający z ALBICLA;
+6.       Konto
+Użytkownika- odrębna część ALBICLA zabezpieczona loginem i hasłem,
+udostępniona Użytkownikowi;
+7.       Logowanie-
+proces polegający na autoryzowaniu Użytkownika w celu udzielenia mu dostępu
+do Konta Użytkownika;
+8.             Licencja-
+ niewyłączna, nieodpłatna licencja udzielana Użytkownikom na korzystanie z ALBICLA
+ na zasadach określonych w
+Regulaminie;
+9.       Umowa-
+umowa zawarta między Usługodawcą a Użytkownikiem, której przedmiotem jest
+świadczenie usług w ramach ALBICLA na
+zasadach opisanych w Regulaminie, a także
+każda umowa zawarta za pośrednictwem ALBICLA między Usługodawcą a Użytkownikiem;
+10.   Profil- odrębna
+część ALBICLA dotycząca jednego Użytkownika;
+11.   Profil
+oficjalny- Konto Użytkownika należące do instytucji publicznej lub
+powszechnie rozpoznawalnej osoby;
+12.   Post- wiadomość
+umieszczona przez Użytkownika w ramach swojego Konta Użytkownika;     
+ II.           
+Warunki niezbędne do rozpoczęcia korzystania z ALBICLA
+1.       W
+celu korzystania z ALBICLA konieczne jest:
+a.       Posiadanie
+urządzenia elektronicznego przekazującego dane teleinformatyczne (komputer,
+smartfon, tablet itp.) posiadającego
+system operacyjny- warto mieć aktualną
+wersję systemu, w innym przypadku może dojść do gorszego funkcjonowania ALBICLA;
+b.       Posiadanie
+dostępu do sieci Internet;
+c.       Posiadanie
+aktywnego adresu mailowego;
+d.             Posiadanie
+zainstalowanej na urządzeniu przeglądarki internetowej- warto mieć przeglądarkę
+ uaktualnioną do najnowszej
+wersji, w innym przypadku może dojść do gorszego
+funkcjonowania ALBICLA.
+2.             ALBICLA
+przeznaczona jest dla osób pełnoletnich, posiadających pełną zdolność do
+czynności prawnych a także dla podmiotów
+prawnych i innych organizacji
+ posiadających co najmniej osobowość prawną. W imieniu osoby publicznej/firmy/instytucji
+ czy innej
+organizacji może działać osoba prawnie umocowana do reprezentowania
+danego podmiotu.
+3.       ALBICLA
+nie jest przeznaczona dla:
+a.       Osób
+niepełnoletnich
+b.       Osób
+skazanych za przestępstwa seksualne
+c.       Osób,
+których Konto Użytkownika na ALBICLA zostało wcześniej zablokowane z uwagi na naruszenie
+Regulaminu
+4.       Jeżeli
+osoba spełnia wymóg zapisu II.2. Regulaminu i nie podlega wykluczeniu na mocy
+zapisu II.3. Regulaminu, aby móc korzystać z
+ALBICLA powinna założyć Konto
+Użytkownika.
+5.       Zakładanie
+Konta Użytkownika polega na uzupełnieniu formularza rejestracyjnego dostępnego
+na stronie https://albicla.com/zarejestruj
+6.       Dane
+i informacje, które należy uzupełnić by założyć Konto Użytkownika to:
+a.       Imię
+i nazwisko/ nazwa użytkownika
+b.       Adres
+e-mail
+c.       Hasło
+d.       Powtórzyć
+ustanowione Hasło
+e.             Wybrać
+ Kraj będący miejscem zamieszkania lub siedzibą w przypadku podmiotów
+ posiadających osobowość prawną-
+domyślnym krajem jest POLSKA
+f.       
+Wybrać jedną z opcji:
+1. Profil prywatny
+2. Profil oficjalny (przy zaznaczeniu
+ tej opcji konieczne jest określenie czy Profil będzie należał do sieci
+ społeczności
+ALBICLA poprzez interakcje z innymi Użytkownikami czy też kontem
+ informacyjnym- publikującym komunikaty
+właściciela Profilu z możliwością ich
+komentowania)
+7.             Po
+ uzupełnieniu danych wskazanych w II.5 Regulaminu należy zapoznać się z
+ niniejszym Regulaminem i Polityką Prywatności
+dostępnymi na ALBICLA i
+zaakceptować ich treści.
+8.       Często
+z uwagi na ochronę ALBICLA przed zakładaniem Kont przez maszyny lub programy, osoba
+zakładająca Konto Użytkownika
+będzie zobowiązana do zaznaczenia pola „nie
+jestem robotem”.
+9.       Po
+wykonaniu ww. czynności w celu założenia Konta Użytkownika należy kliknąć
+przycisk „Utwórz Konto”. Na podany w formularzu
+rejestracyjnym adres mailowy
+zostanie wysłana wiadomość mailowa z linkiem aktywacyjnym Konto Użytkownika.
+Należy kliknąć ten link
+lub skopiować go do przeglądarki i otworzyć. Po
+wykonaniu tych czynności Konto Użytkownika jest aktywne a osoba zakładająca
+Konto
+staje się Użytkownikiem w rozumieniu Regulaminu.
+10.   Jeżeli osoba nie
+spełnia warunków korzystania z ALBICLA lub nie
+akceptuje treści Regulaminu czy też Polityki Prywatności, to w takim
+wypadku nie
+powinna zakładać Konta Użytkownika na ALBICLA a założone Konto Użytkownika usunąć.
+11.     Wykorzystane na
+potrzeby zakładania Konta Użytkownika Hasło musi zawierać od 8 do 32 znaków.
+Zalecamy tworzenie tzw. haseł
+trudnych zawierających duże i małe litery, cyfry,
+znaki. W żadnym wypadku nie należy udostępniać Hasła osobom trzecim.
+12.   Adres mailowy Użytkownika
+będzie służył do komunikacji Usługodawcy z Użytkownikiem dotyczącej korzystania
+z ALBICLA.
+Wykorzystanie adresu mailowego Użytkownika do innych celów wymaga
+wyraźnej zgody Użytkownika wyrażonej poprzez zaznaczenie
+odpowiednich
+checkboxów podczas Rejestracji lub dokonanych w ramach edycji Konta
+Użytkownika. Zasady przetwarzania danych
+osobowych Użytkownika są ujęte w
+rozdziale XI Regulaminu i szerzej w Polityce Prywatności.
+III.           
+Funkcje ALBICLA
+1.            
+ Każdorazowo w celu korzystania z ALBICLA należy się Zalogować
+ podając adres e-mail i Hasło wpisane podczas dokonywania
+Rejestracji.
+2.       Zarejestrowany
+Użytkownik ma możliwość wykorzystywania możliwości ALBICLA i przede wszystkim
+może:
+a.      
+Tworzyć swój Profil i go edytować
+b.      
+Obserwować inne Profile
+c.      
+Dodawać Profile do Znajomych
+d.      
+Tworzyć Posty
+e.      
+Komentować Posty
+f.       
+Udostępniać Posty
+g.      
+Polubić Posty
+h.      
+Tworzyć wydarzenia/sondy/ankiety
+i.        
+Publikować zdjęcia i filmy
+3.             Usługodawca
+ będzie wprowadzał kolejne funkcje w ALBICLA mające na celu: usprawnienie
+ korzystania z ALBICLA, ułatwienie
+wchodzenia w interakcje z innymi
+Użytkownikami, czy też zwiększające zadowolenie Użytkowników z korzystania z
+ALBICLA.
+4.             W
+ramach swojego Konta Użytkownik ma możliwość edytowania swojego Profilu.
+Istnieje możliwość dodania do własnego Profilu
+miasta zamieszkania lub siedziby
+i dodania krótkiego opisu- „BIO”.
+5.       Użytkownik
+samemu decyduje komu udostępnia Posty, wybierając jedną z opcji przy Poście:
+„publiczny/znajomi/ja”.
+6.             Użytkownik
+ma możliwość budowania listy osób obserwujących i znajomych według własnego
+uznania. Dlatego też, w przypadku
+braku chęci kontaktu z danym Użytkownikiem
+można skorzystać z opcji „Wycisz”.
+7.       W
+przypadku gdy Użytkownik zauważy treści niezgodne z Regulaminem w szczególności
+naruszające zasady korzystania z ALBICLA
+wskazane w rozdziale IV Regulaminu powinien
+zgłosić naruszenie Usługodawcy korzystając z opcji „Zgłoś naruszenie” dostępnej
+na
+ALBICLA.
+8.       Użytkownik
+powinien zapoznać się z funkcjonalnością ALBICLA i mieć świadomość, że korzysta
+z ALBICLA na własną
+odpowiedzialność.
+9.             Z
+uwagi na fakt, że ALBICLA jest serwisem bezpłatnym, koszty utrzymania ALBICLA
+będą pochodziły z wyświetlanych reklam lub
+artykułów sponsorowanych. Usługodawca
+ dołoży wszelkich starań by wyświetlane reklamy nie zmniejszały komfortu
+ korzystania z
+ALBICLA a artykuły sponsorowane były merytoryczne.
+IV.           
+Zasady korzystania z ALBICLA
+1.      
+ALBICLA jest serwisem społecznościowym dla każdego, niezależnie od
+wyznawanych poglądów. ALBICLA nie stosuje cenzury treści.
+Wolność wypowiedzi
+jest nadrzędną wartością przyświecającą ALBICLA.  Jeżeli Użytkownik nie narusza
+zasad ALBICLA to jego Konto
+Użytkownika nie zostanie zablokowane a udostępnione
+treści nie zostaną zablokowane.
+2.       Każdy
+Użytkownik może posiadać tylko jedno Konto. W przypadku założenia kilku Kont z
+wykorzystaniem tych samych danych
+Usługodawca ma prawo do zablokowania Kont i
+wezwania Użytkownika do złożenia wyjaśnień.
+3.            
+Użytkownik jest zobowiązany do posługiwania się własnymi,
+prawdziwymi danymi. Użytkownik powinien aktualizować swoje dane
+korzystając z
+opcji Edycji Profilu.
+4.       Usługodawca
+potwierdza, że właścicielem całej treści wprowadzonej za pomocą Konta Użytkownika
+jest sam Użytkownik.
+5.       Użytkownik
+zobowiązany jest korzystać z ALBICLA tylko w sposób zgodny z przeznaczeniem
+serwisu. Użytkownik nie ma prawa
+podejmować działań mających lub mogących
+zakłócać pracę ALBICLA. Użytkownik nie może sam ani przy udziale osób trzecich
+zmieniać, obchodzić czy też łamać zabezpieczeń ALBICLA, jak również nie może
+wywierać negatywnego wpływu na ALBICLA
+powodując jego uszkodzenie lub
+doprowadzając do jego przeciążenia.
+6.       Użytkownik
+nie ma prawa do kopiowania, modyfikowania i rozpowszechniania całości czy też
+części ALBICLA w sposób wykraczający
+poza przyznaną Użytkownikowi Licencję.
+7.       Użytkownik
+jest zobowiązany do niezwłocznego poinformowania ALBICLA jeżeli inny Użytkownik
+lub osoba trzecia będą dochodzić
+wobec niego roszczeń w związku z naruszeniem
+prawa przez Użytkownika przy wykorzystaniu w jakimkolwiek zakresie ALBICLA.
+8.       Użytkownik
+nie może wykorzystywać danych osobowych innych Użytkowników czy osób trzecich
+do których uzyskał dostęp poprzez
+ALBICLA do innych celów niż związane z
+działalnością w ramach ALBICLA.
+9.       Użytkownik
+w swoim własnym zakresie i na własny koszt zapewnia sobie sprzęt,
+oprogramowanie i dostęp do Internetu w celu
+korzystania z ALBICLA. W przypadku
+problemów technicznych Użytkownik może uzyskać pomoc od Usługodawcy w zakresie
+uruchomienia i korzystania z ALBICLA.
+10.  
+Użytkownik może wystąpić do ALBICLA o nadanie dla Konta tytułu
+„Profil oficjalny”. Stworzenie „Profilu oficjalnego” jest możliwe po
+przesłaniu
+na e-mail kontakt@albicla.com prośby, wraz z opisaniem uzasadnienia tej prośby.
+Wnioski pozostają do uznania ALBICLA,
+która może podjąć próbę weryfikacji.
+
+V.           
+Odpowiedzialność Użytkowników
+1.      
+Użytkownik zobowiązany jest do przestrzegania wszystkich postanowień
+Regulaminu.
+2.            
+ Użytkownik ponosi pełną odpowiedzialność odszkodowawczą za wszelkie
+ szkody poniesione przez Usługodawcę, innych
+Użytkowników lub osoby trzecie w
+związku z działaniem lub zaniechaniem Użytkownika przy korzystaniu z ALBICLA.
+3.            
+ Użytkownik zobowiązuje się do korzystania z ALBICLA w sposób
+ nienaruszający praw osób trzecich (dóbr osobistych, praw
+autorskich), dobrych
+ obyczajów ani powszechnie obowiązujących przepisów prawa. Użytkownik ponosi
+ pełną i wyłączną
+odpowiedzialność za swoje działania w ramach Konta Użytkownika.
+4.            
+ Użytkownik zobowiązuje się do nieumieszczania w ALBICLA treści
+ wulgarnych, obrażających inne osoby, dyskryminujących z
+jakiegokolwiek powodu,
+ godzących w dobre imię innych osób, w tym godzące w Usługodawcę, Użytkowników lub
+ osoby trzecie.
+Powyższe dotyczy także komunikowania się z Usługodawcą,
+ Użytkownikami i osobami trzecimi. Użytkownik ponosi pełną
+odpowiedzialność za
+naruszenia w tym zakresie.
+5.            
+ Wszelkie powinności wynikające z przepisów prawa dotyczące
+ publikacji treści, obowiązków i praw autorskich leżą po stronie
+Użytkownika.
+6.       Pełna
+odpowiedzialność za tworzone i udostępniane treści spoczywa na Użytkowniku.
+7.       Użytkownik
+odpowiada za zabezpieczenie swoich danych dostępowych do Konta Użytkownika. W
+przypadku podejrzenia, że dane
+dostępowe posiada osoba nieupoważniona Użytkownik
+powinien niezwłocznie powiadomić o tym fakcie Usługodawcę.
+8.       Użytkownik
+zobowiązany jest korzystać z ALBICLA tylko w sposób zgodny z jego
+przeznaczeniem. Użytkownik nie ma prawa
+podejmować działań mających lub
+mogących zakłócać pracę ALBICLA. Użytkownik nie może sam ani przy udziale osób
+trzecich
+zmieniać, obchodzić czy też łamać zabezpieczeń ALBICLA, jak również
+nie może wywierać negatywnego wpływu na ALBICLA
+powodując jego uszkodzenie lub
+doprowadzając do jego przeciążenia.
+VI.           
+Zablokowanie Konta/Usunięcie treści
+1.      
+W przypadku otrzymania zgłoszenia o
+naruszeniu Regulaminu przez Użytkownika lub powzięcia tej informacji
+samodzielnie przez
+Usługodawcę, Usługodawca ma prawo zablokować Użytkownikowi
+dostęp do ALBICLA.
+2.      
+Przed podjęciem działania w sprawie
+blokady Konta Usługodawca może zwrócić się do Użytkownika o przekazanie
+wyjaśnień.
+3.            
+Użytkownik, wobec którego doszło do zablokowania Konta może złożyć Reklamację
+na zasadach przewidzianych w rozdziale VIII
+Regulaminu.
+VII.           
+Odpowiedzialność ALBICLA
+1.       Usługodawca
+ma prawo do dokonywania zmian w oprogramowaniu, wprowadzania dodatkowych usług,
+usuwaniu usług, zmian w
+wyglądzie ALBICLA a także w każdym elemencie systemu ALBICLA.
+W żadnym wypadku Usługodawca nie ponosi odpowiedzialności
+względem Użytkownika
+za szkody wynikłe z wprowadzonych zmian.
+2.       Usługodawca
+informuje, że zastrzega sobie prawo do czasowej dezaktywacji ALBICLA w celu
+dokonania konserwacji, modyfikacji lub
+ulepszania ALBICLA. W każdym takim
+wypadku Usługodawca dołoży starań by wykonać te czynności w sposób możliwie
+najmniej
+dokuczliwy dla Użytkowników.
+3.       Czasowy
+brak dostępu do ALBICLA lub utrudnienie korzystania z usługi nie może być
+podstawą do odszkodowania względem
+Usługodawcy.
+4.       ALBICLA
+dostępne jest dla Użytkowników przez całą dobę. Usługodawca zastrzega sobie
+prawo do krótkich przerw wynikających z
+okresowej konserwacji systemu lub
+spowodowanych zdarzeniami losowymi.
+5.       Usługodawca
+nie ponosi żadnej odpowiedzialności za treść prezentowaną przez Użytkownika
+poprzez ALBICLA jak i za działania
+Użytkownika związane z korzystaniem z ALBICLA.
+9.      
+Usługodawca nie ponosi odpowiedzialności za szkody wynikające z:
+a)      
+przerw w dostawie Usług lub niedostępności ALBICLA niezależnych od
+Usługodawcy lub będących następstwem zdarzeń, których
+Usługodawca nie mógł
+przewidzieć,
+b)          
+ niepoprawnego funkcjonowania ALBICLA niebędącego winą umyślną
+ Usługodawcy, na przykład problemów technologicznych,
+wadliwego funkcjonowania ALBICLA
+lub braku funkcjonalności;
+c)      
+dostępu do Konta Użytkownika przez osoby nieupoważnione
+d)     
+nieznajomości lub nieprzestrzegania przez Użytkownika Regulaminu,
+e)     
+niebezpieczeństw związanych z użytkowaniem sieci: ataków hakerskich,
+zainfekowania systemu przez wirusy.
+f)       
+naruszenia praw osób trzecich dokonane przez Użytkowników,
+g)      
+działania osób trzecich za które odpowiedzialności nie ponosi
+Usługodawca,
+h)     
+braku autentyczności, rzetelności, poprawności, kompletności danych i
+informacji zamieszczonych w ALBICLA przez Użytkowników
+oraz przekazywanych
+informacji między Użytkownikami,
+i)       
+problemów technicznych związanych z działaniem sprzętu, oprogramowania,
+dostępu Internetu Użytkownika,
+j)       
+zablokowania Konta Użytkownika w przypadku naruszenia Regulaminu.
+6.       Usługodawca
+zobowiązuje się do naprawy wszelkich usterek uniemożliwiających lub
+utrudniających dostęp do ALBICLA. W każdym
+takim przypadku Usługodawca jest
+uprawniony do udostępnienia części sytemu ALBICLA osobom trzecim.
+7.       Usługodawca
+ma prawo do dokonywania zmian w oprogramowaniu, wprowadzania dodatkowych Usług,
+usuwaniu Usług, zmian w
+wyglądzie poszczególnych części systemu ALBICLA.
+8.       Użytkownikowi
+nie przysługują żadne roszczenia związane z utraconymi danymi w związku z
+korzystaniem z ALBICLA.
+III.           
+Reklamacje i rozstrzyganie sporów
+1.      
+Reklamacje związane z funkcjonowaniem ALBICLA należy składać drogą
+elektroniczną bądź listownie na adres Usługodawcy.
+2.      
+W celu ułatwienia i przyśpieszenia rozpatrywania reklamacji zaleca
+się podanie w treści reklamacji takich informacji jak adres e-mail,
+rodzaj i
+datę wystąpienia nieprawidłowości oraz danych kontaktowych.
+3.      
+Rozpatrzenie reklamacji związanej z funkcjonowaniem ALBICLA
+następuje niezwłocznie, nie później niż w terminie 30 dni roboczych.
+4.      
+Odpowiedź w sprawie reklamacji jest wysyłana na adres e-mail Użytkownika
+podany w ALBICLA.
+5.            
+ Użytkownik będący Konsumentem w przypadku sporu z Usługodawcą lub
+ innym Użytkownikiem będącym przedsiębiorcą w
+rozumieniu art. 43[1] kodeksu
+ cywilnego z dnia 23 kwietnia 1964 r. (Dz.U. Nr 16, poz. 93 ze zm.) ma możliwość
+ skorzystania z
+pozasądowych sposobów rozpatrywania reklamacji i dochodzenia
+roszczeń. Konsument może m.in.:
+a.            
+ zwrócić się do stałego polubownego sądu konsumenckiego działającego przy
+ Inspekcji Handlowej z wnioskiem o
+rozstrzygnięcie sporu.
+b.      
+zwrócić się do wojewódzkiego inspektora Inspekcji Handlowej z wnioskiem
+o wszczęcie postępowania mediacyjnego w sprawie
+polubownego zakończenia sporu.
+c.            
+ uzyskać bezpłatną pomoc w sprawie rozstrzygnięcia sporu korzystając z
+ bezpłatnej pomocy powiatowego (miejskiego)
+rzecznika konsumentów lub
+organizacji społecznej, do której zadań statutowych należy ochrona konsumentów
+(m.in. Federacja
+Konsumentów, Stowarzyszenie Konsumentów Polskich).
+d.            
+ złożyć skargę poprzez formularz dostępny pod adresem internetowym
+ https://webgate.ec.europa.eu/odr/main/index.cfm?
+event=main.home.show&lng=PL.
+ Jest to unijna platforma internetowego systemu rozstrzygania sporów pomiędzy
+konsumentami i przedsiębiorcami. Platforma ta działa we wszystkich językach
+ Unii Europejskiej i mogą Państwo z niej
+skorzystać po wykorzystaniu procedury
+reklamacyjnej z Administratorem lub Użytkownikiem będącym przedsiębiorcą.
+6.      
+Ewentualne spory powstałe pomiędzy Usługodawcą a Użytkownikiem
+niebędącym jednocześnie konsumentem w rozumieniu art. 22[1]
+kodeksu cywilnego z
+ dnia 23 kwietnia 1964 r. (Dz.U. Nr 16, poz. 93 ze zm.), zostają poddane sądowi
+ właściwemu ze względu na
+siedzibę Usługodawcy.
+7.       Ewentualne
+spory powstałe pomiędzy Usługodawcą a Użytkownikiem będącym jednocześnie
+konsumentem w rozumieniu art. 22[1]
+kodeksu cywilnego z dnia 23 kwietnia 1964
+r. (Dz.U. Nr 16, poz. 93 ze zm.), zostają poddane sądowi zgodnie z z przepisami
+kodeksu
+postępowania cywilnego z dnia 17 listopada 1964 r. (Dz.U. Nr 43, poz.
+296 ze zm.
+IX.           
+Prawa użytkownika
+1.            
+ Umowa między Administratorem a Użytkownikiem zawierana jest na czas
+ nieokreślony. W każdym momencie Użytkownik może
+odstąpić od Umowy czy to
+poprzez poinformowanie o tym fakcie Usługodawcę czy też poprzez usunięcie treści
+lub usunięcie Konta.
+2.       Jak
+już było wcześniej wskazane Użytkownik może zrezygnować z korzystania z ALBICLA
+w dowolnym momencie, przy czym dostęp
+do ALBICLA będzie zachowany do czasu
+stałej dezaktywacji Konta.
+3.       Prawa
+Użytkownika związane z przetwarzaniem jego danych osobowych zostały opisane w
+Rozdziale XI Regulaminu i Polityce
+Prywatności.     
+
+X.           
+Prawa autorskie
+1.       Cała
+zawartość umieszczona przez Usługodawcę do ALBICLA taka jak tekst, grafika,
+loga, ikony przycisków, obrazy, kod,
+oprogramowanie, inne rozwiązania
+techniczne, bazy danych są własnością Usługodawcy i są chronione prawem
+autorskim.
+2.       Usługodawca
+udziela Użytkownikom niewyłączną, niezbywalną, nieprzenoszalną, ograniczoną do
+terytorium Rzeczpospolitej Polskiej,
+z uwzględnieniem eksterytorialnego
+charakteru sieci Internet, Licencję na korzystanie z ALBICLA. Licencja
+przysługuje jedynie na czas
+korzystania z ALBICLA i uprawnia Użytkowników
+wyłącznie do tymczasowego zwielokrotnienia ALBICLA poprzez jego wyświetlanie w
+przeglądarce internetowej w celu korzystania zgodnie z jego przeznaczeniem i
+funkcjonalnością. Użytkownikom nie przysługują
+jakiekolwiek inne prawa, w tym
+prawa własności intelektualnej, ponad wyraźnie wskazane w Regulaminie.
+Użytkownikom nie przysługuje
+uprawnienie do jakiegokolwiek wykorzystania kodów
+źródłowych ALBICLA.  Niewywiązanie się z powyższego zobowiązania skutkować
+może
+pociągnięciem do odpowiedzialności Użytkownika za dokonane naruszenie
+autorskich praw majątkowych Usługodawcy.
+XI.           
+Dane osobowe
+1.      
+Administratorem danych osobowych Użytkowników jest Usługodawca.
+2.            
+ Wprowadzenie danych w formularzu elektronicznym jak i w Koncie Użytkownika
+ jest równoznaczne z wyrażeniem zgody na
+przetwarzanie danych osobowych Użytkownika
+przez Usługodawcę.
+3.      
+Usługodawca przetwarza jedynie te dane Użytkowników, które są
+niezbędne do prawidłowego wykonania Usług w ramach ALBICLA.
+4.            
+Przetwarzane dane są chronione przez Usługodawcę zgodnie z
+przepisami prawa i nie będą przekazywane, odsprzedawane ani
+użyczane innym
+osobom lub instytucjom, które nie będą do tego uprawnione.
+5.            
+Użytkownik ma możliwość dostępu do dotyczących go danych osobowych w
+celu ich weryfikacji, modyfikacji, wystąpienia o ich
+usunięcie z bazy danych
+osobowych lub ich przeniesienia zawiadamiając o tym Usługodawcę.
+6.            
+ W przypadku uznania przez Użytkownika ze dane osobowe są nieprawidłowo
+ przetwarzane przez Usługodawcę Użytkownikowi
+przysługuje skarga do organu
+nadzorczego.
+7.            
+ Usługodawca będzie przetwarzał dane Użytkowników jedynie przez okres
+ trwania Umowy i czas do wygaśnięcia ewentualnych
+roszczeń wynikających z Umowy.
+8.      
+Więcej informacji dotyczących zasad przetwarzania danych osobowych
+znajduje się w naszej Polityce Prywatności.
+XII.           
+Postanowienia końcowe
+1.      
+Regulamin jest dostępny nieprzerwanie na stronie internetowej ALBICLA
+w sposób umożliwiający Użytkownikowi jego odtwarzanie i
+utrwalanie jego treści w
+każdej chwili.
+2.      
+Jeśli Regulamin zawiera załączniki to stanowią one integralną część
+Regulaminu.
+3.      
+Zaakceptowany przez Użytkownika Regulamin i Polityka Prywatności
+stanowią umowę zawartą między Użytkownikiem a Usługodawcą.
+4.      
+W sprawach nieuregulowanych w niniejszym Regulaminie mają
+zastosowanie przepisy powszechnie obowiązującego prawa.
+5.            
+ Usługodawca zastrzega sobie prawo do dokonywania zmian Regulaminu i
+ jego Załączników, o czym Użytkownik zostanie
+powiadomiony czy to poprzez
+wiadomość mailową wysłaną na adres mailowy podany przy Rejestracji czy też w
+formie wyświetlenia
+informacji o zmianie Regulaminu lub jego załączników w
+serwisie ALBICLA.
+6.            
+ Zmieniony regulamin wiąże Użytkownika, jeżeli zostały zachowane
+ wymagania: Użytkownik został prawidłowo powiadomiony o
+zmianach i nie
+wypowiedział/rozwiązał umowy.
+7.      
+Zmiany regulaminu nie będą w żaden sposób naruszać praw nabytych
+przez Użytkowników korzystających z ALBICLA przed dniem
+wejścia w życie zmian.
+8.      
+W przypadku wątpliwości interpretacyjnych związanych z
+postanowieniami Regulaminu decyduje prawo polskie.
+© Albicla.com
+Słowo Niezależne Sp. z o.o. I
+Instrukcja I
+Kontakt I
+Polityka Prywatności I
+Regulamin I
+Reklama
+KORZYSTANIE Z SERWISU OZNACZA AKCEPTACJĘ REGULAMINU I POLITYKI PRYWATNOŚCI.

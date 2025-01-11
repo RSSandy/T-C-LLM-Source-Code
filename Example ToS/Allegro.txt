@@ -1,0 +1,1407 @@
+Terms & Conditions
+ 
+-
+‎
+Allegro Terms & Conditions
+Want to know what is changing?
+Information about all changes to the Terms & Conditions can be found in this detailed tab in Allegro
+News.
+Table of contents
+I. GENERAL PROVISIONS
+Section 1. DEFINITIONS
+Section 2. TERMS & CONDITIONS OF PARTICIPATION IN ALLEGRO
+Section 2a. ALLEGRO BIZNES
+Section 2b. THE FAMILY GROUP FUNCTIONALITY
+II. TRANSACTIONS
+Section 3. OFFERS
+Section 4. FORBIDDEN ITEMS
+Section 5. COMMENCING A TRANSACTION
+Section 6. COURSE OF TRANSACTION
+Section 7. AGREEMENT CONCLUDED AS PART OF THE OFFER
+Section 8. ROLE OF ALLEGRO
+Section 9. FEES AND SALES COMMISSIONS
+Section 10. OTHER OBLIGATIONS OF USERS
+Section 11. RATING SYSTEM
+III. FINAL PROVISIONS
+Section 12. OTHER SERVICES
+Section 13. PRIVACY AND CONFIDENTIALITY
+Section 14. AMENDMENTS TO THE ALLEGRO TERMS & CONDITIONS
+ZMIEŃ JĘZYK
+Allegro
+Allegro Terms & Conditions
+Section 15. TERMINATION OF THE AGREEMENT WITH ALLEGRO.PL
+Section 16. CONTACT DETAILS AND COMPLAINTS PROCEDURE
+Section 17. GOVERNING LAW AND DISPUTES
+Section 18. APPENDICES
+Section 19. VALIDITY
+Section 20. LANGUAGE VERSIONS OF THE ALLEGRO TERMS & CONDITIONS
+Section 21. INTERNAL COMPLAINT-HANDLING SYSTEM
+Section 22. EXPLOSIVES PRECURSORS
+I. GENERAL PROVISIONS
+Section 1. DEFINITIONS
+The following terms used in this document shall read as follows:
+ALLEGRO.PL
+Allegro.pl sp. z o.o. with its registered office in Poznań at ul. Grunwaldzka 182, 60-166 Poznań, entered
+into the Register of Entrepreneurs kept by the District Court for Poznań – Nowe Miasto and Wilda in
+Poznań, 8th Commercial Division of the National Court Register under KRS number 0000635012, share
+capital: PLN 33.016.950, Tax Identification Number (NIP): 525-26-74-798, company statistical number
+(REGON): 365331553, which has a status of large entrprise under the act of 8th March 2013 on preventing
+excessive payment delays in business transactions (consolidated text Dz. U. of 2019, item 118 as
+amended).
+TERMS & CONDITIONS
+this document
+ALLEGRO
+an online marketplace of an open character available in the allegro.pl domain and operated by Allegro.pl
+pursuant to the Terms & Conditions
+ALLEGRO BIZNES
+A mode of use of Allegro, available to Business Account holders, containing features dedicated only to
+entities using Allegro in connection with the business activity they pursue
+REGISTRATION
+The procedure of setting up an Account
+ACCOUNT
+a collection of resources managed by Allegro.pl for the User under a unique name (login), where the
+User’s data and information concerning the User’s activity on Allegro are collected
+BUSINESS ACCOUNT
+An account for Users who use Allegro in connection with the business activity they pursue, registered and
+maintained under the rules provided for in the Terms & Conditions
+USER
+an entity who received access to services provided on Allegro by Allegro.pl pursuant to the Terms &
+Conditions
+ALLEGRO BIZNES USER
+A User who is a Business Account holder
+SELLER
+a User who takes actions to sell or who sells Goods as part of an Offer
+BUYER
+a User who takes actions to purchase or who purchases Goods on Allegro
+BIDDER
+a Buyer who has placed a bid for Goods as part of the Auction process
+ITEM
+goods, services or rights which are the subject of an Offer
+OFFER
+a proposal to conclude a contract of sale for Goods under the terms provided for by the Seller, including,
+in particular, the price and a description of the offered Goods, using the functionalities available on
+Allegro
+AUCTION
+a type of an Offer initiated by the Seller as part of which the Bidder declares the price for which they are
+ready to purchase the Goods
+TRANSACTIONS
+procedures for entering into and performing contracts of sale for Goods between Users on Allegro
+DISCUSSION
+a dispute between the Seller and the Buyer regarding the correct implementation of a Transaction, taking
+place using post-purchase support tools provided by Allegro
+THE FAMILY GROUP FUNCTIONALITY
+A functionality of Allegro available to Users with Regular Accounts and Junior Accounts who are family
+members related by blood or marriage, which enables them to create Family Groups and add Accounts
+(Users) to a Family Group, within which the Family Group Manager and Family Group Members can use
+the options available.
+FAMILY GROUP MEMBER
+A User who is a member (participant) of a Family Group
+FAMILY GROUP
+A group of Accounts set up by a Family Group Manager using the Family Group Functionality
+FAMILY GROUP MANAGER
+The User who has set up a Family Group using the Family Group Functionality
+Section 2. TERMS & CONDITIONS OF PARTICIPATION IN ALLEGRO
+2.1.
+The allowed Users may be natural persons of at least 18 years of age having full capacity to perform acts
+in law, legal persons, and organizational units not having a legal personality but being able to acquire
+rights and assume obligations on their own behalf. The allowed Users may be persons of at least 13 years
+of age who are still not 18 years old in the scope in which they can acquire rights and assume obligations
+pursuant to the generally applicable provisions of law and subject to the principles applicable to them
+(Junior Account) being Appendix No. 6 hereto. Where national laws provide for reaching the age of
+majority or obtaining a limited capacity to perform legal transactions at a different age, those national
+laws shall be applied to the relevant extent.
+2.2.
+Natural persons who do not pursue any business activity on Allegro shall Register by completing an
+appropriate form, where:
+a. Full Registration, subject to paragraph 2.6. below, enables using all services provided by Allegro.pl and
+Allegro functionalities, including the purchase and sale of Goods (Regular Account);
+b. Simplified Registration enables using only some of the services provided by Allegro.pl and Allegro
+functionalities, excluding, among others sale of Goods.
+2.3.
+Natural persons who pursue any business activity, legal persons, or organizational units referred to in
+paragraph 2.1 shall Register using the appropriate registration form by providing the data specified
+therein. Subsequently, such entities shall send to Allegro.pl a copy of the documents confirming the said
+data concerning their business activity. The obligation to send copies of such documents shall not apply
+to Users with the registered office in Poland who activated their accounts as part of Registration by
+making a quick online payment, a wire transfer, or any other e-transfer from an account of the entity
+completing the Registration. On behalf of the entities listed in the first sentence of this paragraph, the
+aforementioned acts may be performed by a person with the appropriate authorization.
+Allegro.pl reserves the right to demand: additional statements and documents confirming conducting
+business activity by merchants who have their head office, registered business activity, or actual place of
+conducting business activity outside of Poland. In the case when the documents referred to in the
+preceding sentence are drawn up in a foreign language other than Polish — also translations into English.
+Information about the range of additional documents, which merchants described in the previous
+sentence will be obligated to send, will be included in an email message sent by Allegro after the User fills
+out the registration form.
+2.4.
+An Account registered in the manner referred to in paragraph 2.3 above, following the positive
+verification of the data provided by the User, shall be highlighted using an icon visible to all Allegro
+visitors (Business Account). The sales of Goods via the Business Account should be connected only with
+the business activity conducted by the User on Allegro. At the same time, sales not related to the User’s
+business activity referred to in the previous sentence should be made via the Regular Account.
+2.5.
+In the process of completing the registration form, the entity being registered provides the required data
+and upon completing the registration form, depending on the Registration method and type of data
+provided:
+a. a message shall be sent to the email address provided in the registration form, indicating a manner in
+which the Registration should be confirmed and other information as required by law.
+b. a message shall be sent to the contact number provided in the registration form containing an
+activation code necessary to confirm the Registration and other information as required by law.
+The entity being registered may confirm the Registration using the available Registration confirmation
+mechanisms. Upon the confirmation of the Registration, the registered entity and Allegro.pl enter into an
+agreement concerning the provision of services by Allegro.pl on Allegro on conditions set forth in the
+Allegro Terms & Conditions.
+2.6.
+In order to access all the services provided on Allegro.pl and Allegro functionalities, the User must
+perform full Registration (complete Registration), i.e. besides the obligation to send copies of documents,
+statements, or translations – referred to in paragraph 2.3 above (if it applies), activate the Account, which
+can be done by:
+a. selecting one of the methods made available by Allegro and available for a specific User:
+i) Quick online payment — when the User has an account in one of the banks offering the so-called “quick
+payments” on Allegro and pays the predetermined amount of PLN 1.01. The full amount of the payment
+shall be returned to the User to the bank account from which the payment was made;
+ii) Payment for the purchased item made using the payment service specified in Appendix No. 7A and
+Appendix No. 7B to the Allegro Terms & Conditions — when the payment for the purchased Goods will be
+made in the form of an electronic transfer from an account maintained in one of the banks offering the
+so-called “quick payments” on Allegro;
+iii) Making a electronic transfer — when the User has an account in a bank that does not cooperate with
+the provider of the payment service specified in Appendix No. 7A and Appendix No. 7B to the Allegro
+Terms & Conditions or does not offer the so-called “quick payments”, and pays PLN 1.01 to a bank
+account specified by Allegro.pl. The full amount of the payment shall be returned to the User to the bank
+account from which the payment was made; or
+iv) Attaching specific documents which make it possible to conduct a verification process (if applicable
+and the other options are not available); or
+b. completing the required data (if it applies).
+The User executing a payment transaction confirms that by accepting the Terms & Conditions, they
+authorize the payment services operator participating in the processing of such transaction to transfer
+the payer’s data to Allegro.pl.
+2.7.
+During both Registration and later use of Allegro, the User is obliged to give needed and actual data and
+information and also submit, if requested, a truthful statement. The User of a Regular Account and of a
+Business Account with an enabled Subscription service may add to their Account a photo or a graphic
+element that may present their image (a profile picture). When the User logs in to Allegro or registers via
+external authentication services (e.g. those offered as part of other websites, including social media, the
+User’s (including personal data) and profile picture (if it was made available to that external service’s or
+website’s host) will be disclosed to or shared with Allegro.pl and used in accordance with Allegro Terms &
+Conditions.
+When the profile picture is uploaded, it will be assigned to the Account indicated by the User and
+registered to the User’s name. When the User logs in to Allegro or registers via external authentication
+services (e.g. those offered as part of other websites), the profile picture disclosed to or shared with
+Allegro.pl by that external service’s or website’s host will be assigned to the User’s Account according to
+the email address provided by the User to that service’s or website’s host. The User’s profile picture will
+be visible to other Allegro Users and it will be displayed next to the User’s selected activities on Allegro.
+The profile picture in the aforementioned cases will be assigned to the User’s Account, provided that it
+meets the following technical requirements: minimum size: 64 x 64 px, file format: .jpg, .png and
+contents: no illegal or offensive, in particular, vulgar, obscene, erotic or pornographic content or content
+inciting hatred or racist or xenophobic behavior is permitted. It is prohibited to publish as part of a profile
+picture promotional or advertising content, announcements, any content related to the User’s activity
+outside Allegro, and any contact data.
+The User should update data in the settings after logging in to the Account. It is forbidden for User to
+delete data included in the User Account settings after making the registration, with the proviso that the
+User may delete the profile picture assigned to their Account at any time. To delete the contact number,
+the User needs to contact Allegro.pl using the available channels of communication referred to in the
+Allegro Terms & Conditions.
+2.8.
+The User shall gain access to the Account on Allegro (logging in) after entering their:
+login or email address or contact number,
+password or an SMS code (when logging in using the contact number) and, in the case of selecting
+the two-step login, a password and an SMS code
+Logging in to Allegro via an automated solutions service, logging in with the use of the biometric data
+on
+a mobile device upon first enabling this function (biometric data are located on the device and are
+not
+made available to Allegro), and external authentication services (e.g. those offered as part of other
+websites cooperating with Allegro.pl, including social media), shall have the same effects as logging in
+directly on the Allegro website.
+The use of automated solutions, in particular, automatic login software, shall be at the risk of the User
+using such software.
+2.9.
+The User may register more than one Account provided that a different email address is assigned to each
+of them. User with an active Subscription service may, as part of logging into Allegro, switch between any
+number of Accounts without the need to log into a given User’s Account each time separately. In addition,
+they can authorize any person to use selected functions related to the processing of Transactions and
+Offers after logging into the Account. Users shall be fully responsible for any actions and omissions
+related to the mentioned functions performed by the authorized person.
+The User may not use Accounts to perform acts that violate the Terms & Conditions. It is prohibited in
+particular:
+a. to participate in an Auction using more than one Account;
+b. to bid or enter into a Goods sale agreement in the case of one’s own Offers or Offers of close relatives
+or persons living with the User in the same household or other entities with which the Buyer is in
+relations resulting in well-grounded doubts that the parties act in agreement with the aim to affect the
+result of a given Transaction in violation of law or good practice;
+c. to complete another Registration in order to avoid the payment of amounts due to Allegro.pl for the
+services provided on Allegro.
+2.10.
+The User may not use other Users’ Accounts or make their own Account available to other persons,
+except for the following cases:
+a. making the Business Account available to persons duly authorized by the User to act on their behalf;
+b. making the Regular Account available to the User’s spouse by providing the spouse’s data in an
+appropriate form. Spouses using the Account shall be jointly and severally liable for the acts performed in
+this Account.
+2.11.
+The Accounts shall be non-transferable save that, with the consent of Allegro.pl:
+a. a Business Account may be transferred in the case of the transfer by the User to another entrepreneur
+of the rights and obligations related to the running of an enterprise or its part, in the form prescribed by
+law;
+b. a Regular Account may be transferred by the User to their spouse;
+c. a Regular Account User may change the Account type to a Business Account for the sole purpose of
+making purchases under Allegro Biznes after completing the relevant form available at
+https://allegro.pl/biznes/konwersja-konta. The condition for the Account change referred to in the
+preceding sentence is that the User has not sold Goods on Allegro in the two years preceding the date of
+completing the form.
+2.12.
+If the User’s Account or activities on Allegro require additional verification of the data referred to in
+paragraphs 2.1. or 2.3., or if Allegro.pl has reasonable concerns about the security of the Account or of a
+given Transaction, concerning, in particular, unauthorized taking over and using of the Account by a
+different person, or in case of a violation of the Allegro Terms and Conditions by the User, Allegro.pl may:
+a. make using Allegro or particular services provided within Allegro conditional upon the User’s
+confirmation of their credibility, including identity, on the basis of appropriate documents;
+b. restrict the access to particular services on Allegro for a certain period;
+c. block the User’s Account for a definite or indefinite period.
+d. use mechanisms or tools blocking bot operations or other IT or programming tools referred to in
+paragraph 10.11.
+When the aforementioned circumstances have ceased, Allegro.pl shall lift the said restrictions imposed
+on the User.
+2.13.
+Within 14 days from entering into the agreement referred to in paragraph 2.5., the User may withdraw
+from it without naming any reason. The terms and conditions applicable to agreement withdrawal,
+including the template withdrawal form available to the User, are set forth in the Notes of Guidance
+attached hereto as Appendix No. 8. The User may not withdraw from the agreement if they have listed
+Goods, have participated in an Auction, have used the Buy it Now option, or have had any amounts due
+to Allegro.pl for services provided on Allegro.
+2.14.
+The User acknowledges that, when the profile picture is assigned to their Account in the cases referred to
+in paragraph 2.7 above, the profile picture may be automatically adjusted to the size that meets the
+technical requirements specified by Allegro.pl.
+2.15.
+Allegro.pl shall employ mechanisms ensuring an adequate level of security of Transactions and other
+services provided at Allegro and used by the User.
+2.16.
+Transactions and other services can be performed only if an adequate level of security is ensured.
+Section 2a. ALLEGRO BIZNES
+2a.1
+A Business Account holder shall use Allegro only through Allegro Biznes. A User who does not hold a
+Business Account shall not use Allegro through Allegro Biznes.
+2a.2
+Allegro may make such features available as part of Allegro Biznes that are dedicated only to Allegro
+Biznes Users due to the fact that they use Allegro in connection with the business activity they pursue.
+Allegro may restrict, as part of Allegro Biznes, access of Allegro Biznes Users to such features that are
+dedicated only to Users who do not pursue a business activity or who use Allegro without a connection
+with the business activity they pursue.
+2a.3
+In addition to the payment methods listed in paragraph 5.7 below, Allegro, as part of Allegro Biznes,
+provides Allegro Biznes Users with an option to use an additional payment method, on the terms
+specified in the Terms and Conditions of Deferred Payment for Businesses.
+2a.4
+As part of Allegro Biznes, the Seller, when setting the terms of the Offer, may:
+a. set the Goods price by indicating the VAT rate for the Goods in accordance with the applicable laws,
+b. make the price per unit conditional upon the number of units purchased by the Buyer being an Allegro
+Biznes User in a single Transaction,
+c. enter discounts expressed as a percentage, the amount of which is conditional upon the total value of
+the Goods purchased by the Buyer being an Allegro Biznes User in a single Transaction.
+2a.5
+Based on the VAT rate indicated by the Seller when setting the terms of an Offer, Allegro.pl shall
+automatically display the net price of the Goods to the Buyer. Allegro.pl shall not verify whether the VAT
+rate indicated by the Seller is correct. Only the Seller shall be liable to the Buyer for any and all claims
+arising from the entering or application of a wrong VAT rate.
+2a.6
+Offers by Allegro Biznes Users may be additionally marked, due to the criterion of creation as part of
+Allegro Biznes, with a word, a graphic, and a combined word & graphic designation.
+2a.7
+The artwork, layout, search criteria, and other Allegro components as part of Allegro Biznes may differ
+from those available to Users not being Allegro Biznes Users to the extent that this is related to different
+features of Allegro Biznes and the dedication of Allegro Biznes to entities using Allegro in connection with
+the business activity they pursue.
+2a.8
+The Allegro Biznes User status of a User shall not affect the possibility to access Offers by Users not
+being Allegro Biznes Users.
+2a.9
+A User without the Allegro Biznes User status shall have access to Offers by Allegro Biznes Users with
+limitations arising from the fact of not having the Allegro Biznes User status.
+2a.10
+The provisions of other Sections of the Allegro Terms & Conditions shall apply to Allegro Biznes directly to
+the extent that this is not regulated otherwise in this Section 2a.
+Section 2b. THE FAMILY GROUP FUNCTIONALITY
+2b.1.
+A Family Group Manager shall be a User who is a natural person over 18 years of age, has a full capacity
+to act, does not carry out any economic activity on Allegro, has an active Regular Account, and has
+completed the full Registration process in any manner described in the Terms & Conditions (with the
+exception of the manner of Account activation specified in paragraph 2.6. subparagraph a. clause. ii) of
+the Terms & Conditions). Where national laws provide for reaching the age of majority at a different age,
+the Family Group Manager shall at least have reached said age.
+2b.2.
+A Family Group Member shall be either:
+a. A User who is a natural person over 18 years of age, has a full capacity to act, does not carry out any
+economic activity on Allegro, has an active Regular Account, and has completed the full Registration
+process in any manner described in the Terms & Conditions (with the exception of the manner of
+Account activation specified in paragraph 2.6. subparagraph. a. clause ii) of the Terms & Conditions); or
+b. A User who is a natural person over 13 but below 18 years of age, insofar as he or she can acquire
+rights and assume obligations pursuant to the generally applicable provisions of law and subject to the
+rules set out in Appendix 6 to the Allegro Terms & Conditions (Junior Account principles), with an active
+Junior Account.
+and at the same time is a family member related by blood or marriage to the Family Group Manager and
+other Family Group Members.
+Where national laws provide for reaching the age of majority or obtaining a limited capacity to perform
+legal transactions at a different age, those national laws shall be applied.
+2b.3.
+A Family Group is set up by the Family Group Manager using an option available within their account by
+inviting the first person being their family member (including another User) via Allegro.pl to the Family
+Group being created. The Family Group Manager shall invite other persons from their family (including
+other Users) to the Family Group by filling out an invitation form. Prior to sending the invitation, the
+Family Group Manager shall obtain the required consents from the person to be invited, including
+consent to providing to Allegro.pl the data of the person to be invited and to the receipt of the invitation
+by the person to be invited. When the data of the person invited is provided to Allegro.pl by the Family
+Group Manager, the Family Group Manager shall represent that they have the right to use such data and
+that the use thereof on Allegro and via Allegro.pl will not violate any rights of the data subject. The Family
+Group Manager shall be liable for the truthfulness of the representation referred to in the preceding
+sentence, and they shall indemnify and hold Allegro.pl harmless from and against any liability arising in
+connection with any use of the data on Allegro or via Allegro.pl which is unlawful or violates the rights of
+the data subject.
+2b.4.
+A person (including a User) who has received an invitation to a Family Group may either accept or reject
+the invitation within a time limit specified by Allegro.pl. Upon accepting the invitation, the User becomes a
+Family Group Member. The invitation expires upon rejection by the person invited, cancellation by the
+Family Group Manager, or expiry of the time limit for the acceptance or rejection of the invitation by the
+person invited.
+2b.5.
+Within the Family Group Functionality, every Family Group Member and the Family Group Manager can
+use the options available to them, that is:
+a. A Family Group Member may in particular:
+i. obtain information about who belongs to the Family Group,
+ii. send a request to the Family Group Manager to purchase Goods,
+iii. cancel a request sent to the Family Group Manager to purchase Goods,
+iv. cancel their membership in the Family Group.
+b. A Family Group Manager may in particular:
+i. obtain information about who belongs to the Family Group,
+ii. accept or reject a request to purchase Goods received from a Family Group Member,
+iii. remove a Family Group Member from the Family Group.
+2b.6.
+Having accepted a purchase request received from a Family Group Member, the Family Group Manager
+purchases the requested Goods using their own Account, in their own name, and on their own behalf.
+The Family Group Member who has requested the purchase of the Goods receives information about the
+status of execution of their request by the Family Group Manager and delivery tracking information once
+the Family Group Manager makes the purchase following the purchase request.
+2b.7.
+A request to purchase Goods sent by a Family Group Member to the Family Group Manager does not
+preclude that Family Group Member from purchasing the requested Goods or other Goods on their own,
+using their own Account, in their own name, and on their own behalf.
+2b.8.
+The Family Group Manager who has purchased Goods as a result of a request to purchase the Goods
+sent by a Family Group Member may transfer the ownership of the Goods to other persons, including the
+Family Group Member who has sent the request to purchase that Goods. To that end, the Family Group
+Manager and the purchaser of the Goods, by their own means and on their own responsibility, shall take
+the steps required by law and pay any dues (including taxes) in connection with the transfer of Goods
+ownership.
+2b.9.
+A Family Group shall be closed:
+a. upon the removal of the last Family Group Member remaining in the Family Group by the Family Group
+Manager;
+b. upon the cancellation of Family Group membership by the last Family Group Member remaining in the
+Family Group;
+c. upon the expiry of the time limit for the acceptance or rejection of the invitation by the last person
+(including the User) invited to the Family Group out of all persons invited to join the Family Group and
+having the last active invitation (pending acceptance or rejection);
+d. upon the rejection of the invitation by the last person (including the User) invited to the Family Group
+out of all persons invited to join the Family Group and having the last active invitation (pending
+acceptance or rejection);
+e. upon the cancellation by the Family Group Manager of the invitation sent to the last person (including
+the User) invited to the Family Group out of all persons invited to join the Family Group and having the
+last active invitation (pending acceptance or rejection);
+f. upon the termination of the agreement between the Family Group Manager and Allegro.pl concerning
+the provision of services by Allegro.pl on Allegro under the terms of the Allegro Terms & Conditions.
+g. upon the violation by the Family Group Manager or a Family Group Member of any of the provisions of
+the Terms & Conditions, the Terms & Conditions of a service or a promotional campaign available within
+Allegro (including within the Family Group Functionality) for the Family Group Manager or a Family Group
+Member, or upon the violation of applicable laws, including where the Family Group Manager or a Family
+Group Member took any actions that exert a negative influence on the security of operation of Allegro,
+harm other Users, are in contravention to the intended purpose or assumptions of the Family Group
+Functionality described in the Terms & Conditions or that aim to circumvent the security measures
+applied by Allegro.pl.
+2b.10.
+Any User who meets the conditions specified in paragraph 2b.1 may simultaneously (at the same time)
+start only one Family Group within the Family Group Functionality. Any User who meets the conditions
+specified in paragraph 2b.2 may be simultaneously (at the same time) a member (participant) of one
+Family Group only.
+2b.11.
+The Family Group Manager and every Family Group Member shall use the Family Group Functionality and
+the options available within it in accordance with the Terms & Conditions, applicable laws, and with the
+intended purpose and assumptions of the Family Group Functionality and the options available within it,
+which are described in the Terms & Conditions (taking into account the provisions of the Terms &
+Conditions of services or promotional actions available within Allegro, including within the Family Group
+Functionality, for the Family Group Manager or a Family Group Member). It shall be forbidden to resell or
+make the membership in the Family Group available to other Users free of charge, including within the
+Family Group Functionality.
+2b.11.
+The Family Group Manager and Family Group Member shall accept the fact that in the event that access
+of the Family Group Manager or Family Group Member to individual Allegro services is restricted or the
+Account of the Family Group Manager or Family Group Member is suspended, pursuant to the Allegro
+Terms & Conditions, the use of the Family Group Functionality or some options within the Family Group
+Functionality may be impossible or limited.
+II. TRANSACTIONS
+Section 3. OFFERS
+3.1.
+On Allegro, the Seller, when setting the offer terms, may make available to Buyers the following
+procedures for entering into the sale agreement:
+a. Only with Buy Now option, where the Seller offers to sell the Goods at a predetermined price. This
+Offer may include one or more units of the Goods;
+b. Auction, where the Seller, by putting up the Goods for sale, invites Bidders to place bids in order to
+conclude an agreement. Auction may involve only one unit of the Goods. In the case of Auction, the Seller
+may set additionally the Buy Now option; however, if the Seller sets a reserve price on the terms set out
+in paragraph 3.2., the Buyer may use the Buy Now option only until the Bidder places a bid equal to that
+price. If no reserve price is set by the Seller, the Buyer may use the Buy Now option until the Bidder
+places the first bid.
+3.2.
+In Auction, the Seller may set a reserve price, i.e. the lowest price at which the Seller is willing to sell the
+Goods. Bids lower than the reserve price shall not result in the conclusion of the sale agreement. The
+amount of the reserve price shall not be disclosed to Users until a Bidder offers the price equal to or
+higher than the reserve price.
+3.3.
+The aim of the Offers displayed in the listing categories: “Cars”, “Real Estate”, “Holidays”, “Live Animals”,
+“Machinery”, “Trailers, Semitrailers”, “Other Vehicles and Boats”, “Motorcycles and Quads”, “Services” and
+“Tickets” is not to conclude an agreement. These Offers are only classified ads. The Offers referred to in
+the previous sentence may not include more than one unit of the Goods.
+The Offers referred to in this paragraph may be presented by entities cooperating with Allegro.pl under
+separate agreements, in particular, on websites or in online applications (including mobile applications)
+operated by them.
+3.4.
+Allegro.pl uses default sorting of Offers within the list of Offers, to adjust the order of their placement to
+the preferences of Buyers (“Relevance”).
+The following factors are taken into account with respect to Relevance:
+1. Offer information, such as compliance of the Offer description with the Terms & Conditions; the
+number of displays of the Offer in different time intervals; the number of purchases made in a
+specific Offer; the number of Goods added by Users to the cart within a given Offer; the number of
+Users who marked (or unmarked) a given Offer as Observed; the price of the listed Goods; the
+number of Goods listed; the number of methods of free delivery made available by the Seller
+within the Offer; the estimated delivery time for the Goods resulting from the Goods shipment time
+as declared by the Seller, the actual time of making this shipment and the delivery method
+provided by the Seller in the Offer; the availability of free return options; the status of the listed
+Goods, including their features; mode of the conclusion of the sales agreement — Buy
+now/Auction; the timeframe of the Offer; promotion options; “Official Store” distinction; placing in
+the Deal Zone, posting the Offer in the category that corresponds best to a given type of products;
+and whether the Offer title is similar to the content of the Users’ query in the search engine
+concerning the Goods being the subject of this Offer;
+2. Seller information, such as mainly number of positive and negative ratings; the rate of
+“recommended” ratings given by Buyers; average rating of the costs of delivery of Goods; average
+rating of compliance with Goods description; average rating of the quality of customer service
+provided by the Buyer; timely completion of parcel tracking numbers; time of response to
+messages from other Users; participation in the Super Seller program; the number of violations of
+Appendix No. 1 to the Terms & Conditions; the number of notices in connection with violations of
+paragraph 13.3 of the Terms & Conditions and paragraphs 1(4) and 1(7) of Appendix No. 2 to the
+Terms & Conditions.
+3.5.
+Apart from the default sorting by the "Relevance" criterion, the User can select the following types of
+Offer sorting within Offer lists on Allegro, i.e.:
+a. Price: low to high. This takes into account the criteria in the following order: Offer featured in the
+listing, Offer matching the searched phrase and category, lowest price, highest popularity, shortest time
+until Offer expiration;
+b. Price: high to low. This takes into account the criteria in the following order: Offer featured in the
+listing, Offer matching the searched phrase and category, highest price, highest popularity, shortest time
+until Offer expiration;
+c. Price including delivery: high to low. This takes into account the criteria in the following order: Offer
+featured in the listing, Offer matching the searched phrase and category, lowest price with delivery,
+highest popularity, shortest time until Offer expiration;
+d. Price including delivery: low to high. This takes into account the criteria in the following order: Offer
+featured in the listing, Offer matching the searched phrase and category, highest price with delivery,
+highest popularity, shortest time until Offer expiration;
+e. Most popular. This takes into account the criteria in the following order: Offer featured in the listing,
+Offer matching the searched phrase and category, highest popularity, shortest time until Offer expiration;
+f. Time: ending soonest. This takes into account the criteria in the following order: Offer featured in the
+listing, Offer matching the searched phrase, shortest time until Offer expiration, Offer number;
+g. Time: newly listed. This takes into account the criteria in the following order: Offer featured in the
+listing, Offer matching the searched phrase, shortest time from Offer publication, longest time until Offer
+expiration.
+3.6.
+Allegro.pl may include the Seller’s Offer published within a Business Account in the Allegro Prices
+program whose detailed Terms & Conditions are provided in Appendix no. 21 hereto. As part of that
+program, the Seller consents for automatic reduction of the price of the Goods, as a result of which the
+Buyer can purchase it at a discounted price. In return, Allegro.pl provides the Seller with a transactional
+rebate lowering the fee due to Allegro.pl for the services performed as part of Allegro, corresponding to
+the difference between the original and discounted price of the Goods. The Seller may exclude any of its
+Offers or Accounts from the Allegro Prices program.
+Section 4. FORBIDDEN ITEMS
+4.1.
+As part of any Transaction, Sellers may not list Goods trading of which violates applicable provisions of
+law (taking into account the provisions of any foreign law that may apply in a given case) or rights of third
+parties (in particular copyrights and other intellectual property rights) as well as listing of which may be
+considered as violating good practice. Sellers shall not sell Goods in a given country or take any measures
+related to the sale in that country if that would be in contravention to the laws applicable in that country.
+In addition, it is forbidden to publish and present any content that violates generally accepted ethical or
+moral standards, in particular content that incites or promotes hatred, violence or any form of
+discrimination, including on the grounds of nationality, skin color, beliefs, religion, world-view, and also
+promotes authoritarian and totalitarian systems, as well as any content that endorses or supports such
+behavior or systems.
+4.2.
+Notwithstanding the provisions set forth in paragraph 4.1., it is prohibited to offer items indicated as
+forbidden in Appendix No. 1 hereto.
+4.3.
+The items referred to in paragraphs 4.1. and 4.2. may not be offered together with other Goods as free
+gifts.
+4.4.
+Some types of Goods may be offered only if additional conditions set forth in Appendix No. 1 hereto have
+been met.
+Section 5. COMMENCING A TRANSACTION
+5.1.
+The Seller shall prepare an Offer by filling in the sale form available on Allegro, thus laying down all terms
+of the Transaction. The information contained in the description of the Offer may only refer to its object.
+Upon adding information or data to the description of an Offer, Allegro.pl shall acquire the right to use
+them, in particular, to use them in any way, at any time, and at its own discretion. In particular, where the
+Goods included in the Offer are to be sold also outside Poland (among others by selecting or making
+available foreign delivery options), the Seller shall authorize Allegro.pl to translate the Offer and its
+components (including by means of automatic text translation software) into other languages and to
+display the Offer. By adding information or data in the description of an Offer, the Seller declares that
+they have the right to add them to the description of an Offer, and their use on Allegro and by Allegro.pl,
+particularly in the manner specified in the preceding sentences, and does not violate the rights of third
+parties. The Seller shall be liable for the truthfulness of the declaration referred to in the preceding
+sentence.
+5.2.
+An Offer description should be accurate and complete and must not mislead other Users, in particular, as
+regards to the properties of the Goods such as its condition, parameters, quality, origin, brand or
+manufacturer. An Offer description should comply with applicable provisions of law, in particular, contain
+the information required by applicable consumer protection regulations and, in addition, may not
+suggest the use of the Goods in a manner violating applicable laws. The User shall be fully liable for the
+content of their Offer, also for any mistakes or inaccuracies therein.
+5.3.
+Irrespective of the provisions of paragraph 4.1, the Seller represents that they are authorized to and
+capable of concluding and performing the agreement with the Buyer.
+5.4.
+When performing the acts referred to in paragraph 5.1, the Seller shall order Allegro.pl to post the Offer
+on the date indicated by the Seller. If the date is not specified, the posting shall be immediate. The
+number of a single Seller's Offers posted simultaneously may not exceed, without Allegro.pl’s consent,
+200,000. The number of Seller's Offers concerning the same Goods, posted in the same subcategory
+(regardless of the number of Seller Accounts), may not exceed 2, and this limitation does not apply to
+Goods whose condition is marked with a parameter other than "New".
+5.5.
+Upon posting an Offer, the Seller is bound by its description. The Seller may introduce changes in the
+Offer until the first bid has been placed by a Bidder. In the case of an Offer with Buy Now option, the
+Seller may not effectively modify its description for the Buyers with whom they concluded a sale
+agreement as part of the Offer. The Seller may not introduce any changes in the Offer description that
+would change the Goods on offer or its properties. Upon posting within the Offer (upon its publication on
+Allegro) any content being the subject of copyright law, in particular, such as signs, logos, images,
+descriptions, or photos (“Content”), the User allows Allegro.pl to use this Content free of charge, non-
+exclusively and without time and territory constraints, within the scope of:
+a. its storing and multiplying by using any techniques, including its recording and duplication into paper,
+electronic, magnetic, and optic medium copies;
+b. its reproduction via telecommunications networks (including the Internet and GSM networks) by any
+means and techniques, in particular, such as its reproduction in such a way that anybody can access the
+Content at any chosen time and place; its exploitation in other communications networks, regardless of
+any possible use of access restrictions; its public viewing and reproduction also done by websites content
+auto-run mechanisms;
+c. its public performance, display, viewing, reproduction, transmission, and rebroadcasting;
+d. its lending and its introduction to public trading.
+The User consent covers preparation of the Content analyses by Allegro.pl, their use in the scope in which
+Allegro.pl is authorized to use the Content, and giving further consents to the extent of the agreement
+with Allegro.pl.
+The User gives his consent to exercise his personal copyrights to the Content by Allegro.pl and declares
+that they will not exercise these personal copyrights against Allegro.pl or against entities given by
+Allegro.pl further consent to use the Content.
+The User warrants that they are authorized to make the aforementioned declaration, to give consents
+included in the Terms & Conditions, and to incorporate the Content. They also warrant that the Content
+and its use by Allegro.pl in accordance with the Terms & Conditions do not infringe any third party rights.
+The User shall release Allegro.pl and entities given by Allegro.pl further consent to use the Content from
+any liability arising from the use of the Content in accordance with the Terms & Conditions
+5.6.
+Detailed principles of creating an Offer, including its description, uploading images and using additional
+options concerning its presentation and promoting are set forth in Appendix No. 2 hereto.
+5.7.
+Seller is obligated to accept Buyer’s payments for transactions completed via any payment service
+available on Allegro for the country of the Seller's registered office, including Allegro gift cards. Depending
+on the Buyer’s choice of payment method, service of the payment execution shall be processed under
+conditions set forth in Appendix No. 7A, Appendix No. 7B, Terms & Conditions, or the Allegro gift card
+Terms & Conditions.
+5.8.
+Besides enabling Buyer to perform payment for Goods via services mentioned in art. 5.7., Sellers may
+allow Buyers to complete payments for Goods also by using the “cash on delivery” option, or by paying
+directly at the place of the Goods collection.
+5.9.
+To post Offers in categories: Collections > Investment Products and Collections > Numismatics >
+Collectible Gold Coins, the Seller shall meet all of the following conditions:
+a. satisfy the requirements set out in paragraph 2.14 of Appendix No. 1 to the Allegro Terms &
+Conditions;
+b. after logging in to the Account which will be used to publish an Offer in the aforementioned categories
+– submit a notification through the contact form available at https://allegro.pl/pomoc/kontakt and obtain
+Allegro.pl approval in the form of an email sent to the User’s email address assigned to their Account.
+5.10.
+When completing the form in the Sales > Sales Settings >Delivery Settings tab, the Seller may specify
+quick dispatch hours (Same-Day Dispatch) which is a declaration that Goods will be dispatched on the
+same day provided that the Transaction is completed by the time (including the payment) specified by the
+Seller, which may differ depending on the carrier type, and the day of the week. Information about Same-
+Day Dispatch is visible in the Seller’s Offer. Allegro.pl reserves the right to refuse to publish the
+information referred to in the preceding sentence if the Seller fails to meet the requirements specified at
+https://allegro.pl/dlasprzedajacych/wysylka-tego-samego-dnia-dla-wybranych-przez-ciebieprzewoznikow-
+i-dni-tygodnia-2YRGlGOgLfR#wymagania-jakie-nalezy-spelnic-abykupujacy-zobaczyli-informacje-o-
+wysylce-tego-samego-dnia-w-twoich-ofertach
+5.11.
+Allegro.pl provides Buyers with the Return Policy which allows them to return the Goods acquired on
+Allegro, using a specific form (the “Form”), in accordance with the standards and conditions specified in
+that policy.
+5.12.
+In light of the fact that Buyers are provided with the Return Policy, as referred to in paragraph 5.11above,
+the Seller that has a Business Account or a User conducting business operations shall be obliged to fill
+out the relevant Goods return form (available in the “Return Terms & Conditions” tab) in total, and assign
+it to their Offers. Additionally, it is required to comply with the following rules:
+a. in case of the Buyer’s withdrawal from the agreement, if the Goods have not been sent by the Seller yet
+– the Seller shall return the funds paid by the Buyer for the Goods, within 2 business days from the date
+of the Buyer’s cancellation of the Transaction;
+b. in case of the Buyer’s withdrawal from the agreement, other than referred to in sub-paragraph a.
+above – the Seller shall return the funds paid by the Buyer for the Goods, within 7 calendar days from the
+date when the Seller receives the returned Goods, yet no later than 14 days from the date of receipt of
+the Form filled out by the Buyer;
+c. in case of a complaint about the Goods purchased by the Buyer that only requests the refund of the
+amounts paid – to process the complaint within 14 calendar days from the date of receipt of the Form
+filled out by the Buyer, and if the complaint is accepted – to make a prompt return of the amounts paid
+by the Buyers for the Goods;
+d. to adjust the delivery method for the returned Goods to their properties and size;
+5.13.
+Upon the conditions set out in Appendices No. 7A and 7B to the Terms & Conditions:
+a. in the case referred to in paragraph 5.12.a above, the Seller may ask the payment services operators
+referred to in Appendices 7A and 7B of the Terms & Conditions, on the basis of information provided by
+Allegro.pl, to pay out the funds available in the settlement tool kept for the Sellers in order to return the
+amounts paid by the Buyers for the Goods;
+b. in the case referred to in paragraph 5.12.b and c above, the Seller may ask the payment services
+operators referred to in Appendices 7A and 7B of the Terms & Conditions, on the basis of information
+provided by Allegro.pl, to temporarily suspend the payouts of funds available in the settlement tool kept
+for the Sellers in order to return the amounts paid by the Buyers for the Goods, as well as to submit
+instructions concerning such returns.
+Section 6. COURSE OF TRANSACTION
+6.1.
+Accepting the terms presented by the Seller in the Offer, the User, in order to purchase the Goods, shall
+participate in Auction or select the Buy Now option, subject to paragraph 3.3 hereof. In the performance
+of the aforementioned acts, the User shall fill in an appropriate form available on the Offer webpage and
+confirm their choice.
+6.2.
+Upon placing a bid in the Auction process, the personal data regarding the name of the Bidder’s Account
+(login) shall be disclosed to the Seller.
+6.3.
+From the time of posting the Offer, Users may ask the Seller questions regarding this Offer or the
+Transaction related to the Offer in the following way:
+a. Using the relevant “Ask the Seller” form available in the Offer
+b. Using the “Write a message” option in the Message Center functionality available in the User’s Account
+settings
+in both cases subject to paragraph 13.6.
+6.4.
+When joining the Auction process, the Bidder shall indicate the maximum price for the Goods that they
+undertake to pay if they win. The Bidder may change the maximum price in the course of the Auction, but
+may not offer an amount lower than or equal to the current price in the Auction. The subsequent Bidder
+may outbid the previous Bidder, depending on the current price of the Goods, by an appropriate
+increment amount as per the table below:
+The highest price offered at a time
+Increment amount
+PLN 1.00–24.99
+PLN 0.50
+PLN 25.00–99.99
+PLN 1.00
+PLN 100.00–249.99
+PLN 2.50
+PLN 250.00–499.99
+PLN 5.00
+PLN 500.00–999.99
+PLN 10.00
+PLN 1,000.00–2,499.99
+PLN 25.00
+PLN 2,500.00–4,999.99
+PLN 50.00
+PLN above 5,000.00
+PLN 100.00
+Allegro.pl reserves the right to verify Users purchasing Goods in Offers from the “Collections and Art”
+category in the case of the Bidders who during the Auction have offered an amount higher than or equal
+to PLN 1,000.00 or the Bidders for whom the total amount of their currently made bids is higher than or
+equal to PLN 1,000.00. For this purpose, Section 2, sub-paragraph 2.12.a. of the Allegro Terms &
+Conditions shall apply mutatis mutandis.
+6.5.
+Bids made by Bidders shall bind such Bidders unless the Seller rejects them. A Bidder’s bid may be
+rejected only before the Auction ends:
+a. on a Bidder’s request or
+b. when the Seller has reasonable doubts as to the Bidder’s credibility;
+c. in the case of theft or destruction of the Goods during the Auction;
+d. due to the Auction closure in the cases referred to in paragraph 6.8.b.
+6.6.
+A proposal to enter into an agreement with the Seller made by the Bidder whose Account will be blocked
+before the end of the Auction shall cease to be binding. Information on the Bidder’s Account block shall
+be posted on the Auction webpage.
+6.7.
+An Offer shall be closed after the period specified in its terms by the Seller or when all units of the Goods
+offered in Offers with Buy Now option are sold. An Offer may be closed earlier:
+a. upon the Seller’s decision referred to in paragraph 6.8.;
+b. upon Allegro.pl’s decision in the cases referred to in sub-paragraph 8.2.b.
+6.8.
+The Seller may close their Offer at any time. In the case of:
+a. an Offer with Buy Now option — sale agreements concluded so far as part of such an Offer shall be
+binding;
+b. Auction — winners shall be determined according to the status as of the time of its closing pursuant to
+paragraph 7.2.
+6.9.
+Goods price should be determined in accordance with generally applicable provisions of law. Apart from
+the Goods price, the Seller may charge the Buyer only with the shipping costs as specified in the Offer
+and only in the actual amount.
+6.10.
+Appendix No. 3 hereto sets forth an action plan for scheduled technical breaks and technical failures, in
+particular, their impact on posted Offers.
+Section 7. AGREEMENT CONCLUDED AS PART OF THE OFFER
+7.1.
+Allegro.pl is not a party to any Goods sale agreements made between Users and does not ensure that the
+Sellers and the Buyers are authorized to enter into and perform such agreements. Where a User
+concludes an agreement with another User that has its registered office or habitual residence outside
+Poland, this might result in the Transaction being covered by the provisions of foreign law.
+7.2.
+An agreement shall be concluded with the winner of the Auction. The winner of the Auction shall be the
+User who, upon its closure, offered the highest price for the Goods and their bid was at least equal to the
+reserve price if such a price was specified by the Seller (accepting the winning bid). If several Bidders
+placed bids indicating the same highest price, the Bidder who bid as the first offering the highest price
+shall become the winner.
+7.3.
+The Buyer shall enter into an agreement with the Seller, confirming the purchase using the “Buy and Pay”
+button, or a similar one, subject to paragraph 3.3. Each purchase and some payment methods may be
+additionally confirmed mobile device’s biometric data, where this functionality has been enabled (the
+biometric data is stored on the device and is not made available to Allegro).
+7.4.
+The confirmation of entering into an agreement between the Buyer and the Seller shall be sent
+automatically by email (or alternatively by other means of electronic communication) and shall be for
+information purposes only. In the email referred to in the previous sentence, the parties to the
+agreement shall receive the data currently appearing in their Account settings, i.e. Ask the Seller, email
+address (encrypted by Allegro.pl), contact number, address. In the event when the Seller’s registered
+office as set in the Account settings is outside the European Economic Area or the Offer has been marked
+in the “Delivery details” field as “Non-EAN Offer”, the data referred to in the previous sentence will be sent
+outside the European Economic Area. If the Buyer selects a shipping method as part of which the shipped
+item is assigned a tracking number, information regarding shipment tracking may be made available to
+Allegro.pl directly by the carrier or the Seller if the number of the parcel is made available in the
+“Purchased” tab displayed after logging in to the Account, the Buyer shall be sent an additional email
+message with the carrier’s name, shipment tracking number and a link to track the shipment.
+7.5.
+Unless the parties to the Transaction have agreed otherwise, the Buyer shall pay for the Goods within 7
+days in the case of Offers with the Buy Now option, within 14 days in the case of Offers with the Buy Now
+option for which the Buyer has chosen payment with a traditional bank transfer or within 30 days in the
+case of Auctions. The Buyer’s failure to pay for the Goods in a timely manner will result in Allegro.pl
+automatically canceling the Transaction (except for the “OTC drugs” category), which has no impact on
+the civil-law effects of the sale contract concluded between the Users and does not release them from
+the obligation to render performances towards each other under the legal relation arisen.
+Section 8. ROLE OF ALLEGRO
+8.1.
+Allegro.pl shall not be held liable for Users’ conduct on Allegro and for the undue performance or failure
+to perform Transaction-related agreements, and also for the consequences of actions performed by
+Users or third parties which violate the provisions hereof. In particular, Allegro.pl shall not be held liable
+for the quality, safety, and legality of Goods sold in Offers, Sellers’ capacity to sell, Buyers’ solvency, and
+the veracity and accuracy of data and other contents provided/submitted by Users within Allegro.
+Allegro.pl, on the terms set forth in Appendix No. 9, shall grant compensations to the Buyers who have
+suffered damage as a result of the Seller’s dishonest conduct. At the same time, Allegro.pl shall be liable
+for the performance of agreements concluded on Allegro, in connection with its own sale of Goods, in
+accordance with generally applicable laws and regulations and the terms of Allegro.pl’s Offers.
+8.2.
+If an Offer violates the Terms & Conditions or any applicable laws and regulations, Allegro.pl may:
+a. change Allegro category indicated by the Seller, in which the Offer is posted;
+b. close before its deadline or delete an Offer with Buy Now option; however, agreements concluded
+between Users as part of such an Offer until such closure shall remain valid;
+c. delete Auction, causing it to be no longer available on Allegro, and all hitherto activities of Bidders
+performed as part of it shall have no effect;
+d. refuse to post the Offer.
+8.3.
+Allegro.pl may verify Users’ compliance with the Terms & Conditions. Such a verification may be carried
+out, in particular, by checking if Users observe relevant provisions of the Terms & Conditions. The
+verification shall be carried out, in particular, by establishing contact with a given User and
+recording/documenting such contact.
+8.4.
+If any User’s actions violate the Terms & Conditions, Allegro.pl may:
+a. issue a notice to the User by email,
+b. warn the User by email;
+Issuing a notice and a warning to the User does not directly result in the suspension of the User’s Account
+or in restricting access to particular services provided within Allegro, it is only to inform that in the event
+of further violation of the provisions of the Terms & Conditions, Allegro.pl may suspend the Account or
+restrict the User’s access to particular services provided within Allegro.
+In case of repeated or material violations of the Terms & Conditions understood as
+1. failure to pay the amounts due to Allegro.pl within the set time limit,
+2. the provision by the User of incomplete or false contact details (e.g. name, company, address) in
+the Account settings,
+3. disposal of the Account by the User without Allegro.pl consent,
+4. making the Account available by the User to other persons contrary to paragraph 2.10 of the Terms
+& Conditions,
+5. Publication of Offers, the subject of which is Forbidden Goods specified in Attachment No. 1 to the
+Terms & Conditions or Restricted Goods, where the User has not fulfilled the conditions necessary
+to list such Goods, which are specified in Attachment No. 1 to the Terms & Conditions,
+6. Infringing the rules on posting Offers set forth in Appendix No. 2 to the Terms & Conditions,
+7. Registration of multiple Accounts and their use contrary to the rules specified in paragraph 2.9 of
+the Terms & Conditions,
+8. Sending spam messages to other Users,
+9. Decrease of the overall quality (in the “My Sales Quality” tab) to the “Requires improvement” or to
+the “Unacceptable” level,
+10. Taking actions to avoid the payment of fees or sales commissions billed by Allegro.pl,
+11. Infringing on the rating system rules set forth in Section 11 of the Terms & Conditions,
+12. Making purchases for purposes other than completing a Transaction,
+13. Infringing the rules on ordering Allegro.pl to post Offers set forth in paragraph 5.4. of the Terms &
+Conditions,
+14. Infringing the rules on rejecting bids made by Bidders set forth in paragraph 6.5. of the Terms &
+Conditions,
+15. Infringing the rules set forth in paragraphs 10.1., 10.3, and 10.10 of the Terms & Conditions,
+Allegro.pl may:
+c. temporarily restrict the User’s access to respective services provided on Allegro, in particular, restrict
+the User Account’s functionality for a definite or indefinite period;
+d. suspend one, more, or all of the User’s Accounts for a definite or indefinite period.
+Allegro.pl shall notify the User about the suspension of the Account or restriction of access to specific
+services via email, indicating the reasons for the suspension or restriction of access to the Account. The
+User may appeal against the decision of Allegro.pl in accordance with the provisions of Section 16 of the
+Terms & Conditions.
+In the case of failure to respond and present an exhaustive explanation concerning the correctness of the
+performance of the contract concluded between the Buyer and the Seller as part of the Discussion within
+the time limit specified in paragraph 10.2 of the Terms & Conditions, Allegro.pl may make the use of
+Allegro conditional upon the User’s confirmation of his/her due performance of the contract concluded
+as a result of the Transaction.
+8.5.
+Regardless of whether Allegro.pl applies the provisions of paragraphs 8.2, 8.3 or 8.4 hereof, the User shall
+be fully liable for their acts and omissions related to the use of Allegro, in particular, the User may be held
+liable for damages towards Allegro.pl or other Users.
+Where the User uploads to Allegro.pl profile pictures, as referred to in Section 2, paragraph 2.7 of the
+Terms & Conditions, the User shall represent that they are authorized to use the said profile picture for
+the purposes specified in the Terms & Conditions and that the use of the same on Allegro and by
+Allegro.pl does not violate any third-party rights. The User shall be liable for the truthfulness of the
+representation referred to in the foregoing, and hold Allegro.pl harmless against any liability arising in
+connection with the use of the profile picture on Allegro which is unlawful or violates third-party rights.
+8.6.
+In case of blocking the Account, the User may only access the Account and use those functions which
+make it possible to pay amounts due to Allegro.pl and finalize agreements concluded before the Account
+block; however, the User may not use any other services provided on Allegro by Allegro.pl. Any Offers
+posted in a blocked Account shall be deleted. The outcomes of Auctions with the participation of the
+Bidder whose Account has been blocked shall be decided in accordance with paragraph 6.8.
+8.7.
+The User whose Account has been blocked or its functionality restricted as referred to in paragraphs 2.12
+and 8.4 may neither register a new Account nor use another Account without Allegro.pl’s prior consent.
+8.8.
+In the cases referred to in paragraph 8.9. below, payment service providers specified in Appendices Nos.
+7A and 7B, acting upon the order of Allegro.pl in relation to the Seller’s authorization resulting from the
+agreement executed under the Terms & Conditions, and on the basis of the information provided by
+Allegro.pl, are entitled to temporarily withhold the payout of the Seller’s funds in cases and on conditions
+provided for in detail in Appendices Nos. 7A and 7B of the Allegro Terms & Conditions (“Payout
+Withholding”).
+8.9.
+Allegro.pl may qualify a Seller’s Account for Payout Withholding in the following cases:
+a. in Transactions in which there is a higher probability that Buyers would request the payment of
+compensations under the Buyer Protection Program referred to in Appendix No. 9 of the Allegro Terms &
+Conditions or
+b. in the case of the Sellers who conduct activity as part of a Business Account as an entity whose
+registered office, registered business, or actual place of business are outside the European Economic
+Area or the United Kingdom of Great Britain and Northern Ireland.
+c. in the case of Sellers who post Offers in categories referred to in paragraph 5.9 above.
+d. in other cases specified in the Terms & Conditions of separate services.
+8.10.
+Allegro.pl shall order payment service providers specified in Appendices Nos. 7A and 7B to apply Payout
+Withholding in the cases of the Accounts referred to in paragraph 8.9.a above, for which the turnover
+from Offers in the “Phones and Accessories” category exceeded PLN 600,000 (six hundred thousand zloty)
+in the last 6 months counted from the last day of the month preceding the date of the qualification of the
+Seller’s Account for Payout Withholding, and which have met at least one of the following conditions:
+a. at least 25% of the value of Transactions made within 60 calendar days preceding the date of the
+qualification of the Seller’s Account come from Offers for which the Goods delivery time declared by the
+Seller as at the date of concluding the agreement with the Buyer exceeds 7 working days;
+b. the number of Discussions ended as unresolved for the Seller, who, in the last 60 days, concluded
+more than 1000 agreements, which has exceeded 0.2% of the number of all agreements concluded at
+that time. If in the last 60 days, the Seller concluded less than 1000 agreements, the number of
+Discussions ended as unresolved in this period has exceeded two.
+c. the number of Discussions opened by Buyers within 60 calendar days preceding the date of the
+qualification for Payout Withholding exceeds 10 and, at the same time, for more than 10% of them the
+Seller has not given their response and has not presented exhaustive explanations within 24 hours from
+being accused of any misconduct by the Buyer, with Saturdays, Sundays, and other public holidays being
+excluded from such response time;
+d. in the period of 60 days immediately preceding Payout Withholding, pursuant to paragraphs 2.12 and
+8.4 of the Allegro Terms & Conditions, the Seller’s access to particular services provided on Allegro was
+restricted temporarily or one, several or all their Accounts were suspended for a definite or indefinite
+time;
+e. the Seller’s average rating on the date of the qualification for Payout Withholding is below 4.900 (four
+and nine tenths).
+8.11.
+Allegro.pl shall order payment service providers specified in Appendices Nos. 7A and 7B to apply Payout
+Withholding in the case of the Accounts referred to in sub-paragraph 8.9(c) above, immediately after
+positive verification of the Notification referred to in paragraph 5.9 above by Allegro.pl.
+8.12.
+Allegro.pl has access to the following categories of User data: data on the Offer, including, in particular,
+the content of the Offer; data identifying the Buyer as part of the Transaction; data on the Transaction —
+in particular the payment method, item receipt address, delivery method, additional remarks, as well as it
+can have access to the content of messages sent between the Buyer and the Seller, including as part of
+discussions and disputes and the handling of correspondence at the Sellers’ request in the case referred
+to in paragraph 13.6. Allegro.pl manages the above-mentioned data categories in relation to all Offers
+and Transactions, subject to the reservation that in the case referred to in paragraph 13.6. access to the
+content of the message applies only to Business Accounts.
+The User does not have access to all data which are available to Allegro.pl. The User has free of charge
+access to data relating to their actions as part of Allegro, in particular, relating to the quality of sale
+carried out through Allegro, including among others the value of turnover, completed orders; canceled
+orders; numbers of shipments filled in within the time limit; which part of the delivery is completed within
+the time limit — as compared to all orders within the last 30 days which were delivered to the buyers
+within the time limit declared by the Seller in offers; and information about the quality of sale of the
+Seller in comparison with other Sellers on Allegro — how many sellers have better or worse quality than
+the Seller. On Allegro Lokalnie only data on individual completed Transactions is available.
+Allegro.pl enables paid access to certain statistical data relating to the sale as part of the Allegro platform.
+Statistical data relating to the sale as part of Allegro are stored by Allegro.pl also after the termination of
+the Agreement with the User.
+Allegro.pl has access to personal data of Users, rules of such access and period of storage, and rules of
+deleting such data are specified in Appendix No. 5 to the Terms & Conditions.
+8.13.
+Allegro.pl as Seller on Allegro due to technical-management reasons uses a different return form from
+other Sellers.
+Section 9. FEES AND SALES COMMISSIONS
+9.1.
+Services provided on Allegro by Allegro.pl shall be paid services. The Seller shall be charged with all fees
+and sales commissions. Such amounts payable shall be charged on an ongoing basis and presented for
+payment for consecutive settlement periods. The settlement period shall be a calendar month.
+9.2.
+Fees and sales commissions for services provided on Allegro by Allegro.pl shall be paid by the User to
+the bank account indicated in their Account settings.
+9.3.
+Any User’s actions aiming at or resulting in avoiding the payment of fees or sales commissions billed
+by Allegro.pl are prohibited.
+9.4.
+Allegro.pl shall issue invoices for services provided on Allegro in accordance with data provided in
+Account settings; however, Users of Regular Accounts shall be issued invoices upon their request.
+9.5.
+Amounts of fees and sales commissions for respective services, terms of collecting, billing and settling
+them, and terms of awarding transaction rebates on amounts payable for services provided by Allegro.pl
+in a given month, and also the method of their calculation as well as the terms of issuing and sending
+invoices are provided for in Appendix No. 4 hereto.
+Section 10. OTHER OBLIGATIONS OF USERS
+10.1.
+All actions of Users on Allegro should comply with the Allegro Terms and Conditions, good practice, and
+applicable provisions of law, including consumer protection laws. A User may not take actions
+contravening the Allegro Terms and Conditions, good practice, and applicable provisions of law or any
+actions which adversely affect the security of Allegro operations or are detrimental to other Users.
+10.2.
+A User must explain the correctness of the performance of the agreement concluded between the Buyer
+and the Seller. The Seller must give their response and present exhaustive explanations in the Discussion
+within 24 hours from being alleged of any misconduct by the Buyer, with Saturdays, Sundays, and other
+public holidays being excluded from such response time.
+When the Discussion concerns undelivered Goods and the time limit to deliver them has lapsed, the
+Seller is obliged to resolve the problem reported by the Buyer within 7 days. The following shall, in
+particular, be regarded as a resolution of the problem:
+posting the parcel tracking number to show that the delivery is in progress or that the parcel has
+been delivered,
+refunding the amount paid to the Buyer through Allegro Finance or posting the refund
+confirmation in the Discussion.
+After the lapse of 7 days, Allegro enables the Buyer to mark the Discussion as unresolved. If the Buyer’s
+problem is unresolved and they decide to use the Buyer Protection Program and receive a refund, the
+amount paid to the Buyer will be charged to the Seller in accordance with paragraph 10 of Section 4 of
+Appendix No. 9 of the Allegro Terms & Conditions.
+Otherwise, the Seller will have 14 days since the start of the Discussion to resolve the Buyer’s problem.
+10.3.
+The number of Discussions ended as unresolved for the Seller, who, in the last 60 days concluded more
+than 1000 agreements, should not exceed 0.2% of the number of all agreements concluded at that time.
+If in the last 60 days, the Seller concluded less than 1000 agreements, the number of Discussions ended
+as unresolved in this period may not exceed two.
+10.4.
+The Seller must respond to the Buyer’s message within 24 hours of its receipt, provided that this deadline
+does not fall on a Saturday, Sunday, or a public holiday.
+10.5.
+Where, for the ordered Goods, the Buyer selects a shipment method which is registered by the carrier
+and has been given a tracking number, if the carrier has not made the data available to Allegro.pl directly,
+the Seller shall immediately enter in the order tab (my sales -> orders) the correct tracking number (as
+assigned by the carrier on dispatch) and the dispatch time shall take place within the time frames
+specified by the Seller in the “Shipment dates” section of the offer listing form.
+10.6.
+In Allegro, the Sellers have been given access to the “My Sales Quality” tab where based on the individual
+ratings in the following areas:
+a. Buyers’ ratings (containing e.g. Buyers’ Recommendations, Buyers’ Experience/Satisfaction);
+b. Order processing (containing e.g. the Orders processed, Package numbers entered within the time
+frames specified in the Terms & Conditions);
+c. Client Services (containing e.g. Active Discussions, Timely responses to questions asked in the
+discussions, level of fulfillment of the criteria referred to in paragraph 5.12 of the Allegro Terms &
+Conditions);
+d. Attractiveness of the Offer (containing e.g. Active payment methods, Percentage of Offers with Allegro
+Smart!);
+e. Compliance with the Terms & Conditions (e.g. Deleting Offers, Policy Warnings);
+The Seller’s quality is determined at one of the following levels:
+a. Super+
+b. Super
+c. Good
+d. Neutral
+e. Requires improvement
+f. Unacceptable
+The data included in the “My Sales Quality” tab are calculated on a daily basis and they cover the previous
+30 days. The calculation may be delayed by no more than 3 days for technical reasons. If that is the case,
+the data from the last calculation, as available in the “Quality of my sales” tab, shall be treated as binding.
+10.7.
+The Seller shall maintain the quality of the sales at least at the general “Neutral” level. The quality level
+may affect the User’s participation in the bonus programs and benefits available on Allegro (e.g. special
+conditions of participation in the Deal Zone). The detailed rules on how the quality described in the “My
+Sales Quality” tab affects the individual programs are provided in the programs’ terms and conditions.
+Where the User’s general quality (in the “My Sales Quality” tab) drops to the “Requires improvement” or to
+the “Unacceptable” level, Allegro.pl shall have the right to take the measures referred to in paragraph 8.4
+of the Terms & Conditions.
+10.8.
+Users should archive by themselves the information on agreements concluded on Allegro.
+10.9.
+Any materials, including graphical elements, layout and composition thereof, trademarks, and other
+information available on Allegro webpages are subject to the rights of Allegro.pl or Users. These elements
+are subject to the author’s property rights, industrial property rights, including rights from the
+registration of trademarks and rights to databases and, as such, are subject to statutory legal protection.
+10.10.
+Downloading or using materials available on Allegro in any way (including data and other types of
+information) shall each time require the consent of Allegro.pl and shall not violate any provisions hereof
+and generally applicable provisions of law, and shall not violate any interests of Allegro.pl and Users. The
+following shall be prohibited:
+a. third-party use of indications to which Allegro.pl holds rights, including characteristic graphical
+elements, in particular, such as logos, images, descriptions, or other types of indications;
+b. aggregating and processing data and any other information available on Allegro for the purpose of
+using it within the activity pursued (including operating other Internet websites), as well as sharing them
+further on other websites or outside the Internet, including:
+i. extracting (scraping) such data and information, in particular, with the use of bots and other IT or
+programming tools (including but not limited to tools for data exploration, collection, or extraction),
+c. using the Allegro designation or similar designations in the Account login if this can mislead other
+Users about the entity using the given Account or its affiliation with Allegro.pl
+d. using designations in the Account login which can mislead other Users about the entity using the given
+Account.
+10.11
+It is forbidden to use bots and other IT or programming tools (including but not limited to tools for data
+exploration, collection, or extraction), including tools which:
+a. generate or may generate increased traffic on Allegro, in particular, such that multiply the number of
+visits of Allegro sites, causing an excessive burden for the IT systems,
+b. are malware (including viruses) or may be used to infect Allegro’s IT resources or infrastructure with
+malware (including viruses),
+c. serve for making cyberattacks (including network attacks, in particular, DDoS attacks), when using
+Allegro, in relation to using Allegro as well as for the purpose of using Allegro.
+10.12
+Allegro.pl ensures that Buyers receive the following information:
+a. that the Seller has received funds for a payment made using payment methods available on the
+Platform;
+b. that the User may track a parcel containing the Goods, being delivered as part of services provided by
+carriers, identified in detail at https://allegro.pl/dla-sprzedajacych/przewoznicyzintegrowani-zallegro-
+4RY6gLKLZSD and about its respective delivery stages;
+c. with requests to rate a Transaction;
+d. about Transaction status (in progress, ready for shipping, shipped) where the Seller uses for shipment
+the services of carrier listed at https://allegro.pl/dla-sprzedajacych/przewoznicy-zintegrowani-z-
+allegro4RY6gLKLZSD or uses tools for automatic Transaction completion available in the “Orders” tab or
+via API through automatic communication channels, i.e., channels that enable contacting the Users via
+emails, notifications displayed in the User Account in connection with the Transaction concluded, mobile
+app push notifications, and statuses available in the “Purchase History” tab.
+Due to the above, the Seller undertakes not to send any additional messages to Buyers containing only
+the above-mentioned information by using the above-mentioned automatic communication channels
+made available by Allegro.pl.
+The above provision shall not apply where it is the Buyer who initiates contact in connection with a
+concluded Transaction, and the Seller only responds to it.
+Section 11. RATING SYSTEM
+11.1.
+On Allegro, Users may use a descriptive and graphical (i.e. graphical sale assessment) rating system to
+exchange subjective opinions on the course of Transactions and performance of agreements. If Users
+have concluded an agreement, the Buyer, within 90 days from the date of concluding the agreement that
+is from the day and hour of the concluding may rate the Seller, whereas this time limit is calculated to the
+hour. The Seller who receives a “not recommended” rating may respond to it once. It is not possible to
+rate the Seller when the Buyer has not activated their Account or their Account is blocked.
+11.2.
+In descriptive Rating, a User may recommend or not recommend the purchase. In graphical rating for the
+sale, the Buyer may give 1 to 5 points to assess the agreement performance by the Seller in terms of the
+following parameters:
+consistency with Goods description
+shipping cost
+buyer service
+11.3.
+Rating shall always be assigned to a particular Account and a specific Transaction. A User shall be liable
+for the content of their rating and responses.
+11.4.
+The content of rating and responses shall be public information available to all visitors to Allegro.
+11.5.
+Rating and responses should be consistent with the actual course of Transactions and may not contain:
+a. vulgarisms, content that is obscene or pornographic, or inciting to hatred, racism, xenophobia;
+b. Users’ contact details or logins;
+c. website addresses or content of advertising nature.
+11.6.
+A User may not participate in any Transaction solely for the purpose of leaving a rating (e.g. to artificially
+increase or decrease the Seller’s credibility).
+11.7.
+Allegro.pl shall not interfere with the content of any rating or responses; however, it reserves the right to
+delete or block the possibility of their posting in justified cases when:
+a. they violate the provisions of the Terms & Conditions, in particular, of Section 11, paragraphs 11.5 or
+11.6;
+b. they have been posted for a wrong User or Transaction by mistake if their content explicitly indicates
+that a mistake has been made;
+c. the content of a rating explicitly indicates that a mistake has been made as to its type;
+d. the content of a rating contains characters that make that rating illegible; this shall not apply, however,
+to the special characters specific to the language in which the rating was published;
+e. Allegro.pl receives the Buyer's request to remove the rating.
+11.8.
+Parties to a concluded agreement shall have the possibility to agree on the deletion of ratings and
+responses to it using for this purpose an appropriate form available on Allegro. Rating shall be deleted
+upon the satisfaction of all the following conditions jointly:
+a. the deletion request must be submitted by the Seller within 21 days from the date of receiving the
+rating;
+b. the Buyer must agree to comply with such a request not later than within 14 days following its receipt.
+11.9.
+Following the deletion of a rating according to the procedure provided for in Section 11 paragraph 11.7.,
+the Buyer may re-assess the course of the Transaction within 90 days from the date of concluding the
+agreement related to a particular Offer.
+11.10.
+Users may post on Allegro their reviews concerning Goods, including their disadvantages and
+advantages. They are presented in Offers in the “Product review” tab.
+11.11.
+Reviews posted in the “Product review” tab are Users’ subjective opinions. Users shall be liable for the
+content of their opinions expressed in such reviews.
+11.12.
+A User’s review may not violate applicable provisions of law, including third-party rights; in particular, it
+may not be defamatory, violate personal rights, or constitute an act of unfair competition. At the same
+time, regarding the rules of posting reviews by Users, the provisions of Section 11, paragraphs 11.5 and
+11.6 shall apply accordingly.
+11.13.
+Allegro.pl reserves the right to edit or delete reviews in justified cases, when a review:
+a. is a subsequent review referring to the same Goods;
+b. refers to a different Goods than the reviewed one;
+c. violate the rules set forth in Section 11 paragraph 11.12.;
+d. violates applicable provisions of law, good practice or offends religious feelings;
+e. infringes patent rights, copyrights, business secrets or other intellectual property rights, or personal
+data protection rights;
+f. is only a summary of a film, book or record, etc.;
+g. is fully or partially copied from other Users, the manufacturer of the reviewed Goods or from other
+available sources;
+h. it contains characters that make the review illegible; this shall not apply, however, to the diacritica
+characters specific to the language in which the opinion was published.
+11.14.
+By posting a review, the User consents to its use, free of charge, by Allegro.pl or other entities
+cooperating with Allegro.pl under separate agreements, and to its modification within the
+aforementioned scope.
+III. FINAL PROVISIONS
+Section 12. OTHER SERVICES
+12.1.
+Allegro.pl may provide Users with other services supporting the main activity of Allegro.pl or facilitating
+the use of the services of Allegro.pl by Users, including the financing, securing or advertising of
+Transactions, on the terms set forth in the terms and conditions of such services, as well as services
+involving the intermediation by Allegro.pl in the conclusion of agreements on the provision of third-party
+services.
+12.2.
+Allegro.pl may provide Users with information about services and service offers of third-party suppliers
+(e.g. who offer financial services, including insurance services), facilitating the use of the services of
+Allegro.pl by Users, including the financing, securing or advertising of Transactions.
+12.3.
+Allegro.pl intermediates in concluding agreements and provides services related to financing and
+securing Transactions such as insurance for the Goods, consumer loan for the purchase of Goods
+12.4.
+Currently, on Allegro, Seller cannot provide transaction-related services identical to those mentioned in
+paragraph 12.3.
+Section 13. PRIVACY AND CONFIDENTIALITY
+13.1.
+Personal data provided by Users in designated areas shall be processed by Allegro.pl pursuant to the
+applicable provisions of law and the privacy policy set forth in Appendix No. 5 hereto.
+13.2.
+Users’ personal data may be disclosed to other Users only in the cases set forth herein for purposes
+related to the Transactions and in other cases with the prior consent of the data subject.
+13.3.
+A User shall not disclose to third parties any information related to other Users received from Allegro.pl
+in connection with the use of Allegro unless the User has obtained the prior consent of the User who is
+the data subject. In particular, the use of such information for commercial purposes, in particular, to
+promote in any form the activities of any User carried out outside Allegro shall be prohibited.
+13.4.
+The use of the information referred to in paragraph 13.3 for commercial purposes to promote in any
+form the activities of any User carried out outside Allegro shall be prohibited. In particular the following
+shall be prohibited:
+a) making proposals to buy or sell the Goods outside Allegro (not applicable to Offers referred to in
+paragraph 3.3);
+b) adding to the shipped Goods or providing in any other form any content with information about
+commercial activities carried out outside Allegro (e.g. leaflets advertising an online store);
+c) opening accounts for Users in online stores.
+13.5.
+Allegro.pl reserves the right to filter and block messages sent by Users using the tools made available on
+Allegro, in particular, if they are spam, include content that violates these Terms & Conditions, or
+otherwise pose a risk to the safety of Users.
+13.6.
+The Seller with a registered Business Account shall order Allegro.pl to handle correspondence related to
+Transactions concluded via that Account, subject to the reservation that such correspondence handling
+consists in Allegro.pl automatically analyzing (using machine learning technology) the content of
+messages sent by Buyers to a given Seller using the options described in paragraphs 6.3.a and 6.3.b in
+order:
+(i) to check whether Allegro.pl is able to answer the questions contained in such a message on behalf of
+the Seller
+(ii) that Allegro, on behalf of the Seller, answers the questions contained in such a message if Allegro.pl
+has the appropriate knowledge based on the data from the Allegro.pl IT systems.
+If as a result of the automatic analysis of the message referred to above, Allegro.pl is not able to answer
+the Buyer, the message shall be immediately forwarded to the Seller so that they can reply to it.
+The rules for entrusting the processing of Buyers’ personal data related to the handling of
+correspondence are described in Appendix No. 19 of the Allegro Terms & Conditions.
+13.7.
+Terminated Offers may be published in archiwum.allegro.pl subdomain. The published information is for
+reference only and Allegro.pl may not ensure or guarantee that terminated Offers will be made public in
+a full and comprehensive manner.
+Section 14. AMENDMENTS TO THE ALLEGRO TERMS & CONDITIONS
+14.1.
+Allegro.pl may amend the Terms & Conditions in the following cases:
+a. amendments to legal regulations having a direct impact on the content of the Terms & Conditions;
+b. imposing certain obligations by governmental authorities;
+c. amendments to the price list;
+d. improving the operation of the Website and the User service;
+e. enhancing the protection of Users’ privacy;
+f. amendments to the privacy policy;
+g. preventing misuse;
+h. security/safety considerations;
+i. technological and functional changes;
+j. changes in the scope of services provided, including the introduction of new services;
+k. editorial changes.
+Such amendment shall become effective within the period indicated by Allegro.pl not shorter than 15
+days from the time of notifying Users about the amendments and making the amended Terms &
+Conditions available to them, in particular, by publishing it on the website:
+https://allegro.pl/pomoc/zmiany-w-regulaminie/aktualnosci, and sending it to the email address assigned
+to the User’s Account (if the User has logged in to their Account in the last 2 years). Amendments to the
+Terms & Conditions, which apply to Sellers only, are sent to Users that sell Goods on Allegro. If the User
+does not provide an email address, information about the amendments is sent by text message to the
+contact number provided during registration.
+Allegro.pl may amend the Terms & Conditions without a 15-day period, referred to above, with an
+immediate effect, if:
+(i) it is subject to legal or regulatory obligations, under which it is obliged to amend the Terms &
+Conditions in such a manner that prevents it from keeping the above-mentioned 15-day notification
+period,
+(ii) it must by way of an exception amend the Terms & Conditions to counteract unforeseen and
+immediate threats related to the protection of online intermediation services, Users against fraud,
+malware, spam, breach of data, or other cybersecurity threats.
+14.2.
+The User who does not accept planned amendments of the Allegro Terms & Conditions should
+immediately, no later than within 15 days from notification of such amendments, notify Allegro.pl to
+terminate the agreement with Allegro.pl, using the form referred to in paragraph 15.2. User’s termination
+of the agreement with Allegro.pl for the Account indicated by him/her as described above shall be
+effective no earlier than upon 15 days of notifying the User of amendments to the Allegro Terms &
+Conditions.
+Upon the first logging in to Allegro after an amendment has entered into force, the User shall be notified
+of such amendment and the possibility to accept it.
+Section 15. TERMINATION OF THE AGREEMENT WITH ALLEGRO.PL
+15.1.
+The provision of services on Allegro shall be unlimited in time, subject to the provisions of the paragraph
+below.
+15.2.
+A User may, at any time, terminate the agreement concluded with Allegro.pl related to the Account
+indicated by them, by filling in and approving the contract termination form. In this case, all Seller offers
+published so far will be removed within 7 days from the date of contract termination form approval.
+Furthermore, during the contract termination period, it will not be possible to list new Goods, buy Goods,
+participate in an Auction or change the amount offered by the Bidder during bidding.
+15.3.
+The termination by a User of the agreement with Allegro.pl for the Account indicated by them shall be
+effective no earlier than 60 days from the date of contract termination (interpreted as date of filling in
+and approval of contract termination form). After the 60 days deadline, it will not be possible to log in to
+the Allegro account and to use services available within the scope of the account.
+15.4.
+In the event when a User repeatedly violates the Terms & Conditions, the agreement may be terminated
+by Allegro.pl against a thirty day notice.
+15.5.
+If the agreement has been terminated by the decision of Allegro.pl, a User may not register an Account
+on Allegro again without the prior consent of Allegro.pl.
+Section 16. CONTACT DETAILS AND COMPLAINTS PROCEDURE
+16.1.
+A User may contact Allegro.pl in relation to the services provided electronically hereunder:
+a. in writing to Allegro.pl sp. z o.o., ul. Grunwaldzka 182, 60-166 Poznań;
+b. in an electronic form (by, e.g., using the contact form on web pages of specific paragraphs in the “Help”
+section, which may be accessed from the main page of the Allegro website).
+16.2.
+Allegro may contact the User:
+a. in writing to the correspondence address provided by the User;
+b. in an electronic form to the email address provided by the User;
+c. by phone calling the contact number provided by the User,
+d. by sending short text messages (SMS) to the contact number provided by the User.
+16.3.
+If in a User’s opinion, services to be provided under the Terms & Conditions are not rendered by
+Allegro.pl or are not rendered in accordance with the Terms & Conditions, the User may present their
+reservations in the manner specified below (“Complaint”). In addition, in the case of own sale of Goods by
+Allegro.pl, a User may make a Complaint in the manner described in Allegro.pl’s Offer.
+16.4.
+A Complaint may be lodged in an electronic form using the contact form or in a written form. A Complaint
+shall contain at least the name under which the User acts on Allegro (login), the description of their
+reservations, and the proposed method of handling the Complaint.
+16.5.
+Allegro.pl shall handle a Complaint within 14 days from the date of its receipt. When a Complaint does
+not contain the information necessary to handle it, Allegro.pl shall ask the User making the Complaint to
+supplement the required information, and then the period of 14 days shall run from the date of
+submitting the supplemented Complaint.
+16.6.
+A response to a Complaint shall be sent only to the email address assigned to a given User’s Account. In
+particularly justified cases, Allegro.pl may send a response to a different email address provided by the
+User making a Complaint, which is not assigned to the User’s Account, or in writing to the address
+provided in the Compliant.
+16.7.
+A User may appeal against the decision taken by Allegro.pl concerning a Complaint (“Appeal”). The
+provisions of Section 16, paragraphs 16.3, 16.4, and 16.5 shall apply accordingly.
+Section 17. GOVERNING LAW AND DISPUTES
+17.1.
+An agreement between User and Allegro.pl, relating to services provided on Allegro by Allegro.pl on
+terms and conditions set forth herein, shall be governed by Polish law with exclusion of the United
+Nations Convention on Contracts for the International Sale of Goods of 11 April 1980 (Dz. U. 97.45.286).
+In the case of Users who are consumers, the above choice of law shall not exclude the protection
+afforded to the Users by mandatorily applicable laws of the country in which the User has its habitual
+residence.
+Any disputes between Allegro and a User that is not a consumer, concerning Allegro, including connected
+with the services provided on Allegro by Allegro.pl shall be resolved by Polish courts of general
+jurisdiction competent for the registered office of Allegro.
+A User being a consumer may initiate out-of-court proceedings to solve a Complaint and enforce claims
+before the Permanent Arbitration Consumer Court at the Provincial Inspector of Trade Inspection in
+Poznań. Information on how to initiate such proceedings and on the procedures applicable to dispute
+settlement can be found at http://www.uokik.gov.pl in the “Consumer dispute settlement” tab (Polish:
+“Rozstrzyganie sporów konsumenckich”). The consumer User may also use the EU ODR platform available
+at http://ec.europa.eu/consumers/odr/. Detailed information on how to file a complaint can be found
+here.
+17.2.
+Allegro.pl may attempt to amicably settle the dispute with User pursuing a business activity, using Allegro
+to offer items to consumers, through an independent mediator, upon the prior consent of Allegro.pl for
+mediation. Should the User, referred to in the previous sentence, propose mediation to Allegro.pl and
+after Allegro.pl has accepted this proposal, mediation will be conducted by a mediator from Europejski
+Instytut Mediacji, in accordance with the mediation rules applied by Instytut. Allegro.pl shall bear a
+reasonable part of the total costs of mediation which will be each time determined by the parties. The list
+of mediators and mediation rules are available at the contact address: eiminstytut@gmail.com.
+Section 18. APPENDICES
+18.1.
+The Terms & Conditions contains the following appendices which constitute its integral part:
+Appendix No. 1: Forbidden and restricted items;
+Appendix No. 2: Rules on creating Offer description;
+Appendix No. 3: Policy on technical breaks and compensation for technical failures;
+Appendix No. 4: Fees and sales commissions;
+Appendix No. 5: Privacy protection policy;
+Appendix No. 6: Junior account principles;
+Appendix No. 7A: Terms & Conditions of PayU service;
+Appendix No. 7B: Terms & Conditions of Przelewy 24 service;
+Appendix No. 7C: Allegro Finance Terms & Conditions;
+Appendix No. 8: Notes of guidance on agreement renouncement and draft renouncement statement;
+Appendix No. 9: Buyer Protection Program;
+Appendix No. 10: Adding Products;
+Appendix No. 11: Use of databases of Allegro.pl and available in Allegro;
+Appendix No. 12: Terms & Conditions of the “Allegro Smart!” service for the Sellers;
+Appendix No. 13: Allegro Lokalnie;
+Appendix No. 14: General Terms & Conditions of the Cooperation Related to the Mail Order Sales of
+Medicinal Products;
+Appendix No. 15: Allegro Community;
+Appendix No. 16: General Terms & Conditions of Delivery Service;
+Appendix No. 16A: General Terms & Conditions of the Delivery Service for Allegro Lokalnie;
+Appendix No. 17: Charity Offers;
+Appendix No. 18: General Terms & Conditions of the Cooperation Related to the Sales of Vouchers
+Exchangeable for Medical Services;
+Appendix No. 19: Data processing Agreement.
+Appendix No. 20. Transactions subject to the obligation of archiving or VAT settlement through Allegro.pl
+Appendix No. 21: Details of Allegro Prices program
+18.2.
+Links posted in the electronic version hereof, including the appendices, only facilitate browsing through
+Allegro pages. Documents other than the appendices listed above shall not constitute the integral part
+hereof.
+Section 19. VALIDITY
+If any provision hereof is held invalid by a final and absolute court judgment, the remaining ones shall
+stay in full force and effect unless the relevant laws provide for a different effect.
+Section 20. LANGUAGE VERSIONS OF THE ALLEGRO TERMS & CONDITIONS
+20.1.
+Certain elements of Allegro.pl website have been translated, particularly from Polish into English,
+(including using automatic text translation software). The text has been translated with due diligence,
+however, certain results of translation (in particular by a computer program) might prove imperfect or
+might not be translated correctly due to the limitations of the text translation software. Allegro.pl
+recommends exercising caution when using translated content.
+20.2.
+The Polish language shall be the original language of the Terms & Conditions, the website, and all
+communication by Allegro.pl with Users. In the case of any doubts related to the translated content, they
+should be resolved by reference to the Polish language version. The above reservation shall be applied
+accordingly in the case of translations from other languages, e.g., the English language shall prevail in the
+case of translation of English comments to the Transaction.
+20.3.
+This service may contain translations provided by Google. Google hereby disclaims its express or implied
+liability for any translation, including its accuracy, reliability, and merchantability, fitness for a particular
+purpose, and any liability for infringements.
+20.4.
+This Allegro Terms & Conditions is available in Polish and English versions. The Polish version is available
+on the following website: https://allegro.pl/regulamin/pl.
+Section 21. INTERNAL COMPLAINT-HANDLING SYSTEM
+Allegro.pl shall ensure the operation of an internal complaint-handling system within the meaning of
+paragraph 11.1. of Regulation (EU) 2019/1150 of the European Parliament and of the Council of 20 June
+2019 on promoting fairness and transparency for business users of online intermediation services.
+Complaints of the Users that relate to the issues listed in this regulation can be made through
+https://na.allegro.pl/skarga.
+Section 22. EXPLOSIVES PRECURSORS
+Trade in explosives precursors within the meaning of Regulation (EU) No 2019/1148 of the European
+Parliament and of the Council of 20 June 2019 on the marketing and use of explosives precursors,
+amending Regulation (EC) No 1907/2006 and repealing Regulation (EU) No 98/2013 is permitted only
+upon fulfilling the duties and conditions set out in the Regulation.
+Under the law, the sellers are required to fulfill all the conditions and duties laid down in the Regulation.
+This applies, in particular, to the mandatory verification of the buyers and their rights to purchase the
+precursors, including verification of their identity, and disclosure duties towards those buyers in respect
+of precursors sold to them. The duties imposed by law also apply to the reporting of so-called suspicious
+transactions within the meaning of the said Regulation.
+The issues related to the trade in the said precursors are also regulated in a Polish statute (Journal of
+Laws of 2016, item 669, as amended).
+The fulfillment of the conditions concerning precursors trade is a pre-condition for the legal sale of
+precursors on Allegro that is in line with the Genral Terms & Conditions.
+Allegro Terms & Conditions - pdf
