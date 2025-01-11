@@ -1,0 +1,921 @@
+User Terms of Service
+By using the Wolt Service, you agree to be bound by these User Terms of Service (“Terms of
+Service”).
+Please read the following Terms of Service carefully before using the Wolt Service. If you do not
+agree with the Terms of Service, you cannot use the Wolt Service. These Terms of Service apply
+to any use of the Wolt Service and to the Purchase Agreements made hereunder. A more detailed
+description of the Wolt Service and information on system requirements is available at wolt.com. 
+If you have a Wolt at Work Account, these Terms of Service also apply to our customer
+organization which has granted you the Wolt at Work Feature (“Customer Organization”) with
+respect to Orders made by you through the Wolt at Work Feature. If there is any discrepancy
+between these Terms of Service and the Wolt Corporate Terms & Conditions applicable to the
+Customer Organization, the Wolt Corporate Terms & Conditions shall, however, prevail.
+The Terms of Service are concluded between us and the User only, and not with Apple Inc., and
+Apple Inc. is not responsible for the Wolt App or the content thereof. You agree that Apple Inc.,
+and Apple Inc.’s subsidiaries (“Apple”), are third party beneficiaries of the Terms of Service, and
+that, upon your acceptance of the Terms of Service, Apple will have the right (and will be
+deemed to have accepted the right) to enforce the Terms of Service against you as a third party
+beneficiary thereof.
+1. Definitions
+“Partner” means a restaurant, retail shop or other service partner who has signed a partner
+agreement with Wolt, or their substitute, and who, as a trader, offers its products and possible
+delivery or other services for sale through the Wolt Service.
+“Purchase Agreement” means an agreement for the purchase of Partner’s products and
+possible delivery or other services made on an Order. With respect to Orders placed through the
+Wolt at Work Feature, the Purchase Agreement forms a binding agreement between the Partner
+and the Customer Organization. With respect to Orders placed through any other payment
+method of the User, the Purchase Agreement forms a binding agreement between Partner and
+the User. 
+“Wolt” means:
+Wolt Enterprises Oy, Arkadiankatu 6, 00100 Helsinki, Finland, if the User is located in Finland,
+Wolt Česko s.r.o., Na poříčí 1047/26, Nové Město, 110 00 Prague 1, Czech Republic, if the User
+is located in the Czech Republic,
+Wolt Polska sp. z o.o., ul. Koszykowa 54, piętro 00-675 Warsaw, Poland, if the User is located in
+Poland,
+Wolt Enterprises Israel Ltd., Allenby St. 113, 6581706 Tel Aviv, Israel, if the User is located in
+Israel,
+Wolt Technologies Greece Provision of Food Services S.A., Leoforos Vouliagmenis 26, 11743
+Athens, Greece, if the User is located in Greece,
+Wolt d.o.o. Beograd-Stari Grad, Bulevar vojvode Bojovića 8, 11000 Belgrade, Serbia, if the User
+is located in Serbia,
+Wolt Azerbaijan LLC, Yasamal district, Hyatt Tower 2, 4th floor, 8 Izmir Street, AZ1065 Baku,
+Azerbaijan, if the User is located in Azerbaijan,
+Wolt Technologies Kazakhstan LLP, Park View, Kunaev St 77, 050000, Almaty, Kazakhstan, if
+the User is located in Kazakhstan,
+Wolt Slovensko s. r. o., Palisády 36, 811 06 Bratislava – Staré Mesto, Slovak Republic, registered
+in the Commercial register of the District Court Bratislava I, Section: Sro, Insert No.: 137637/B, if
+the User is located in Slovakia,
+Wolt Malta Limited, 171, Old Bakery Street, Valletta, VLT 1455, Malta, if the User is located in
+Malta,
+Wolt Norway AS, Øvre Slottsgate 4, 0157 Oslo, Norway, if the User is located in Norway,
+Wolt Latvija SIA, Elizabete iela 45/47, Riga, Latvia, if the User is located in Latvia,
+UAB Wolt LT, Jasinskio g. 14a-57, LT-01135, Vilnius, Lithuania, if the User is located in Lithuania,
+Wolt Japan K.K., Portal Point Shibuya 7F, 11-3, Jinnan 1-chome, Shibuya-ku, Tokyo, if the User
+is located in Japan,
+Wolt Georgia LLC, 49d Chavchavadze Ave 179, Tbilisi, Georgia, if the User is located in Georgia,
+Wolt Eesti OÜ, Aia 10 a, 10111, Tallinn, Estonia, if User is located in Estonia,
+Wolt Zagreb d.o.o., Metalčeva ul. 5, 1st floor, 10000 Zagreb, Croatia, if the User is located in
+Croatia,
+Wolt Danmark ApS, Borgergade 10, 2 sal., 1300 Copenhagen K, Denmark, if User is located in
+Denmark.
+Wolt Sverige AB, Celsiusgatan 10, 11230, Stockholm, Sweden, if the user is located in Sweden.
+Wolt Cyprus Limited, Stasikratous 35 3rd floor, office 302, 1065, Nicosia, Cyprus if the User is
+located in Cyprus.
+Wolt Magyarország Kft, Salétrom utca 4. földszint, 1085, Budapest, Hungary, if the User is
+located in Hungary.
+Wolt, tehnologije d.o.o. Ljubljana, Parmova ulica 53, 1000, Ljubljana, Slovenia, if the User is
+located in Slovenia.
+“Wolt App” means a digital application called Wolt provided by Wolt for natural and legal
+persons to order products from Wolt’s Partners.
+“Wolt at Work Account” means a user account in the Wolt App onto which the Wolt at Work
+Feature has been added.
+“Wolt at Work Feature” means the payment method and feature of the Wolt App through which
+the Customer Organization’s authorized Users can make Orders at the Customer Organization’s
+cost.
+“Wolt Service” means both Wolt App and Wolt website wolt.com and other additional locations
+as mentioned at wolt.com.
+“User” or “you” means a natural person using the Wolt Service. The User must be of the age of
+18 or older.
+2. Identity of Wolt
+Wolt Enterprises Oy, Arkadiankatu 6, 00100 Helsinki, Finland, business ID 2646674-9, VAT ID
+FI26466749, if the User is located in Finland,
+Wolt Česko s.r.o., Na poříčí 1047/26, Nové Město, 110 00 Prague 1, Czech Republic, business ID
+(IČO): 07030550, VAT ID (DIČ): CZ07030550, if the User is located in the Czech Republic,
+Wolt Polska sp. z o.o., ul. Koszykowa 54, piętro 00-675 Warsaw, Poland, entered into the
+register of entrepreneurs of the National Court Register, kept by District Court for the capital city
+of Warsaw in Warsaw, XII Business Department of the National Court Register under KRS No.
+0000745637, tax identification number NIP 7010846311, if the User is located in Poland,
+Wolt Enterprises Israel Ltd., Allenby St. 113, 6581706 Tel Aviv, Israel, company no. 51-588715-
+6, VAT ID 515887156, if the User is located in Israel,
+Wolt Technologies Greece Provision of Food Services S.A., Leoforos Vouliagmenis 26, 11743
+Athens, Greece, business ID 147811001000, VAT ID EL801047822, if the User is located in
+Greece,
+Wolt d.o.o. Beograd-Stari Grad, Nušićeva 14, 11000 Belgrade, Serbia, business ID 21408930,
+VAT ID 110976122, if the User is located in Serbia,
+Wolt Azerbaijan LLC, Yasamal district, Hyatt Tower 2, 4th floor, 8 Izmir Street, AZ1065 Baku,
+Azerbaijan, tax payer identification number 1404631321, VAT ID 1404631321, if the User is
+located in Azerbaijan*,
+Wolt Technologies Kazakhstan LLP, Park View, Kunaev St 77, 050000, Almaty, Kazakhstan,
+business ID 190540026305, if the User is located in Kazakhstan*,
+Wolt Slovensko s. r. o., Palisády 36, 811 06 Bratislava – Staré Mesto, Slovak Republic, business
+ID 52 396 771, registered in the Commercial register of the District Court Bratislava I, Section:
+Sro, Insert No.: 137637/B, VAT ID (IČ DPH): SK 2121036093, Tax ID (DIČ): 2121036093, if the
+User is located in Slovakia,
+Wolt Malta Limited, 171, Old Bakery Street, Valletta, VLT 1455, Malta, business ID C94616, if the
+User is located in Malta,
+Wolt Norway AS, Øvre Slottsgate 4, 0157 Oslo, Norway, business ID: 920464254, VAT ID: 920
+464 254 MVA, if the User is located in Norway,
+Wolt Latvija SIA, Elizabete iela 45/47, Riga, Latvia, business ID: 40203027461, VAT ID:
+LV40203027461, if the User is located in Latvia,
+UAB Wolt LT, Jasinskio g. 14a-57, 01135 Vilnus, Lithuania, business ID: 304573947, VAT ID:
+LT100011227411, if the User is located in Lithuania,
+Wolt Japan K.K., Portal Point Shibuya 7F, 11-3, Jinnan 1-chome, Shibuya-ku, Tokyo, Japan,
+business ID: 40100-01-204751, VAT ID: 4010001204751, if the User is located in Japan,
+Wolt Georgia LLC, 49d Chavchavadze Ave, 179 Tbilisi, Georgia, business ID 405260042 and
+VAT ID: 405260042, if the User is located in Georgia,
+Wolt Eesti OÜ, Aia 10 a, 10111 Tallinn, Estonia, business ID: 8273006000, VAT ID: 94112614, if
+User is located in Estonia,
+Wolt Zagreb d.o.o., Metalčeva ul. 5, 1st floor, 10000 Zagreb, Croatia, OIB: 25531986377, VAT
+ID: HR25531986377, if the User is located in Croatia,
+Wolt Danmark ApS, Borgergade 10, 2 sal., 1300 Copenhagen K, Denmark, business ID:
+37540447, VAT ID: DK37540447, if the User is located in Denmark,
+Wolt Sverige AB, Celsiusgatan 10, 11230, Stockholm, Sweden, business ID: 559049-2335, VAT
+ID: SE559049233501, if the user is located in Sweden,
+Wolt Cyprus Limited, Stasikratous 35 3rd floor, office 302, 1065, Nicosia, Cyprus, business ID:
+HE 404490, VAT ID: CY10404490R, if the User is located in Cyprus,
+Wolt Magyarország Kft, Salétrom utca 4. földszint, 1085, Budapest, Hungary, business ID: 01-
+09-322693, VAT ID: HU26296702, if the User is located in Hungary,
+Wolt, tehnologije d.o.o. Ljubljana, Parmova ulica 53, 1000, Ljubljana, Slovenia, business ID:
+8273006000, VAT ID: 94112614, if the User is located in Slovenia.
+Trade name: “Wolt",
+Email address: support@wolt.com.
+*Please note that while the Wolt Service is legally provided to you by your local Wolt entity in
+these countries, the payment service is arranged by Wolt Enterprises Oy through a third party
+payment service provider. This also means that Wolt Enterprises Oy is responsible for possible
+refunds, complaints and other claims related to your transactions in the Wolt Service. You may
+thus contact Wolt Enterprises Oy directly at the contact details provided above in case of any
+dispute or claim related to the Wolt Service.
+Information about the identity and products and services of the Partners are provided in the Wolt
+Service.
+3. Description of the Wolt Service
+3.1. Wolt provides a platform on which the User can purchase food and other products or
+services from the Partner of their choice as well as possible delivery services either from the
+Partner or Wolt, as applicable. In certain countries Partners charge Users a delivery fee and
+service fee for the delivery services as defined in more detail in the Wolt Service where relevant.
+3.2. The Partner provides the information about their products and possible services in the Wolt
+Service, including but not limited to information on product characteristics, allergens and
+instructions of use. If you have allergies or other dietary restrictions or for other reason wish to
+receive more detailed information about the products, please contact the relevant Partner. You
+can also contact Wolt's customer support who can contact the Partner on your behalf for such
+enquiries. The Partner is however responsible for providing accurate, up-to-date and legally
+required information about the products, including providing information on applicable prices
+and indicating the price per unit where required under applicable laws. Please note that the sale
+and purchase of the Partner’s products and possible services may be subject to additional terms
+and conditions of the Partner or Wolt on a case-by-case basis as set out in the Wolt Service.
+3.3. When selecting the Partner’s products and services that the User wishes to purchase from
+the Partner, the User makes a binding order to purchase the products and services from the
+Partner on the terms and conditions presented to the User herein and in the Wolt Service before
+placing the order (“the Order”). After having received the Order, Wolt will transmit the details of
+the Order to the Partner. When the Order is accepted by the Partner and Wolt has provided the
+User with an order confirmation on behalf of the Partner, the User or the Customer Organization
+and the Partner enter into the Purchase Agreement for the purchase of the Partner's products
+and, if applicable, delivery or other services. In some cases, the Purchase Agreement for the
+purchase of the delivery service is entered into with Wolt instead of the Partner, as reflected on
+the receipt. Wolt will provide the User with a receipt on behalf of the Partner, unless regulation in
+the country where the User is located requires that the Partner provides the receipt directly to
+the User, for the products and, to the extent applicable, for the delivery services.
+3.4. The Partner selected by the User will prepare and/or collect and pack the products set out
+on the Order. Wolt is not responsible or liable towards the User for the proper execution of the
+Purchase Agreement by the Partner. Wolt is liable for the execution of the delivery services
+ordered by User from the Partner or Wolt on the Order as set out in these Terms of Service.
+3.5. When you use the Wolt Service, there may be a minimun value for purchase required, in
+which case you will be notified thereof before you make the Order on the Wolt Service. Where an
+Order fails to meet the minimun required value, you will have the possibility to pay the difference
+to meet the minimum value or to add more products to your Order. The Partner determines in its
+sole discretion the selection and pricing of their products available on the Wolt Service. The
+Partner may also impose certain restrictions on your Order, such as quantity limits and size
+limitations of the Order. The Partner is responsible for informing you of any limitation relating to
+the availability of any products. User accepts that in case a certain product is temporarily
+unavailable, the Partner will fulfill the remaining part of your Order without including the
+unavailable product in the Order. You will not be charged for products that are unavailable at the
+time of placing the Order.
+3.6. For Users located in Israel:
+“Purchase Agreement” means either one of the following binding agreements, as applicable (i)
+for the purchase of Partner’s products and possible delivery services made by an Order placed
+by a User, no matter any payment method of the User, or (ii) with respect to a Customer
+Organization, with respect to Orders placed through the Wolt at Work Feature. Wolt is a
+marketplace that facilitates transactions and delivery services by providing a platform on which
+the User can purchase food products and/or other products and delivery services in relation to
+food products and/or other products of certain Partners. When you purchase food products
+and/or other products from a Partner, Wolt facilitates the fulfillment of the purchase on the Wolt
+Service.
+Please note and take into consideration that any and all information displayed through the Wolt
+Service is displayed AS – IS by Wolt as received by it from the Partner and is under the complete
+and sole responsibility of the Partner. So, If you have allergies or any other dietary restrictions or
+if you have any question or concern with regard to any matter related to products sold and
+offered by the Partner, please contact the relevant Partner  which will provide you with the
+specific information upon request.
+When the User wishes to purchase through the use of the Wolt Service and the Order is
+accepted by the Partner and Wolt has provided the User with an order confirmation on behalf of
+the Partner, the User or the Customer Organization, as the case may be, shall be considered for
+all purposes to have entered into the Purchase Agreement. Wolt will provide the User with a
+receipt that will include payment for the products ordered from the Partner and payment for the
+delivery services.
+Wolt shall only be responsible for the transfer of the fees made by the User to the respective
+Partner and shall not, under any circumstances, be liable or responsible towards the User for the
+proper execution of the Order by the Partner. Both the User and the Partner each acknowledge
+and confirm that the Partner is solely liable for any defects in the contents and preparation of the
+Order or other shortcomings in the performance of the Order.
+4. Right of revocation
+4.1. You cannot withdraw from or cancel an Order for products or services once you have placed
+it, unless explicitly provided otherwise in these Terms of Service. Prior to placing an Order for a
+product or service you should carefully review your selection. For Users located in Azerbaijan:
+placing the Order also includes the User's consent to launch the performance of the relevant
+agreement(s) stipulated herein.
+4.2. If you are a consumer, you are entitled to a right of revocation in accordance with the
+statutory provisions of the country where you are located. Consumer in the sense of these Terms
+of Service means any natural person who uses the Wolt Service and places Orders for a purpose
+which predominantly cannot be attributed to their commercial or their self-employed
+professional activity.
+4.3. Wolt follows the limitations of consumers' statutory cancellation rights as set out in
+applicable laws, according to which the right of revocation shall not exist for Purchase
+Agreements concerning certain items, including, but not limited to, the following:
+products such as foodstuffs which are perishable or which may quickly pass their expiration
+date,
+products made to your specifications or clearly personalized,
+sealed products which are not suitable for return due to health protection or hygiene
+reasons, if such products were unsealed after the delivery,
+products which, according to their nature, are inseparably mixed, after delivery, with other
+items,
+sealed games, movies or computer software which were unsealed after delivery.
+4.4. You have the right to revoke the Purchase Agreement of products, for which the right of
+revocation exists, within 14 days from the day of delivery of the products on the Order without
+giving a reason for the cancellation. In order to exercise your right of revocation, you must inform
+Wolt of your decision to cancel by means of a clear statement (e.g., an email or a message sent
+through Wolt’s in-app customer service chat) within the said time period of 14 days. The Partner
+as the trader of the products on your Order has authorized Wolt to receive the revocation
+notification on the Partner’s behalf. In case the Partner has chosen to offer a longer cancellation
+period than 14 days, such a period will apply to Orders made through the Wolt Service if explicitly
+mentioned in the descriptive details for the Partner on the Wolt Service. If you wish, you can use
+the below model revocation form for making the revocation notification by filling in the
+information in the form and sending the information to Wolt, which information shall also be
+forwarded by Wolt to the respective Partner:
+Model revocation form
+-          To: [insert the name of the Partner, the Partner’s address and the Partner’s email
+address]:
+-          Herewith I/we (*) revoke the agreement concluded with me/us (*) regarding the purchase
+of the following goods (*)/ the provision of the following services (*)
+-          Ordered on (*)/received on (*)
+-          Name of the consumer(s)
+-          Address of the consumer(s)
+-          Signature(s) of the consumer(s) (only in case of notification on paper)
+-          Date
+(*) Delete as applicable.
+4.5. If you revoke the Purchase Agreement, Wolt will refund to you all payments we have received
+from you, including the delivery fee (and service fee where applicable) no later than 14 days from
+the date on which we received notice of your revocation of the Purchase Agreement or a part
+thereof. Note that the delivery fee (and service fee where applicable) will not be returned in case
+of only a partial revocation of your Order.
+4.6. For making the refund, we will use the same means of payment as you used for the original
+purchase of your Order, unless expressly agreed otherwise with you. Note that if you paid for the
+Order with Wolt credits, we shall refund you in Wolt credits. Wolt may refuse a refund until the
+Partner has received the products back or until you have provided proof that you have returned
+the products, whichever is earlier.
+4.7. You must return or send the products to the same Partner in the same location from which
+you made the Order. The contact details of the Partner’s point of sale are available on the Wolt
+Service. You have to return the products to the Partner as soon as possible and in any case no
+later than 14 days after the day on which you notified us of the revocation of the Purchase
+Agreement. This period is deemed to have been observed if you dispatch the products before
+the expiry of the period of 14 days.
+4.8. You shall bear the direct costs of returning the products. The returned products have to be
+in an unused condition and capable of being resold. You shall be liable for any loss in value of the
+products if such loss in value is due to handling of the products that is not necessary for testing
+their condition, properties and functionality.
+4.9. Sometimes it may be possible that some of the Partner’s products that you wish to purchase
+through the Wolt Service are temporarily out of stock. For such cases and to the extent the
+Partner has enabled substitutions, you may choose, prior to confirming your Order, whether you
+want to allow the Partner to substitute a missing item with a similar item. If you have allowed
+substitutions for a certain or all items in your Order, the Partner will substitute such missing items
+in accordance with the following principles: (i) the substitute will be chosen based on what the
+Partner considers to be the most appropriate substitute so that it corresponds as much as
+possible to the quantity, quality and price of the original item in the Order; (ii) substances
+typically causing allergies shall be carefully taken into account so that for example a lactose-free
+item is only substituted with a lactose-free item and a gluten-free item is only substituted with a
+gluten-free item; (iii) diet or light drink is substituted with a diet or light drink; (iv) organic is
+substituted with organic; and (v) domestically produced is substituted with domestically
+produced. You will not be charged for any additional fees or costs for a substituted item
+compared to the price of the original item in your Order. Should the price of the substitute be
+lower than the price of the original item in your Order, you will be charged the price of the
+substitute item.
+5. User Accounts
+5.1. You have a limited, non-exclusive, non-transferable, and non-sublicensable right to use the
+Wolt Service in the form offered to you by us from time to time solely for the purposes set out
+herein. The license granted to the User for the iOS Wolt App downloaded from Apple’s App Store
+is further limited to a license to use the Wolt App on any Apple-branded products that the User
+owns or controls and as permitted by the Usage Rules set forth in the App Store Terms of
+Service and these Terms of Service.
+5.2. In order to use the Wolt Service, the User must create a user account by following the
+registration instructions in the Wolt Service. The Wolt Service credentials are personal (unless
+otherwise agreed between Wolt and the Customer Organization). The User shall ensure that any
+user account credentials and equivalent information required to access the user account of the
+User or the Customer Organization are kept confidential and used in a secure manner not
+accessible by third parties. A User may have only one personal user account.
+5.3. Where it is suspected that any unauthorized person has become aware of a User’s user
+account credentials or has access to the user account of the User, the User shall immediately
+inform Wolt thereof. The User shall be responsible for any use of the Wolt Service and any
+activity under the user account of the User.
+5.4. In order to use the Wolt Service, you must submit valid credit card or other payment method
+information to Wolt. Wolt does not store information of your payment instrument, as this is done
+by a third party payment service provider used by Wolt. You agree to pay for all purchases arising
+from your use of the Wolt Service except for purchases made through the Wolt at Work Feature
+at the Customer Organization’s cost. You must keep the credit card and other payment
+information that you have submitted to your user account updated.
+6. Payments
+6.1. The User, or the Customer Organization in case of Wolt at Work Account, will pay the
+purchase price set out in the Order by using the relevant payment functionality of the Wolt
+Service. Wolt, or the Wolt group company authorized by Wolt, collects all payments from the
+Users or the Customer Organizations on behalf of the Partner. If the Order is made by using the
+Wolt at Work Feature, the User confirms the payment on behalf of the Customer Organization
+through the Wolt at Work Feature. The User’s or Customer Organization’s payment obligation
+shall arise upon placing an Order through the Wolt Service.
+6.2. The User may fulfil this payment obligation only by using the relevant online payment
+method provided in the Wolt Service. When the User, or the Customer Organization in case of
+Wolt at Work Account, has paid the purchase price to Wolt, the User or the Customer
+Organization has fulfilled its payment obligation towards the Partner.
+6.3. In Finland, you can fulfil your payment obligation by using a lunch benefit as payment
+method, if the Wolt Service is compatible with the lunch benefit provided by your employer. You
+are responsible for ensuring that the Order costs of food products and delivery services paid
+with the lunch benefit does not exceed the limit of the lunch benefit’s daily value. The amount
+exceeding this value can be paid with another acceptable payment method in the Wolt Service.
+You are obligated to comply with the tax administration’s guidelines regarding use of the lunch
+benefit. Please note for example that the lunch benefit is personal and does not cover purchase
+of gift cards, utility products, groceries, convenience food or processed food. You are therefore
+not entitled to buy such products with the lunch benefit through the Wolt Service.
+6.4. The payment will be automatically charged from the User’s credit card, lunch benefit or
+charged through the Customer Organization’s Wolt at Work Feature, upon delivery of the Order.
+Wolt is entitled to make an authorisation hold on behalf of the Partner on the User’s credit card,
+lunch benefit or Customer Organization’s Wolt at Work Feature once the Order has been placed
+through the Wolt Service. Wolt uses a third party payment service provider for processing of
+payments. In Serbia all payments are processed locally within Serbia by a third party payment
+service provider.
+6.5. Cash is an additional payment method available in Slovenia, Azerbaijan, Croatia, Cyprus,
+Georgia, Greece, Kazakhstan, Malta, Serbia, Japan, Czech Republic and Slovakia. Refunds in
+cash orders will be made in Wolt credits or via another appropriate or legally required method. If
+a User who has made a cash order is not in the agreed place of delivery at the agreed time or 5
+minutes thereafter, Wolt's customer support will contact the User and agree on an appropriate
+arrangement for the payment. If the customer support cannot reach the User within 24 hours of
+the no-show, Wolt will take appropriate measures which may include disabling the cash option
+from the User or even disabling the User's account in the Wolt Service for further Orders.
+6.6. In Israel payments are processed either locally within Israel or arranged by Wolt Enterprises
+Oy through third party payment service providers. In case payments are arranged by Wolt
+Enterprises Oy through third party payment service providers, Wolt Enterprises Oy is responsible
+for possible refunds, complaints and other claims related to your transactions in the Wolt
+Service.
+7. Wolt credits and tokens
+7.1. The Users of the Wolt Service can obtain Wolt credits or tokens e.g. by inviting new users to
+sign up to the Wolt Service. The User can use Wolt credits and tokens to get a discount on their
+purchases in the Wolt Service.
+7.2. For Users in Denmark section 7.1. is not applicable. For Users in Denmark, you can share your
+code on social media or as a message by pasting the link from your user profile and inserting it
+where you wish. Your friends will get Wolt credits when they use your code for their first order.
+7.3. Wolt may unilaterally determine the conditions applicable to the granting, use and validity of
+the Wolt credits and tokens.
+7.4. Any signing-up bonus credits or tokens can be used only once.
+7.5. Wolt credits and tokens cannot be exchanged to cash.
+7.6. The Wolt credits and tokens will be nullified if Wolt detects any abuse of Wolt credits or
+tokens or suspects or detects that Wolt credits or tokens have been granted on incorrect
+grounds. In such cases, Wolt shall invoice the amount that was paid using such Wolt credits or
+tokens.
+8. Delivery of an Order
+8.1. If the User orders the delivery of the Order through the Wolt Service, the Order will be
+delivered to the location confirmed by the User in the Wolt Service. The User also has to provide
+a street address for the confirmed location in the Wolt Service. If no-contact delivery is applied
+to your Order, please note that the goods shall be deemd to be delivered when they are left at
+the door and the courier partner marks the Order status as "delivered" on the Wolt Service after
+which you bear the risk of the items in the Order.
+8.2. The User must be available to receive calls at the phone number the User has submitted to
+the Wolt Service. If the phone number provided by the User cannot be reached, the delivery may
+be cancelled by Wolt or the Partner and the User or Customer Organization may be charged for
+the full price of the Order (not applicable to Users located in Slovenia).
+8.3. The User may place an Order to be delivered as soon as possible (standard delivery method)
+or by pre-ordering a certain delivery time, to the extent these options are available on the Wolt
+Service at the time of placing the Order.
+8.4. Standard delivery option: The User must be present at the confirmed location set out in the
+Order between the time of making the Order until the products set out in the Order have been
+received. If the User is not available at the location they have confirmed within five minutes of the
+arrival of the delivery of the ordered products and the User does not respond after two contact
+attempts by the courier partner making the delivery, the delivery may be cancelled by Wolt or the
+Partner and the User or Customer Organization may be charged for the full price of the Order.
+8.5. “Pre-order” delivery option: the User must be present at the confirmed location between ten
+minutes prior to the pre-ordered delivery time until the moment of delivery in the Order to
+receive the Order.
+9. Picking up and collecting an Order at the Partner’s point of sale
+9.1. If the User has not ordered delivery of the Partner’s products set out in the Order, but the
+collection at the Partner’s point of sale, the products can be collected at the point of sale of the
+Partner the User has chosen in connection with the Order. The User will receive a separate
+electronic confirmation when the products are ready for collection. The Partner or Wolt may set
+conditions for the identification of the User when picking up the products set out in the Order.
+9.2. The Partner shall retain the ordered products for 60 minutes after the Partner has notified
+the User that the Order is ready for collection. However, this obligation is limited to the opening
+hours of the particular Partner’s point of sale and the Order has to be collected before the
+closing time of said point of sale of the Partner.
+10. Eat-in Order
+10.1. If the User has selected the option to consume the products set out in the Order at the
+point of sale of the Partner, the User will receive a separate electronic confirmation about the
+expected time of when the products will be ready to be consumed at the Partner’s point of sale.
+11. Time estimates
+11.1. Any delivery time or pick-up time or other time estimate communicated to the User by the
+Partner or Wolt in the Wolt Service are only estimated times. There is no guarantee that the
+Order will be delivered or available for pick-up or consumption at the estimated time. Delivery
+times of the products may also be affected by factors such as traffic jams, rush hours and
+weather conditions.
+12. Intellectual Property Rights
+12.1. All Intellectual Property Rights in or related to the Wolt Service and thereto related
+documentation and all parts and copies thereof shall remain exclusively vested with and be the
+sole and exclusive property of Wolt and/or its affiliates/subcontractors/licensors. “Intellectual
+Property Rights” shall mean copyrights and related rights (including database and catalogue
+rights and photography rights), patents, utility models, design rights, trademarks, tradenames,
+trade secrets, know-how and any other form of registered or unregistered intellectual property
+rights.
+12.2. These Terms of Service do not grant the User any Intellectual Property Rights in the Wolt
+Service and all rights not expressly granted hereunder are reserved by Wolt and its
+subcontractors/licensors.
+12.3. Apple shall not be responsible for any investigation, defense, settlement or discharge of any
+claim that the iOS Wolt App or your use of it infringes any third party intellectual property right.
+12.4. User grants to Wolt a worldwide, royalty-free, sublicensable, and transferable right to use,
+modify, reproduce, distribute, display and publish any content provided by User in connection
+with the Wolt Service. Such content may include photographs, data, information, feedback,
+suggestions, text, and other materials that are uploaded, posted or otherwise transmitted
+relating to the Wolt Service.
+13. Additional Provisions for use of the Wolt Service
+13.1. The Wolt Service is only available to persons of the age of 18 years or older. You may not
+register as a User if you do not fulfill this requirement.
+13.2. The User shall observe all applicable rules and regulations when using the Wolt Service,
+including the purchase of alcohol and tobacco products. To the extent delivery of alcoholic
+beverages or tobacco products is available in the country where the User is located, the User
+may be refused delivery of alcoholic beverages or tobacco products in case the User is unable to
+provide a valid photo ID to Wolt’s courier partner delivering the Order proving that the User is at
+least 18 years of age. The User may be refused delivery of alcoholic beverages also in other
+cases stipulated by laws in the country where the User is located (e.g. if the User is showing
+signs of intoxication).
+13.3. Wolt is constantly developing the Wolt Service and Wolt may change or remove different
+parts of the Wolt Service, including features, the products and Partners available in the Wolt
+Service in part or in whole.
+13.4. By using the Wolt Service, the User may encounter content or information that might be
+inaccurate, incomplete, delayed, misleading, illegal, offensive or otherwise harmful. Wolt
+generally does not review content provided by the Partners. Wolt is not responsible for third
+parties' (including the Partners') content or information or for any damages arising as a result of
+the use of or reliance on it.
+13.5. You or the Customer Organization shall be responsible for obtaining and maintaining any
+devices or equipment (such as telephones) and connections needed for access to and use of the
+Wolt Service and all charges related thereto.
+13.6. The User will not: (i) use or attempt to use another person’s personal Wolt account and/or
+access another person’s personal payment data through the Wolt Service or use another
+person’s personal payment cards when using the Wolt Service, without consent of that other
+person; (ii) copy, modify or create derivative works of the Wolt Service or any related technology;
+(iii) reverse engineer, decompile, disassemble, decipher or otherwise attempt to derive the
+source code for the Wolt Service or any related technology, or any part thereof; (iv) remove any
+copyright, trademark or other proprietary rights notices contained in or on the Wolt Service; (v)
+remove, cover or obscure any advertisement included on the Wolt Service; (vi) collect, use, copy,
+or transfer any information obtained from the Wolt Service without the consent of Wolt; (vii) use
+bots or other automated methods to use the Wolt Service; (viii) create a Wolt account using a
+fake identity or an identity of another person; or (ix) access the Wolt Service except through the
+interfaces expressly provided by Wolt, such as the Wolt App and Wolt Website.
+13.7. Wolt is entitled to remove a User from the Wolt Service with immediate effect and/or refuse
+or cancel any Orders from a User if: (i) the User abuses the Wolt Service or causes any harm or
+detriment to the use of the Wolt Service or the Partners or Wolt or Wolt’s employees, (ii) Wolt has
+reasonable belief of fraudulent acts by the User when using the Wolt Service, (iii) the User places
+a false Order (for example by not paying or by not being present on the delivery or collection
+location in order to receive the Order) or otherwise fails to comply with his obligations arising
+from these Terms of Service; (iv) there is reasonable doubt about the correctness or authenticity
+of the Order. If Wolt cancels an Order that has already been paid for, Wolt shall transfer that
+amount into the same user account or Wolt at Work Account as the one from which the payment
+was made by the User.
+13.8. The controller of the personal data collected about Users is Wolt Enterprises Oy, unless
+otherwise indicated. Wolt Enterprises Oy shall process any personal data collected from the User
+in accordance with Wolt Privacy Statement.
+13.9. The User must comply with applicable third party terms of agreement when using the Wolt
+App or the Wolt Service.
+13.10. The User represents and warrants that (i) they are not located in a country that is subject
+to a U.S. Government embargo, or that has been designated by the U.S. Government as a
+“terrorist supporting” country; and (ii) they are not listed on any U.S. Government list of
+prohibited or restricted parties.
+14. Term and termination
+14.1. These Terms of Service are in force as a binding agreement between Wolt and the User until
+further notice as long as the User is using the Wolt Service. 
+14.2. The User can discontinue the use of the Wolt Service at any time. Wolt can discontinue
+providing the Wolt Service permanently or temporarily at any time.
+15. Defects and complaints
+15.1. Please note that the Wolt Service may at any time be interrupted or permanently
+discontinued. The Wolt Service may also be temporarily suspended. Do not use the Wolt Service
+for backing up any data. While we do our best in providing you our platform and services
+(including new and/or temporary services such as no-contact deliveries, deliveries with novel
+technology or deliveries of new product categories) error-free, Wolt does not promise or
+guarantee you anything regarding the reliability, functionality, timeliness, quality or suitability of
+the Wolt Service, its features or any service offered by Wolt. Wolt does not promise or guarantee
+anything that is not expressly mentioned in these Terms of Service.
+15.2. The Partner is solely liable for the contents, quality, safety and packaging of their products
+sold through the Wolt Service and has a statutory defect liability for their products as set out in
+the applicable laws. You are responsible for inspecting the products in your Order without undue
+delay after receiving the Order. If there are any defects or other quality shortcomings in the
+products of your Order, then you should contact either the customer service of Wolt, acting on
+behalf of the Partner, or the Partner directly and include a clear description of the defects or
+shortcomings. Regarding consumer goods, notices of defects should be made within a
+reasonable time from detecting the defect, however no later than within two months after being
+detected. Please note that in case of defects in foodstuffs or other products that by their nature
+spoil or age rapidly, it is crucial that you notify the defect as soon as possible to enable proper
+investigation and verification of the defect. Please note that Wolt or the Partner may ask you to
+send a picture of the product in question in order to document and verify the defects. In case of
+a defect or a non-confirmity in the products of your Order, you are entitled to reimbursement in
+accordance with applicaple laws.
+15.3. The Partner is solely liable for any defects in the contents and preparation or packaging of
+the Order or other shortcomings in the performance of the Purchase Agreement. Wolt is not
+responsible for the information provided by the Partner on the Wolt Service and does not give
+any warranty on the availability, quality or suitability of the products.
+15.4. When the User who is located in Israel and uses Cibus as the payment method, any
+potential refunds will be only made in Wolt credits and not as Cibus allowance.
+15.5. Apple has no obligation whatsoever to furnish any maintenance and support services with
+respect to the Wolt App. To the extent that any maintenance or support is required by applicable
+law, we, not Apple, shall be obligated to furnish any such maintenance or support. To the extent
+any warranty exists under law that cannot be disclaimed, we, not Apple, shall be solely
+responsible for such warranty. We, not Apple, are responsible for addressing any claims of the
+User or any third party relating to the iOS Wolt App or the User’s possession and/or use of the
+iOS Wolt App, including, but not limited to: (i) product liability claims; (ii) any claim that the iOS
+Wolt App fails to conform to any applicable legal or regulatory requirement; and (iii) claims
+arising under consumer protection, privacy, or similar legislation, including in connection with the
+iOS Wolt App’s use of the HealthKit and HomeKit frameworks.
+16. Applicable Law and Dispute Resolution
+16.1. These Terms of Service shall be governed by and construed in accordance with the laws of
+the country where the User is located. 
+16.2. If you are a consumer, please note that you cannot be deprived of the rights granted to you
+by the mandatory consumer protection laws of your country of domicile. 
+16.3. Disputes arising from these Terms of Service shall be resolved by the competent courts of
+the country where the User is located. A consumer may, however, always institute proceedings in
+the competent court of its domicile. If you are a User domiciled in the EU, you and Wolt may also
+use the ODR platform managed by the European Commission to settle disputes. This platform
+can be found on ec.europa.eu/odr. You may also refer a dispute to the consumer disputes board
+or other corresponding out-of-court institution in your domicile (such as, by way of example, the
+Finnish Consumer Disputes Board, kkv.fi/kuluttajaneuvonta, in Finland, the Czech Trade
+Inspection Authority, coi.cz, in the Czech Republic or the Polish Permanent Amicable Consumer
+Court at the competent Provincial Inspectorate of Trade Inspection, uokik.gov.pl, in Poland).
+17. Amendments
+17.1. These User Terms of Service are subject to amendments.
+17.2. Wolt shall publish the amended User Terms of Service at the Wolt Website. Wolt shall inform
+the User of any changes that are material by nature on the Wolt Service or by email to the email
+address submitted to the Wolt Service by the User. If the User does not agree to any amended
+Wolt Terms of Service, they shall discontinue the use of the Wolt Service.
+18. Assignment
+18.1. Wolt shall be entitled to assign all or any of its rights or obligations hereunder in whole or
+part to an affiliate or successor or to a purchaser or acquirer of its business assets relating to
+Wolt Service without the User’s prior consent.
+18.2. The User shall not be entitled to assign any of its rights or obligations hereunder in whole or
+part.
+Updated 24.5.2021
+Wolt privacy statement
+Wolt Enterprises Oy and certain Wolt group companies (“Wolt”, “we”) process personal data of
+their users of Wolt’s food ordering services (“Wolt App”) and the visitors of the
+website wolt.com (“Website”).
+In this Privacy Statement, the word “Wolt Services” refers jointly to the Website and the Wolt
+App. In this Privacy Statement, the word “User” or “you” refers jointly to our and our group
+companies’ customers, representatives and other authorized users of our customer
+organizations, potential customers and the users of the Wolt Services. Our Privacy Statement
+explains, for example, the types of personal data we process, how we process the personal data
+and how you may exercise your rights as a data subject (e.g. right to object, right of access).
+Some of our services might be subject to a separate privacy policy. If a separate privacy policy
+applies to a particular service, we will post it in connection with the service in question.
+This Privacy Statement may be updated from time to time in order to reflect the changes in data
+processing practices or otherwise. You can find the current version on the Website. We will not
+make substantial changes to this Privacy Statement or reduce the rights of the Users under this
+Privacy Statement without providing a notice thereof.
+1. DATA CONTROLLER(S)
+This Privacy Statement applies to processing of personal data carried out by Wolt.
+In relation to the processing of personal data of Users in the below countries, Wolt Enterprises
+Oy and the local Wolt group company are acting as joint data controllers. This means that Wolt
+Enterprises Oy and the local Wolt group company together determine the purposes for and
+means by which personal data is processed. The country-specific joint controllers are listed
+below:
+Wolt Česko s.r.o., Na poříčí 1047/26, Nové Město, 110 00 Prague 1, Czech Republic, if the User
+is located in the Czech Republic,
+Wolt Polska sp. z o.o., ul. Koszykowa 54, piętro 00-675 Warsaw, Poland, if the User is located in
+Poland,
+Wolt Enterprises Israel Ltd., Allenby St. 113, 6581706 Tel Aviv, Israel, if the User is located in
+Israel,
+Wolt Technologies Greece Provision of Food Services S.A., Leoforos Vouliagmenis 26, 11743
+Athens, Greece, if the User is located in Greece,
+Wolt d.o.o. Beograd-Stari Grad, Bulevar vojvode Bojovića 8, 11000 Belgrade, Serbia, if the User
+is located in Serbia,
+Wolt Azerbaijan LLC, Yasamal district, Hyatt Tower 2, 4th floor, 8 Izmir Street, AZ1065 Baku,
+Azerbaijan, if the User is located in Azerbaijan,
+Wolt Technologies Kazakhstan LLP, Park View, Kunaev St 77, 050000, Almaty, Kazakhstan, if
+the User is located in Kazakhstan,
+Wolt Slovensko s. r. o., Palisády 36, 811 06 Bratislava – Staré Mesto, Slovak Republic, registered
+in the Commercial register of the District Court Bratislava I, Section: Sro, Insert No.: 137637/B, if
+the User is located in Slovakia,
+Wolt Malta Limited, 171, Old Bakery Street, Valletta, VLT 1455, Malta, if the User is located in
+Malta,
+Wolt Norway AS, Øvre Slottsgate 4, 0157 Oslo, Norway, if the User is located in Norway,
+Wolt Latvija SIA, Elizabete iela 45/47, Riga, Latvia, if the User is located in Latvia,
+UAB Wolt LT, Jasinskio g. 14a-57, LT-01135, Vilnius, Lithuania, if the User is located in Lithuania,
+Wolt Japan K.K., Portal Point Shibuya 7F, 11-3, Jinnan 1-chome, Shibuya-ku, Tokyo, if the User
+is located in Japan,
+Wolt Georgia LLC, 49d Chavchavadze Ave 179, Tbilisi, Georgia, if the User is located in Georgia,
+Wolt Eesti OÜ, Aia 10 a, 10111, Tallinn, Estonia, if User is located in Estonia,
+Wolt Zagreb d.o.o., Metalčeva ul. 5, 1st floor, 10000 Zagreb, Croatia, if the User is located in
+Croatia,
+Wolt Danmark ApS, Borgergade 10, 2 sal., 1300 Copenhagen K, Denmark, if User is located in
+Denmark.
+Wolt Sverige AB, Celsiusgatan 10, 11230, Stockholm, Sweden, if the user is located in Sweden.
+Wolt Cyprus Limited, Stasikratous 35 3rd floor, office 302, 1065, Nicosia, Cyprus if the User is
+located in Cyprus.
+Wolt Magyarország Kft, Salétrom utca 4. földszint, 1085, Budapest, Hungary, if the User is
+located in Hungary.
+Wolt, tehnologije d.o.o. Ljubljana, Parmova ulica 53, 1000, Ljubljana, Slovenia, if the User is
+located in Slovenia.
+Wolt Enterprises Oy has been appointed responsible for handling all data subject requests and
+questions relating to the personal data processing of the Wolt group on behalf of the local joint
+controllers.
+2. WOLT’S CONTACT DETAILS
+Name: Wolt Enterprises Oy
+Business ID: 2646674-9 
+Correspondence address: Arkadiankatu 6, 00100 Helsinki, Finland 
+E-mail address: support@wolt.com 
+wolt.com
+Wolt has appointed a data protection officer who you can reach through the above contact
+details.
+3. PERSONAL DATA PROCESSED AND SOURCES OF DATA
+The personal data collected and processed by us can be divided into two general data
+categories: User Data and Analytics Data.
+User Data
+User Data is personal data collected directly from you or from our customer organization on
+behalf of which you are using the Wolt Services (“Customer Organization”), as the case may be.
+We may collect User Data from our Users and Customer Organizations in a variety of ways,
+including, after conclusion of a service agreement with the Customer Organization or when
+Users register to the Wolt Services, subscribe to a newsletter or fill out a form. Further, please
+note that we also collect details of any transactions and payments you carry out through the
+Wolt Services.
+User Data that is necessary in order to use the Wolt Services
+The following personal data collected and processed by us is necessary in order for a proper
+performance of the contract between you and us as well as for our legitimate interest whilst
+fulfilling our contractual obligations towards our Customer Organizations and for the compliance
+with our legal obligations.
+After conclusion of the service agreement between us and the Customer Organization, the
+Customer Organization provides us with your full name and email address.  
+When you register to the Wolt Services and create a user account, you need to provide us with
+the following information:
+full name
+telephone number
+email address 
+information relating to your payment instrument(s) such as the number of your payment
+instrument(s) and the expiration date of your payment instrument(s) (required for the
+purposes of ordering food products via the Wolt Services, however not stored by Wolt,
+since Wolt uses a third party payment service provider for processing of payments)
+User Data you give us voluntarily
+Your user or customer experience may be enhanced by providing us with the following
+information: 
+Additional Account Information:
+a picture
+delivery address
+location data (if you consent to the processing of your location data)
+other information you provide either when creating a user account or later when modifying
+your account profile
+Other Information. We may also process other information provided by you voluntarily
+such as:
+information you provide when rating our services
+marketing opt-ins and opt-outs
+information you provide by phone or in email or chat correspondence with us, including call
+recordings of your calls with our customer service 
+In addition to User Data collected from you and the Customer Organization, we process certain
+personal data third party service providers provide about you. 
+If you connect or login to your account with Facebook, Facebook shares with us personal
+information about you such as your profile picture, a sample of your Facebook friends and your
+Facebook ID. 
+Analytics Data
+Although we do not normally use Analytics Data to identify you as an individual, you can
+sometimes be recognized from it, either alone or when combined or linked with User Data. In
+such situations, Analytics Data can also be considered personal data under applicable laws and
+we will treat such data as personal data.
+We may automatically collect the following Analytics Data when you visit or interact with the Wolt
+Services:
+Device Information. We collect the following information relating to the technical device
+you use when using the Wolt Services:
+device and device identification number, device IMEI
+country
+IP address
+browser type and version
+operating system
+Internet service providers
+advertising identifier of your device
+visitor identifier
+Usage Information. We collect information on your use of the Wolt Services, such as:
+time spent on the Wolt Services 
+interaction with the Wolt Services
+information on your orders made through the Wolt Services
+the URL of the website you visited before and after visiting the Wolt Services
+the time and date of your visits to the Wolt Services
+the sections of the Wolt Services you visited
+the products you searched for while using the Wolt Services
+Cookies
+We use various technologies to collect and store Analytics Data and other information when the
+Users visit the Wolt Services, including cookies and web beacons.
+Cookies are small text files sent and saved on your device that allows us to identify visitors of the
+Wolt Services and facilitate the use of the Wolt Services and to create aggregate information of
+our visitors. This helps us to improve the Wolt Services and better serve our Users. The cookies
+will not harm your device or files. We use cookies to tailor the Wolt Services and the information
+we provide in accordance with the individual interests of our Users. 
+You can manage the cookie preferences you have submitted earlier by clicking here.
+The Users may choose to set their web browser to refuse cookies, or to alert when cookies are
+being sent. For example, the following links provide information on how to adjust the cookie
+settings on some popular browsers: 
+Safari
+Google Chrome
+Internet Explorer
+Mozilla Firefox
+Please note that some parts of the Wolt Services may not function properly if use of cookies is
+refused.
+A web beacon is a technology that allows identifying readers of websites and emails e.g. for
+identifying whether an email has been read. 
+Web analytics services
+The Wolt Services use Google Analytics and other web analytics services to compile Analytics
+Data and reports on visitor usage and to help us improve the Wolt Services. For an overview
+of Google Analytics, please visit Google Analytics. It is possible to opt-out of Google Analytics
+with the following browser add-on tool: Google Analytics opt-out add-on.
+Advertising and visitor identifiers
+The Wolt Services use pseudonymized identifiers to track and predict your app and service
+usage and preferences.
+You can opt-out of the use of these identifiers by changing your operating system settings as
+follows:
+Advertising identifiers can be disabled on iOS mobile devices by turning on the Limit Ad Tracking
+tab (Settings → Privacy → Advertising → Limit Ad Tracking). For an overview and more
+information on the advertising identifier, please see Apple Advertising and Privacy site.
+Wolt visitor identifiers can be disabled on iOS and Android mobile devices by changing your
+settings (for iOS: Settings → Wolt → Wolt settings → Limit Tracking, and for Android: Wolt
+application → Profile tab → Settings icon in the top-right corner).
+4. PURPOSES AND LEGITIMATE GROUNDS FOR THE PROCESSING OF YOUR PERSONAL
+DATA
+Purposes
+There are several purposes of the processing of your personal data by Wolt:
+To provide the Wolt Services and carry out our contractual obligations (legal ground:
+performance of a contract and legitimate interest)
+Wolt processes your personal data to be able to offer the Wolt Services to you under the
+contract between you and Wolt or between Customer Organization and Wolt. 
+We use the data for example to handle your payments or any refunds (where applicable) and to
+provide our partners (the restaurants and our courier partners) with the information necessary
+for the preparation or delivery of your order. If you contact our customer service, we will use the
+information provided by you to answer your questions or solve your complaint. 
+For our legal obligations (legal ground: compliance with a legal obligation)
+Wolt processes data to enable us to administer and fulfil our obligations under law. This includes
+data processed for complying with our bookkeeping obligations and providing information to
+relevant authorities such as tax authorities.
+For claims handling and legal processes (legal ground: legitimate interest)
+Wolt may process personal data in relation to claims handling, debt collection and legal
+processes. We may also process data for the prevention of fraud, misuse of our services and for
+data, system and network security.
+For customer communication and marketing (legal ground: legitimate interest)
+Wolt processes your personal data to contact you regarding the Wolt Services and to inform you
+of changes relating to them. Your personal data are also used for the purposes of marketing the
+Wolt Services to you. 
+For quality improvement and trend analysis (legal ground: legitimate interest)
+We may also process information about your use of the Wolt Services to improve the quality of
+the Wolt Services e.g. by analyzing any trends in the use of the Wolt Services. In order to ensure
+that our services are in line with your needs, personal data can be used for things like customer
+satisfaction surveys. When possible, we will do this using only aggregated, non-personally
+identifiable data.
+Legal grounds for processing
+Wolt processes your personal data to perform our contractual obligations towards you or the
+Customer Organization and to comply with legal obligations. Furthermore, we process your
+personal data to pursue our legitimate interest to run, maintain and develop our business and to
+create and maintain customer relationships. When choosing to use your data on the basis of our
+legitimate interests, we weigh our own interests against your right to privacy and e.g. provide you
+with easy to use opt-out from our marketing communications and use pseudonymized or non-
+personally identifiable data when possible.
+In some parts of the Wolt Services, you may be requested to grant your consent for the
+processing of personal data. In this event, you may withdraw your consent at any time.
+If you place an order with a Partner who is selling you medicine or other products and services
+relating to your health, Wolt may process a limited amount of personal data concerning your
+health  in connection to such order. Wolt processes the personal data to the extent necessary to
+perform the contract between you and Wolt for purposes of managing and delivering your Order.
+Wolt adheres to any additional safeguards that apply to processing such personal data under
+applicable laws and regulations. If required under applicable laws, Wolt will ask for separate
+consent for processing such personal data and you may withdraw such consent anytime through
+your profile settings or contacting Wolt support services at support@wolt.com.
+For Users located in Israel:By entering, connecting to, accessing or using the Wolt Services, you
+agree and consent to the terms and conditions set forth in this Privacy Statement, including to
+the collection, processing, transfer and use of your personal data which is collected as part of
+the Wolt Services. If you disagree to any term provided herein, you may not access or use the
+Wolt Services. You also acknowledge and confirm that you are not required to provide us with
+your personal data and that such information is voluntarily provided to us. 
+5. TRANSFER TO COUNTRIES OUTSIDE EUROPE
+Wolt stores your personal data primarily within the European Economic Area. However, we have
+service providers and operations in several geographical locations. As such, we and our service
+providers may transfer your personal data to, or access it in, jurisdictions outside the European
+Economic Area or the User’s domicile. 
+We will take steps to ensure that the Users’ personal data receives an adequate level of
+protection in the jurisdictions in which they are processed. We provide adequate protection for
+the transfers of personal data to countries outside of the European Economic Area through a
+series of agreements with our service providers based on the Standard Contractual Clauses or
+through other appropriate safeguards.
+More information regarding the transfers of personal data may be obtained by contacting us on
+any of the addresses indicated above. 
+6. RECIPIENTS
+We only share your personal data within the organization of Wolt if and as far as reasonably
+necessary for the purposes of this Privacy Statement.
+For users in Japan: We only share and jointly utilize your personal data mentioned in Article 3 for
+the purpose of use mentioned in Article 4 within the organization of Wolt if and as far as
+reasonably necessary for the purposes of this Privacy Statement. Wolt Enterprises Oy is the
+entity responsible for the management of jointly used Personal Information.
+We do not share your personal data with third parties outside of Wolt’s organization unless one
+of the following circumstances applies:
+For the purposes set out in this Privacy Statement and to authorized service providers
+To the extent that third parties (such as the restaurants which prepare your order, our courier
+partners who deliver your order and Customer Organization which may pay your order) need
+access to personal data in order for us to perform the Wolt Services, we provide such third
+parties with your data. As an example, we may share your phone number with the partner
+preparing your order if it's necessary e.g. for asking you whether you accept a replacement
+product in the order or inform you that an item is missing from your order or for any special
+request clarifications.
+Furthermore, we may provide your personal data to our affiliates or to authorized service
+providers who perform services for us (including data storage, accounting, sales and marketing)
+to process it for us and to payment service providers to process your payments to us.
+When data is processed by third parties on behalf of Wolt, Wolt has taken the appropriate
+contractual and organizational measures to ensure that your data are processed exclusively for
+the purposes specified in this Privacy Statement and in accordance with all applicable laws and
+regulations and subject to our instructions and appropriate obligations of confidentiality and
+security measures.
+Please bear in mind that if you provide personal data directly to a third party, such as through a
+link in the Wolt Services, the processing is typically based on their policies and standards.
+For legal reasons and legal processes
+We may share your personal data with third parties outside Wolt if we have a good-faith belief
+that access to and use of the personal data is reasonably necessary to: (i) meet any applicable
+law, regulation, and/or court order; (ii) detect, prevent, or otherwise address fraud, crime,
+security or technical issues; and/or (iii) protect the interests, properties or safety of Wolt, the
+Users or the public as far as in accordance with the law. When possible, we will inform you about
+such processing.
+For other legitimate reasons
+If Wolt is involved in a merger, acquisition or asset sale, we may transfer your personal data to
+the third party involved. However, we will continue to ensure the confidentiality of all personal
+data. We will give notice to all the Users concerned when the personal data are transferred or
+become subject to a different privacy statement. 
+With your explicit consent
+We may share your personal data with third parties outside Wolt when we have your explicit
+consent to do so. You have the right to withdraw this consent at all times free of charge by
+contacting us.
+7. STORAGE PERIOD
+Wolt does not store your personal data longer than is legally permitted and necessary for the
+purposes of providing the Wolt Services or the relevant parts thereof. The storage period
+depends on the nature of the information and on the purposes of processing. The maximum
+period may therefore vary per use.
+Most personal data relating to a User’s user account with the Wolt Services will be deleted after
+a period of 90 days have lapsed after the User has deleted its user account with the Wolt
+Services. Thereafter, a part of the personal data relating to a User’s user account with the Wolt
+Services may be stored only as long as such processing is required by law or is reasonably
+necessary for our legal obligations or legitimate interests such as claims handling, bookkeeping,
+internal reporting and reconciliation purposes. All personal data relating to a User’s user account
+with the Wolt Services will be deleted within a period of 10 years after the User has deleted its
+user account with the Wolt Services, with the exception of personal data required in certain rare
+situations such as legal proceedings.
+We will store Analytics Data of Users that do not have an account with the Wolt Services for a
+period of 90 days.
+8. YOUR RIGHTS
+Right of access
+You have the right to access and be informed about your personal data processed by us. We give
+you the possibility to view certain data through your user account with the Wolt Services or
+request a copy of your personal data.
+Right to withdraw consent
+In case the processing is based on a consent granted by the User, the User may withdraw the
+consent at any time free of charge. Withdrawing a consent may lead to fewer possibilities to use
+the Wolt Services. The withdrawal of consent does not affect the lawfulness of processing based
+on consent before its withdrawal.
+Right to rectify
+You have the right to have incorrect or incomplete personal data we have stored about you
+corrected or completed by contacting us. You can correct or update some of your personal data
+through your user account in the Wolt Services. 
+Right to erasure
+You may also ask us to delete your personal data from our systems. We will comply with such
+request unless we have a legitimate ground to not delete the data. 
+Right to object
+You may have the right to object to certain use of your personal data if such data are processed
+for other purposes than necessary for the performance of the Wolt Services or for compliance
+with a legal obligation. If you object to the further processing of your personal data, this may lead
+to fewer possibilities to use the Wolt Services.
+Right to restriction of processing
+You may request us to restrict processing of personal data for example when your data erasure,
+rectification or objection requests are pending and/or when we do not have legitimate grounds to
+process your data. This may however lead to fewer possibilities to use the Wolt Services.
+Right to data portability
+You have the right to receive the personal data you have provided to us yourself in a structured
+and commonly used format and to independently transmit those data to a third party.
+How to use your rights
+The abovementioned rights may be used by sending a letter or an e-mail to us on the addresses
+set out above, including the following information: the full name, address, e-mail address and a
+phone number. We may request the provision of additional information necessary to confirm the
+identity of the User. We may reject or charge requests that are unreasonably repetitive,
+excessive or manifestly unfounded. 
+9. DIRECT MARKETING
+The User has the right to prohibit us from using the User’s personal data for direct marketing
+purposes, market research and profiling made for direct marketing purposes by contacting us on
+the addresses indicated above or by using the functionalities of the Wolt Services or the
+unsubscribe possibility offered in connection with any direct marketing messages.
+10. LODGING A COMPLAINT
+In case the User considers our processing of personal data to be inconsistent with the applicable
+data protection laws, the User may lodge a complaint with the local supervisory authority for
+data protection in Finland, the Data Protection Ombudsman (tietosuoja.fi). Alternatively, the User
+may lodge a complaint with the local supervisory authority for data protection of the User’s
+country of domicile. 
+11. INFORMATION SECURITY
+We use administrative, organizational, technical, and physical safeguards to protect the personal
+data we collect and process. Measures include for example, where appropriate, encryption,
+pseudonymization, firewalls, secure facilities and access right systems. Our security controls are
+designed to maintain an appropriate level of data confidentiality, integrity, availability, resilience
+and ability to restore the data. We regularly test the Wolt Services, systems, and other assets for
+security vulnerabilities. Furthermore, access to personal data by employees of Wolt is restricted
+and access is subject to what is necessary for purposes of the employee’s work assignments.
+Should despite of the security measures, a security breach occur that is likely to have negative
+effects to the privacy of the Users, we will inform the relevant Users and other affected parties,
+as well as relevant authorities when required by applicable data protection laws, about the
+breach as soon as possible.
+Wolt Enterprises Oy has been appointed responsible for handling all data subject requests and
+questions relating to the personal data processing of the Wolt group on behalf of the local joint
+controllers.
+In relation to the processing of personal data of Users in other countries than the ones listed
+above, Wolt Enterprises Oy acts as the sole data controller.
+Guidelines for Wolt Partners

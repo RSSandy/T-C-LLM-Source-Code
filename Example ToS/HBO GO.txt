@@ -1,0 +1,417 @@
+GENERAL TERMS AND CONDITIONS FOR HBO EUROPE
+S.R.O's ONLINE SERVICE 
+1 Generally 
+1.1 HBO Europe s.r.o. with its registered office at Jankovcova 1037/49, Praha 7, Postcode: 170 00, the Czech
+Republic, registered in the commercial register administered by the City Court in Praha, Section C, Insert 29418
+(hereinafter ”HBO”) provides (i) an on demand audiovisual media service; and (ii) the linear audiovisual media
+services: HBO, HBO2 and HBO3 channels, currently jointly known as “HBO GO”, to be made available at
+www.hbogo.pl or another website or application designated by HBO (hereinafter the ”Website”) with the linear
+and on-demand content as applicable (hereinafter the ”Service”). 
+
+1.2  These general terms and conditions (hereinafter the ”User Terms and Conditions”) apply to agreements
+between HBO and a natural person (hereinafter the “User”) regarding the Service. Only natural persons who are
+18 years of age and older who reside in Poland may enter into an agreement with HBO on  providing the Service.
+HBO has the right to refuse to enter into an agreement, or immediately terminate an agreement with a User if the
+User has previously breached HBO's User Terms and Conditions. HBO may, instead of refusing to enter into or
+terminate an agreement , require the User to provide security for such User's obligations pursuant to the
+agreement.
+
+1.3 These User Terms and Conditions  apply to and are binding upon HBO and the User. Agreements are also
+subject to special terms and conditions (including any special offers, prices, payment terms and methods, term of
+agreement, etc.), offered by HBO from time to time in conjunction with the execution by the User of an agreement
+with HBO. In conjunction with any conflicts between the special terms and conditions and the User Terms and
+Conditions, the special terms and conditions shall prevail. The User Terms and Conditions and the special terms
+and conditions together constitute the agreement applicable between the User and HBO (hereinafter the
+”Agreement”). If the subscription to the Service is purchased via a third party acting as an agent or commissioner
+(e.g. iTunes-Apple, hereinafter: “Third Party Agent”), the terms and conditions of this Agreement shall be
+applicable subject to the special terms specified in section 22. Regardless of whether a subscription to the
+Service is purchased from HBO directly or via a Third Party Agent, HBO is the provider of the Service and
+responsible for its content, and the User has to enter into this Agreement with HBO. In order to obtain access to
+the Service, the User must confirm that the User has read and accepted the Agreement. 
+
+1.4 After ordering the Service from HBO, HBO will provide a confirmation of the Agreement by e-mail sent to the
+e-mail address submitted by the User in connection with the User’s registration according to section 4 below.
+Such confirmation will contain the text of the Agreement. The Agreement is concluded in the moment when the
+User accepts the Agreement by clicking the designated button on the Website to finalize the order. 
+
+1.5 The Agreement can only be concluded in the Polish language only. The Agreement (which constitutes
+agreement concluded by electronic means) will be stored by HBO and the User will receive the text of the
+Agreement in the confirmation email delivered to the email address provided by the User. The currently
+applicable User Terms and Conditions are available on the Website. Users acknowledge that their personal data
+are processed by HBO in compliance with the applicable Personal Data Policy available on the Website.
+
+2 Scope of the Service
+Territory
+
+2.1 The Service may only primarily be used in Poland (hereinafter the ”Territory”). Users are entitled to use the
+Service while temporarily present in other member states of European Economic Area (hereinafter: ”EEA”) in
+accordance with the Regulation 2017/1128 of the European Parliament and of the Council on cross-border
+portability of online content services in the internal market. The EEA includes EU countries and also Iceland,
+Liechtenstein and Norway. When Users access the Website or initiates content playback, HBO will verify that the
+Users’ IP address is located in the EEA. If the Users’ IP address is unidentifiable or located outside of the EEA,
+the access to the Website will not be provided and content playback will be denied.
+
+Content 
+
+2.2 On the Website the Service contains movies, series, documentaries and other programs available:
+
+(i) as the live channels: “HBO”, “HBO2” and “HBO3” channels (the “Channels”); and
+(ii) on-demand basis included by HBO at its sole discretion from time to time.
+The User obtains access to the content which is provided on the Website from time to time, immediately after the
+User has ordered the Service and accepted the Agreement. HBO strives to continuously improve the User's
+viewer experience. The Service and its content may therefore, in the future from time to time be replaced,
+modified or updated.
+2.2.1 The current list of on-demand content of the Service shall be available on the Website. Changes,
+modifications to, or updates of, the on-demand content of the Service and other changes to the appearance of
+the Website are not to be deemed to constitute a modification of the Agreement or the Service unless applicable
+law requires otherwise.
+2.2.2  The User acknowledges that some of the selected programming may not be available on the Channels
+distributed via the Website due to legal restrictions of the content owners. HBO reserves the right to change the
+name any of the Channels included in the Service and/or include also other channels in the Service, without any
+prior notice. Such changes or unavailability of certain programming on any of the Channels (or other channel(s))
+will not be considered as changes to the Agreements.
+2.2.3 Most of the programming included in the Service is available in Polish language (either voiced-over or
+dubbed and/or subtitled), however some programming may only be available in original language.
+HBO may introduce different tiers of the Service with different pricing in the future. If different tiers are introduced,
+individuals will be able to subscribe to any of the tiers at their election.
+Subscription 
+2.3 For a monthly fee, the User may subscribe and obtain access to the full content of the Service or selected tier
+of the Service, if made available.
+2.4 HBO may offer the Service without charge on terms specified in connection with the offer and the Agreement
+and determined upon its sole discretion (hereinafter the “Trial Period”). The User can choose to terminate the
+Service, at any time during the Trial Period, without having to pay for the Service. HBO does not charge any fees
+during the Trial Period.
+2.5 If HBO offers the Trial Period, the Users who are eligible may only use one Trial Period during a consecutive
+twelve (12) months period. Trial Period eligibility may by verified by HBO based on data provided by the User,
+including but not limited to the e-mail address, payment method and/or ID devices ascribed to the account, in
+order to prevent abuse of the Trial Period. In case HBO suspects abuse of the Trial Period or its terms, HBO may
+immediately take measures to prevent such abuse, including termination of the Agreement. 
+2.6 If the User has not terminated the Agreement during the Trial Period, the Trial Period will automatically, and
+without notice to the User, transform into a usual subscription for which the User must pay the ordinary
+subscription fee. If the User decides to not become a paying User, the User must thus terminate the Agreement
+during the Trial Period. The end date of the Trial Period will be made available to the User in the user account on
+a continuous basis. 
+2.7 HBO or its partners may from time to time offer vouchers for use of the Service by the Users. Unless the
+terms and conditions of the voucher offer provide otherwise, by redeeming such vouchers, Users are entitled to a
+one time special promotional use of the Service for a limited period of time (e.g. an additional free trial period in
+addition to the Trial Period) (hereinafter the “Promotion Period”), and Users will be eligible to use one voucher
+(and participate in one voucher campaign) during any consecutive twelve (12) months’ period.
+3 Use of the Service 
+To be able to use the Service, the User must register a user account on the Website (see, further, section 4),
+have access to equipment, systems and connections in accordance with these User Terms and Conditions (see
+further, section 5), and after the expiration of a potential Trial Period or Promotion Period, make payment in
+accordance with these User Terms and Conditions (see, further, section 6). Furthermore, certain technical
+safeguards have been implemented to prevent unauthorized use of the Service, such as copying, use outside the
+Territory and EEA and further dissemination of the content provided in the Service.
+4 Registration, user name and password 
+4.1 Registration of a user account must take place in the Territory on www.hbogo.pl by using the Polish
+credit/debit card or such other payment method available on the Website. Users who have a permanent
+residence in Poland and are physically present in their country of residence at the time of the registration may
+register an account in order to access the Service. When the User registers an account, HBO will verify that the
+User’s payment method is issued in Poland and that the User’s IP address is located in the same country. If the
+User’s IP address is unidentifiable or located in another country than Poland or if the User’s payment method is
+issued in a country outside of Poland, the access to the Service will not be provided.
+4.2 The User shall be responsible for ensuring that the stated information at the time of registration is correct,
+and, where necessary, update his/her user account with correct information. Upon registration, the User may only
+provide information regarding its payment method of choice. Obvious data entry errors will be checked and
+notified to the User. Nevertheless, the User should review and verify the completeness and accuracy of his/her
+data supplied during the registration process.
+4.3 Depending on the payment method of choice, upon registration the User shall be requested to provide all or
+some of the following data: first name, last name, e-mail address, password, credit/debit card number, CVV/CCV
+code and credit/debit card expiration date, cardholder name, details related to a payment method of choice, for
+example, the account details of a relevant payment provider, voucher code or any other information that might be
+required and necessary to complete the registration (hereinafter the ”Log-On Information”). The User's Log-On
+Information is personal and may not be used by a third party. The User shall store the Log-On Information in
+order to protect it against unauthorised access. The User is responsible for all use of the Service which takes
+place through the User's account.
+4.4 If the User suspects unauthorised use of the User's Log-On Information, the User shall immediately notify
+HBO of this fact and change the User's password. In the event HBO has cause to believe that the Log-On
+Information has been disclosed or in some other manner is being misused by unauthorised persons, HBO shall
+be entitled to immediately terminate the Agreement in accordance with section 12.4 (c).
+4.5 HBO shall be entitled at any time to request that the User changes the User's password. Changes shall be
+effected promptly and may cause temporary disruptions in the use of the Service. 
+4.6 The use of any payment method of choice may be blocked in case of reasonable suspicion of fraud or any
+other offence. 
+5 Equipment, etc.  
+5.1 In order to use the Service, the User must possess the necessary and approved systems, connection and
+equipment. 
+5.2 The specification of current systems requirements is available on the Website. However, the fulfilment of
+these systems requirements does not guarantee that the User will be able to use the Service indefinitely and for
+reasons outside HBO’s control. Use of the Service may require the installation by the User of third-party software.
+HBO will provide information on the Website regarding which third-party software can be used, but HBO does not
+provide its own software and shall not be responsible for such third-party software and updates thereof. 
+5.3 The Service requires that the User has access to the necessary Internet connection. The User is responsible
+for all costs associated with such connection, including data traffic costs, irrespective of where in the Territory
+(see, above, section 2.1) the User uses the Service. The specification of requirements for the minimum download
+speed required to use the Service is available on the Website. 
+5.4 Only the types of devices currently listed on the Website may be used and registered for the Service. HBO
+shall be entitled from time to time to determine which device that is to be regarded as approved based on current
+technical development and standards. HBO does not provide its own devices and assumes no responsibility for
+any approved device’s performance or its continuous compatibility with the Service and updates thereof. 
+5.5 The User shall be entitled to use and register the Service on up to five (5) approved devices, which includes
+computers, mobile phones, tablets or other approved devices. Changes of registered, approved devices may be
+carried out on the User's account (currently maximum 5 times per month). HBO may implement rules regarding
+the frequency with which registered, approved devices may be changed by the User. Information regarding such
+rules shall be communicated to the User in accordance with section 11 below. Unless otherwise notified by HBO,
+only two (2) simultaneous streams of the Service are allowed on registered and approved devices. 
+5.6 To the extent permitted by the applicable law, HBO is not responsible for the User's failure to use the Service
+or for access to the Service being limited due to an overload on the Internet or due to faults or problems relating
+to computers or other devices, networks, electronics or communications which are outside of HBO’s control. 
+6 Fees and payment 
+6.1 Fees for the Service shall be payable in accordance with the prices applicable from time to time which are
+available on the Website. The applicable fees will be available to the User prior to the conclusion of the
+Agreement and the registration procedure provides for an express confirmation by the User that he is aware that
+the order is with the obligation to pay the price. If (i) the price is determined in Euro and (ii) the payment method
+used for the payment is based on local currency, the applicable exchange rate will be determined by the relevant
+bank (or by payment provider). HBO is not responsible for the applicable exchange rate or for other charges
+applied by the bank or by a payment provider. Please contact your payment method service provider for details.
+6.2 If the User is not eligible for a Trial Period, nor for a Promotion Period, the first payment of the subscription
+fee shall be made on the date when the User entered into the Agreement and thereafter payments of the
+subscription fee to HBO for the immediately following month shall be made in advance on the same day of each
+month which corresponds to the day upon which the User entered into the Agreement for the Service. If such day
+does not exist in the given month the last day of the given calendar month shall be the payment date.
+6.3 The User may effect payment of the fee through any of the means of payment offered by HBO on the
+Website. The User agrees to sign the necessary documents and, at each due date, keep sufficient funds for
+payment of the Service available through the selected means of payment. 
+6.4 If the User is granted a Trial Period or Promotion Period, no payment shall be made during such period(s). A
+first payment shall be made on the first day after the end of the Trial Period or the Promotion Period (provided the
+User has not terminated the Agreement before the end of the Trial Period or the Promotion Period) and thereafter
+the same day each month the following months. If such day does not exist in the given month the last day of the
+given calendar month shall be the payment date.
+6.5 If sufficient funds are not made available by the User on the date when payment is due, HBO will provide a
+“failed payment” notification by e-mail sent to the e-mail address submitted by the User and HBO will again try to
+draw the fee – no more than five (5) times – from the credit or debit card. 
+6.6 If payment is not made on time, HBO shall also be entitled to suspend or limit the User's access to the
+Service immediately. HBO shall also be entitled to terminate the Agreement immediately if the delay in payment
+exceeds twenty (20) days.
+7 Use of the Service 
+7.1 The User may only use the Service for the User's personal use and in accordance with these User Terms and
+Conditions. The User may not - and may not encourage, facilitate or cause any other party to  do any of the
+following: 
+(a) use the Service for a commercial or public purpose; 
+(b) use the Service for any unlawful or unsuitable purpose; 
+(c) copy/reproduce, lend, sell, broadcast, or otherwise distribute, edit or in any other manner transfer or adapt
+content from the Service; 
+(d) circumvent, modify, remove, alter or in any other manner manipulate any security, encryption, or other
+technology or software which is part of the Service; or
+(e) otherwise use the Service in contravention of copyright laws, other laws, or these User Terms and
+Conditions. 
+7.2 The Service may only be used within the Territory and in compliance with section 2.1 hereof within the EEA.
+The User may not in any manner - and may not encourage, facilitate or cause a third party to - use or attempt to
+use the Service outside the Territory or under conditions hereof outside the EEA. 
+7.3 Use of the Service in violation of this section 7 shall at all times be deemed to constitute a material breach of
+Agreement which may result in HBO terminating the Service with immediate effect (see, further, section 12). 
+8 Minors
+8.1 The Service may contain materials which are deemed unsuitable for minors and which may be perceived by
+others as obscene or disturbing.   
+8.2 The Service is not intended to be used by children without the involvement, supervision and consent of
+parents or guardians. Parents, guardians or other adults who allow children to use the Service shall bear sole
+responsibility for determining whether the content of the Service is suitable for such child. 
+8.3 HBO provides technical means to restrict access to the Service or to certain content. A password, PIN Code
+or other similar means may be required to access the Service or certain content. The User is responsible for
+ensuring that such technical means are activated and effective as provided and instructed by HBO, unless such
+means must always be used to access to the Service.
+9 Modifications and amendments 
+9.1 User hereby expressly acknowledges that HBO has a right to change the fees and other clauses of the Terms
+and Conditions to a reasonable extent. The User shall be notified of such changes by e-mail sent to the e-mail
+address provided by the User no later than thirty (30) days prior to such change entering into force. In conjunction
+with such change, the User shall be entitled to terminate the Agreement  with effect on the day upon which the
+change is to take effect. HBO shall inform the User in its notice of his/her right to terminate the Agreement. If the
+User does not terminate the Agreement before such change takes effect, the User shall be deemed to have
+accepted such change.
+9.2 User hereby expressly acknowledges that HBO has a right to make significant changes to the content
+covered by the Service to reasonable extent. The User shall be notified of such changes by e-mail sent to the e-
+mail address provided by the User no later than thirty (30) days prior to such change entering into force. In
+conjunction with such significant change, the User shall be entitled to terminate the Agreement with effect on the
+day upon which the change is to take effect. HBO shall inform the User in its notice of his/her right to terminate
+the Agreement. If the User does not terminate the Agreement before the change takes effect, the User shall be
+deemed to have accepted such change.  
+9.3 For the purpose of section 9.2, a change which relates to the content is significant where the volume of the
+content covered by the Service is drastically reduced or the overall orientation of the content is significantly
+changed. The expiry or termination of a license for a certain program or series, or the decision not to produce or
+include further seasons of a certain series shall not be deemed a significant change. The significant change shall
+be only such change, which will result in significant decrease of the titles of the films and/or series included in the
+Service. The significant decrease shall mean the decrease by 50% or more of all titles of films and/or series on
+the overall content covered by the Service. 
+9.4 In case of early termination pursuant to this section 9, when the User has made payment related to a period
+after the expiry, HBO will repay the exceeding amount within thirty (30) days from the expiry of the Agreement.
+Information to Users regarding changes and repayment
+9.5 Information regarding changes described above will be provided to Users in accordance with section 11
+below. 
+10 Loss of right of withdrawal
+By entering into the Agreement, the User explicitly grants his/her consent to providing access to (delivering of)
+the Service immediately after entering into the Agreement and paying the fee pursuant to Agreement. The User
+hereby acknowledges that by getting access to (delivery of) the Service before the end of the fourteen (14) day
+period for withdrawal from the Agreement, the User loses the right to withdraw from the Agreement pursuant to
+Section 1829 of the Civil Code (Act. No. 89/2012 Coll., as amended), within the fourteen (14) days period after
+entering into the Agreement. If the User has entered into the Agreement and the provision of the Service has
+commenced, but the User no longer wants to use the Service and be bound by the Agreement, then the User has
+to terminate the Agreement in accordance with section 12 below. The registration procedure provides for an
+express confirmation (checkbox) by the User that he/she grants consent to providing access to (delivering of) the
+Service immediately after entering into the Agreement and paying the fee and acknowledgement that by getting
+access to (delivery of) the Service before the end of the fourteen (14) day period for withdrawal from the
+Agreement, the User loses the right to withdraw from the Agreement.
+The provision of this Section 10 does not affect the User’s right to terminate the Agreement at any time during the
+Trial Period without having to pay for the Service, as provided in Section 2.4.
+11 Information to customers 
+11.1 HBO may send notices to the User by e-mail, or publication on the Website in compliance with the
+applicable laws. 
+11.2 The User is obliged to update his contact information should these change during the use of the Service.
+HBO shall be deemed to have fulfilled its notification obligation by sending notices to the last-stated e-mail
+address of the User, regardless whether such address is no longer used by the User or are otherwise unusable.
+12 Term of the Agreement and termination 
+12.1 Agreements on subscription for the Service is entered into for a subscription period of one (1) month and is
+automatically prolonged one (1) month at a time until the User or HBO terminates the Agreement pursuant to
+these User Terms and Conditions. Except for, as set forth in section 9.4 above, no subscription fee paid in
+advance for the relevant period will be repaid and the User has the right to continue to use the Service until the
+end of that period. If the User is entitled to a Trial Period pursuant to section 2.4 or Promotion Period pursuant to
+section 2.7, the subscription period starts running from the first day of the Trial Period, or Promotion Period, as
+applicable, and lasts for the period equal to the Trial Period and/or Promotion Period, as applicable, and is
+automatically prolonged for one (1) month period(s) until the User or HBO terminates the Agreement pursuant to
+these User Terms and Conditions.
+12.2 If the User wishes to terminate the Agreement, HBO must be notified by e-mail, post letter or, if HBO
+provides such alternative, through the Website (at hbogo.pl/contact). In case the User initiates the termination,
+HBO will send a confirmatory e-mail to the User at the end of the subscription period. If HBO wishes to terminate
+the Agreement, HBO shall notify the User by e-mail or post letter. In accordance with clause 12.1 the Agreement
+will be terminated as of the end of the then current one month term of the Agreement.
+12.3 In conjunction with changes to fees or the User Terms and Conditions, the right to termination shall occur in
+accordance with section 9. 
+12.4 Subject to what is prescribed above, HBO shall be entitled to terminate the Agreement with immediate effect
+and at the same time make the Service immediately unavailable to the User in the event that: 
+(a) the User is delayed in making payment for a period of not less than twenty (20) days; 
+(b) there are reasonable grounds to assume that the User is insolvent; 
+(c) the User abuses the Trial Period, the Promotion Period or its terms;
+(d) there is unauthorised use of the Service or there are reasonable grounds to assume that such unauthorised
+use is occurring;
+(e) the User has tried to use a Trial Period on more than one (1) occasion during any twelve (12) month
+consecutive period;, or
+(f) the User has in some other manner committed a material breach of the Agreement, or repeated breach of the
+Agreement.
+13 Intellectual property rights 
+13.1 In conjunction with the execution of the Agreement with HBO, HBO grants the User a non-exclusive, non-
+transferable and limited license to watch the content of the Service. The User may only use the Service and its
+content in accordance with the Agreement and for his/her private personal use.
+13.2 The materials on the Website and the content of the Service are protected by copyright, trade mark law
+and/or other intellectual property laws. The Agreement with HBO does not in any way entail a transfer to the User
+of any title or any other intellectual property rights to the contents of the Service or to the Service.
+14 Security
+14.1 The User shall not be entitled to act in any manner that may cause the Service or Website to no longer
+function, being overloaded, damaged or impaired. Nor may the User impinge on another User's use of the
+Service.
+14.2 The User may not attempt to acquire unauthorised access to networks, computer systems, content or
+information relating to the Website or the Service. Breaches of this provision shall at all times be deemed to
+constitute a material breach of the Agreement which, among others, may result in termination of the Agreement
+with immediate effect (see, further, section 12). 
+15 Limitation of liability, disruptions and outages
+15.1 The User shall notify HBO on any disruptions, outages and other faults as soon as possible, and not later
+than seven days following their occurrence, to be entitled to any compensation in accordance with Section 15.2
+hereof. HBO shall not be responsible for faults in the Service which are beyond HBO's control in accordance with
+section 5.6 above or other faults due to the use by the User of equipment which is not approved or which is due
+to the negligence of (i) the User, or (ii) a third party.
+15.2 In respect of such disruptions, outages and other faults for which HBO bears responsibility under section
+15.1 and resulting in the Service being unusable for a continuous period exceeding 24 hours, Users who request
+it, shall be entitled to receive a proportional reduction in the fee. If the disruptions, outages and other faults for
+which HBO bears responsibility under section 15.1, result in the Service being unusable for period exceeding (i)
+three consecutive days, or (ii) ten days in total during any calendar month, User may terminate the subscription
+agreement with retroactive effect as of the last payment (billing) date (the “Termination Date”) and request the
+refund of the monthly subscription fee paid for the month after the Termination Date. In addition, Users may
+request compensation of costs reasonably spent for making a justified claim under this Section 15.2. within one
+month following the deadline for making such claim. Refunds will be made by using the payment method chosen
+by the User for payment of the subscription fee. In case of continued subscription, the amount of the
+compensation will be, at HBO´s discretion, (i) deducted from the next payment of the subscription fee or (ii)
+provided in a form of a voucher.
+15.3 Users are not entitled to any compensation for disruptions, outages and other faults resulting in the Service
+which are due to maintenance. HBO informs Users that there are three types of maintenance:
+Monthly Scheduled Maintenance: It occurs one day per each month between 01:00 AM-05:00AM CEST.
+Non Scheduled Maintenance: It may occur between 01:00 AM-05:00AM CEST if it is necessary from operation
+point of view.
+Emergency Maintenance: It may occur anytime, in case there is an emergency technical issue which would
+materially affect the delivery of the Service. If the Emergency Maintenance lasts for a continuous period
+exceeding 24 hours, the HBO´s liability shall be governed by Section 15.2 hereof, unless Emergency
+Maintenance was caused by circumstances beyond HBO´s control.
+During all 3 maintenance breaks the Service may not be accessed.
+15.4 User´s claims for compensation have to be filed using contact details provided in Section 21 hereof for
+termination, complaints and claims. The claims shall contain the name of the User, description of the fault and the
+period of its duration, and a material evidencing such fault (if requested by HBO). HBO may request other details
+necessary to identify the User, to determine the amount of compensation, and to settle the claim.
+16 Duty to compensate 
+The User consents to compensate and hold HBO, its subsidiaries, employees, board members and licensors
+harmless for any losses, expenses or demands arising as a result of, or in conjunction with, the User's breach of
+the Agreement, the User's violation of applicable laws or the User's violations of third-party rights. 
+17 Assignment 
+HBO shall be entitled, with the prior consent of the User, to assign its rights, claims and obligations pursuant to
+the Agreement  to another company within the same group or to a third party who may be reasonably expected to
+fulfil its obligations pursuant to the Agreement in a satisfactory manner. The User shall be entitled to assign the
+User's rights and obligations pursuant to the Agreement with prior HBO's consent. 
+18 Links from the Website
+The Website may include links to other websites provided by third parties. HBO has no control over, and
+assumes no responsibility whatsoever for, such links or the content of such websites. The User's use of such
+websites shall be at the User's own risk.
+19 No consent 
+If HBO refrains from requiring the fulfilment of a right under the Agreement or refrains from acting against the
+User's violation of the Agreement this shall not be deemed an authorization of the infringement or future similar
+infringements and shall not otherwise affect HBO's rights pursuant to the Agreement.
+20 Complaints and Disputes 
+If the User is, for any reason, not satisfied with the Service, such Subscriber may contact HBO using contact
+details specified in Section 21 or other contact details if available on the Website. 
+The User and HBO shall first attempt to resolve any disputes arising out of the Agreement by an amicable
+settlement. In the event, the parties cannot reach a settlement, the dispute shall be resolved by a competent
+court in Poland. The Agreement is governed by the Czech Law, unless otherwise provided herein. You may also
+be entitled to certain consumer protection rights and other mandatory provisions under the laws of Polish
+jurisdiction. The User shall, as a consumer, before filing an action with a competent court, have the right to refer
+complaints to one of the Polish bodies authorized to resolve consumer`s complaints and disputes out of court.
+The current list of such bodies is published in the Register available at the Office for Competition and Consumer
+Protection (UOKiK) website: polubowne.uokik.gov.pl and include inter alia Regional Offices of the Polish Trade
+Inspection or , or to use the link https://ec.europa.eu/consumers/odr to resolve a consumer dispute out of court
+online. With respect to the content of the Service, the User may file its complaint with the Czech Council for
+Radio and Television Broadcasting, www.rrtv.cz.
+21 Contact information and competent regulator
+HBO may be contacted at the address HBO Europe s.r.o., Jankovcova 1037/49, Praha 7, Postcode: 170 00, the
+Czech Republic, phone number: +420 261094444 or email address: sekretariat@hbo.cz.
+In case of termination, complaints or claims, please use the following contact details: hbogo.pl/contact
+The Council for Radio and Television Broadcasting, Škrétova 44/6, 120 00 Praha 2, the Czech
+Republic, www.rrtv.cz, is a regulatory authority supervising the provision of the Service, including the HBO
+channels.
+22 Third Party Agent
+22.1 If a subscription to the Service is purchased via a Third Party Agent, the creation/activation of the
+subscription, the payment and the termination of the subscription is managed by the Third Party Agent according
+to its special terms and conditions (e.g. the applicable iTunes terms and conditions, hereinafter: “Third Party
+Special Terms”). Therefore the User is obliged to read and accept the Third Party Special Terms in addition to
+the acceptance of this Agreement.
+22.2 In addition to the above mentioned, the following special terms shall apply if a subscription to the Service is
+purchased via a Third Party Agent. If there is any contradiction between the special terms below and the other
+terms of this Agreement, the special terms below shall govern. In addition the terms and conditions of this
+Agreement, the Third Party Special Terms shall apply to the subscription in the following cases:
+(i) The Third Party Agent is responsible for all subscription creation/activation, payment or failed payment and
+termination related communications.
+(ii) Vouchers – specified in section 2.7. - cannot be redeemed via Third Party Agent.
+(iii) Registration shall take place on a special HBO application to be installed on a device or via an operating
+system controlled by the Third Party Agent. The subscription fee will be charged by the Third Party Agent,
+provided that the User has registered a credit/debit card or other valid payment method with the Third Party
+Agent.
+(iv) The Third Party Agent is responsible for the collection of the recurring monthly subscription fees until the
+subscription is terminated.
+(v) As part of the registration process the User must create its own HBO account by providing certain account
+information necessary to its creation (e.g. name, e-mail address and password). If a User does not have an
+account with HBO, access to the Service is not possible.
+(vi) The Verification of the country specified in Section 4.1 will be done by the Third Party Agent.
+(vii) If the User wishes to terminate the Agreement, the terms and conditions for termination stipulated in the
+Third Party Special Terms shall apply and the User must contact the Third Party Agent and not HBO.
+(viii) Refund claims shall be submitted to the Third Party Agent in accordance with the Third Party Special Terms.
+The Third Party Agent is responsible for the payment of any refund.
+(ix) If the User has any questions or requests in connection with subscription creation, subscription activation,
+subscription termination or payment related issues, the User shall contact the customer service of Third Party
+Agent.
+(x) Any request submitted to HBO under GDPR to Anonymize or delete an account, will not terminate the User’s
+obligation to pay the subscription fee to the Third Party Agent. The subscription fee shall always be paid until the
+User terminates its subscription via Third Party Agent in accordance with the Third Party Special Terms.
+(xi) If a User wishes to switch from a subscription to the Service via a Third Party Agent to a direct subscription
+with HBO, the User must first terminate the subscription via the Third Party Agent and thereafter register again
+directly with HBO using a credit/debit card or other valid payment method. If a User wishes to switch from a direct
+subscription with HBO to a subscription via a Third Party Agent, the User must first terminate direct subscription
+with HBO and thereafter register again via the Third Party Agent. HBO will not monitor whether a User has one or
+two subscriptions and/or payment methods activated.
+(xii) Receipts or invoices are available via the Third Party Agent.
+(xiii) According to GDPR, the Third Party Agent acts a separate data controller regarding the data collected and
+stored by the Third Party Agent. All data subject requests in connection with data collected, stored or otherwise
+processed by the Third Party Agent must be submitted to the Third Party Agent.

@@ -1,0 +1,440 @@
+Regulamin Systemu moBiLET 
+ 
+ 
+str. 1 
+www.mobilet.pl 
+ 
+Regulamin Systemu moBILET 
+ 
+Niniejszy Regulamin określa zasady korzystania z Systemu moBiLET na obszarze Rzeczypospolitej Polskiej  
+i odnosi się do wszystkich stosunków pomiędzy Użytkownikiem a operatorem Systemu moBiLET. 
+ 
+ 
+§ 1 
+Postanowienia ogólne 
+ 
+1. 
+System moBiLET - system autoryzacji i rozliczeń płatności mobilnych. 
+2. 
+moBiLET – Mobile Traffic DATA Sp. z o.o. z siedzibą w Poznaniu, NIP: 972-11-88-889, zarejestrowaną przez Sąd 
+Rejonowy Poznań Nowe Miasto i Wilda w Poznaniu, VIII Wydział Gospodarczy Krajowego Rejestru Sądowego,  
+pod numerem KRS 0000314214. 
+3. 
+Krajowa Instytucja Płatnicza – przedsiębiorca pełniący rolę instytucji rozliczeniowej w Systemie moBiLET. 
+4. 
+moBiLET Komunikacja – integralna część Systemu moBiLET, umożliwiająca zakup elektronicznego biletu  
+i zalegalizowanie przejazdu środkami komunikacji miejskiej i podmiejskiej, dalekobieżnej, w tym kolejowej,  
+za pomocą urządzenia mobilnego. 
+5. 
+moBiLET Parkowanie – integralna część Systemu moBiLET umożliwiająca rozliczanie rzeczywistego czasu postoju 
+w strefach płatnego parkowania oraz na parkingach prywatnych, za pomocą urządzenia mobilnego. 
+6. 
+Aplikacja – oprogramowanie na telefon komórkowy lub inne urządzenie mobilne, konieczne do korzystania  
+z Systemu moBiLET, dostarczana przez moBiLET. 
+7. 
+Urządzenie – telefon komórkowy lub inne urządzenie mobilne, posiadające możliwość łączenia się z Internetem, 
+kompatybilne z Systemem moBiLET, zdolne do pobrania i instalacji na nim Aplikacji, a także zdolne  
+do prawidłowej obsługi pobranej Aplikacji.  
+8. 
+Operator - przedsiębiorca dostarczający publiczną sieć telekomunikacyjną. 
+9. 
+Karta SIM - karta mikroprocesorowa wydana przez Operatora, umożliwiająca dostęp do sieci Operatora  
+na zasadach określonych w oddzielnej umowie z Operatorem. 
+10. Użytkownik - osoba fizyczna posiadająca co najmniej częściową zdolność do czynności prawnych, osoba prawna 
+lub jednostka organizacyjna nieposiadająca osobowości prawnej, uprawniona do korzystania z Systemu moBiLET. 
+11. Rachunek Rozliczeniowy - rachunek prowadzony przez Krajową Instytucję Płatniczą, na którym rozliczane są 
+transakcje Systemu moBiLET. 
+12. Konto moBiLET – nazywane też Kontem Użytkownika to rachunek ewidencyjny, do którego przypisany jest 
+indywidualny dla każdego Użytkownika wirtualny numer Rachunku Rozliczeniowego. 
+13. Rejestracja - założenie Konta Użytkownika w Systemie moBiLET. 
+14. Umowa - umowa zawierana z chwilą Rejestracji pomiędzy moBiLET a Użytkownikiem na świadczenie usług  
+w ramach Systemu moBiLET. 
+15. Portal Użytkownika – strona internetowa Systemu moBiLET umożliwiająca Rejestrację w Systemie moBiLET  
+oraz zarządzanie Kontem moBiLET danego Użytkownika. 
+16. BOK - Biuro Obsługi Klienta Systemu moBiLET. 
+17. Konsultant - pracownik BOK. 
+18. Druk Rezygnacji - formularz służący do zgłaszania przez Użytkownika woli rozwiązania Umowy. 
+19. Regulamin – Regulamin Systemu moBiLET. 
+ 
+§ 2 
+Rejestracja w Systemie moBiLET 
+ 
+1. 
+Rejestracja w Systemie moBiLET odbywa się poprzez wypełnienie formularza rejestracyjnego na Portalu 
+Użytkownika. Użytkownik otrzymuje możliwość pobrania i zainstalowania na swoim Urządzeniu Aplikacji, 
+koniecznej do korzystania z Systemu moBiLET. 
+2. 
+Użytkownicy mają możliwość pobrania i zainstalowania Aplikacji poprzez sklep internetowy, odpowiedni  
+do używanego systemu operacyjnego. Rejestracja w Systemie moBiLET może wówczas odbywać się poprzez 
+Aplikację. 
+3. 
+Użytkownik używający System moBiLET poprzez inną platformę, np. bankową, dokonuje rejestracji wg regulacji 
+przewidzianych dla danej platformy.  
+4. 
+Rejestracja jest jednoznaczna z akceptacją treści niniejszego Regulaminu oraz zawarciem Umowy pomiędzy 
+moBiLET a Użytkownikiem na świadczenie usług w ramach Systemu moBiLET, zgodnie z zasadami określonymi  
+w niniejszym Regulaminie.  
+5. 
+W chwili zawarcia niniejszej umowy, moBiLET udziela Użytkownikowi niewyłączną i nieodpłatną licencję  
+na korzystanie z Aplikacji. Licencji udziela się wyłącznie w celach korzystania z usług Systemu moBILET. Każde 
+inne użycie, jak również dokonywanie zmian w Aplikacji, jej dekompilacja, sprzedaż, rozpowszechnianie, 
+użyczanie, udzielanie dalszych licencji są zakazane.  
+6. 
+Rejestrując się w Systemie moBiLET Użytkownik wyraża zgodę na otrzymywanie informacji związanych  
+z funkcjonowaniem Systemu moBiLET. 
+ 
+§ 3 
+Prawa i obowiązki Użytkownika 
+ 
+1. 
+W celu korzystania z Systemu moBILET, a w szczególności do pobrania i zainstalowania Aplikacji, Użytkownik 
+musi posiadać Urządzenie z aktywną Kartą SIM jednego z Operatorów oraz dokonać pełnej Rejestracji  
+w Systemie moBiLET. 
+2. 
+Użytkownik przyjmuje do wiadomości, że do realizacji Umowy konieczne jest podanie poprawnych i aktualnych 
+danych osobowych, wykorzystywanych podczas korzystania z Sytemu moBiLET. 
+Regulamin Systemu moBiLET 
+ 
+ 
+str. 2 
+www.mobilet.pl 
+3. 
+W celu realizacji Umowy, Użytkownik jest ponadto zobowiązany na bieżąco aktualizować swoje dane osobowe  
+w Systemie moBiLET, niezwłocznie po zaistniałej zmianie. Obowiązek ten dotyczy szczególnie zmiany numeru 
+telefonu komórkowego lub przekazania obecnego numeru telefonu osobie trzeciej. 
+4. 
+W przypadku podejrzenia użycia Aplikacji przez osoby trzecie, utraty bądź kradzieży Urządzenia z zainstalowaną 
+Aplikacją, jak również w przypadku blokady lub utraty karty SIM, Użytkownik jest zobowiązany niezwłocznie 
+powiadomić moBiLET o zaistniałym zdarzeniu. 
+5. 
+Hasło Użytkownika, które zostanie ustanowione podczas rejestracji lub zmienione w późniejszym czasie przez 
+Użytkownika, nie może być przekazywane osobom trzecim i musi być chronione w sposób uniemożliwiający jego 
+podgląd osobom trzecim. Jeśli wystąpi podejrzenie ze strony Użytkownika, iż dostęp do hasła uzyskała osoba 
+trzecia, należy o tym fakcie niezwłocznie poinformować moBiLET.  
+6. 
+W razie zgłoszenia przez Użytkownika sytuacji wskazanej w pkt. 4 i/lub 5 powyżej, Konto Użytkownika zostanie 
+natychmiast zablokowane. Ponowne odblokowanie Konta Użytkownika będzie możliwe tylko i wyłącznie przez 
+konsultanta BOK. 
+7. 
+Jeśli Użytkownik nie wywiąże się z wyżej wymienionych obowiązków i poprzez to narazi moBiLET, Krajową 
+Instytucję Płatniczą, jednostkę samorządu terytorialnego lub inną firmę na straty, to poszkodowanemu 
+przysługuje prawo do dochodzenia roszczeń bezpośrednio od Użytkownika. moBILET jest ponadto upoważniony  
+w takich przypadkach do zablokowania Konta Użytkownika. 
+ 
+§ 4 
+Prawa i obowiązki moBiLET 
+ 
+1. 
+moBiLET zobowiązany jest zapewnić ciągły dostęp do Systemu moBiLET poprzez Portal Użytkownika oraz 
+Aplikację, jak i zapewnić bezpieczeństwo realizowanych za ich pomocą transakcji. 
+2. 
+moBiLET zobowiązany jest do realizacji transakcji dokonywanych przez Użytkowników w ramach Systemu 
+moBiLET. 
+3. 
+moBiLET nie ponosi odpowiedzialności za jakiekolwiek szkody poniesione przez Użytkownika w wyniku 
+funkcjonowania Urządzeń, z których Użytkownik realizuje transakcje. Urządzenia muszą spełniać wymogi  
+i standardy przewidziane dla sieci telekomunikacyjnej, w której są wykorzystywane i użytkowane zgodnie  
+z zaleceniami producenta. moBiLET nie ponosi również odpowiedzialności względem Użytkownika niebędącego 
+osobą fizyczną korzystającą z Systemu moBiLET w celu niezwiązanym bezpośrednio z jej działalnością zawodową 
+lub gospodarczą za jakiekolwiek szkody poniesione przez Użytkownika wskutek użycia Aplikacji, jak również 
+korzystania z Systemu moBiLET chyba, że szkoda wynikła z winy umyślnej moBiLET. 
+4. 
+moBiLET nie ponosi odpowiedzialności za funkcjonowanie interfejsów oraz łączy telekomunikacyjnych, które  
+nie są jego własnością lub nie są przez niego obsługiwane, w szczególności interfejsów służących do wykonywania 
+transakcji przez Użytkownika. 
+5. 
+moBiLET zastrzega sobie prawo do czasowego zawieszenia działania Systemu moBiLET, w szczególności w celu 
+przeprowadzenia 
+koniecznej 
+konserwacji, 
+dokonania 
+zmian 
+lub 
+zapobieżenia 
+ewentualnym 
+szkodom.  
+O zawieszeniu działalności moBiLET zobowiązany jest poinformować Użytkowników. 
+6. 
+W przypadku, gdy moBILET poweźmie uzasadnione podejrzenie, iż Konto Użytkownika jest lub może zostać 
+wykorzystane do nadużyć, lub niezgodnie z obowiązującymi przepisami prawa, lub z postanowieniami Umowy, 
+moBiLET zastrzega sobie prawo do zablokowania Konta Użytkownika, co będzie oznaczać brak możliwości 
+realizacji jakichkolwiek usług za pośrednictwem danego Konta Użytkownika. W przypadku podejrzenia 
+popełnienia przestępstwa przez Użytkownika moBiLET, po ustaleniu stanu faktycznego, moBiLET może złożyć 
+zawiadomienie o podejrzeniu popełnienia przestępstwa do upoważnionych organów. 
+7. 
+W przypadku zablokowania Konta Użytkownika, na wezwanie moBiLET, Użytkownik zobowiązany jest 
+współdziałać z moBiLET celem wyjaśnienia nieprawidłowości, w szczególności dostarczyć wyjaśnienia  
+i odpowiednie dokumenty. 
+8. 
+moBiLET rozpatruje reklamację Użytkownika w terminie nie dłuższym niż 14 dni od dnia jej doręczenia. 
+ 
+§ 5 
+moBiLET Komunikacja 
+ 
+1. 
+System moBiLET umożliwia Użytkownikowi zalegalizowanie przejazdu środkami komunikacji miejskiej  
+i podmiejskiej, przejazdu środkami komunikacji dalekobieżnej, w tym kolejowej poprzez zakup biletu w postaci 
+zapisu elektronicznego oraz jego obsługę na Urządzeniu. Wybór organizatora, przewoźnika, rodzaju biletu, ilości 
+biletów, relacji oraz odpowiedniej taryfy, następuje za pośrednictwem Aplikacji i wymaga weryfikacji szczegółów 
+danego biletu przez Użytkowania. Użytkownik otrzyma potwierdzenie na swoje Urządzenie, które będzie zawierać 
+wszystkie informacje dotyczące rodzaju biletu, czasu, ważności, itp. 
+2. 
+Opłaty za bilety dostępne w Systemie moBILET są określone w aktualnej taryfie przewozu osób i bagażu danego 
+przewoźnika lub organizatora. 
+3. 
+Użytkownik przyjmuje do wiadomości i zgadza się na to, iż Aplikacja służy tylko i wyłącznie do zakupu biletów  
+w postaci zapisu elektronicznego na przejazdy komunikacją miejską i podmiejską. Wydruki biletów oraz  
+ich potwierdzeń z komputerów lub innych urządzeń nie będą honorowane jako elektroniczny bilet uprawniający 
+do korzystania z usługi przewozu i mogą one służyć wyłącznie do celów reklamacyjnych, chyba że postanowienia 
+danego przewoźnika stanowią inaczej. 
+4. 
+Użytkownik przyjmuje do wiadomości i zgadza się na to, iż w trakcie kontroli biletów zobowiązany jest  
+do okazania kontrolerowi otrzymanego potwierdzenia na swoim Urządzeniu. 
+5. 
+Kasowanie biletu następuje natychmiastowo po dokonaniu odpowiednich operacji w Aplikacji. Stabilność 
+połączenia zależy od danego Operatora. Z tego powodu moBiLET nie bierze odpowiedzialności za niemożność 
+połączenia się z Systemem moBiLET w związku ze słabym sygnałem sieci lub jego brakiem, a także w przypadku, 
+gdy połączenie z serwerem zostanie przerwane przez inne aplikacje na Urządzenie Użytkownika. 
+6. 
+W przypadku niemożności skorzystania z Systemu moBiLET, Użytkownik zobowiązany jest do nabycia  
+i/lub skasowania tradycyjnego biletu na przejazd środkami komunikacji. 
+Regulamin Systemu moBiLET 
+ 
+ 
+str. 3 
+www.mobilet.pl 
+7. 
+Wymagany moment zakupu biletu określają odpowiednie przepisy porządkowe bądź regulamin danego 
+przewoźnika. 
+8. 
+Legalizacja i/lub zakup biletu, w trakcie kontroli przez upoważnionego kontrolera, jest niedopuszczalne i będzie 
+uznawane za brak ważnego biletu na przejazd. W przypadkach spornych, z reklamacją należy zwrócić się  
+do organu, odpowiedzialnego za rozpatrywanie odwołań od decyzji kontrolerów. 
+ 
+§ 6 
+moBILET Parkowanie 
+ 
+1. 
+System moBiLET umożliwia Użytkownikowi zalegalizowanie postoju w strefie płatnego parkowania oraz  
+na parkingach prywatnych, poprzez rozpoczęcie, przedłużenie oraz zakończenie naliczania rzeczywistego czasu 
+postoju za pomocą Aplikacji. Wybór miasta, strefy, parkingu, maksymalnego czasu naliczania oraz numeru 
+rejestracyjnego pojazdu, następuje za pośrednictwem Aplikacji i wymaga weryfikacji szczegółów danego postoju 
+przez Użytkowania. Użytkownik otrzyma potwierdzenie na swoje Urządzenie, które będzie zawierać wszystkie 
+informacje dotyczące miasta, strefy, czasu ważności itp. 
+2. 
+Opłaty za postój w danej strefie płatnego parkowania są określone w aktualnej uchwale odpowiedniego organu 
+jednostki samorządu terytorialnego. Opłaty za postój na parkingu poza pasem drogowym określa regulamin 
+danego parkingu. 
+9. 
+Użytkownik przyjmuje do wiadomości i zgadza się na to, iż Aplikacja służy tylko i wyłącznie do wnoszenia opłat  
+za parkowanie z wykorzystaniem Urządzenia. Wydruki biletów lub ich potwierdzeń z komputerów lub innych 
+urządzeń nie będą honorowane jako elektroniczny bilet parkingowy, mogą one służyć wyłącznie do celów 
+reklamacyjnych, chyba że odpowiednia uchwała lub postanowienia regulaminu stanowią inaczej. 
+10. Korzystając z moBiLET Użytkownik zobowiązany jest do każdorazowego oznakowania swojego pojazdu, 
+umieszczając za przednią szybą w widocznym miejscu „winietę moBiLET”, którą można wydrukować ze strony 
+internetowej www.mobilet.pl lub pobrać w formie naklejki w biurze obsługi klienta strefy płatnego parkowania lub 
+parkingu, chyba że lokalne regulacje stanowią inaczej. 
+11. Rozpoczęcie naliczania rzeczywistego czasu postoju następuje poprzez powiadomienie Systemu moBiLET 
+natychmiastowo po dokonaniu odpowiednich operacji w Aplikacji. Stabilność połączenia zależy od danego 
+Operatora. Dlatego też moBILET nie bierze odpowiedzialności za niemożność połączenia się z Systemem moBiLET 
+w związku ze słabym sygnałem sieci lub jego brakiem, a także w przypadku, gdy połączenie z serwerem zostanie 
+przerwane przez inne aplikacje na Urządzenie Użytkownika. 
+12. W przypadku niemożności skorzystania z Systemu moBiLET, Użytkownik zobowiązany jest do wykupienia 
+tradycyjnego biletu parkingowego. 
+13. System moBiLET powinien być powiadomiony o rozpoczęciu postoju niezwłocznie po zaparkowaniu pojazdu. 
+Rozpoczynanie procedury powiadomienia Systemu moBiLET w trakcie kontroli pojazdu przez upoważnionego 
+kontrolera jest niedopuszczalne i będzie uznane za brak biletu parkingowego. W przypadkach spornych,  
+z reklamacją należy zwrócić się do organu, odpowiedzialnego za rozpatrywanie odwołań od decyzji kontrolerów. 
+ 
+§ 7 
+Rozliczenia i koszty 
+ 
+1. 
+Pobranie Aplikacji na Urządzenie oraz późniejsze korzystanie z Aplikacji, jest związane z wykorzystaniem 
+transmisji danych (Internet) według stawek poszczególnych Operatorów. 
+2. 
+Koszty korzystania z Systemu moBiLET reguluje Załącznik nr 1 – Taryfy prowizji i opłat w Systemie moBiLET. 
+3. 
+Użytkownik przyjmuje do wiadomości, że wszelkie rozliczenia pieniężne za korzystanie z usług realizowanych  
+w Systemie moBiLET realizowane są przez Krajowe Instytucje Płatnicze lub podmiot posiadający zgodę Komisji 
+Nadzoru Finansowego na prowadzenie działalności związanej z rynkiem finansowym. 
+ 
+§ 8 
+Rozwiązanie Umowy 
+ 
+1. 
+Każda ze stron jest uprawniona do rozwiązania Umowy za wypowiedzeniem ze skutkiem na koniec miesiąca 
+kalendarzowego. Wypowiedzenie umowy przez użytkownika wymaga zachowania formy pisemnej lub formy 
+elektronicznej przy wykorzystaniu formularza – Druk Rezygnacji - dostępny na stronie internetowej Systemu 
+moBiLET. Forma elektroniczna jest dochowana, gdy Użytkownik prześle prawidłowo wypełniony Druk Rezygnacji 
+na 
+adres 
+poczty 
+elektronicznej 
+BOK. 
+Po 
+rozwiązaniu 
+umowy 
+Użytkownik 
+zostanie 
+poinformowany  
+za pośrednictwem poczty elektronicznej na adres podany w trakcie rejestracji w Systemie moBiLET o zamknięciu 
+Konta moBILET. 
+2. 
+Umowa może ulec rozwiązaniu bez wypowiedzenia w przypadkach przewidzianych niniejszym Regulaminem. 
+3. 
+W przypadku rozwiązania Umowy Użytkownik ma prawo żądać zwrotu niewykorzystanych środków.  
+4. 
+Zwrot środków następuje w terminie 14 dni od zgłoszenia na konto bankowe, z którego środki wcześniej 
+przelano. 
+ 
+§ 9 
+Przetwarzanie i ochrona danych osobowych. 
+ 
+1. 
+Użytkownik przyjmuje do wiadomości, że do realizacji Umowy konieczne jest przetwarzanie danych osobowych  
+na warunkach przewidzianych w ustawie z dnia 29.08.1997 r. o ochronie danych osobowych (Dz. U. z 2016 roku, 
+poz. 922 ze zm.). Art.6 ust. 1 lit.b Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679/UE z 
+27.04.2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie 
+swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie 
+danych) (Dz.Urz. UE L 119, s. 1) 
+2. 
+Użytkownik rozumie i akceptuje fakt, iż Administratorem Danych Osobowych jest moBiLET. 
+Regulamin Systemu moBiLET 
+ 
+ 
+str. 4 
+www.mobilet.pl 
+3. 
+Użytkownik rozumie i akceptuje fakt, że jego dane osobowe przekazywane będą do Krajowej Instytucji Płatniczej 
+w zakresie niezbędnym do realizowania rozliczeń w ramach Systemu moBiLET. 
+4. 
+Użytkownik rozumie i akceptuje, iż dane osobowe zbierane podczas rejestracji w Systemie moBiLET  
+są wykorzystywane tylko i wyłącznie dla potrzeb niezbędnych do Rejestracji Użytkownika w Systemie moBiLET 
+oraz realizacji Umowy, zaś ich podanie podczas Rejestracji jest dobrowolne, lecz niezbędne do realizacji umowy. 
+5. 
+Żądanie usunięcia przez Użytkownika danych osobowych udostępnionych moBiLET, bez których nie jest możliwa 
+realizacja obowiązków wynikających z Umowy zawartej z Użytkownikiem, jest jednoznaczne z rezygnacją przez 
+Użytkownika z usług moBiLET i rozwiązaniem Umowy. 
+6. 
+Użytkownik ma ciągły dostęp do swoich danych osobowych poprzez strony internetowe Systemu moBILET. 
+Logując się do Portalu Użytkownika, może on na bieżąco przeglądać, uaktualniać oraz poprawiać swoje dane 
+osobowe. 
+7. 
+Po rozwiązaniu Umowy przez Użytkownika lub moBiLET, zarówno dane osobowe Użytkownika jak i informacje  
+na temat dokonanych przez Użytkownika transakcji w Systemie moBILET są przechowywane w bazie danych 
+Systemu moBiLET przez okres 5 lat. 
+8. 
+Celem zapobieżenia pozyskiwaniu i modyfikacji przez osoby nieuprawnione danych osobowych przesyłanych 
+drogą elektroniczną, System moBiLET udostępnia środki techniczne służące zabezpieczeniu transmisji danych 
+elektronicznych. 
+9. 
+Dane osobowe Użytkowników Systemu moBiLET nie będą przekazywane podmiotom trzecim w celach 
+marketingowych. 
+ 
+§ 10 
+Postanowienia końcowe. 
+ 
+1. 
+moBiLET jest uprawniony do jednostronnego wprowadzenia zmian lub uzupełnień w każdym czasie w niniejszym 
+Regulaminie. Informacja o zmianach wraz z nowym brzmieniem Regulaminu oraz datą wejścia w życie będzie 
+doręczana Użytkownikowi za pośrednictwem poczty elektronicznej na adres wskazany w procesie rejestracji  
+w Systemie moBiLET. Ponadto informacja o wprowadzonych zmianach będzie udostępniana na Portalu 
+Użytkownika oraz stronach internetowych Systemu moBiLET, wraz ze wskazaniem daty wejścia w życie zmian. 
+2. 
+Jeżeli przed datą wejścia w życie proponowanych zmian Użytkownik nie zgłosi sprzeciwu do moBiLET wobec tych 
+zmian, uznaje się, że Użytkownik wyraził na nie zgodę. Zgłoszenie sprzeciwu jest równoznaczne  
+z wypowiedzeniem Umowy przez Użytkownika ze skutkiem natychmiastowym.  
+3. 
+Promocje moBILET, programy lojalnościowe oraz inne działania o charakterze marketingowym prowadzone są  
+wg zapisów odpowiedniego regulaminu. 
+4. 
+moBiLET oraz Użytkownik zobowiązują się do podjęcia wszelkich działań, mających na celu polubowne 
+rozwiązanie ewentualnego sporu. 
+5. 
+We wszystkich sprawach dotyczących korzystania z Systemu moBiLET nieuregulowanych niniejszym 
+Regulaminem zastosowanie mają odpowiednie przepisy powszechnie obowiązującego prawa na terytorium 
+Rzeczpospolitej Polskiej. 
+6. 
+Niniejszy Regulamin nie ma zastosowania na terenie innych krajów, gdzie System moBiLET jest dostępny.  
+W takim przypadku obowiązuje oddzielny regulamin, którego zapisy dostosowane są do regulacji obowiązujących 
+w danym kraju. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Regulamin Systemu moBiLET 
+ 
+ 
+str. 5 
+www.mobilet.pl 
+ 
+ 
+ 
+Załącznik Nr 1 
+Taryfy prowizje i opłat w Systemie moBiLET 
+Dotyczy funkcjonowania Systemu moBiLET na terenie Rzeczypospolitej Polskiej * 
+ 
+ 
+Rodzaj czynności 
+Opłaty/ Prowizje 
+Rejestracja w systemie moBiLET  
+0 zł 
+Rejestracja w systemie poprzez SMS 
+koszt zgodnie z cennikiem 
+operatora komórkowego 
+Opłata miesięczna za korzystanie z systemy moBiLET 
+0 zł 
+Koszt zasilenia konta moBiLET 
+0 zł 
+Zwrot środków wpłaconych 
+0 zł 
+Aktywacja usługi Konto Grupowe 
+0 zł 
+Opłata miesięczna usługa Konto Grupowe 
+0 zł 
+Opłata za zakup biletu komunikacji miejskiej 
+0 zł 
+Opłata za aktywację biletu parkingowego 
+** 0 zł 
+Opłata za inne płatności czy bilety dostępne w Systemie 
+0 zł 
+ 
+ 
+*     System moBiLET funkcjonuje również poza granicami Polski. Zasady funkcjonowania Systemu moBiLET określa 
+wówczas regulamin dostosowany do warunków formalno-prawnych danego kraju. 
+ 
+**   Nie dotyczy opłat w strefie płatnego parkowania w Szczecinie, Krakowie oraz Poznaniu. Opłata w wysokości 1,7 % 
+wartości biletu liczona jest od ostatecznej ceny biletu. Opłata stanowi koszt procesowanie środków przez Krajową 
+Instytucję Płatniczą. 
+ 
+ 

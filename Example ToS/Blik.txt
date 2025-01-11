@@ -1,0 +1,1291 @@
+1 
+ 
+ 
+ 
+ 
+ 
+Regulations 
+of the BLIK Mobile Payments System 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Eighth edition, 30 March 2020 
+ 
+ 
+2 
+ 
+Part A – Regulations of the BLIK Payment Scheme 
+ 
+I. GENERAL PROVISIONS 
+§ 1. 
+1. The BLIK payment scheme is a payment scheme within the meaning of the Act of 19 August 2011 on 
+payment services (Journal of Laws No. 199, item 1175, as amended) operated by Polski Standard 
+Płatności Sp. z o.o. as a payment organisation, closely linked with the BLIK Mobile Payments System 
+operated by Polski Standard Płatności Sp. z o.o. as an operator of the payment system within the 
+meaning of the Act of 24 August 2001 on settlement finality in payment and securities settlement 
+systems and the rules for monitoring these systems (Journal of Laws No. 123, item 1351, as amended). 
+2. This document sets forth the Regulations of the functioning of the BLIK Payment Scheme, in particular 
+it specifies: 
+1) the rules for participation in the scheme and duties of the Participants of this scheme; 
+2) types of payment instruments that can be offered by Participant within the framework of the scheme; 
+3) technical and organisational requirements related to participation in the BLIK Payment Scheme, as 
+well as requirements pertaining to the rules for making transactions in the BLIK Payment Scheme 
+for PSP, Issuers, Acquirers, Merchants, Users and Institutional Users, including the rules for 
+initiation, processing and input of Mobile Transactions for clearing in the BLIK Payments System 
+or other payment systems, as well as the settlement of these transactions; 
+4) requirements for providers the technical infrastructure used in relation to entrusting the tasks related 
+to the ongoing functioning of the scheme; 
+5) processing and clearing currencies of payment transactions made using the payment instruments 
+issued within the framework of the scheme; 
+6) infrastructure, payment systems and payment schemes to which the functioning of the scheme will 
+be related; 
+7) principles of responsibility of the scheme Participants and PSP with respect to the processing and 
+clearing of BLIK Transactions; 
+8) principles of responsibility of the BLIK scheme Participants and PSP with respect to the processing 
+of complaints related to BLIK Transactions; 
+9) risks existing in relation to the functioning of the scheme and the method of managing particular 
+types of risks related to the functioning of this scheme; 
+10) organisational solutions of PSP as a payment organisation with respect to the structure and 
+procedures for making decision with respect to the activities involving the processing of BLIK 
+Transactions within the framework of the BLIK Payment Scheme, and the method of determining 
+the costs of these activities. 
+ 
+3 
+ 
+§ 2. 
+Terms used in the Regulations and other documents issued by Polski Standard Płatności Sp. z o.o. in relation 
+to the functioning of the BLIK Scheme shall have the following meaning: 
+Term 
+Definition 
+Acquirer 
+entity being a Participant who allows the execution of Mobile Transactions 
+conducted using Accepting Devices, by transferring data pertaining to Mobile 
+Transactions for processing within the framework of the BLIK Scheme, and 
+carrying out activities resulting in the transfer of cash in relation to the execution 
+of Mobile Transactions to the Merchant or another entitled entity  
+Secured Agent 
+Acquirer who has an account with the Securing Issuer, designated for the Clearing 
+and Settlement of Mobile Transactions input into the BLIK System by this 
+Secured Agent  
+Merchant 
+entity authorised, based on the agreement with the Acquirer, to accept BLIK 
+Transactions and receive cash for accepting Mobile Transactions from the 
+Acquirer 
+Alias 
+permanent (multiple-use) BLIK Code used for the purposes of identifying the 
+Mobile Account registered in the PSP System based on the order of the Issuer, 
+used in compliance with the Technical Specification for Participants 
+Mobile Application 
+application for mobile devices made available by the Issuer to the User, meeting 
+the requirements set forth in the Agreement and the Regulations, and approved by 
+PSP as a tool used by the Users to initiate or confirm BLIK Transactions 
+mPOS Application 
+application for mobile devices made available by the Acquirer, meeting the 
+requirements set forth in the Agreement and the Regulations, and approved by 
+PSP as a tool for the Merchant accepting Mobile Transactions initiated by the User 
+with the Mobile Application 
+Authorisation 
+process carried out by the Issuer to confirm the possibility of implementing the 
+BLIK Transaction by the User or the Institutional User 
+Express ELIXIR 
+Instant Transfer System operated by KIR 
+ELIXIR 
+non-instant payment order clearing system operated by KIR 
+KIR 
+Krajowa Izba Rozliczeniowa S.A. (National Clearing House) 
+PFSA 
+Polish Financial Supervision Authority 
+One-Time Code 
+string of characters or digits generated by PSP or another string of characters or 
+digits registered in the PSP System by the Issuer, which can be used only for the 
+Authorisation of a single Mobile Transaction during its validity period set in the 
+Technical Specification for Participants 
+4 
+ 
+BLIK Code 
+One-Time Code or an Alias necessary for the Authorisation of the BLIK 
+Transaction or authentication of a User or an Institutional User 
+Mobile Account 
+representation of the Mobile Application instance in the BLIK System or 
+representation of another functionality made available by the Issuer, using the 
+BLIK Code uniquely identifiable with a unique identifier assigned by the Issuer 
+Mastercard 
+Mastercard Europe SA, with its registered office in Waterloo 
+MCBP 
+technology developed by Mastercard, based on tokenisation of payment 
+instruments, allowing the performance of BLIK C Transactions initiated using the 
+Mobile Applications  
+NBP 
+National Bank of Poland 
+Ognivo 
+IT System enabling the exchange of information on complaints, operated by KIR 
+Clearing Position 
+amount credited or debited to the particular party of the Mobile Transaction, for 
+to the performance of the Mobile Transaction 
+PSP 
+Polski Standard Płatności Sp. z o.o., with its registered office in Warsaw, 
+ul. Cypryjska 72, entered into the register by the District Court for the capital city 
+of Warsaw in Warsaw, 13th Commercial Division of the National Court Register 
+with the KRS number 0000493783, Tax Identification Number (NIP): 
+5213664494, Statistical Identification Number (REGON): 147055889 
+Technical Account 
+account established by PSP for the purposes of Clearing 
+Participant’s 
+Account 
+bank account indicated by the Participant, for the purposes of Clearing 
+Regulations 
+contract template document, attached as an appendix to the Agreement on 
+Participation, including the Regulations of the BLIK Payment Scheme and the 
+Regulations of the BLIK Payment System, together with appendices to this 
+document setting forth the principles for the functioning of the BLIK Scheme and 
+the BLIK system 
+Regulations of the 
+BLIK Payment 
+Scheme 
+Part A of the Regulations describing the Regulations for the functioning of the 
+BLIK Scheme 
+Regulations of the 
+BLIK Payments 
+System 
+Part B of the Regulations describing the Regulations for the functioning of the 
+BLIK System 
+Clearing 
+process carried out by PSP in order to calculate liabilities and receivables of each 
+of the Participants and the Cooperating Scheme of the BLIK System, taking 
+account fees due to Issuers and Acquirers 
+Settlement 
+process of settlement of Mobile Transactions carried out by KIR, using the 
+ELIXIR system via the Technical Account that is aimed at debiting or crediting 
+5 
+ 
+accounts of Issuers, and crediting accounts of Acquirers or the Cooperating 
+Scheme, whereas in the case of Secured Agents, aimed at debiting or crediting 
+accounts maintained for these entities by Securing Issuers, based on the Clearing 
+prepared by PSP 
+BLIK-C 
+Transactions 
+Acceptance Network 
+entities running points of sales or service points, operating contactless payment 
+terminals allowing acceptance of BLIK-C Transactions, marked with the BLIK or 
+Mastercard mark, located in the territory of the Republic of Poland or outside the 
+territory of the Republic of Poland 
+PSP Clearing 
+Session 
+time period, based on which Clearing Positions of the Participants and the 
+Cooperating Scheme are calculated with respect to Mobile Transactions that were 
+transferred for Clearing during that period 
+Technical 
+Specification for 
+Participants 
+document presenting an overall description of the rules of the functioning of the 
+BLIK System, attached as an appendix to the Rules 
+BLIK Scheme 
+BLIK Payment Scheme operated in relation to the BLIK Mobile Payments System 
+by PSP as a payment organisation within the meaning of the Act of 19 August 
+2011 on payment services, allowing the correct execution of Mobile Transactions 
+cleared in the BLIK System and allowing the execution of other BLIK 
+Transactions cleared through interbank transfers, or in payments systems other 
+than the BLIK System, operated based on the Act of 24 August 2001 on settlement 
+finality in payment and securities settlement systems and the rules for monitoring 
+these systems (Journal of Laws No. 123, item 1351, as amended) 
+BLIK System 
+BLIK Payment System operated by PSP based on licence no. D/III/SP/2014, 
+issued by the President of the National Bank of Poland, being a payment system 
+within the meaning of the Act of 24 August 2001 on settlement finality in payment 
+and securities settlement systems and the rules for monitoring these systems 
+(Journal of Laws No. 123, item 1351, as amended) 
+BLIK Mobile 
+Payments System 
+functionally-related BLIK Scheme and the BLIK System 
+SPN Instant Transfer 
+System 
+instant transfer system enabling on-line interbank settlements 
+PPS System 
+all IT systems used by PSP for the purposes related to the operation of the BLIK 
+Scheme and the BLIK System or any of them 
+Tokenisation System 
+MDES IT system, managed and operated by Mastercard, carrying out the 
+tokenisation function, used in the processes necessary for the purposes of 
+executing BLIK-C Transactions 
+Cooperating Scheme 
+payment scheme within the meaning of the Act of 19 August 2011 on payment 
+services, being a payment card system, operated by Mastercard and notified to the 
+National Bank of Poland in accordance with Article 132zo of the Act of 19 August 
+6 
+ 
+on payment service, cooperating with Polski Standard Płatności Sp. z o.o. with 
+respect to BLIK-C Transaction processing 
+BLIK Transaction 
+transaction initiated or executed using the BLIK Code in accordance with the 
+Agreement on Participation or another agreement concluded with PSP, by the 
+Participant using BLIK Codes 
+BLIK-C Transaction 
+Mobile Transaction initiated with the Mobile Application in the POS terminal 
+operated by an entity belonging to the BLIK-C Transactions Acceptance Network, 
+implemented in a contactless way, based on the Alias, using the Tokenisation 
+System and MCBP. 
+Mobile Transaction 
+shall mean: 
+a) transfer of cash to the account of the Merchant, made through the 
+Acquirer providing services to this Merchant, debiting the account kept 
+by the Issuer for the User, based on the order initiated by the User using 
+the Mobile Application; or 
+b) cash withdrawal or payment executed based on the order made by the 
+User, using the Mobile Application; or 
+c) transfer of cash to the account of the User, made through the Cooperating 
+Scheme or the Acquirer providing services to this Merchant, who 
+accepted the order to return cash to the account of the User, initiated using 
+the Mobile Application or unique identifier of the Mobile Transaction to 
+which the return refers; or 
+d) transfer of cash to the account of the Cooperating Scheme, debiting the 
+account kept by the Issuer for the User, made based on the order to 
+execute the BLIK-C Transaction initiated by the User using the Mobile 
+Application. 
+e) P2P Transaction cleared using the BLIK System or P2P-R Transaction 
+cleared using the BLIK System. 
+P2P Transaction 
+transaction made within the framework of the BLIK Scheme, using internal 
+transfers (for P2P Transactions between Users or between the Institutional User 
+and the User, where they are the clients of the same Issuer), Instant Transfer 
+System or the BLIK System between two Users or between the Institutional User 
+and the User, without intermediation of the Acquirer, in the case of which the 
+NRB number of the recipient is determined using the Mobile Accounts database, 
+whereas the sender identifies the recipient using a unique identifier previously 
+explicitly assigned to the recipient in compliance with requirements set forth in 
+the Technical Specification for Participants, especially a mobile telephone number 
+or e-mail address 
+P2P-R Transaction 
+transaction made within the framework of the BLIK Scheme, using internal 
+transfers (for P2P-R Transactions between Users, where they are the clients of the 
+same Issuer), Instant Transfer System or the BLIK System between two Users, 
+7 
+ 
+without intermediation of the Acquirer, initiated by the payment recipient by 
+sending the message with a request for the transfer to the transfer sender through 
+the PSP System, including information on details of the User requesting the 
+transfer in compliance with requirements set forth in the Technical Specification 
+for Participants. 
+Participant 
+entity that concluded with PSP the Agreement on Participation, meeting 
+conditions of participation in the BLIK Scheme and in the BLIK System set forth 
+in the Rules and the Agreement on Participation 
+Agreement on 
+Participation 
+agreement concluded by and between PSP and the Participant, setting forth 
+general principles of the functioning of the BLIK Scheme and the BLIK System, 
+and describing obligations of PSP and the Participant with respect to PSP making 
+available services within the framework of the BLIK Scheme and the BLIK 
+System, and the BLIK Scheme 
+Accepting Device 
+device or software allowing initiating BLIK Transactions, in particular a POS 
+terminal, software installed in the Internet store (eCommerce, mCommerce), 
+mPOS Application, ATM, operated by the Merchant, Acquirer or an entity 
+functioning in the BLIK-C Transactions Acceptance Network that is neither the 
+Merchant nor the Acquirer 
+User 
+natural person, who uses the activated Mobile Application of this Issuer or another 
+service or functionality made available by the Issuer, using the BLIK Code, in 
+accordance with the agreement with the Issuer 
+Institutional User 
+legal person or unincorporated organisational unit that is granted legal capacity 
+by the act, who uses the BLIK functionalities as provided for in the Technical 
+Specification for Participants for this category of users, in accordance with the 
+agreement with the Issuer 
+Issuer 
+entity that is the Participant of the BLIK System and the BLIK Scheme, making 
+available the Mobile Application to its clients, in order to enable the execution of 
+BLIK Transactions 
+Securing Issuer  
+Issuer obliged to ensure, on its nostro account with the NBP, the cash necessary 
+for the purposes of Clearing and Settlement of Mobile Transactions input into the 
+BLIK System by Secured Agents, for whom this Issuer keeps accounts designated 
+for Clearing and Settlement of Mobile Transactions 
+Mark 
+trademark determined in an appendix to the Agreement on Participation, property 
+copyrights to which are held by PSP 
+ 
+ 
+ 
+8 
+ 
+II. GENERAL INFORMATION ON THE BLIK SCHEME 
+§ 3. 
+1. The BLIK Scheme operates on a continuous basis, i.e. on each day of the year, twenty-four hours a 
+day, excluding scheduled technical breaks. 
+2. Payment transactions made using payment instruments issued within the framework of the BLIK 
+Scheme are processed and cleared in Polish zloty. 
+3. BLIK Transactions can be initiated by Users and Institutional Users, at any time during the operation 
+of the BLIK Scheme. 
+4. Mobile Transactions are cleared in net amounts, taking into account fees due to Issuers, Acquirers 
+and the Cooperating Scheme. 
+5. Fees for services made available to Participants within the framework of the BLIK Scheme are 
+calculated in accordance with the price list of services provided by PSP, attached as appendix no. 1 
+to the Regulations, and are settled based on invoices issued on a monthly basis. 
+6. Organisational solutions of PSP as a payment organisation with respect to the structure and 
+procedures for making decision with respect to the activities involving the processing of BLIK 
+Transactions within the framework of the BLIK Payment Scheme should ensure stable and safe 
+functioning of the BLIK Scheme, and guarantee PSP’s independence in terms of accounting, 
+organisation and decision-making within the scope in question. 
+7. PSP independently and autonomously determines the costs of the activities carried out, involving the 
+processing of BLIK Transactions, and takes these costs into account when developing the financial 
+model of its functioning as a payment organisation operating the BLIK Scheme. 
+8. Principles of access to the BLIK Scheme are determined based on criteria that are objective, equal 
+and proportional. Limitations of access to the BLIK Scheme cannot be greater than necessary in 
+order to ensure the protection against specific risks, especially settlement risk, operational risk and 
+business risk, and the financial and operational protection of the stability of the BLIK Scheme. 
+9. As a payment organisation, PSP operates the BLIK System using its own technical infrastructure or 
+establishes cooperation with providers, who as a result of mandating them to carry out tasks related 
+to the current functioning of the BLIK Scheme, provide services at the level ensuring effective and 
+stable functioning of the BLIK Scheme. 
+10. Participation in the BLIK Scheme and the BLIK System involves the Participants incurring business 
+risks resulting from the potential occurrence of events triggering the settlement guarantee mechanism 
+in accordance with the principles of the functioning of the BLIK System, and operational risks related 
+to the potential occurrence of events involving the inability to process data by PSP or other 
+disruptions of the functioning of the BLIK Scheme or the BLIK System. 
+11. The Issuer is the Participant providing to the User or the Institutional User a payment service 
+involving the provision of access to the payment instrument that allows commissioning the execution 
+of BLIK Transactions. The Acquirer performs activities necessary to execute the BLIK Transaction, 
+intermediating as the Participant of the BLIK Scheme and the BLIK System in the performance of 
+the payment service provided to the User or the Institutional User by the Issuer making available the 
+payment instrument in the form of a Mobile Application, service or function using the BLIK Code. 
+9 
+ 
+12. PSP processes the personal data of Users entrusted by Participants or the Cooperating Scheme within 
+the scope specified in Agreements on Participation or other agreements for the purposes of 
+performing activities related to the operation of the BLIK Scheme and the BLIK System. 
+ 
+ 
+III. PARTICIPATION IN THE BLIK SCHEME AND THE BLIK SYSTEM  
+§ 4. 
+1. Any entity with a registered office on the territory of a member state of the European Economic Area, 
+that is authorised to carry out activities in the Republic of Poland in accordance with applicable 
+regulations, as well as meets all the conditions listed below, can be a Participant of the BLIK Scheme 
+and the BLIK System: 
+a. is a domestic bank, branch of a foreign bank, credit institution or branch of a credit institution within 
+the meaning of the Act of 29 August 1997 – Banking Law (consolidated text of 15 September 2017, 
+Journal of Laws of 2017, item 1876), payment institution, hybrid payment institution, electronic money 
+institution, hybrid electronic money institution, small payment institution with legal personality or 
+hybrid small payment institution with legal personality within the meaning of the Act of 19 August 2011 
+on payment services (consolidated text of 28 September 2017, Journal of Laws of 2017, item 2003); 
+b. signed the Agreement on Participation in the BLIK System or the Agreement on Indirect Participation 
+in the BLIK System, and has accepted the provisions of the Regulations and other appendices to the 
+Agreement, especially the Technical Specification for Participants; 
+c. holds a Participant’s Account 
+d. in the case of the Issuer – is authorised to provide payment services involving the issuance of payment 
+instruments, and participates in the ELIXIR system operated by KIR and has a current account with the 
+NBP (indirect participation) or indicates, in the Agreement on Indirect Participation in the BLIK 
+System, a current account with the NBP of the Issuer having a current account with the NBP that will 
+be used for clearing purposes (indirect participation); 
+e. in the case of the Acquirer – based on the received administrative licence to carry out activities, is 
+authorised to provide payment services involving acquiring, acceptance of cash payments, making cash 
+withdrawals from the payment account or execution of payment transactions; 
+f. will pay the fee for joining the BLIK System in accordance with the price list of services provided by 
+PSP (appendix no. 1 to the Regulations); 
+g. will pass the technology tests within the scope of cooperation with the PSP System, carried out in 
+keeping with the principles and within the scope specified in the Technical Specification for 
+Participants; 
+h. will not generate risk to the stability and proper functioning of the BLIK Scheme and the BLIK System; 
+i. will agree with PSP on the date of joining the BLIK System, will carry out the activities necessary to 
+execute BLIK Transactions no later than 18 months of the date of concluding the Agreement on 
+Participation in the BLIK System, and will not make a declaration of will resulting in excluding the 
+application of the provisions of the Regulations determining the principles of the functioning of the 
+BLIK System or BLIK Scheme to this entity. 
+10 
+ 
+2. Participation in the BLIK Scheme is linked to participating in the BLIK System. The Participant cannot 
+use the BLIK Scheme without concluding the Agreement on Participation in the BLIK System. 
+3. Certain functionalities may be made available to the Participant on the condition that this Participant 
+meets the conditions set out in the Agreement on Participation or the Regulations. 
+ 
+IV. 
+OBLIGATIONS OF PSP AND THE PARTICIPANTS, AS WELL AS PRINCIPLES OF 
+RESPONSIBILITY WITH RESPECT TO THE PROCESSING AND CLEARING OF 
+BLIK TRANSACTIONS 
+§ 5. 
+PSP shall be responsible for ensuring that the functioning of the BLIK Scheme and the BLIK System 
+complies with legal regulations, as well as for ensuring the safety and effectiveness of the functioning of the 
+BLIK Scheme and the BLIK System, and for the management of the BLIK Scheme and the BLIK System, 
+and in particular, it shall: 
+a. determine the principles of participation in the BLIK Scheme and the BLIK System; 
+b. evaluate the compliance of solutions used by Participants with requirements set forth in the Agreement 
+and the Regulations; 
+c. promote the Mark used to distinguish the BLIK Scheme and the BLIK System, and manage this Mark; 
+d. develop the acceptance network for the BLIK Scheme in cooperation with Participants; 
+e. gather and make available to Participants information on the acceptance network for the BLIK Scheme; 
+f. arrange campaigns promoting BLIK Transactions; 
+g. set forth the requirements and technical standards determining the principles of the functioning of the 
+BLIK Scheme and the BLIK System; 
+h. set forth the requirements and technical standards determining the principles of communication between 
+the BLIK Scheme and the BLIK System, and the Participant; 
+i. 
+set out uniform and non-discriminatory criteria for authorising the use of Mobile Applications made 
+available by the Issuers within the framework of the BLIK System and the BLIK Scheme; 
+j. 
+establish the security principles of the BLIK Scheme and the BLIK System; 
+k. carry out periodic audits of the Participant’s compliance with the Agreement on Participation, 
+Regulations and the Technical Specification for Participants; 
+l. 
+develop functionalities made available in the BLIK Scheme and the BLIK System; 
+m. set standards of the clearing process, complaint and other report processing, as well as a uniform format 
+for communicating with Participants and the Cooperation Scheme; 
+n. notify Participants of non-compliances of solutions used by the Participants with requirements set forth 
+in the Agreement or the Regulations, specify the time limit for rectification thereof and take steps aimed 
+at eliminating these non-compliance by the Participants; 
+o. analyse risks in relation to the functioning of the BLIK Scheme and determine the method of managing 
+particular types of risks related to the functioning of the BLIK Scheme. 
+ 
+§ 6. 
+11 
+ 
+With respect to the operation of the BLIK Scheme and the BLIK System, PSP is obliged to act in compliance 
+with the provisions of the Agreement on Participation, Regulations and the requirements of the Technical 
+Specification for Participants. In particular, PSP shall: 
+ 
+a. ensure operation of the BLIK System in compliance with the conditions described in the Technical 
+Specification for the Participant; 
+b. verify BLIK Transactions transferred to the BLIK System in view of compliance with technical 
+conditions referred to in the Technical Specification for Participants; 
+c. notify the Participants in the case of sending messages inconsistent with the Technical Specification for 
+Participants; 
+d. verify whether the Issuer satisfied the criteria for the authorisation for using Mobile Applications made 
+available by the Issuers and used within the framework of the BLIK System; 
+e. enable the Participants to connect to the infrastructure of the BLIK System in compliance with the 
+conditions described in the Technical Specification for Participants; 
+f. identify the technical and organisational solutions allowing the flow of data necessary for the purposes 
+of examining the Participants’ complaints with respect to BLIK Transactions; 
+g. notify the Participants, at least five days in advance, of the unavailability of the BLIK System as a result 
+of scheduled technical break; 
+h. immediately notify Participants of any failure of the BLIK System; 
+i. 
+provide services involving the generation and recording of BLIK Codes used to execute BLIK 
+Transactions; 
+j. 
+maintain the Mobile Accounts database and ensure the tele-information structure necessary for the 
+execution of BLIK Transactions; 
+k. prepare clearing files for the purposes of Settlement of Mobile Transactions between BLIK System 
+Participants; 
+l. 
+undergo periodic audits to ensure compliance of the functioning of the BLIK Scheme with the 
+provisions of the Agreement on Participation, Regulations and the requirements of the Technical 
+Specification for Participants; 
+m. carry out activities related to triggering the Settlement guarantee mechanism referred to in the 
+Regulations of the BLIK Payment System; 
+n. carry out activities related to the processing of complaints related to BLIK Transactions; 
+o. take decisions on a new Participant joining the BLIK Scheme and the BLIK System, as well as making 
+available particular functionalities of the BLIK Scheme and the BLIK System to Participants. 
+ 
+§ 7. 
+1. The Participant shall be obliged to act in compliance with the provisions of the Agreement on 
+Participation, Regulations and the requirements of the Technical Specification for Participants, and in 
+particular shall be obliged to: 
+ 
+a. execute BLIK Transactions in a way consistent with the Technical Specification for Participants; 
+b. connect to the infrastructure of the BLIK System in compliance with the conditions described in the 
+Technical Specification for Participants; 
+12 
+ 
+c. undergo periodic tests and audits in accordance with the conditions set in the Agreement on 
+Participation; 
+d.  notify of scheduled maintenance breaks in the Participant’s IT System five days in advance, and of any 
+failures – immediately; 
+e. immediately notify PSP of the occurrence and removal of failures of the Participant’s system; 
+f. immediately notify of any changes of its data provided to PSP; 
+g. use the Trademark for the purposes of promoting BLIK Transactions and P2P Transactions; 
+h. if the Participant is the Acquirer being the Secured Agent, this Agent shall be additionally obliged to: 
+ 
+keep a bank account for the purposes of Clearing and Settlement of Mobile Transactions input into 
+the BLIK System by this Secured Agent with the Issuer being the Securing Issuer for this Secured 
+Agent; 
+ 
+conclude an Annex to the Agreement on Participation for the Secured Agent; 
+i. 
+if the Participant is the Issuer being the Secured Issuer, this Issuer shall be additionally obliged to: 
+ 
+keep a bank account for the purposes of Clearing and Settlement of Mobile Transactions input into 
+the BLIK System by this Secured Agent for the Acquirer being the Agent Secured by this Securing 
+Issuer; 
+ 
+ensure, in accordance with section 2 item b) below, on the nostro account with the NBP of this 
+Issuer, cash necessary for the purposes of Settlement of Mobile Transactions input into the BLIK 
+System by the Secured Agent referred to in the previous bullet point; 
+ 
+ensure, in accordance with section 2 item c) below, additional cash in the amount required for 
+Settlement of Mobile Transactions as a result of triggering the Settlement guarantee, in accordance 
+with the principles of the functioning of the BLIK System; 
+ 
+conclude an Annex to the Agreement on Participation for the Securing Issuer. 
+ 
+2. The Participant being the Issuer shall be obliged to carry out the following activities: 
+ 
+a. ensuring cash necessary for the purposes of Settlement in accordance with the principles of the 
+functioning of the BLIK System and settlement, by the NBP, of financial flows related to Mobile 
+Transactions cleared within the framework of the BLIK System, by proper liquidity management on the 
+Participant’s nostro account with the NBP; 
+b. where the Issuer is the Securing Issuer – ensuring the cash necessary for the purposes of Settlement of 
+Mobile Transactions input into the BLIK system by Secured Agents, for whom it keeps accounts for 
+the purposes of the processing of Mobile Transactions of these Secured Agents, in accordance with the 
+principles of the functioning of the BLIK System and settlement, by the NBP, of financial flows related 
+to Mobile Transactions cleared within the framework of the BLIK System, by proper liquidity 
+management on the Participant’s nostro account with the NBP; 
+c. ensuring additional cash, including resources for the Securing Issuer, in the amount required for 
+Settlement of Mobile Transactions as a result of triggering the Settlement guarantee, in accordance with 
+the principles of the functioning of the BLIK System, while applying the Operational Procedure for 
+Participants – Settlement Guarantee Processing; 
+d. in the case of the initiation of the bilateral clearing process – making transfers in the ELIXIR system in 
+accordance with orders of PSP, in amounts and to the Cooperating Scheme and Acquirers, including 
+Secured Agents or to other Issuers, whose Users executed Mobile Transactions input into the BLIK 
+13 
+ 
+System by Secured Agents, or making, in accordance with orders of PSP, settlements on accounts kept 
+by these Issuers as Securing Issuers for Secured Agents; 
+e. granting a relevant power of attorney to KIR to input into the ELIXIR system on behalf of the Issuer 
+transfer orders pertaining to the BLIK System Settlement carried out in accordance with the principles 
+of the functioning of the BLIK System; 
+f. making available to Users and Institutional Users the Mobile Application, other service or functionality 
+using the BLIK Code; 
+g. authenticating Users in the Mobile Application; 
+h. obtaining One-Time Codes generated by PSP for the purposes of executing Mobile Transactions; 
+i. 
+reporting Mobile Accounts for registration by PSP; 
+j. 
+reporting BLIK Codes that were not generated by PSP for registration by PSP; 
+k. making Authorisations of BLIK Transactions using only the BLIK Code made available or registered 
+by PSP; 
+l. 
+immediately updating the status of the User’s Mobile Account in the BLIK System, especially in the 
+case of the User or the Institutional User resigning from the service allowing the initiation of BLIK 
+Transactions; 
+m. implementing the procedure for the monitoring of transactions understood as BLIK Transactions 
+initiated by unauthorised persons and notifying PSP of identified instances of unauthorised transactions 
+within no more than two working days; 
+n. notifying Users and Institutional Users of any risks related to the services offered by Issuers within the 
+framework of the BLIK Scheme, especially risks related to making payment transaction online and 
+through Mobile Applications. 
+ 
+3. The Participant can meet the obligations resulting from the Agreement and the Regulations through or 
+with the participation of third parties, provided that, in the agreement concluded with such an entity, the 
+Participant ensures the protection of information at the level no lower than specified in the Agreement 
+on Participation and the Regulations. The Participant shall notify PSP, one month in advance, of the 
+involvement of entities referred to in the previous sentence in the performance of the Agreement and 
+the Regulations. PSP may, for important reasons, object to the Participant entrusting the fulfilment of 
+its obligations to a third party, within 14 days of receiving the notification referred to in the previous 
+sentence. 
+ 
+4. The Participant can make available the Regulations and other documents pertaining to the functioning 
+of the BLIK System to entities referred to in the point above, within the scope necessary for the provision 
+of services by these entities to the Participant. 
+ 
+5. Participants shall be authorised to use BLIK Codes or other functionalities made available within the 
+framework of the BLIK Scheme, only for the purposes of the provision of service involving the 
+processing of BLIK Transaction in accordance with the provisions of the Agreement on Participation 
+and the Regulations. 
+ 
+6. The Participant shall be authorised to use the data made available in relation to participation in the BLIK 
+Scheme and the BLIK System only for the purposes of proper fulfilment of obligations under the 
+Agreement on Participation. 
+14 
+ 
+ 
+7. The Participant being the Acquirer processing, without the Securing Issuer’s participation, payments 
+initiated outside the own network of the particular Acquirer as the Issuer, and executed using the BLIK 
+Code, shall be obliged to ensure the security deposit in the amount equivalent to three times the average 
+daily volume of withdrawals processed by this Acquirer and cleared in the BLIK System in the month 
+preceding the month for which the deposit amount is calculated. The amount of the deposit that the 
+Acquirer is obliged to ensure in a given month shall be calculated by PSP by the fifth day of the given 
+calendar month, based on the date for the previous calendar month collected in the PSP System. The 
+Acquirer shall be notified by PSP of the amount of the deposit required in the given month, by the 
+seventh day of this month. 
+ 
+8. The security deposit shall be paid by the Acquirer to the dedicated bank account of PSP. PSP cannot 
+use the deposit for any purposes other than settlement of amounts due from the Acquirer to Issuers and 
+PSP, resulting from Clearing. 
+ 
+9. PSP shall be authorised to cover, from the deposit, amounts due to Participants of the BLIK System or 
+PSP from the Acquirer in relation to settlements carried out in the BLIK System if these amounts are 
+not covered by the Acquirer in accordance with the Operational Procedure for Participants – “Processing 
+of the Acquirer’s counter position,” in the amount necessary to satisfy the Acquirer’s liabilities to the 
+Issuer specified in § 12 section 2 of the Regulations. 
+ 
+10. The use of the Deposit shall involve PSP ordering, from the deposit account, transfers to Issuers or PSP 
+in order to satisfy amounts due to the Issuers or PSP from the Acquirer, within the scope and in the 
+amount determined by PSP in accordance with the Regulations. If the PSP covers, from the Deposit, 
+amounts due from the Acquirer to other Participants or PSP, the PSP obligation to return the deposit 
+amount shall expire in the part that was used to satisfy claims of other Participants or PSP. 
+ 
+11. If the actual amount of the deposit transferred by the Acquirer to the account referred to in section 8 is 
+lower than the amount calculated by PSP in accordance with section 7, PSP shall call the Acquirer to 
+supplement the deposit, whereas the Acquirer shall be obliged to supplement the deposit by the missing 
+amount within no more than 3 working days of the request. If the current deposit is higher than the 
+required deposit amount calculated by PSP for the given month, the Acquirer may request PSP to return 
+the surplus to the specified bank account, whereas PSP shall return the surplus within three working 
+days. 
+ 
+12. The Acquirer’s failure to settle amounts due to the BLIK System in relation to the processing of 
+payments or to supplement the deposit to the amount required in accordance with section 7 shall 
+authorise PSP to take steps provided for in §19 of the Regulations. 
+ 
+§ 8. 
+1. Participants and PSP shall be held liable only for the consequences of their performance of activities 
+related to the BLIK Transaction processing in a way inconsistent with the Agreement or the Regulations. 
+15 
+ 
+As a result, Participants and PSP shall not be responsible for the Merchant’s failure to provide the goods 
+or services or for any inconsistencies of the parameters of the goods and/or services with the agreement 
+between the User or the Institutional User and the Merchant. Such claims shall be resolved directly 
+between the User or the Institutional User and the Merchant. 
+ 
+2. The Acquirer shall be held liable to other Participants and PSP for the consequences resulting from the 
+Acquirer or the Merchant inputting a BLIK Transaction into the PSP System in bad faith or as a result 
+of a crime, including for unauthorised actions of third parties in the systems of the Acquirer or the 
+Merchant. 
+ 
+3. The Issuer shall be held liable to other Participants and PSP for the consequences resulting from the 
+Issuer, User or the Institutional User inputting a BLIK Transaction into the PSP System in bad faith or 
+as a result of a crime, including for unauthorised actions of third parties in the systems of the Issuer or 
+in the Mobile Application. 
+ 
+ 
+V. 
+PROCESSING OF COMPLAINTS AND OTHER NOTIFICATIONS 
+§ 9. 
+1. PSP shall process complaints and other notifications pertaining to the BLIK Scheme and the BLIK 
+System based on the Ognivo system operated by KIR. In special cases (e.g. failure of the Ognivo 
+system), the Participant shall be able to make the complaint or submit other notification to PSP via 
+electronic mail or other communication system specified in the agreement concluded by and between 
+PSP and the Participant or the Cooperating Scheme. 
+2. Complaints and other notifications registered by Participants in the Ognivo system shall be sent to PSP. 
+PSP shall carry out the investigation in order to process the complaint. 
+3. PSP shall calculate a fee for processing the complaint, in the amount set in the price list attached as 
+Appendix no. 1 to the Regulations, and the fee shall be borne by the Participant, whose non-performance 
+or improper performance of obligations under the Agreement on Participation or the Regulations 
+resulted in the event that provided a basis for making the complaint by another Participant. If, while 
+processing the complaint it is determined that the complaint was made in circumstances in which neither 
+any of the Participants nor PSP can be considered responsible for the non-performance or improper 
+performance of the Agreement or the Regulations, the fee for processing the complaint shall be collected 
+from the Participant that made this complaint. PSP shall waive the fee for processing the complaint in 
+instances referred to in the Operational Procedure for Participants – Processing of notifications, 
+inquiries and complaints pertaining to mobile payments. 
+4. In addition to the fee referred to in section 3, in the case of the Issuer making a complaint with respect 
+to the BLIK-C Transaction cleared with the Cooperating Scheme, PSP shall collect from the Issuer the 
+fee for the Cooperating Scheme or shall transfer to the Issuer the fee received from the Cooperating 
+Scheme in the amount set in the price list attached as Appendix no. 2 to the Regulations. The procedure 
+for collecting and settling the fees for the processing of complaints pertaining to BLIK-C Transactions 
+16 
+ 
+is described in the Operational Procedure for Participants – Processing of notifications, inquiries and 
+complaints pertaining to mobile payments. 
+5. In the case of the complaint lodged by the Participant, including a specific claim made by the User, 
+Institutional User, Merchant or the Participant, resulting from the non-performance or improper 
+performance of obligations under the Agreement on Participation or the Regulations by PSP or another 
+Participant, costs related to processing such claims shall be borne by the entity that failed to perform or 
+improperly performed obligations under these documents. In the Ognivo system, PSP shall notify 
+Participants taking part in the complaint review process of the outcome of the complaint proceedings 
+carried out, indicating the Participant that caused the event providing a basis for the complaint, and the 
+number of the account of the Participant, to which the Participant indicated by PSP is obliged to transfer 
+the amount of the claim made. 
+6. Any doubts with respect to identifying the entity responsible for the occurrence of the event providing 
+a basis for the complaint shall be resolved by PSP. 
+7. The Participant shall be obliged to review complaints and other notifications, and to submit to PSP any 
+available documents and information required in the complaint process in accordance with the 
+Operational Procedure for Participants – Processing of notifications, inquiries and complaints pertaining 
+to mobile payments, and within time frames specified in this procedure. 
+8. PSP shall be obliged to review complaints and other notifications, and to submit to the Participant 
+received documents and information required in the complaint process, and to correct the amount of the 
+transaction subject to the complaint or to cancel the transaction subject to the complaint, provided that 
+the need for such an operation arises from the Operational Procedure for Participants – Processing of 
+notifications, inquiries and complaints pertaining to mobile payments. 
+9. In the case of the need to obtain additional information necessary to review the complaint, PSP shall 
+request the responsible Participant to provide this information. The Participant shall be obliged to 
+immediately send the information required to review the complaint, at the request of PSP. 
+10. PSP shall notify Participants involved in the complaint proceedings of the process thereof and, if 
+necessary, shall send to Participants reminders in order to ensure meeting the agreed time limits for 
+processing the complaint. 
+11. The Participant’s failure to express an opinion on the complaint within the time limit set in the 
+Operational Procedure for Participants – Processing of notifications, inquiries and complaints pertaining 
+to mobile payments shall be considered equivalent to this Participant recognising the complaint as 
+justified and due to reasons attributable to this Participant. 
+12. If the complaint made by the Participant is not considered justified, the Participant shall be entitled to 
+request additional documentation justifying the refusal. 
+13. In the case of the Participant making a complaint pertaining to the Mobile Transaction other than the 
+one referred to in section 14, the correction of the amount of the transaction subject to the complaint or 
+cancellation of the transaction subject to the complaint shall be made by PSP based on: 
+17 
+ 
+a) acceptance of the Participant that will be charged as a result of this correction or cancellation; 
+or 
+b) considering the complaint justified in accordance with the procedure specified in section 11. 
+14. In the case of the Issuer making a complaint pertaining to the Mobile Transaction unauthorised by the 
+User, to which the Acquirer affixed the message referred to in §11 section 7, and which was subject to 
+the Authorisation by the Issuer without confirming this transaction by the User in the Mobile 
+Application, the Acquirer shall be obliged to return the amount of such a transaction to this Issuer, 
+unless the Acquirer provided the Issuer with the declaration confirming the proper execution of the 
+Mobile Transaction in the system of the Acquirer and the Merchant, to which the Mobile Transaction 
+subject to the complaint refers, and confirmed the application of technical and organisational solutions 
+referred to in §11 section 7, whereas the position presented by the Acquirer with respect to the complaint 
+was not disputed by the Issuer. 
+15. To the declaration referred to in section 14, the Acquirer shall attach documents referred to in the 
+Operational Procedure for Participants – Processing of notifications, inquiries and complaints pertaining 
+to mobile payments. 
+16. PSP carrying out any operations as a result of complaint proceedings cannot be considered the ground 
+for authorising the Participant or the User to conclude that the User participated in concluding the 
+Mobile Transaction or received the goods or services paid for, or other benefits as a result of this 
+transaction. 
+§ 10. 
+Corrections of amounts of transactions subject to complaints or cancellations of transactions subject to 
+complaints referred to in §9 section 12, as well as returns of amounts referred to in §9 section 14, shall be 
+made by PSP in accordance with the Operational Procedure for Participants – Processing of notifications, 
+inquiries and complaints pertaining to mobile payments.. 
+ 
+VI. 
+AUTHORISATION OF BLIK TRANSACTIONS 
+§ 11. 
+1. The queue of orders in the BLIK System shall be managed in accordance with the First In, First Out 
+rule. Consequently, BLIK Transactions shall be executed and Mobile Transactions shall also be cleared 
+in the sequence of inputting the orders into the BLIK System. 
+2. Authorisation of BLIK Transactions shall be carried out in the BLIK Scheme by Issuers, using BLIK 
+Codes. 
+3. The general model of executing BLIK Transactions using the One-Time Code generated by PSP 
+involves the following stages: 
+a. Generation of the One-Time Code by PSP: 
+18 
+ 
+At the request of the User submitted through the Mobile Application to the Issuer or at the request 
+of the Institutional User submitted using a functionality other than the Mobile Application, made 
+available by the Issuer, the Issuer sends to PSP the request to generate the One-Time Code. The 
+One-Time Code is generated by PSP and returned to the Issuer. PSP keeps identifiers of the Issuer 
+and the Mobile Account for which the One-Time Code was generated. The generated One-Time 
+Code is displayed in the Mobile Application of the User or made available using another service or 
+functionality made available by the Issuer. 
+b. Entering the One-Time Code generated by PSP into the Accepting Device: 
+The User or a natural person authorised by the Institutional User enters the One-Time Code 
+generated by PSP into the Accepting Device. 
+c. Transfer of the One-Time Code generated by PSP for Authorisation: 
+The Accepting Device sends the One-Time Code generated by PSP together with details of the 
+BLIK Transactions through the Acquirer to PSP. 
+d. Verification of the One-Time Code generated by PSP in the BLIK System: 
+Based on the One-Time Code previously generated by PSP, received from the Acquirer, PSP 
+searches for the Mobile Account and identifies the Issuer, and sends to the Issuer details of the BLIK 
+Transaction for Authorisation. 
+e. Authorisation by the Issuer: 
+In the Authorisation process, the Issuer makes the decision on executing the BLIK Transaction. 
+f. Forwarding the response to the Accepting Device: 
+The Issuer sends the decision on accepting or rejecting the Mobile Transaction to PSP. 
+PSP, through the network of the Acquirer, forwards the decision on acceptance or rejection of the 
+BLIK Transaction to the Accepting Device. 
+ 
+4. The general model of executing BLIK Transactions using the One-Time Code registered in the PSP 
+System based on the order of the Issuer involves the following stages: 
+a. Downloading the One-Time Code from the Accepting Device: 
+The User downloads the One-Time Code from the Accepting Device to the Mobile Application. 
+The One-Time Code is then transferred to the IT system managed by the Issuer, and transferred by 
+the Issuer to the PSP System in order to register this code in connection with the Mobile Account 
+of the User. PSP keeps identifiers of the Issuer and the Mobile Account for which the One-Time 
+Code was registered. 
+b. Transfer of the One-Time Code for Authorisation: 
+The Accepting Device sends the One-Time Code downloaded by the User together with details of 
+the BLIK Transactions through the Acquirer to PSP. 
+c. Verification of the One-Time Code by PSP in the BLIK System: 
+Based on the One-Time Code received from the Acquirer, PSP verifies whether the particular One-
+Time Code was registered in PSP based on the previous order of the Issuer, and if it was, identifies 
+the Mobile Account and the Issuer and sends to the Issuer details of the BLIK Transaction for 
+Authorisation. 
+d. Authorisation by the Issuer: 
+In the Authorisation process, the Issuer makes the decision on executing the BLIK Transaction. 
+e. Forwarding the response to the Accepting Device: 
+The Issuer sends the decision on accepting or rejecting the Mobile Transaction to PSP. 
+19 
+ 
+PSP, through the network of the Acquirer, forwards the decision on acceptance or rejection of the 
+BLIK Transaction to the Accepting Device. 
+ 
+5. The general model of executing BLIK Transactions using the Alias registered in the PSP System based 
+on the order of the Issuer involves the following stages: 
+a. Forwarding the Alias to the PSP System: 
+The User reports the Alias, in accordance with the agreement concluded with the Issuer, to the 
+Issuer, who forwards this Alias to the PSP System in order to register this Alias in connection with 
+the Mobile Account of the User. PSP keeps identifiers of the Issuer and the Mobile Account for 
+which the Alias was registered. 
+b. Obtaining the Alias by the Accepting Device: 
+The Accepting Device obtains the Alias in a way specified in the Technical Specification for 
+Participants. 
+c. Forwarding the Alias for Authorisation: 
+The Accepting Device sends the Alias together with details of the BLIK Transactions through the 
+Acquirer to PSP. 
+d. Verification of the Alias by PSP: 
+Based on the Alias received from the Acquirer, PSP verifies whether the particular Alias was 
+registered in the PSP System based on the previous order of the Issuer, and if it was, identifies the 
+Mobile Account and the Issuer, and sends to the Issuer details of the BLIK Transaction for 
+Authorisation. 
+e. Authorisation by the Issuer: 
+In the Authorisation process, the Issuer makes the decision on executing the BLIK Transaction. 
+f. Forwarding the response to the Accepting Device: 
+The Issuer sends the decision on accepting or rejecting the Mobile Transaction to PSP. 
+PSP, through the network of the Acquirer, forwards the decision on acceptance or rejection of the 
+BLIK Transaction to the Accepting Device. 
+ 
+6. The general model of executing C-BLIK Transactions involves the following stages: 
+a. Forwarding the Alias to the PSP System: 
+The User reports the Alias, in accordance with the agreement concluded with the Issuer, to the 
+Issuer, who forwards this Alias to the PSP System in order to register this Alias in connection with 
+the Mobile Account of the User. PSP keeps identifiers of the Issuer and the Mobile Account for 
+which the Alia was registered, and obtains a token from the Tokenisation System. PSP forwards the 
+token to the Issuer in order to pass this token to the Mobile Application. 
+b. Obtaining the Alias by the Accepting Device: 
+The Accepting Device obtains the token from the Mobile Application. 
+c. Forwarding the BLIK-C Transaction for Authorisation: 
+The Accepting Devices sends the token together with details of the BLIK-C Transaction through 
+the acquirer of the Cooperating Scheme to the Tokenisation System. The Cooperating Scheme, 
+using the Tokenisation System, sends the token together with details of the BLIK-C Transaction to 
+PSP. 
+20 
+ 
+d. Verification of the Alias by PSP: 
+Based on the token received from the Cooperating Scheme, PSP verifies whether the particular Alias 
+related to the particular token was registered in the PSP System based on the previous order of the 
+Issuer, and if it was, identifies the Mobile Account, and sends to the Issuer details of the BLIK 
+Transaction for Authorisation. 
+e. Authorisation by the Issuer: 
+In the Authorisation process, the Issuer makes the decision on executing the BLIK-C Transaction. 
+f. Forwarding the response to the Accepting Device: 
+The Issuer sends the decision on acceptance or rejection of the BLIK-C Transaction to PSP, whereas 
+PSP forwards this decision to the Cooperating Scheme that, through the Tokenisation System and 
+through the acquirer cooperating with the Cooperating Scheme, forwards it to the Accepting Device. 
+7. At the request of the Participant acting as the Acquirer, PSP may, on conditions set out in the Technical 
+Specification for Participants, allow to send to Issuers a message with a recommendation pertaining to 
+the Authorisation of the BLIK Transaction without the User confirming in each case the order in the 
+Mobile Application. The Issuer shall not be obliged to take into account the recommendation included 
+in the message referred to in the previous sentence, whereas the Acquirer shall be obliged to apply 
+proper technical and organisational solutions aimed at reducing risk of execution of unauthorised 
+transactions using the functionality described in the previous sentence. 
+§ 12. 
+1. The BLIK Transaction order shall be considered entered into the PSP System upon forwarding the BLIK 
+Code together with details of the BLIK Transactions to PSP. Authorisation of BLIK Transactions by 
+the Issuer shall be irrevocable. After Authorisation by the Issuer, the BLIK Transaction order cannot be 
+cancelled by the Participant or a third party. 
+2. By issuing an Authorisation for forwarding the Mobile Transaction for Clearing, the Issuer undertakes 
+to pay the Acquirer or the Cooperating Scheme for the Mobile Transaction through the BLIK System. 
+If the Mobile Transaction forwarded for Clearing within the framework of the BLIK System involves 
+the transfer of cash to the User’s account operated by the Issuer, the Acquirer undertakes to pay the 
+Issuer the amount resulting from Clearing.  
+3. Decisions taken by the Issuer as part of the Authorisation have to be permanently entered in the IT 
+system of the Issuer and the Acquirer. 
+4. The Mobile Transaction authorised by the Issuer can be cancelled by PSP or the Acquirer in the case of 
+a technical error. 
+5. The Mobile Transaction can be cancelled or corrected within 13 months from the day of Authorisation 
+of the Mobile Transaction. 
+§ 13. 
+21 
+ 
+1. In order to reduce operational risk related to executing Mobile Transactions, the Participant can forward 
+Mobile Transactions for Authorisation for the amount not exceeding the limit for a single transaction 
+set in the Technical Specification for Participants. 
+2. In the case of BLIK Transaction forwarded for Authorisation for the amount exceeding the limit set for 
+a single Mobile Transaction, the PSP System shall reject the BLIK Transaction, while providing the 
+appropriate error code. 
+§ 14. 
+PSP shall report detected unauthorised BLIK Transactions to the NBP in compliance with applicable legal 
+regulations. 
+§ 15. 
+For the purposes of recording BLIK Transactions in the BLIK Scheme and the BLIK System, the PSP 
+System’s date and time will be used. 
+ 
+VII. 
+CLEARING AND SETTLEMENT OF MOBILE TRANSACTIONS 
+§ 16. 
+1. Mobile Transactions initiated within the framework of the BLIK Scheme will be cleared in the BLIK 
+System. 
+2. PSP shall perform Clearing in the BLIK System on each working day. 
+3. Clearing shall be performed using the ELIXIR system operated by KIR, based on the agreement 
+pertaining to the use of the ELIXIR system concluded by and between the specific Participant and KIR, 
+taking into consideration the provisions presented below. 
+4. Principles for Clearing and Settlement of Mobile Transactions are set forth in the Regulations of the 
+BLIK System. 
+ 
+ 
+VIII. 
+SUSPENSION AND EXCLUSION OF THE PARTICIPANT 
+§ 17. 
+1. Upon receiving the decision of the PFSA or another competent supervisory authority on suspending the 
+activities of the Participant, or in the case of triggering the Settlement guarantee due to lack of sufficient 
+funds on the account of the Issuer, PSP shall initiate the procedure for excluding the Participant from 
+the BLIK Scheme and the BLIK System. 
+22 
+ 
+2. The exclusion procedure will start with suspending the Participant (blocking the account) in the BLIK 
+Scheme and in the BLIK System, which will result in the Participant’s inability to execute BLIK 
+Transactions within the framework of the BLIK Scheme and the BLIK System. 
+3. After one month of the event referred to in section 1, the Participant will be excluded from the BLIK 
+Scheme and the BLIK System if the Participant fails to effectively implement the steps aimed at 
+restoring or obtaining necessary authorisations or activities necessary for eliminating the circumstances 
+posing a risk of triggering the Settlement guarantee. 
+§ 18. 
+1. Based on a written statement on closing the current account of the Issuer with the NBP, provided by the 
+NBP, PSP shall initiate the procedure for excluding the Issuer from the BLIK Scheme and the BLIK 
+System. 
+2. On the day of closing the current account of the Issuer with the NBP, the Issuer will be suspended, 
+which means that the account of the Issuer being the direct Participant and accounts of Issuers being 
+indirect Participants using the account of the Issuer being the direct Participant in the BLIK Scheme and 
+the BLIK System will be blocked for one month. 
+3. After one month of the event referred to in section 2, the Issuer will be excluded from the BLIK Scheme 
+and the BLIK System if the Issuer fails to open another clearing account maintained by the NBP. 
+§ 19. 
+1. If the PSP concludes that the Participant has breached the provisions of the Agreement on Participation 
+or the Regulations, PSP shall send a written warning to the Participant. 
+2. The warning shall describe the irregularities detected and the date set by PSP for eliminating these 
+irregularities by the Participant. 
+3. If the Participant fails to eliminate the irregularities indicated in the warning within the time limit set, 
+PSP may temporarily suspend the Participant’s access to the particular functionality of the BLIK 
+Scheme, temporary suspend the Participant’s right as the Participant of the BLIK Scheme and the BLIK 
+System, or exclude the Participant from the BLIK Scheme and the BLIK System. 
+4. PSP shall notify all other Participants and the NBP of any decisions taken with respect to the Participant. 
+5. The previously excluded Participant can be re-instated in the BLIK Scheme and the BLIK System after 
+satisfying the requirements set forth in the Regulations for entities applying for participation in the BLIK 
+System. 
+6. Exclusion or suspension of the Participant acting as the Issuer shall not result in automatic exclusion or 
+suspension of this Participant acting as the Acquirer. 
+7. Exclusion or suspension of the Participant acting as the Acquirer shall not result in automatic exclusion 
+or suspension of this Participant acting as the Issuer. 
+23 
+ 
+ 
+IX. 
+ALERT PROCESSING 
+§ 20. 
+PSP shall notify Participants, via a dedicated communication channel or by sending a message to the 
+dedicated email address, of the occurrence of significant events in the BLIK Scheme or the BLIK System, 
+and in particular of: 
+a. generating the clearing report for the Participant; 
+b. triggering the Settlement guarantee procedure due to the Issuer’s failure to provide sufficient funds; 
+c. high number (more than 3% of the number of BLIK Transactions for the last 30 days, but no fewer than 
+50) of complaints pertaining to Mobile Transactions for reasons attributable to the Participant; 
+d. other, referred to the Technical Specification for Participants. 
+ 
+X. 
+TEMPORARY BLOCKING AND INFORMATION OBLIGATION 
+§ 21. 
+1. PSP shall have the right to temporarily block the Participant from using the services provided within 
+the framework of the BLIK Scheme and the BLIK System, in the case of: 
+a. exceeding the response time for the request for Authorisation for all BLIK Transactions forwarded 
+within the last 15 minutes; 
+b. mass (minimum 50%) refusals in Authorisation responses for reasons not attributable to the User or 
+PSP; 
+c. detection of inconsistency of the format of messages sent with the Technical Specification for 
+Participants; 
+d. sending, within the framework of the BLIK Scheme or the BLIK System, unexpected messages with 
+regards to the stage of the BLIK Transaction processing; 
+e. the Participant’s actions posing a threat to the continuity of operations of the BLIK Scheme or the BLIK 
+System; 
+f. detecting breaches of the security principles of the BLIK Scheme and the BLIK System, set forth by 
+PSP; 
+g. failure to eliminate the Participant’s non-compliance with the requirements set forth in the Agreement 
+and the Regulations, identified by PSP, within the time limit set by PSP. 
+ 
+2. The Participant shall be unblocked after notifying PSP, via email, of removing the cause of the problem. 
+§ 22. 
+In the case of any doubts pertaining to the BLIK Transaction executed within the framework of the BLIK 
+Scheme and the BLIK System, the Participant shall be obliged to immediately notify PSP, in a manner 
+described in the Technical Specification for Participants, and to take steps to explain these doubts. 
+ 
+ 
+24 
+ 
+XI. 
+RULES FOR EXECUTING P2P AND P2P-R TRANSACTIONS 
+§ 23. 
+1. The process of executing P2P Transactions in the BLIK System is carried out by using the Mobile 
+Accounts database and by internal clearing carried out by the Issuer, or by using SPN or the BLIK 
+System. The general model of the P2P Transaction involves the following stages: 
+a. P2P Transaction order 
+The order for executing a P2P Transaction shall be placed with the Issuer using the Mobile Application 
+in the case of Users or using the tele-information system made available by the Issuer in the case of 
+Institutional Users. When placing the order, the User or the Institutional User shall identify the Alias 
+assigned previously in the BLIK System to the Mobile Account of the recipient for the purposes of 
+executing the P2P Transaction and the transaction amount. 
+b. Obtaining the NRB number from the Mobile Accounts database 
+The Issuer, who will receive the P2P Transaction order from the User or the Institutional User, shall 
+send the inquiry with the Alias received in the order to the Mobile Accounts database. PSP shall provide 
+the Issuer implementing the transfer order with the NRB number assigned in the Mobile Accounts 
+database to the Alias sent in the inquiry. If the Alias is not included in the Mobile Accounts database, 
+in response the Issuer will receive an error message, and the Issuer shall notify the User or the 
+Institutional User, who ordered the execution of the P2P Transaction, of the inability to execute this 
+P2P Transaction. 
+c. Forwarding the P2P Transaction for execution within the framework of internal clearing carried out by 
+the Issuer, or for clearing in the Instant Transfer System or the BLIK System. 
+After obtaining the NRB number from the Mobile Accounts database, the Issuer shall enter this number 
+into the payment order and shall forward the complete transfer prepared in such a way for internal 
+clearing if he maintains a bank account of both parties to the transaction, otherwise, the Issuer shall 
+forward the transaction for clearing in the Instant Transfer System or in the BLIK System in accordance 
+with the procedure described in the Technical Specification for Participants. In the case of using Express 
+ELIXIR, the transfer is forwarded for clearing, while indicating MP2P as the service type. 
+2. The general model of executing the P2P-R Transaction involves the following stages: 
+a. Sending the transfer request by the User initiating the P2P-R Transaction. 
+By providing the Alias assigned previously in the BLIK System to the Mobile Account, the User 
+identifies the User to whom the transfer request is addressed. The User requesting the transfer shall 
+specify the amount and optionally the transfer title. The Issuer shall forward the data provided by the 
+User together with the first name, surname and telephone number of the User to the BLIK System. 
+When forwarding the message with the transfer request to the PSP System, in this message, the Issuer 
+includes preferences with respect to the manner of clearing the P2P-R Transaction in accordance with 
+the requirements set forth in the Technical Specification for Participants. 
+b. Identification of the User being the transfer sender 
+After receiving from the Issuer the message – transfer request including details specified in item a 
+above, based on the Alias forwarded in the message with the transfer request, the PSP System shall 
+identify the Mobile Account of the User to whom the transfer request is addressed, and forwards the 
+message to the Issuer providing services to this User. If the Mobile Accounts database does not include 
+the Alias corresponding to the data included in the message with the transfer request, in response, the 
+25 
+ 
+Issuer who forwarded the message with the transfer request will receive from the PSP System an error 
+message, and the Issuer shall notify the User of the inability to forward the transfer request. 
+c. Acceptance of the transfer request 
+The Issuer providing services to the User, to whom the transfer request is addressed, will receive from 
+the PSP system a message with the transfer request. The Issuer shall present the transfer request to the 
+User in the Mobile Application, while disclosing the first name and surname of the User – sender of the 
+transfer request, amount and title of the transfer, if specified in the transfer request. If the User accepts 
+the transfer request in the Mobile Application, the Issuer providing services to this User shall send to 
+the PSP System a message notifying of accepting the transfer request, and shall forward the P2P-R 
+Transaction for clearing in the Instant Transfer System or for clearing in the BLIK System. 
+d. Clearing of P2P-R Transactions 
+P2P-R Transactions shall be cleared in the Instant Transfer System or in the BLIK System. In the case 
+of using Express ELIXIR, the transfer is forwarded for clearing, while indicating MP2P as the service 
+type. Regardless of the manner of the transaction clearing, the Issuer providing services to the User who 
+sent the transfer request, shall credit the account of this User immediately after receiving from the PSP 
+System the notification of accepting the transfer request. P2P and P2P-R Transactions can be cleared in 
+the BLIK System only when both Issuers providing services to both Users to whom the transaction 
+pertains, have implemented the technical and organisational solutions specified in the Technical 
+Specification for Participants. 
+ 
+ 
+XII. 
+DATA ARCHIVING AND REPORTING 
+§ 24. 
+1. PSP shall keep details of all BLIK Transactions executed using the PSP System in its archives for the 
+period referred to in section 2. 
+2. After 6 (six) years from the end of the calendar year of executing the BLIK Transaction using the BLIK 
+System, PSP shall immediately erase the archived data in a manner preventing their recovery. 
+3. Complains made by Participants in the Ognivo system will be archived after the expiry of 13 months 
+from making the complaint, and will be deleted from the Ognivo system. Archived data will be kept for 
+6 years from the end of the calendar year of making the complaint, and then will be erased in a manner 
+preventing their recovery. 
+4. Participants shall be obliged to forward to PSP any information necessary to meet the reporting or 
+statistical obligations to the NBP or other institutions authorised to request information related to the 
+functioning of the BLIK Scheme and the BLIK System. 
+§ 25. 
+ 
+1. PSP, at the request of the Participant, shall provide data of BLIK Transactions or complaints referred to 
+in §24, in keeping with the principles set forth in the Technical Specification for Participants. 
+26 
+ 
+2. Data referred to in section 1 shall be made available to Participants, except for situations where the 
+request: 
+a) was submitted by an unauthorised person; 
+b) pertains to data after their archiving period; 
+c) does not include information allowing the explicit identification of the Mobile Transaction or the 
+complaint. 
+§ 26. 
+1. At the request of authorised control authorities, PSP shall make available source data of BLIK 
+Transactions executed within the framework of the BLIK Scheme and the BLIK System. 
+2. PSP can prepare and provide to Participants statistics of all BLIK Transactions, including Mobile 
+Transactions and P2P Transaction, in an aggregated form and within the scope permitted by law. 
+ 
+ 
+XIII. 
+FINAL PROVISIONS 
+§ 27. 
+1. PSP will, unilaterally and independently, determine the amount of fees due to Issuers and Acquirers for 
+the execution of Mobile Transactions within the framework of the BLIK Scheme, and clearing thereof 
+in the BLIK System. Fees, referred to in the previous sentence, will be charged by PSP as part of 
+Clearing made for each Mobile Transaction. 
+2. PSP shall be fully free to determine the amount of fees due to Issuers and Acquirers, change these fees, 
+as well as differentiate these fees depending on the type of Mobile Transactions, based on justified, 
+objective and verifiable criteria. 
+3. PSP shall unilaterally determine the amount of fees due to PSP from Participants in relation to PSP 
+services provided to Participants. The price list specifying the amount of fees and other costs related to 
+participation in the BLIK System constitutes an integral part of the Regulations. 
+4. PSP shall be the only entity managing the Mark. Based on rights granted under the licence, PSP and 
+Participants shall use the mark for the purposes of marking points accepting and executing BLIK 
+Transactions, for the purposes of marking services offered within the framework of the BLIK Scheme, 
+and to promote the BLIK Scheme and the BLIK System. PSP shall grant authorisations to mark services 
+that make available BLIK Transactions and functionalities provided by PSP and implemented by the 
+Issuer. 
+5. Provisions of the Regulations can be amended by PSP unilaterally, whereas such amendments shall be 
+effective subject to notifying Participants of amendments sufficiently in advance, while ensuring a two-
+month period for adjustment. PSP shall unilaterally amend provisions of the Terms in Conditions in 
+each case taking into account applicable legal regulations and provisions of the Agreement on 
+Participation. 
+27 
+ 
+6. Provisions of amended Regulations can be binding on the Participant and PSP before the expiry of the 
+two-month adjustment period if the amendment to the Regulations refers to Participant’s rights that are 
+not in conflict with the rights of other Participants. Bounding the Participant and PSP by the amended 
+version of the Regulations as specified in the previous sentence shall require concluding an appropriate 
+annex to the Agreement on Participation. 
+7. Concluding the Agreement on Participation with PSP shall result in automatic inclusion of the 
+Participant in the BLIK Payment Scheme and the BLIK Payment System, regardless of the date of 
+concluding the Agreement. 
+8. Matters not regulated herein shall be governed by provisions of the Agreement on Participation and the 
+Regulations, and appropriate provisions of universal law. 
+ 
+ 
+Part B – Regulations of the BLIK Payments System 
+ 
+§ 1. 
+1. The BLIK payment system is a payment system within the meaning of the Act of 24 August 2001 on 
+the settlement finality in payment and securities settlement systems and the rules for monitoring these 
+systems (Journal of Laws No. 123, item 1351, as amended), operated by Polski Standard Płatności Sp. 
+z o.o. as an operator of this payment system, closely linked with the BLIK Mobile Payment Scheme 
+being a payment scheme within the meaning of the Act of 19 August 2011 on payment services (Journal 
+of Laws No. 199, item 1175, as amended) operated by Polski Standard Płatności Sp. z o.o. as a payment 
+organisation. 
+2. This document sets forth the principles of the functioning of the BLIK Payment System, and in 
+particular, the principles for clearing and settlement in the BLIK System. 
+3. Capitalised terms used in this document, which are not defined separately herein, shall have the meaning 
+defined in Part A – Regulations of the BLIK Payment Scheme. 
+4. Participants of the BLIK System are Participants of the BLIK Scheme who concluded the binding 
+Agreement on Participation with PSP. 
+§ 2. 
+1. Mobile Transactions initiated and processed in the BLIK Scheme in accordance with the provisions of 
+the Agreement on Participation and the Regulations of the BLIK Payment Scheme shall be subject to 
+Clearing in the BLIK System. 
+2. The Mobile Transaction clearing module of the BLIK System generates, on working days, data sets for 
+Clearing, covering Mobile Transactions authorised in the BLIK Scheme during the particular PSP 
+Clearing Session, except for BLIK-C Transactions being returns received from the Cooperating Scheme 
+that are subject to clearing in accordance with the procedure described in section 10. 
+28 
+ 
+3. The PSP Clearing Session shall be closed at 24:00 hours. 
+4. Mobile Transactions authorised in the BLIK Scheme on statutory holidays shall be included in the PSP 
+Clearing Session subject to Clearing on the first working day following the statutory holiday or holidays, 
+except for BLIK-C Transactions being returns received from the Cooperating Scheme that are subject 
+to clearing in accordance with the procedure described in section 10. 
+5. Mobile Transactions are cleared in net amounts, taking into account fees due to Issuers and Acquirers. 
+The amount of fees due to Issuers and Acquirers is determined in Appendix no. 2 to the Regulations. 
+6. On working days, PSP shall generate and make available to Participants clearing and reconciliation files 
+including all Mobile Transactions qualifying for the particular PSP Clearing Session, pertaining only to 
+particular Participants, including details of each Mobile Transaction. 
+7. Clearing and reconciliation files shall be made available immediately after the end of the PSP Clearing 
+Session. 
+8. The Participant shall be obliged to verify the data included in clearing and reconciliation files, and 
+immediately report any irregularities to PSP on working days. 
+9. Immediately after receiving the information on irregularities, PSP shall implement steps aimed at 
+clarifying the situation, and if necessary, it will generate again and make available to Participants the 
+clearing and reconciliation files. 
+10. BLIK-C Transactions being returns shall be qualified for the PSP Clearing Session after receiving from 
+the Cooperating Scheme information on forwarding these transactions for clearing in the Cooperating 
+Scheme. 
+§ 3. 
+1. The schedule of Clearing and Settlement events is presented in the Operational Procedure for 
+Participants – Processing of clearing and reconciliation files. 
+2. The schedule referred to in section 1 shall be adjusted to the requirements of the technical specification 
+prepared by KIR. 
+§ 4. 
+1. Settlement shall be performed using the ELIXIR system operated by KIR, based on the agreement 
+pertaining to the use of the ELIXIR system concluded by and between the particular Participant and 
+KIR, taking into consideration the provisions presented below. 
+2. Settlement orders submitted in the ELIXIR system by Participants of the BLIK System through PSP 
+shall have the effect as the settlement order within the meaning of Article 1 point 12 of the Act of 
+24 August on settlement finality in payment and securities settlement systems and the rules for 
+monitoring these systems (consolidated text: Journal of Laws of 2013, item 246). 
+29 
+ 
+3. Except for the situation described below, Settlement shall take place within one working day. In the 
+case of errors occurring during the first or second session of the ELIXIR system on 24 December and 
+on the last clearing day of each year, in at least one file submitted for clearing in the ELIXIR system, or 
+inconsistency of transfer sums, Settlement shall take place on the next clearing day during the first 
+session of the ELIXIR system, after PSP forwards to KIR correct files with liabilities related to the 
+Clearing of Mobile Transactions for the previous clearing day, whereas Settlement of current liabilities 
+related to Mobile Transaction Clearing for this subsequent clearing day shall be deferred to the second 
+session of the ELIXIR system on this next day. PSP shall immediately notify Participants of the inability 
+to carry out Settlement during the particular ELIXIR session. 
+4. Settlement in the ELIXIR system shall be carried out Monday to Friday excluding statutory holidays in 
+the territory of the Republic of Poland. Mobile Transactions shall be processed in the hours specified in 
+the “Schedule of clearing runs in electronic clearing systems of KIR S.A.”: 
+a) during the first session; 
+b) during the second session in the case of triggering the Settlement guarantee mechanism or as a result 
+of Settlement deferral referred to in section 3 above; 
+c) during the third session, in the case of errors occurring during the first session of the ELIXIR system, 
+in at least one settlement file submitted for Settlement in the ELIXIR system, or inconsistency of transfer 
+sums after PSP forwards the correct files again to KIR, except for 24 December and the last clearing 
+day of the year, when correctly prepared files shall be processed during the first session on the next 
+clearing day, in accordance with section 3 above. 
+5. Settlement shall be carried out in the bilateral model, using the Technical Account kept for PSP at a 
+commercial bank. 
+6. Data for the purposes of Settlement forwarded by the BLIK System shall include information on the 
+liabilities of each of the Issuers to the BLIK System and the receivables of each of the Acquirers and 
+Cooperating Schemes due from the BLIK System, taking into account fees due to Issuers and Acquirers. 
+In the case of Acquirers being Secured Agents, the data for the purposes of Settlement forwarded by the 
+BLIK System shall include information on the liabilities of Secured Agents to the BLIK System or 
+information on the receivables of Secured Agents due from the BLIK System, taking into account fees 
+due to Issuers and Acquirers. 
+7. Based on Settlement data generated by the PSP System and relevant powers of attorney granted to KIR 
+by the Issuer, KIR – on behalf of the Issuer – shall input the transfer order covering the liabilities of the 
+Issuer to the BLIK System (single liability amount net), and in the case of the Issuer being the Securing 
+Issuer – the transfer order covering the liabilities of Secured Agents to the BLIK System. During the 
+same session, accounts of Acquirers, including Secured Agents and the Cooperating Scheme, will be 
+credited with single transfers from the Technical Accounts. 
+8. Settlement shall take place during one session of the ELIXIR system. Funds shall not be retained by the 
+bank maintaining the Technical Account. 
+9. The balance of the Technical Account before and after the PSP Clearing Session will be PLN zero. 
+30 
+ 
+10. In the case of triggering the Settlement guarantee due to insufficient funds on the account of the Issuer 
+with the NBP and withdrawal of at least one transfer pertaining to the BLIK System from the ELIXIR 
+system, all other orders generated by the BLIK System will also be withdrawn by KIR, and clearing in 
+the first session of ELIXIR will not be performed. At the same time, PSP will block in the PSP System, 
+the account of the Issuer that failed to ensure sufficient funds in the BLIK System, which will result in 
+the Issuer’s inability to execute further Mobile Transactions in the BLIK System. In the case of blocking 
+the account of the Issuer being the Securing Issuer in the PSP System, the accounts of Secured Agents 
+for whom the blocked Securing Issuer keeps accounts for the purposes of the processing of Mobile 
+Transactions entered into the BLIK System by these Secured Agents, will be automatically blocked, as 
+a result these Secured Agents will be unable to enter Mobile Transactions into the BLIK System. PSP 
+shall immediately notify the NBP of blocking the account of the Participant in the PSP System and of 
+triggering the settlement guarantee procedure. 
+11. Within the BLIK System, Participants being Issuers, including the Participants being Securing Issuers, 
+shall guarantee making available funds for the purposes of Settlement if any of the Issuers, including 
+the Issuer being the Securing Issuer, does not have sufficient funds for the purposes of Settlement. 
+12. For the purposes of Settlement during the sessions of the Elixir system referred to in section 10 above, 
+PSP shall again prepare the data for the purposes of Settlement, while increasing the liabilities of 
+remaining Issuers by the amount that was not covered by any of the Issuer, in accordance with the 
+principles and template set forth in the Operational Procedure for Participants – Settlement Guarantee 
+Processing, and KIR shall enter new transfer orders to the ELIXIR system on behalf of the Issuer(s). 
+13. If any of the Issuers responsible for covering the liabilities of another Issuer(s) fails to provide cash to 
+cover the liabilities of another Issuer(s) within the framework of the Settlement during the second 
+session of the Elixir system, the Mobile Transaction will not be subject to Settlement. In such case, 
+direct bilateral clearing between Issuers and Acquirers and the Cooperating Scheme shall take place, of 
+which the NBP will be informed. PSP shall prepare individual reports constituting payment orders, 
+based on which Issuers shall conduct bilateral clearing with other Participants. In the event of initiating 
+the bilateral clearing process, Issuers shall be obliged to make, in accordance with PSP orders, transfers 
+in the ELIXIR system, in the amounts and to the Acquirers, including Secured Agents, or to the 
+Cooperating Scheme, or to other Issuers, whose Users executed Mobile Transactions input into the 
+BLIK System by Secured Agents, or to make, in accordance with PSP orders, clearing on accounts kept 
+by these Issuers as Securing Issuers for Secured Agents. 
+14. The Issuer who failed to ensure sufficient funds, including the Securing Issuer, undertakes to 
+immediately reimburse other Issuers, including Securing Issuers, for the equivalent of all amounts paid 
+by these Issuers, plus statutory interest. 
+15. Detailed rules for using the Settlement Guarantee are set forth in the Operational Procedure for 
+Participants – Settlement Guarantee Processing. 
+§ 5. 
+Matters not regulated herein shall be governed by provisions of the Agreement on Participation and the 
+Regulations of the BLIK Payment Scheme, and appropriate provisions of universal law. 
+31 
+ 
+ 
+ 
+List of appendices to the Regulations of the BLIK Mobile Payments System: 
+1. Appendix no. 1 – Price Lists of the BLIK Payment System 
+a) Price List of the BLIK Payment System – Issuer 
+b) Price List of the BLIK Payment System – Acquirer 
+2. Appendix no. 2 – Fees due to Issuers and Acquirers 
+3. Appendix no. 3 – Technical Specification for Participants (STdU) 
+4. Appendix no. 4 – Operational Procedures for Participants (POdU) 
+a) POdU – Settlement guarantee processing 
+b) POdU – Processing of clearing and reconciliation files 
+c) POdU – Processing of notifications, inquiries and complaints pertaining to mobile payments 
+d) POdU – Processing of the Acquirer’s counter position 
+e) POdU – Communication between PSP and Participants in the case of reporting a suspicious BLIK 
+Transaction 
+5. Appendix no. 5 – Functionality Table 
+ 

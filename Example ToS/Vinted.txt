@@ -1,0 +1,707 @@
+Regulamin Vinted
+Regulamin korzystania z platformy Vinted
+OGÓLNE WARUNKI KORZYSTANIA - nowa wersja obowiązuje od 8 lipca 2020 r
+Serwis wystawiania przedmiotów online VINTED (zwany dalej "Witryną") jest zarządzany przez
+spółkę VINTED, UAB (zwaną dalej "VINTED"), z siedzibą przy ul. Svitrigailos 13, 03228 Wilno, Litwa,
+zarejestrowaną pod numerem 302767152 w Rejestrze Spółek Republiki Litewskiej.
+Przed zarejestrowaniem się na Witrynie, każdy Użytkownik musi zapoznać się z niniejszymi Ogólnymi
+Warunkami Korzystania (zwanymi dalej "Ogólnymi Warunkami"), Polityką Prywatności (zgodnie z
+definicjami, które również będą aktualizowane), jak również z innymi obowiązkowymi postanowieniami
+Witryny, zaakceptować je i zobowiązać się do ich przestrzegania.
+1. CEL
+1.1 Niniejsze Ogólne Warunki określają wzajemne relacje pomiędzy VINTED a Użytkownikami lub
+Odwiedzającymi.
+1.2 Możesz skontaktować się z VINTED, wypełniając formularz dostępny tutaj.
+1.3 Witryna umożliwia Użytkownikowi wymianę i/lub sprzedaż i/lub zakup Przedmiotów oraz korzystania z
+innych Usług Dodatkowych oferowanych przez Witrynę.
+1.4 Usługi nie są przeznaczone dla osób niepełnoletnich. W przypadku osób niepełnoletnich rodzic lub
+opiekun (osoba dorosła) musi zarejestrować się w celu korzystania z Usług i nadzorować korzystanie z Usług
+przez osoby niepełnoletnie.
+Profesjonalni sprzedający nie są upoważnieni do korzystania z Usług. Profesjonalni Sprzedający, którzy
+dokonują transakcji z konsumentami, podlegają szczególnym przepisom prawa.
+1.5 Rejestrując się na Witrynie, Użytkownik musi podać swoje pełne imię i nazwisko, nazwę użytkownika
+(pseudonim), adres e-mail i hasło (bezpośrednio lub za pośrednictwem profilu Facebook lub Google), w celu
+umożliwienia Witrynie identyfikacji Użytkownika za każdym razem, gdy korzysta z Witryny. Nawet jeśli
+podczas rejestracji na Witrynie Użytkownik podał swoje imię i nazwisko, inni Użytkownicy będą widzieć
+tylko nazwę (pseudonim) Użytkownika, która może różnić się od jego imienia i nazwiska. Dla celów
+bezpieczeństwa, VINTED może zażądać udzielenia pewnych potwierdzeń w odniesieniu do twojego konta.
+Takie potwierdzenia mogą obejmować m.in. powiązanie twojego konta Facebook, Google lub konta innej
+osoby trzeciej, potwierdzenie numeru telefonu, przedstawienie dowodu posiadacza karty, podanie unikalnego
+kodu PIN lub inne potwierdzenia, które VINTED może wprowadzić według własnego uznania. Wszystkie
+dane gromadzone w wyniku takiego potwierdzenia będą przetwarzane zgodnie z naszą Polityką
+Prywatności, która jest częścią umowy pomiędzy VINTED a Użytkownikiem.
+VINTED może, według własnego uznania, zmienić Ogólne Warunki w celu:
+a) dostosowania Ogólnych Warunków do obowiązujących lub przyjmowanych zmian przepisów ustawowych
+lub wymogów regulacyjnych;
+b) dostosowania Ogólnych Warunków do wszelkich orzeczeń sądów, organów ochrony konsumentów lub
+innych właściwych organów, które mają wpływ na zawartość Witryny;
+c) skorygowania wszelkich błędów (np. błędy ortograficzne lub inne rodzaje błędów, które nie zmieniają
+znaczenia istniejących zdań) niewykrytych do tej pory;
+d) zapewnienia większej klarowności i rzetelności niniejszych Warunków;
+e) odzwierciedlenia zmian i rozwoju w sposobie prowadzenia działalności;
+f) odzwierciedlenia zmian w warunkach rynkowych lub standardowych praktyk branżowych.
+W granicach obowiązującego prawa, w przypadku jakiejkolwiek zmiany Ogólnych Warunków, w tym
+Cennika (np. nowych usług), Użytkownicy zostaną poinformowani poprzez powiadomienie na Witrynie,
+zanim zmiana zacznie obowiązywać, lub w przypadku bardziej istotnych zmian (np. zmian mających wpływ
+na prawa lub obowiązki Użytkowników, główne funkcjonalności platformy lub innych istotnych zmian w
+sposobie działania Witryny), za pośrednictwem poczty elektronicznej wysłanej na adres e-mail podany w
+momencie rejestracji 15 dni przed wejściem w życie zmiany. Jeżeli Użytkownik nie zgadza się z
+którąkolwiek z zaproponowanych zmian, może zdecydować się na zakończenie relacji z VINTED i
+zamknięcie swojego konta VINTED, zgodnie z punktem 15.3. Wszelkie zmiany Ogólnych Warunków
+opublikowanych na Witrynie będą miały natychmiastowe zastosowanie do Odwiedzających.
+1.6 Użytkownikowi wyraźnie przypomina się, że Internet nie jest bezpieczną siecią. Użytkownik przyjmuje
+do wiadomości, że został w pełni poinformowany o zawodności Internetu, w szczególności w zakresie
+naruszeń bezpieczeństwa transmisji danych oraz braku gwarancji wydajności w zakresie wolumenu i
+szybkości transmisji danych. Dokładamy wszelkich starań, aby VINTED było jak najbezpieczniejsze.
+Niemniej jednak Internet nie jest siecią bezpieczną, a niezawodność systemu może pogorszyć się niezależnie
+od woli VINTED. VINTED nie ponosi odpowiedzialności za nieprzewidywalne zdarzenia, takie jak
+naruszenie bezpieczeństwa transmisji danych ani za gwarancje wydajności w zakresie wolumenu i szybkości
+transmisji danych. W tych okolicznościach, do Użytkowników należy podjęcie wszelkich odpowiednich
+środków w celu ochrony ich własnych danych i/lub oprogramowania, w szczególności przed atakiem przez
+wirusy krążące w Internecie.
+2 DEFINICJE
+Kupujący – oznacza każdego Użytkownika, który kupuje lub chce kupić jeden lub więcej Przedmiotów na
+Witrynie;          
+Przedmioty – oznaczają przedmioty, których sprzedaż nie jest zabroniona przez obowiązujące prawo
+krajowe i które Użytkownik umieścił w odpowiednim Katalogu Witryny, w celu ich sprzedaży, wymiany lub
+przekazania;
+Katalog – oznacza elektroniczny katalog, w którym wystawiony jest ten sam rodzaj Przedmiotów, przy
+założeniu, że wszyscy Użytkownicy muszą przestrzegać zasad korzystania z Katalogu wprowadzonych przez
+VINTED oraz Listy Produktów i Usług Niedozwolonych Adyen N.V. (jeśli dotyczy);
+Konto Użytkownika lub Konto – oznacza rejestrację Użytkownika na Witrynie; utworzone konto zawiera
+dane osobowe;
+Konta w serwisach społecznościowych – oznacza konta w serwisach Facebook, Google+, Twitter,
+Instagram, Pinterest, YouTube i innych serwisach społecznościowych, gdzie dostarczane są informacje o
+Witrynie i oferowanych przez nią Usługach, udostępniając treści publikowane przez Użytkowników;
+Potwierdzenie Odbioru – oznacza potwierdzenie, że Kupujący lub Użytkownik otrzymał Przedmiot;
+Forum – oznacza podstronę Witryny, na której Użytkownicy mogą publicznie komunikować się na
+określony temat lub bez konkretnego tematu. Zasady mające zastosowanie do Forum są dostępne tutaj;
+Cennik – oznacza dokument przedstawiający ceny płatnych Usług VINTED;
+Wiadomości prywatne – oznaczają komunikację poprzez wymianę prywatnych wiadomości pomiędzy
+Użytkownikami za pośrednictwem systemu wiadomości na Witrynie, do którego dostęp mają jedynie
+zainteresowani Użytkownicy;
+Aktualności – oznacza oferty krótko- i długoterminowe, konkursy lub nowe Usługi publikowane na
+Witrynie;
+Polityka Prywatności – oznacza dokument określający sposób, w jaki VINTED gromadzi, wykorzystuje,
+przechowuje i przekazuje dane osobowe oraz inne ważne informacje dotyczące Odwiedzającego lub
+Użytkownika;
+Polityka dotycząca plików cookies – oznacza dokument określający sposób, w jaki VINTED gromadzi,
+wykorzystuje, przechowuje i przekazuje dane osobowe oraz inne ważne informacje dotyczące
+Odwiedzającego lub Użytkownika gromadzone za pomocą plików cookies;
+Usługi – oznaczają wszystkie usługi, w tym Usługi Główne i Usługi Dodatkowe;
+Usługi Dodatkowe – oznaczają odpłatne usługi dodatkowe świadczone przez VINTED i publikowane na
+Witrynie (zgodnie z Cennikiem), takie jak Usługi Weryfikacji Tożsamości, które nie są uznawane za usługi
+główne i które mogą być przedmiotem odrębnych ogólnych warunków korzystania;
+Zintegrowana Usługa Płatności i Wysyłki – oznacza opcjonalną dla Użytkownika Usługę ułatwiającą i
+zabezpieczającą płatność i dostawę Przedmiotu, gdy Transakcja stanowi umowę sprzedaży.
+Zintegrowana Usługa Płatności – oznacza usługę płatności online za Przedmioty dostępną dla Kupującego
+na Witrynie, przy czym usługi płatnicze są świadczone przez partnera VINTED;
+Zintegrowana Usługa Wysyłki – oznacza opłaconą przez Kupującego Usługę wysyłki i dostawy,
+umożliwiającą Sprzedającemu dostarczenie Przedmiotu Kupującemu w ramach umowy sprzedaży, przy
+czym usługa wysyłki, transportu i dostawy są świadczone przez jednego z partnerów VINTED;
+Usługi Główne – oznaczają oferowaną przez VINTED Użytkownikom i Odwiedzającym możliwość, w
+szczególności nieograniczoną możliwość umieszczania Przedmiotów w odpowiednim Katalogu,
+przeglądania Przedmiotów, bezpośredniego uczestniczenia w wymianie lub zakupie-sprzedaży lub innych
+Transakcjach, korzystania ze Zintegrowanych Usług Płatności i Wysyłki oraz komunikowania się między
+nimi prywatnie i/lub publicznie, w szczególności za pośrednictwem Forum;
+Witryna – oznacza stronę internetową VINTED, jak również aplikacje mobilne VINTED pobierane na
+smartfony lub tablety;
+Transakcja – oznacza wszelkie transakcje, które przenoszą własność i/lub korzystanie z Przedmiotu z
+jednego Użytkownika na innego, w tym między innymi umowę sprzedaży zawartą bezpośrednio pomiędzy
+Kupującym a Sprzedającym, lub wymianę, lub jakąkolwiek inną transakcję przeprowadzaną pomiędzy
+Użytkownikami;
+Użytkownik – oznacza każdą osobę fizyczną, która po zarejestrowaniu się na Witrynie jest uprawniona do
+korzystania ze wszystkich Usług Witryny w celu zaspokojenia swoich osobistych potrzeb, które nie są
+związane z działalnością zawodową;
+Sprzedający – oznacza każdego Użytkownika, który umieścił jeden lub więcej Przedmiotów w
+odpowiednim Katalogu Witryny;
+Odwiedzający – oznacza każdą osobę niezarejestrowaną na Witrynie, która może korzystać z Witryny bez
+rejestracji, zgodnie z Ogólnymi Warunkami;
+Adyen N.V. – oznacza spółkę publiczną zarejestrowaną w Holandii pod numerem 34259528 z siedzibą przy
+Simon Carmiggeltstraat 6-50, 1011 DJ, Amsterdam, Holandia.
+Ochrona Kupującego – oznacza ochronę proponowaną Kupującemu korzystającemu ze Zintegrowanej
+Usługi Płatności i Wysyłki po spełnieniu szczegółowych warunków opisanych w pkt. 8.
+3 USŁUGI
+3.1 VINTED jest internetowym pośredniczącym serwisem hostingowym oferującym Użytkownikom
+wirtualne forum wymiany, czyli Witrynę, usystematyzowany Katalog i Forum. Użytkownicy mają
+możliwość umieszczenia swoich Przedmiotów w odpowiednim Katalogu na Witrynie, wymiany, kupna lub
+sprzedaży Przedmiotów, korzystania ze Zintegrowanej Usługi Płatności i Wysyłki, komunikowania się
+poprzez wysyłanie Wiadomości Prywatnych, komunikowania się na Forum oraz korzystania z innych Usług
+Dodatkowych oferowanych przez Witrynę. VINTED nie jest stroną żadnej Transakcji pomiędzy
+Użytkownikami. W żadnym wypadku VINTED nie będzie kupować, sprzedawać lub wymieniać
+Przedmiotów znajdujących się na Witrynie, ani nie będzie do tego dążyć. VINTED oferuje Usługi
+ułatwiające zawieranie Transakcji.
+3.2 Użytkownicy mogą zamówić Usługi Dodatkowe na Witrynie na warunkach wskazanych na Witrynie i
+zapłacić VINTED odpowiednią cenę (zgodnie z Cennikiem), w tym, jeśli dotyczy, usługę weryfikacji
+tożsamości.
+3.3 Niniejsze Ogólne Warunki,  Polityka Prywatności i inne zasady opublikowane na Witrynie VINTED
+mają zastosowanie do Użytkowników i Odwiedzających Konta w serwisach społecznościowych VINTED,
+które muszą być z nimi zgodne.
+4 WYSTAWIANIE PRZEDMIOTÓW
+4.1 Jako warunek wstępny:
+Tylko towary określone w zasadach korzystania z Katalogu mogą być wystawiane na Witrynie.
+Ponadto, w przypadku korzystania ze Zintegrowanej Usługi Płatności i Wysyłki, Użytkownicy muszą
+stosować się do Listy Produktów i Usług Niedozwolonych Adyen N.V. zgodnie z punktem 6.5.
+Sprzedający musi zapewnić, że jego Przedmioty są zgodne z zasadami korzystania z Katalogu, a w
+przypadku korzystania ze Zintegrowanej Usługi Płatności i Wysyłki, Użytkownicy muszą stosować się
+do Listy Produktów i Usług Niedozwolonych Adyen N.V., jak przewidziano w punkcie 6.5. Niektóre
+kategorie przedmiotów nie mogą być prezentowane.
+Sprzedający musi być właścicielem tych Przedmiotów i mieć prawo do ich sprzedaży, wymiany lub
+przekazania.
+Sprzedający musi podać swoje imię i nazwisko przy pierwszym wystawieniu Przedmiotu.
+Sprzedaż, wymiana, korzystanie z lub posiadanie takich Przedmiotów nie może naruszać praw osób
+trzecich, musi być zgodne z prawami własności intelektualnej i nie może naruszać żadnego prawa lub
+regulacji lokalnych, krajowych lub międzynarodowych.
+Przedmiot musi spełniać powszechnie stosowane na rynku w zależności od charakteru Transakcji
+wymagania dla tego typu Przedmiotów, chyba że pomiędzy Kupującym a Sprzedającym istnieje
+odmienne porozumienie.
+4.2 Sprzedający, wystawiając Przedmiot w Katalogu, musi wypełnić kwestionariusz dotyczący wystawienia
+Przedmiotu. Sprzedający musi jak najdokładniej opisać Przedmiot, wskazać ewentualne wady i podać cenę
+Przedmiotu. Sprzedający, gdy wystawia Przedmiot, oświadcza, że jest on zgodny z podanym opisem i że
+jego opis jest wyczerpujący. Umieszczanie Przedmiotów w Katalogu na Witrynie jest bezpłatne. Sprzedający
+mogą zdecydować o zapłaceniu za Usługi Dodatkowe, na przykład celem poprawy widoczności ich
+Przedmiotów.
+4.3 Przedmiot umieszczony w Katalogu musi być nie tylko opisany w kwestionariuszu dotyczącym
+wystawienia Przedmiotu, ale musi być również sfotografowany. Zdjęcie musi być umieszczone obok opisu
+Przedmiotu. Przynajmniej jedno zdjęcie dobrej jakości musi być umieszczone w momencie wystawienia
+Przedmiotu (użycie zdjęć znalezionych w Internecie i/lub zdjęć podobnego przedmiotu jest zabronione).
+Musi ono odzwierciedlać rzeczywistą jakość i wygląd zewnętrzny Przedmiotu, jak również obecność
+jakichkolwiek defektów Przedmiotu.
+4.4 Ilość Przedmiotów wystawianych w Katalogu na Witrynie jest nieograniczona. Wystawianie tych samych
+Przedmiotów więcej niż jeden raz w Katalogu Witryny jest zabronione.
+4.5 Sprzedający, który wystawił Przedmiot, może go wycofać lub zmienić cenę w każdym czasie przed
+nawiązaniem kontaktu z Użytkownikiem w celu sprzedaży lub wymiany danego Przedmiotu.
+5 SPRZEDAŻ PRZEDMIOTÓW I CENY ZA DODATKOWE USŁUGI
+5.1 Dla celów Usług Dodatkowych, Sprzedający musi podać swoje dane konta bankowego, tak aby kwota
+sprzedaży zrealizowanej na Witrynie mogła zostać przekazana na jego osobiste konto bankowe. Jeżeli konto
+bankowe lub karta należąca do osoby trzeciej jest zarejestrowana na Witrynie, zespół VINTED może zażądać
+dowodu tożsamości.
+Usługi te będą wiązały się z kosztami, które poniesie Kupujący, a których wysokość wskazana jest
+w Cenniku. VINTED może zmienić Cennik w każdym czasie na warunkach określonych w Artykule 1.5
+powyżej. Jeżeli Użytkownik nie zgadza się z którąkolwiek z proponowanych zmian, może zdecydować się
+na zakończenie relacji z VINTED i zamknięcie swojego konta VINTED, zgodnie z punktem 15.3.
+5.2 Użytkownicy mogą wymieniać Przedmioty. W takim przypadku wymiana dokonywana jest bezpośrednio
+przez Użytkowników. W przypadku wymiany, VINTED nie ponosi odpowiedzialności ani nie będzie
+organizować wysyłek realizowanych pomiędzy Użytkownikami.
+5.3 Wystawienie Przedmiotu na sprzedaż w Katalogu stanowi ofertę sprzedaży danego Przedmiotu przez
+Sprzedającego, która może zostać zaakceptowana przez Kupującego.
+5.4  W przypadku, gdy Transakcja jest sprzedażą (a nie wymianą), Zintegrowana Usługa Płatności i Wysyłki
+jest automatycznie oferowana Kupującym. Jeżeli Kupujący wybierze Zintegrowaną Usługę Płatności i
+Wysyłki, uznaje się, że zaakceptował on ofertę Sprzedającego, gdy kliknie "Zapłać" na stronie płatności.
+Kupujący przyjmuje do wiadomości, że przyjęcie przez niego oferty zostało dokonane z uwzględnieniem
+opisu Przedmiotu, który jest przedmiotem sprzedaży, oraz że stanowi to wiążące zobowiązanie do zawarcia
+umowy ze Sprzedającym na warunkach oferty.
+5.5  Kupujący może podjąć decyzję o niekorzystaniu ze Zintegrowanej Usługi Płatności i Wysyłki. W takim
+przypadku Kupujący i Sprzedający ponoszą wyłączną odpowiedzialność za organizację i konsekwencje
+Wysyłki Przedmiotu i nie mogą korzystać ze świadczonej przez VINTED w tym zakresie pomocy.
+5.6 Szczegóły dotyczące istniejących Usług promocyjnych dotyczących Przedmiotów znajdują się
+w Cenniku. Usługi te mogą zostać zmienione w każdym czasie na warunkach określonych w punkcie 1.5
+powyżej. Jeżeli Użytkownik nie zgadza się z którąkolwiek z proponowanych zmian, może zdecydować się
+na zakończenie relacji z VINTED i zamknięcie swojego konta VINTED, zgodnie z punktem 15.3.
+6 ZINTEGROWANA USŁUGA PŁATNOŚCI
+6.1 Zintegrowana Usługa Płatności i Wysyłki jest dostępna tylko w niektórych krajach. Jeżeli Usługa jest
+niedostępna, Sprzedający i Kupujący muszą uzgodnić inne metody realizacji Transakcji.
+6.2 Zintegrowana Usługa Płatności jest opcjonalna i jest automatycznie oferowana Kupującym, jeśli
+Transakcja jest sprzedażą. Gdy tylko Kupujący zdecyduje się skorzystać ze Zintegrowanej Usługi Płatności,
+a Sprzedający nie zrezygnuje z tej usługi, Sprzedający musi się do niej zastosować.
+6.3 Jeśli Zintegrowana Usługa Płatności i Wysyłki jest wykorzystywana, zapłata za Przedmiot i dostawa
+Przedmiotu są ułatwione i zabezpieczone. Dlatego też, z uwagi na tę dodatkową Ochronę Kupującego,
+VINTED pobiera odpowiednie opłaty za takie usługi. W tym przypadku, dla każdej Transakcji, Kupujący są
+obciążani dodatkową opłatą doliczaną do ceny zakupu za skorzystanie z Usług Dodatkowych oferowanych
+przez VINTED. Całkowita kwota takiej opłaty jest pokazana Kupującemu w Witrynie zanim zakończy on
+składanie zamówienia i jest wyliczana zgodnie z Cennikiem. Uiszczenie opłaty za Zintegrowaną Usługę
+Płatności pozwala Kupującemu korzystać z Ochrony Kupującego opisanej w pkt. 8.1 poniżej.
+6.4 W ramach Zintegrowanej Usługi Płatności, Kupujący musi zapłacić z góry za Przedmiot(y) zakupiony(e)
+od Sprzedający za pomocą karty kredytowej lub debetowej lub innej metody płatności, które mogą być od
+czasu do czasu wprowadzane w ramach Zintegrowanej Usługi Płatności dostępnej na Witrynie.
+6.5 Kwoty zapłacone przez Kupującego zostaną zatrzymane przez dostawcę usług płatniczych wybranego
+przez VINTED w e-portfelu działającym jako rachunek zastrzeżony (rachunek escrow) do czasu zakończenia
+transakcji. Transakcja zostaje zakończona, gdy Kupujący potwierdzi VINTED, że Przedmiot spełnia warunki
+oferty lub po upływie czasu do otwarcia sporu lub po jego ewentualnym rozstrzygnięciu. Po zakończeniu
+transakcji środki pieniężne zostaną niezwłocznie przekazane do e-portfela Sprzedającego. Środki dostępne w
+e-portfelu Użytkownika mogą być w każdej chwili przelane na jego osobiste konto bankowe, bez żadnych
+Ś
+opłat za przelew ani opłat za jakąkolwiek kwotę. Środki dostępne w e-portfelu mogą być wykorzystane do
+dokonywania zakupów na VINTED od innych Użytkowników.
+6.6 VINTED zleca zewnętrznemu dostawcy usług płatniczych Adyen N.V. przetwarzanie płatności i
+przechowywanie informacji dotyczących karty kredytowej lub debetowej lub jakiejkolwiek innej oferowanej
+metody płatności. W celu uzyskania możliwości korzystania ze Zintegrowanej Usługi Płatności, Kupujący
+oświadcza, że akceptuje ogólne warunki korzystania tego dostawcy usług. Kupujący ponosi wyłączną
+odpowiedzialność za przekazywanie informacji związanych z kartą kredytową lub debetową, a VINTED w
+pełnym zakresie dozwolonym przez obowiązujące przepisy prawa niniejszym wyklucza wszelką
+odpowiedzialność. Dostawcą usług płatniczych jest Adyen N.V., z którym Użytkownik zawiera bezpośrednią
+umowę poprzez potwierdzenie swojego zamówienia. Vinted pomoże i wesprze swoich Użytkowników w
+korzystaniu z usług świadczonych przez Adyen N.V. oraz zapewni bezpośrednią pomoc i umożliwi
+korzystanie z usług Adyen N.V. VINTED jest jedyną stroną uprawnioną do wydawania poleceń dostawcy
+usług płatniczych w celu przetwarzania płatności kwoty za Przedmiot na rzecz Sprzedającego, gdy tylko
+Kupujący potwierdzi VINTED, że otrzymał Przedmiot zgodnie z ofertą i jest w tym względzie
+usatysfakcjonowany lub istnieje domniemanie, że go otrzymał i zaakceptował. Aby uzyskać dodatkowe
+informacje, patrz punkt 8 poniżej.
+6.7 Należy pamiętać, że prawo do korzystania z usług płatniczych przysługuje wyłącznie w przypadku
+sprzedaży we własnym imieniu Użytkownika. Użytkownik nie może odsprzedawać, wynajmować ani w
+żaden inny sposób pozwalać osobom trzecim na korzystanie z usług płatniczych w celu umożliwienia
+opłacenia świadczonych przez nich usług. Użytkownik nie może korzystać z usług płatniczych w odniesieniu
+do różnych rodzajów produktów i usług innych niż zarejestrowane w VINTED. W szczególności
+Użytkownik potwierdza, że nie będzie korzystał z usług płatniczych w odniesieniu do żadnego rodzaju
+produktów lub usług pojawiających się w zasadach korzystania z Katalogu oraz na Liście Produktów i Usług
+Niedozwolonych Adyen N.V. Jeśli VINTED lub Adyen N.V. w dowolnym momencie odkryje, że informacje
+podane przez Użytkownika na jego temat są nieprawidłowe lub uległy zmianie bez powiadomienia VINTED
+lub jeśli Użytkownik naruszy którykolwiek z tych warunków, Usługi mogą zostać zawieszone i/lub
+wypowiedziane ze skutkiem natychmiastowym.
+6.8 W przypadku podejrzenia jakiegokolwiek oszustwa popełnionego przez Użytkownika, VINTED
+niezwłocznie zawiesi konto danego Użytkownika, jak również transakcje będące w toku, na czas
+oczekiwania na wyniki prowadzonego dochodzenia.
+6.9 W przypadku wystąpienia jakiegokolwiek problemu zgłoszonego VINTED przez dostawcę
+Zintegrowanej Usługi Płatności, VINTED niezwłocznie zawiesi konto danego Użytkownika, jak również
+transakcje będące w toku, na czas oczekiwania na wyniki prowadzonego dochodzenia.
+6.10 VINTED zastrzega sobie prawo do zawieszenia konta Użytkownika w przypadku wszczęcia przez
+Użytkownika sporu za pośrednictwem zewnętrznych dostawców usług płatniczych, i gdy VINTED ma ku
+temu uzasadniony powód (np. w przypadku naruszenia obowiązującego prawa i/lub niniejszych Ogólnych
+Warunków i/lub istnieje prawdopodobieństwo niewłaściwego korzystania z Witryny).
+7 ZINTEGROWANA USŁUGA WYSYŁKI
+7.1 W ramach Zintegrowanej Usługi Wysyłki, VINTED oferuje swoim Użytkownikom usługi innych
+usługodawców specjalizujących się w transporcie i dostawach, jak opisano poniżej. VINTED może w każdej
+chwili skorzystać z usług innego dostawcy zewnętrznego. W takim przypadku zastosowanie będą miały te
+same zasady, co poniżej.
+Od momentu, gdy Użytkownik wybierze jedną z tych Usług i dokona odpowiedniej opłaty na rzecz
+VINTED, kwoty zapłacone przez Kupującego zostaną zatrzymane przez dostawcę usług płatniczych
+wybranego przez VINTED w e-portfelu działającym jako rachunek zastrzeżony (rachunek escrow) do
+momentu zakończenia transakcji.
+Zintegrowane etykiety wysyłki:
+(1) W przypadku wyboru przez Kupującego Zintegrowanych Usług Wysyłki InPost, etykieta wysyłki
+VINTED jest automatycznie wysyłana do Sprzedającego i musi być wykorzystana do wysyłki Przedmiotu do
+Kupującego. Po zakończeniu transakcji, (i) Sprzedający otrzymuje cenę Przedmiotu zatrzymaną na rachunku
+zastrzeżonym (rachunku escrow), a (ii) pozostała część, tj. opłacona z góry kwota usługi wysyłki, jest
+przelewana VINTED. W przypadku zagubienia Przedmiotu w trakcie procesu wysyłki, VINTED zwróci
+Kupującemu pełną kwotę ceny zatrzymanej na rachunku zastrzeżonym (rachunku escrow). W ramach tej
+usługi, ogólne warunki sprzedaży InPost mają zastosowanie do Użytkownika, który korzysta ze
+zintegrowanej etykiety wysyłki. W szczególności Sprzedający będzie korzystał z limitu odszkodowania w
+wysokości 200 zł z tytułu ubezpieczenia InPost.
+(2) W przypadku wyboru przez Kupującego Zintegrowanych Usług Wysyłki Poczta Polska, etykieta wysyłki
+VINTED jest automatycznie wysyłana do Sprzedającego i musi być wykorzystana do wysyłki Przedmiotu do
+Kupującego. Po zakończeniu transakcji, (i) Sprzedający otrzymuje cenę Przedmiotu zatrzymaną na rachunku
+zastrzeżonym (rachunku escrow), a (ii) pozostała część, tj. opłacona z góry kwota usługi wysyłki, jest
+przelewana VINTED. W przypadku zagubienia Przedmiotu w trakcie procesu wysyłki, VINTED zwróci
+Kupującemu pełną kwotę ceny zatrzymanej na rachunku zastrzeżonym (rachunku escrow). W ramach tej
+usługi, ogólne warunki sprzedaży Przesyłki Poleconej Poczty Polskiej / Kuriera Pocztex 48 Poczty
+Polskiej mają zastosowanie dla Użytkownika, który korzysta ze zintegrowanej etykiety wysyłki.  W ramach
+ubezpieczenia Poczty Polskiej Sprzedający może skorzystać z odszkodowania w wysokości od 100 do 1000
+złotych w zależności od rodzaju wybranej usługi.
+(3) W przypadku wyboru przez Kupującego Zintegrowanych Usług Wysyłki ORLEN Paczka (wcześniej
+zwana RUCH S.A.), etykieta wysyłki VINTED jest automatycznie wysyłana do Sprzedającego i musi być
+wykorzystana do wysyłki Przedmiotu do Kupującego. Po zakończeniu transakcji, (i) Sprzedający otrzymuje
+cenę Przedmiotu zatrzymaną na rachunku zastrzeżonym (rachunku escrow), a (ii) pozostała część, tj.
+opłacona z góry kwota usługi wysyłki, jest przelewana VINTED. W przypadku zagubienia Przedmiotu w
+trakcie procesu wysyłki, VINTED zwróci Kupującemu pełną kwotę ceny zatrzymanej na rachunku
+zastrzeżonym (rachunku escrow). W ramach tej usługi ogólne warunki sprzedaży ORLEN Paczka, mają
+zastosowanie dla Użytkownika, który korzysta z opcji zintegrowanej etykiety wysyłki. W szczególności
+Sprzedający będzie objęty możliwością uzyskania odszkodowania z tytułu ubezpieczenia ORLEN Paczka. w
+limicie do 500 zł (pod warunkiem, że zamówienie zostało odpowiednio zapakowane).
+Instrukcje wysyłki:
+Obecnie nie oferujemy opcji instrukcji wysyłki.
+7.2 Koszt Zintegrowanej Usługi Wysyłki jest wskazany w Cenniku i jest należny od Kupującego za dowolny
+Przedmiot w Katalogu oprócz ceny sprzedaży i Zintegrowanej Usługi Płatności.
+7.3 Gdy tylko cena zostanie zapłacona przez Kupującego, VINTED wysyła potwierdzenie do Sprzedającego.
+Sprzedający jest odpowiedzialny za zapoznanie się z przesłanymi mu instrukcjami dostawy oraz za wysłanie
+Przedmiotu w ciągu pięciu (5) dni roboczych od otrzymania przez VINTED informacji o zawartej umowie
+sprzedaży. W tym względzie Sprzedający musi w szczególności zanotować numer przesyłki z Witryny.
+7.4 W przypadku niewysłania Przedmiotu Kupującemu w ciągu pięciu (5) dni roboczych od otrzymania
+informacji o wysyłce, VINTED ma prawo do wydania polecenia zewnętrznemu dostawcy usług płatniczych
+prowadzącemu rachunek zastrzeżony (rachunek escrow) do dokonania zwrotu całkowitej ceny zakupu, w
+tym kosztów wysyłki, Kupującemu poprzez wpłacenie odpowiedniej kwoty na jego rachunek. Zwrot
+całkowitej ceny zakupu, w tym kosztów wysyłki, będzie stanowił jedyne roszczenie Kupującego na
+podstawie jego umowy ze Sprzedającym.
+7.5 Jeżeli Sprzedający zdecyduje się na zastosowanie metody wysyłki z uwzględnieniem niestandardowych
+kosztów wysyłki, ponosi odpowiedzialność za wszelkie straty, uszkodzenia lub nieodebranie przesyłki. W
+związku z tym Sprzedający będzie odpowiedzialny za wybór bezpiecznej metody wysyłki oferującej
+gwarancje w przypadku wystąpienia jakichkolwiek problemów.
+8 Zintegrowana Usługa Płatności i Wysyłki / Zwrot kosztów / Akceptacja Przedmiotu / Ochrona
+Kupującego
+8.1. Kupujący korzystający ze Zintegrowanej Usługi Płatności i Wysyłki może być uprawniony do zwrotu
+kosztów na zasadach Ochrony Kupującego, jeśli  warunki opisane poniżej zostaną spełnione:
+8.1.1. Jeżeli Przedmiot nie odpowiada zasadniczo opisowi przedstawionemu przez Sprzedającego, w tym
+jeśli Przedmiot został zniszczony w trakcie wysyłki, Kupujący ma 2 dni, licząc od daty doręczenia
+Przedmiotu, na poinformowanie VINTED poprzez kliknięcie na okno dyskusyjne ze Sprzedającym.
+Wstrzyma to Transakcję i VINTED zachowa całkowitą cenę zakupu. W pierwszej kolejności Kupujący i
+Sprzedający mają prawo do samodzielnego rozwiązania sporu i poinformowania VINTED o wspólnej
+decyzji. W takim przypadku VINTED zobowiązuje się do zastosowania się do takiej decyzji i zwrotu
+kosztów Kupującemu lub Sprzedającemu. Jeżeli Kupujący i Sprzedający nie dojdą bezpośrednio do
+porozumienia lub nie chcą bezpośrednio rozwiązać sporu, Kupujący lub Sprzedający może przekazać sprawę
+VINTED. Po dokonaniu przez Vinted przeglądu sporu i stwierdzeniu przez VINTED, że Przedmiot nie jest w
+istocie taki, jak go opisano, porównując go z wystawionym Przedmiotem, VINTED anuluje Transakcję,
+informując zewnętrznego dostawcę usług płatniczych prowadzącego rachunek zastrzeżony (rachunek
+escrow) w celu zwrotu kosztów poniesionych przez Kupującego po odesłaniu przedmiotu do Sprzedającego. 
+Kupujący otrzyma zwrot całkowitej kwoty zakupu. Należy pamiętać, że VINTED nie zapewnia usługi
+odesłania Przedmiotu, a Kupujący musi zapłacić za odesłanie Przedmiotu, chyba że uzgodniono inaczej
+ze Sprzedającym. Wyjątki od obowiązku zwrotu przedmiotu mogą mieć zastosowanie w szczególności
+wtedy, gdy istnieją wyraźne przesłanki, że Przedmiot może być podrobiony. W takim przypadku Kupujący
+nie jest zobowiązany do odesłania Przedmiotu, aby otrzymać zwrot kosztów.
+8.1.2. W przypadku nieotrzymania przez Kupującego Przedmiotu, Kupujący musi poinformować VINTED,
+zgłaszając problem poprzez kliknięcie przycisku zawieszającego Transakcję w terminie 2 dni od podanej
+daty, w której Przedmiot miał być dostarczony. W przypadku zagubienia Przedmiotu w trakcie wysyłki,
+Kupujący otrzyma zwrot całkowitej kwoty zakupu od zewnętrznego dostawcy usług płatniczych
+prowadzącego rachunek zastrzeżony (rachunek escrow).
+8.1.3. Jeżeli Kupujący nie skontaktuje się z VINTED w ciągu 2 dni, jak określono w pkt. 8.1.1. lub 8.1.2.,
+lub nie potwierdzi na Witrynie, że otrzymany Przedmiot został zaakceptowany (w ciągu tego 2-dniowego
+terminu), Transakcja zostanie zakończona, a ochrona zwrotu kosztów Kupującego wygasa. W takim
+przypadku Kupujący nie będzie uprawniony do zwrotu kosztów przez VINTED.
+8.1.4. W przypadku, gdy Przedmiot jest zgodny z opisem przedstawionym przez Sprzedającego, Kupujący
+nie będzie uprawniony do żądania zwrotu poprzez VINTED, a VINTED zakończy Transakcję. Po
+sfinalizowaniu Transakcji i przekazaniu Sprzedającemu środków na rachunek zastrzeżony (rachunek
+escrow), Kupujący może próbować wynegocjować bezpośrednio ze Sprzedającym zwrot Przedmiotu (np.
+umowa w sprawie zwrotu, opłaty za przesyłkę zwrotną, itp.). Zwracamy uwagę, że w takim przypadku
+Sprzedający może również odmówić współpracy z Kupującym na tej podstawie, że transakcja została
+zrealizowana przez Sprzedającego.
+8.2. Jeśli Kupujący nie korzysta z Zintegrowanej Usługi Płatności i Wysyłki:
+8.2.1. W takim przypadku VINTED nie pobiera żadnej opłaty, ale nie gwarantuje bezpieczeństwa płatności.
+VINTED nie zapewnia wsparcia dla Kupującego lub Sprzedającego. Kupujący i Sprzedający są sami
+odpowiedzialni za prawidłowe przeprowadzenie Transakcji i powinni bezpośrednio negocjować wszystkie
+szczegóły Transakcji (np. warunki płatności, wysyłkę, warunki zwrotu Przedmiotu, zagubienie przesyłki,
+itp.).
+8.2.2 W przypadku niewłaściwego postępowania Kupującego lub Sprzedającego, VINTED może udzielić
+pomocy poszkodowanej Stronie. VINTED współpracuje również z instytucjami państwowymi.
+9 PŁATNOŚĆ
+9.1 VINTED jest uprawniony do pobierania opłat w ramach świadczonych Usług zgodnie z cenami
+wskazanymi w Cenniku. Użytkownik akceptuje fakt, że VINTED jest uprawniony do zmiany Cennika na
+warunkach określonych w pkt. 1.5 powyżej. W przypadku braku zgody Użytkownika na którąkolwiek z
+proponowanych zmian, Użytkownik może zdecydować się na zakończenie relacji z VINTED i zamknięcie
+swojego konta VINTED, zgodnie z punktem 15.3. Zmiany Cen nie będą miały zastosowania do trwających
+Transakcji (tj. takich, za które Kupujący dokonał już płatności).
+9.2 Wszystkie ceny wyrażone są w złotych (PLN), z uwzględnieniem wszystkich podatków.
+9.3 W przypadku, gdy Transakcja dokonywana jest za pomocą Zintegrowanej Usługi Płatności i Wysyłki,
+płatność Kupującego dokonywana jest za pomocą karty bankomatowej lub wirtualnej, lub jakiejkolwiek
+innej metody płatności, która może być od czasu do czasu wprowadzana na zintegrowanym interfejsie
+płatniczym Witryny. W przypadku nieskorzystania ze systemu Zintegrowanej Płatności, płatność zostanie
+dokonana według wyboru Użytkownika za pomocą polecenia zapłaty, karty bankomatowej (Visa/Master
+Card) lub karty wirtualnej, lub innej metody płatności, która może być od czasu do czasu wprowadzona.
+9.4 W przypadku realizacji Transakcji ze Zintegrowaną Usługą Płatności i Wysyłki, całkowita kwota
+zostanie pobrana z konta Kupującego (cena Przedmiotu i opłaty za Zintegrowaną Usługę Płatności i
+Wysyłki), a Sprzedający pobierze należną mu kwotę wyłącznie po potwierdzeniu odbioru towaru przez
+Kupującego. Jeżeli Kupujący nie otrzyma Przedmiotu lub nie będzie z niego zadowolony, jego konto
+zostanie ponownie zasilone.
+9.5 W przypadku realizacji Transakcji bez Zintegrowanej Usługi Płatności i Wysyłki, Kupujący i
+Sprzedający muszą uzgodnić warunki płatności, tak jak opisano w pkt. 8.2.1 powyżej. VINTED nie pobiera
+żadnej opłaty od Transakcji w tym przypadku.
+10 INTERAKCJE I WIADOMOŚCI NA WITRYNIE
+10.1 Wiadomości prywatne
+Wymiana Wiadomości Prywatnych pomiędzy Użytkownikami ma na celu przede wszystkim wymianę
+informacji dotyczących Przedmiotów w Katalogu. W związku z tym, jeżeli Użytkownik lub Odwiedzający
+wysyła Wiadomości Prywatne do innego Użytkownika, musi upewnić się, że nie wysyła:
+wiadomości lub informacji zawierających reklamy;
+spamu lub treści rozprzestrzeniającej wirusy lub robaki;
+masowych wiadomości mailingowych jakiegokolwiek innego rodzaju (gdy wiadomość jest wysyłana
+do więcej niż pięciu Użytkowników lub gdy ta sama wiadomość jest kopiowana i wysyłana do
+Użytkowników, którzy nie prosili o jej otrzymanie);
+wiadomości zawierających teksty sprzeczne z dobrymi standardami moralnymi i porządkiem
+publicznym, wiadomości nieodpowiednie, obraźliwe lub zniesławiające lub w inny sposób uznane za
+niezgodne z niniejszymi Ogólnymi Warunkami i interesami Użytkowników;
+wiadomości o charakterze niezgodnym z prawem lub w inny sposób próbujące wyrządzić szkodę
+innym Użytkownikom i/lub Witrynie.
+Wykorzystując algorytmy, VINTED używa automatycznego oprogramowania, aby umożliwić wykrycie
+wszelkich komentarzy sprzecznych z dobrymi standardami moralnymi i porządkiem publicznym, lub takich,
+które są niewłaściwe, obraźliwe lub zniesławiające i wysyłane przez Użytkownika za pośrednictwem
+Wiadomości Prywatnych. W przypadku wykrycia przez oprogramowanie automatyczne Wiadomości
+Prywatnej zawierającej takie komentarze, Wiadomość Prywatna może zostać automatycznie zablokowana
+i/lub ukryta przed Użytkownikiem otrzymującym tę Wiadomość Prywatną. Użytkownik, który jest nadawcą
+zablokowanej i/lub ukrytej Prywatnej Wiadomości, zostanie ostrzeżony o obowiązku przestrzegania
+Ogólnych Warunków. VINTED nigdy nie ma dostępu do treści Wiadomości Prywatnych, w tym wiadomości
+zablokowanych i/lub ukrytych przez oprogramowanie automatyczne.
+10.2 Wymiana opinii między Użytkownikami
+Użytkownik ma prawo napisać opinię na temat innego Użytkownika wyłącznie w przypadku
+przeprowadzenia Transakcji pomiędzy nimi. Użytkownikom lub VINTED nie należy się wynagrodzenie w
+zamian za ich opinie online.
+Opinie Użytkownika na temat innego Użytkownika muszą być zawsze uczciwe i szczere. Kłamstwa i
+zniewagi są zabronione.
+VINTED nie przegląda opinii przed ich opublikowaniem przez Użytkowników.
+Jeśli otrzymana opinia jest niewłaściwa lub stanowi nadużycie, Użytkownicy powinni zgłosić to do
+VINTED. VINTED jest uprawniony do wycofania z Witryny wszelkich opinii, które naruszają niniejsze
+Ogólne Warunki lub prawa innych Użytkowników, w tym Użytkowników, którzy nie mieli prawa do
+napisania opinii na podstawie niniejszych Ogólnych Warunków.
+VINTED, po zidentyfikowaniu Użytkownika, który nie przestrzega tych zasad, może skorzystać z prawa do
+zablokowania konta danego Użytkownika w całości lub w części.
+Odwiedzający nie mają prawa pisać opinii o Użytkownikach.
+10.3 Forum
+Użytkownicy i Odwiedzający mogą korzystać z Forum, ale tylko Użytkownicy mogą wysyłać wiadomości
+na Forum.
+Przed rozpoczęciem korzystania z Forum każdy Użytkownik i Odwiedzający musi zapoznać się z
+Regulaminem Forum i przestrzegać go:
+https://www.vinted.pl/forum-rules.
+Użytkownicy mogą tworzyć tematy, używając swojej nazwy użytkownika lub anonimowo. VINTED nie
+ponosi odpowiedzialności, jeżeli w wyniku działań podjętych przez Użytkownika lub osobę trzecią, o
+których nie wiedział, lub w związku z brakiem działań podjętych przez VINTED, tożsamość Użytkownika,
+który zamieścił wiadomość lub temat, zostanie podana do wiadomości publicznej.
+Surowo zabrania się publikowania na Forum komunikatów reklamowych, umieszczania linków do innych
+stron internetowych, oferowania towarów na sprzedaż lub podejmowania innych działań komercyjnych lub
+organizowania przetargów.
+Dozwolone jest wysyłanie reklam dotyczących sprzedawanych osobistych Przedmiotów, zgodnie z zasadami
+korzystania z Katalogu i Listą Produktów i Usług Zabronionych (jeśli dotyczy), oraz dostarczanie informacji
+o oferowanych usługach, ale wyłącznie w kategorii zarezerwowanej do tego celu, zwanej "Moje promocje".
+11 ODPOWIEDZIALNOŚĆ
+11.1 Wszyscy Odwiedzający i Użytkownicy są w pełni odpowiedzialni, jako ich autorzy, za wszystkie
+informacje, które zamieszczają na Witrynie oraz, jeśli ma to zastosowanie, za oferowane przez siebie,
+sprzedawane, wymieniane lub przekazywane innym Użytkownikom Przedmioty. W szczególności, gdy
+Użytkownik wystawia Przedmioty w odpowiednim Katalogu, Użytkownik uznaje i akceptuje, że ponosi
+pełną odpowiedzialność za wystawienie Przedmiotu w tym Katalogu, jego opis, potwierdzenia,
+prawidłowość innych przedstawionych szczegółów oraz komunikację z innymi Użytkownikami, a także
+ogólnie Transakcje zawierane z innymi Użytkownikami i mogące z nich wyniknąć spory (zwane dalej
+łącznie "Treścią").
+11.2 W tym zakresie Odwiedzający i Użytkownicy muszą przestrzegać wszystkich obowiązujących
+przepisów. Użytkownicy i Odwiedzający muszą w szczególności powstrzymać się od (i) naruszania praw
+osób trzecich, (ii) naruszania praw własności intelektualnej lub wystawiania podrabianych towarów, (iii)
+podżegania do wykroczeń lub przestępstw, dyskryminacji, nienawiści lub przemocy ze względu na rasę,
+pochodzenie etniczne lub narodowość, (iv) przekazywania nieprawidłowych informacji lub informacji
+poufnych, (v) oszczerczych komentarzy, (vi) dopuszczania się działań, które mogą narazić nieletnich na
+niebezpieczeństwo, (vii) publikowania danych osobowych innych osób lub naruszania praw do prywatności
+lub (viii) uzurpowania sobie tożsamości innej osoby.
+11.3 W przypadku, gdy Treść nie jest zgodna z obowiązującymi przepisami zgodnie z punktem 11.2 lub
+ogólnie, jeśli Użytkownik lub Odwiedzający nie przestrzega niniejszych Ogólnych Warunków, Użytkownik
+lub Odwiedzający uznaje i akceptuje, że ponosi wyłączną odpowiedzialność za wynikające z tego
+bezpośrednie i pośrednie straty w odniesieniu do osób trzecich lub VINTED. W związku z tym Użytkownik
+lub Odwiedzający uznaje i akceptuje, że w ramach swoich kompetencji jako host, VINTED w żadnych
+okolicznościach nie podejmie jakiejkolwiek weryfikacji Treści i nie będzie odpowiedzialny za takie straty,
+chyba że (i) został należycie powiadomiony o istnieniu treści niezgodnych z prawem w rozumieniu
+obowiązujących przepisów zgodnie z procedurą opisaną w pkt. 11.4, oraz (ii)  nie podjął natychmiastowych
+działań w celu usunięcia takich treści z Witryny.W szczególności, lecz niewyłącznie, VINTED nie będzie
+ponosić odpowiedzialności za: (i) działania lub zaniechania Odwiedzających i Użytkowników, (ii)
+Informacje zamieszczone na Witrynie przez Użytkowników i Odwiedzających, ich tematy, dokładność,
+kompletność i/lub zgodność z obowiązującymi przepisami lub (iii) jakość i ilość Przedmiotów, które
+sprzedają lub kupują za pośrednictwem Witryny, ani też ich zgodność z podanym opisem.
+Katalog
+11.4 VINTED nie ponosi odpowiedzialności za Treść zamieszczoną online. Użytkownicy są odpowiedzialni
+za Treść zamieszczaną online, a VINTED może usuwać treść Użytkownika, o której został należycie
+powiadomiony zgodnie z obowiązującymi przepisami prawa i która narusza obowiązujące prawo i/lub
+polityki VINTED. Dodatkowo, możemy podjąć działania przeciwko kontu Użytkownika. Jeśli Użytkownik
+lub Odwiedzający wykryje Treść, w której wyrażono zgodę na zbrodnie przeciwko ludzkości, nawołujące do
+nienawiści rasowej i/lub przemocy lub dotyczące pornografii dziecięcej, VINTED musi zostać o tym
+niezwłocznie poinformowany:
+albo poprzez zastosowanie opisanej tutaj procedury powiadamiania;
+lub wysyłając wiadomość e-mail na adres legal@vinted.pl;
+lub wysyłając szczegółowy list na następujący adres: VINTED UAB, Svitrigailos 13, 03228 Wilno,
+Litwa.
+We wszystkich tych przypadkach VINTED natychmiast zawiesi konto danego Użytkownika, jak również
+transakcje będące w toku, na czas oczekiwania na wyniki prowadzonego dochodzenia.
+Jeżeli Użytkownik uważa, że jakaś Treść może naruszać jego prawa lub prawa osób trzecich (podrabianie,
+znieważanie, naruszanie prawa do prywatności), Użytkownicy mogą powiadomić o tym VINTED:
+albo poprzez zastosowanie opisanej tutaj procedury powiadamiania;
+lub wysyłając wiadomość e-mail na adres legal@vinted.pl;
+lub wysyłając szczegółowy list na poniższy adres: VINTED UAB, Svitrigailos 13, 03228 Wilno,
+Litwa.
+Ogólnie rzecz biorąc, Użytkownicy powstrzymają się od zamieszczania jakichkolwiek treści niezgodnej z
+prawem, nieprawdziwej lub niedokładnej. Użytkownicy muszą działać i korzystać z platformy w dobrej
+wierze.
+11.5 W przypadku Transakcji dokonanej bez Zintegrowanej Usługi Płatności i Wysyłki oferowanej przez
+VINTED, gdy tylko Kupujący i Sprzedający uzgodnią Przedmiot i cenę, Sprzedający jest odpowiedzialny za
+dostarczenie Przedmiotu do Kupującego w odpowiedniej i należytej formie oraz w odpowiednim czasie. W
+każdym przypadku, jeżeli między Kupującym a Sprzedającym powstanie spór dotyczący dostawy
+Przedmiotu, Sprzedający musi udowodnić, że Przedmiot został wysłany (np. może to być w formie numeru
+śledzenia przesyłki, faktury lub dokumentu od firmy kurierskiej).
+11.6 W przypadku Transakcji dokonanej bez Zintegrowanej Usługi Płatności i Wysyłki oferowanej przez
+VINTED, Kupujący jest odpowiedzialny za zapłatę za zamówiony Przedmiot w odpowiedniej i należytej
+formie i w odpowiednim czasie, zgodnie z warunkami podanymi przez Sprzedającego lub zgodnie z
+warunkami uzgodnionymi w drodze wzajemnego porozumienia.
+11.7. W przypadku Transakcji dokonanej bez Zintegrowanej Usługi Płatności i Wysyłki oferowanej przez
+VINTED, Użytkownik rozumie i akceptuje, że VINTED nie ponosi odpowiedzialności za spory zaistniałe
+pomiędzy Kupującymi a Sprzedającymi, nie będzie udzielał wsparcia i nie będzie brał udziału w ich
+rozstrzyganiu. Spory te mogą być rozstrzygane zgodnie z obowiązującym prawem lokalnym, chyba że strony
+postanowią w drodze wzajemnego porozumienia, że zastosowanie będzie miało prawo innego kraju.
+12 OBOWIĄZKI UŻYTKOWNIKA
+12.1 Użytkownik zobowiązuje się:
+podczas rejestracji na Witrynie podać prawdziwe informacje o sobie, w szczególności pełne imię i
+nazwisko, nazwę użytkownika i adres e-mail;
+zarejestrować się na Witrynie tylko raz, nie tworzyć więcej niż jednego Konta, chyba że osoba trzecia
+ma wiedzę o i/lub ma dostęp do tego Konta, i to wyłącznie po poinformowaniu VINTED o tym oraz
+po zablokowaniu poprzedniego Konta;
+nie korzystać z Witryny i/lub Usług w celu podejmowania bezprawnych działań lub transakcji lub
+działań oszukańczych;
+podczas korzystania z Witryny, dostarczać obiektywnych, poprawnych, wyczerpujących i
+szczegółowych informacji na temat wymiany i/lub zamierzonej sprzedaży;
+zapewnić, że proponowana cena wymiany i/lub sprzedaży Przedmiotów, jak również inne informacje
+ich dotyczące, są prawidłowe;
+nie kopiować informacji pojawiających się na Witrynie i umieszczanych przez VINTED lub innego
+Użytkownika Witryny lub wykorzystywać ich niezgodnie z prawem.
+12.2 Przy korzystaniu z Witryny Użytkownicy i Odwiedzający zobowiązują się do przekazywania informacji
+i danych, w szczególności danych elektronicznych (plików, prywatnych wiadomości itp.), które:
+nie wprowadzają w błąd lub nie są nieprawidłowe;
+nie zachęcają do nabywania towarów, których sprzedaż jest zabroniona lub zastrzeżona;
+nie wykorzystują zdjęć (i) do których nie posiadają praw własności intelektualnej (ogólnie są to zdjęcia
+znalezione w Internecie), lub (ii) które zawierają linki do innych stron internetowych;
+nie wykorzystują fotografii (i) na których widoczne są inne niż one osoby, chyba że osoby te wyraziły
+zgodę na publikację tych fotografii; lub (ii) które są lub mogą być uważane za fotografie erotyczne lub
+pornograficzne sprzeczne z dobrymi standardami moralnymi lub porządkiem publicznym;
+nie dotyczą sprzedaży/kupna/wymiany/lub przekazania Przedmiotów wyprodukowanych z
+naruszeniem praw własności intelektualnej właścicieli zarejestrowanych znaków towarowych;
+nie naruszają praw własności lub praw osobistych, które nie są prawami spadkowymi osób trzecich (w
+tym prawami własności intelektualnej);
+nie naruszają obowiązujących przepisów;
+nie są sprzeczne z porządkiem publicznym lub dobrymi obyczajami; nie zawierają wirusów,
+programów ani plików komputerowych, które mogłyby (i) zakłócić normalne funkcjonowanie Witryny
+i/lub Usług, (ii) znajdować się na komputerach Użytkowników i w związku z tym prowadzić do strat
+dla Użytkownika lub jego majątku oraz uniemożliwić Użytkownikowi korzystanie z Witryny, Usług i
+komputera Użytkownika;
+nie zawierają linków do innych stron internetowych, które świadczą usługi podobne do tych
+oferowanych przez Witrynę.
+12.3 Użytkownicy i Odwiedzający zobowiązują się nie gromadzić, nie przechowywać jednocześnie, nie
+przekazywać osobom trzecim, nie upubliczniać, nie publikować ani nie ujawniać danych Użytkowników
+Witryny lub danych dotyczących działań Użytkowników Witryny, w tym Transakcji, ich liczby, rodzaju,
+ceny, itp., jeśli informacje te staną się dostępne w sposób niezgodny z prawem lub w wyniku niezgodnego z
+prawem działania lub zaniechania (z wyjątkiem informacji statystycznych opublikowanych na Witrynie).
+Użytkownicy i Odwiedzający zobowiązują się również nie gromadzić, nie przechowywać jednocześnie, nie
+przekazywać osobom trzecim, nie upubliczniać, nie publikować ani nie ujawniać informacji pojawiających
+się na Witrynie, jeżeli może to mieć wpływ na prawa innych Użytkowników. Ograniczenie to nie dotyczy
+istniejącej na Witrynie funkcji "udostępniania" i oferującej Użytkownikom możliwość udostępniania
+informacji publicznych dostępnych na Witrynie i na Kontach w serwisach społecznościowych oraz
+wysyłania sobie takich informacji pocztą elektroniczną.
+12.4 W granicach obowiązującego prawa, VINTED nie ponosi odpowiedzialności za zachowanie
+Użytkownika, gdy korzysta on z Witryny lub Usług. W szczególności VINTED nie ponosi
+odpowiedzialności za niewłaściwe zrealizowanie lub brak realizacji Transakcji przez Użytkowników.
+12.5 Użytkownik zobowiązuje się do zachowania w tajemnicy swoich danych logowania i hasła w stosunku
+do osób trzecich, z wyjątkiem osób, które zostały upoważnione przez Użytkownika do korzystania z jego
+danych logowania.
+12.6 Użytkownik zobowiązuje się do niezwłocznej aktualizacji informacji zawartych na Witrynie, które nie
+są już aktualne ze względu na zmiany jego danych (w szczególności informacji podanych podczas rejestracji
+na Witrynie), jak również informacji dotyczących Przedmiotów wymienionych w Katalogu i ich stanu.
+12.7 Korzystając z Witryny, Użytkownicy lub Odwiedzający oświadczają, że:
+są osobami fizycznymi w wieku 18 lat lub więcej (w przeciwnym razie rodzic (rodzice) lub opiekun
+prawny muszą zarejestrować się w ich miejsce), że korzystają ze wszystkich Usług Witryny w celu
+zaspokojenia swoich potrzeb osobistych, które nie są związane z jakąkolwiek działalnością zawodową,
+oraz że posiadają pełną zdolność i wszelkie prawa do przeprowadzania Transakcji na Witrynie;
+akceptują i stosują się do Ogólnych Warunków i wszystkich innych dokumentów umownych, takich
+jak Polityka Prywatności, Polityka Bezpieczeństwa i Polityka dotycząca plików cookie, jak również
+innych zasad Witryny;
+rozumieją, że są w pełni odpowiedzialni za przeprowadzone Transakcje;
+rozumieją, że po zamówieniu Przedmiotu zobowiązują się do zakupu lub wymiany tego Przedmiotu
+oraz że niewykonanie tej Transakcji może wiązać się z obowiązkiem pokrycia przez nich strat
+poniesionych przez Sprzedającego;
+rozumieją, że muszą zapłacić VINTED, jeżeli zdecydują się na korzystanie z płatnych Usług zgodnie z
+cenami i procedurami określonymi w Cenniku.
+13 PRAWA I OBOWIĄZKI VINTED
+13.1  VINTED może zabronić, w całości lub w części, korzystania z Witryny (poprzez określenie warunków
+ograniczenia) lub uniemożliwić Użytkownikowi lub Odwiedzającemu korzystanie z Witryny, w
+szczególności poprzez usunięcie Treści zamieszczonej na Witrynie, usunięcie konta Użytkownika oraz
+uniemożliwienie Użytkownikowi ponownej rejestracji na Witrynie lub uniemożliwienie Odwiedzającemu
+dostępu do Witryny, przy założeniu, że VINTED prześle uprzednie oficjalne zawiadomienie do tych
+Użytkowników lub Odwiedzających, którzy:
+łamią lub naruszają swoje zobowiązania wynikające z Ogólnych Warunków, Polityki Prywatności lub
+innych zasad Witryny;
+podają nieprawdziwe, wprowadzające w błąd i/lub informacje niekompletne zgodnie z Ogólnymi
+Warunkami w momencie ich rejestracji na Witrynie lub korzystania z niej;
+umyślnie i celowo ujawniają nieprawidłowe informacje na Witrynie, obrażają inne osoby lub postępują
+w niewłaściwy sposób;
+wykorzystują tożsamość innych Użytkowników lub działają w inny niezgodny z prawem sposób;
+logują się z tego samego adresu IP lub z tego samego komputera, który został zablokowany z powodu
+naruszeń; lub
+otrzymali co najmniej trzy ostrzeżenia od VINTED.
+13.2 Z zastrzeżeniem tych samych okoliczności, które zostały opisane powyżej, VINTED może, wysyłając
+oficjalne powiadomienie na ten temat do danego Użytkownika/Odwiedzającego, ograniczyć, w całości lub w
+części, Konto Użytkownika lub dostęp Odwiedzającego. Częściowe zablokowanie oznacza, że Użytkownik
+nie będzie mógł wystawiać Przedmiotów w Katalogu, komunikować się z innymi Użytkownikami i/lub
+uczestniczyć w Forum. Całkowite zablokowanie oznacza, że Konto Użytkownika zostanie zablokowane i/lub
+usunięte, a możliwość korzystania z Witryny z komputera Użytkownika zostanie zablokowana. Użytkownik
+musi mieć świadomość, że po całkowitym zablokowaniu nie będzie miał prawa do ponownej rejestracji na
+Witrynie. Usunięcie Konta Użytkownika nie oznacza, że VINTED usunie wszelkie istotne informacje
+dotyczące Konta, w szczególności dane osobowe Użytkownika, w zakresie, w jakim mogą one być
+przechowywane w celu zbadania okoliczności towarzyszących decyzji VINTED o usunięciu Konta
+Użytkownika i przekazania tych danych instytucjom i organom odpowiedzialnym za stosowanie prawa,
+zgodnie z Polityką Prywatności.
+13.3 VINTED, po uprzednim poinformowaniu zgodnie z punktem 11.5 powyżej, usunie wszelkie Treści
+niezgodne z prawem. W istocie, VINTED może, w każdym czasie, usunąć z Witryny Przedmioty
+wystawione przez Użytkownika w Katalogu lub wszystkie inne informacje dostarczone przez Użytkownika,
+jeśli te Przedmioty lub te Informacje naruszają Ogólne Warunki, obowiązujące przepisy lub są sprzeczne z
+dobrymi standardami moralnymi lub porządkiem publicznym.
+13.4 Jeżeli Użytkownik lub Odwiedzający nie akceptuje tego prawa VINTED, musi powstrzymać się od
+korzystania z Witryny. VINTED może zbadać każde naruszenie Ogólnych Warunków i poinformować o tym
+właściwe instytucje i władze odpowiedzialne za stosowanie prawa.
+13.5 VINTED może, w każdym czasie, zreorganizować Katalog, powierzchnie reklamowe lub inne
+informacje o Przedmiotach, z zastrzeżeniem tych zmian, które nie zmieniają Treści dostarczonej przez
+Użytkownika, tak aby Witryna była bardziej przyjazna dla użytkownika. VINTED może publikować
+Aktualności, publikując opis, instrukcje lub zasady z nimi związane.
+13.6 VINTED może w każdym czasie publikować na Witrynie oferty krótko- i długoterminowe, konkursy,
+gry lub loterie, które są zgodne z prawem krajowym w celu oferowania nowych Usług, i w związku z czym
+niniejsze Ogólne Warunki nie będą zmieniane. Informacje dotyczące ofert, konkursów, gier lub loterii, które
+są zgodne z prawem krajowym, będą udostępniane na Witrynie. W przypadku niezgodności pomiędzy
+Ogólnymi Warunkami a specjalnymi warunkami publikowanymi na Witrynie (takimi jak zasady, instrukcje i
+opisy dotyczące Aktualności), te ostatnie będą miały pierwszeństwo.
+13.7 VINTED może zakończyć lub zawiesić lub przydzielić działanie Witryny osobom trzecim, pod
+warunkiem powiadomienia Użytkowników i Odwiedzających Witrynę, z zachowaniem okresu
+wypowiedzenia wynoszącego trzydzieści (30) dni.
+13.8 VINTED może nadać status "nieaktywny" każdemu Użytkownikowi, który był nieaktywny przez
+odpowiednio długi okres czasu (np. 60 dni lub więcej). W tym przypadku, Przedmioty oferowane na
+sprzedaż przez tego Użytkownika będą ukryte dla innych Użytkowników. VINTED zastrzega sobie prawo
+usunięcia Przedmiotów oferowanych na sprzedaż przez każdego Użytkownika, jeśli takie Przedmioty nie
+zostały sprzedane przez znacząco długi okres czasu.
+Przed nadaniem statusu "nieaktywny" i/lub usunięcia jakichkolwiek Przedmiotów, VINTED prześle
+powiadomienie do Użytkownika. W takim powiadomieniu VINTED poinformuje Użytkownika o
+nadchodzącej zmianie jego statusu i/lub usunięciu wystawionych Przedmiotów oraz pozwoli Użytkownikowi
+na odmowę takiej zmiany. Użytkownik zobowiązany będzie poinformować VINTED o odmowie zmiany w
+terminie notyfikacji wskazanym w powiadomieniu. Jeśli Użytkownik nie dokona odmowy zmiany, będzie to
+uznawane za akceptację przez Użytkownika zmiany statusu i/lub usunięcia wystawionych Przedmiotów
+dokonanych przez VINTED.  
+ 
+14 DANE OSOBOWE
+Polityka Prywatności, dostępna pod adresem http://www.vinted.pl/privacy-policy, opisuje Dane Osobowe
+Użytkownika gromadzone przez VINTED oraz cel, dla którego VINTED przetwarza takie dane.
+15 POSTANOWIENIA KOŃCOWE
+15.1  Ogólne Warunki podlegają prawu krajowemu Użytkownika. Wszelkie spory pomiędzy Użytkownikiem
+a VINTED będą rozstrzygane przez sądy właściwe dla kraju Użytkownika.
+15.2 W przypadku braku porozumienia pomiędzy VINTED a Użytkownikiem, Użytkownik może:
+Po pierwsze, skierować pisemną reklamację do Działu Obsługi Klienta za pomocą formularza
+kontaktowego.
+W przypadku braku odpowiedzi ze strony tego działu w rozsądnym terminie jednego (1) miesiąca, lub
+jeśli Użytkownik nie jest usatysfakcjonowany udzieloną odpowiedzią, Użytkownik i VINTED
+postarają się rozwiązać skargę Użytkownika w sposób polubowny, zanim jakikolwiek spór zostanie
+wniesiony do właściwego sądu.
+Użytkownicy mogą zatem odwoływać się do alternatywnych metod rozwiązywania sporów, takich jak
+mediacja konsumencka, mimo że VINTED nie jest zaangażowane ani zobowiązane do stosowania takich
+metod w celu rozwiązywania sporów z Użytkownikami. Ponadto spory pomiędzy Sprzedającymi i
+Kupującymi nie kwalifikują się do mediacji konsumenckiej.
+W przypadku Polski informacje o tym, jak uzyskać dostęp do wyżej wymienionego trybu i procedur
+rozstrzygania sporów, można znaleźć pod adresem: http://www.uokik.gov.pl, w zakładce
+"Rozstrzyganie sporów konsumenckich".
+Komisja Europejska stworzyła platformę rozstrzygania sporów w celu gromadzenia ewentualnych
+skarg konsumentów po dokonaniu zakupu przez Internet i przekazywania ich właściwym mediatorom
+krajowym. Platforma ta jest dostępna pod adresem: http://ec.europa.eu/consumers/odr.
+15.3 Użytkownik może zakończyć swoją relację z VINTED w dowolnym momencie ze skutkiem
+natychmiastowym po wypełnieniu wszystkich swoich zobowiązań oraz po usunięciu swojego Konta na
+Witrynie. Użytkownik może zakończyć swoją relację z VINTED w formie pisemnej lub elektronicznej,
+innymi słowy, za pośrednictwem poczty elektronicznej. VINTED może zakończyć swoją relację z
+Użytkownikiem za uprzednim 30-dniowym pisemnym powiadomieniem Użytkownika, w szczególności z
+następujących powodów: (1) decyzja VINTED o zaprzestaniu świadczenia Usług, (2) decyzja VINTED o
+zaprzestaniu prowadzenia działalności, (3) decyzja VINTED o zmianie administratora działalności Witryny,
+w całości lub w części. VINTED może zakończyć swoją relację z Użytkownikiem ze skutkiem
+natychmiastowym, w przypadku naruszenia prawa lub postanowień Ogólnych Warunków przez
+Użytkownika.
+15.4 VINTED posiada wszelkie prawa własności intelektualnej dotyczące Witryny, jej systemu (Katalogu,
+jego przenoszenia, itp.), projektu Witryny i oprogramowania wykorzystywanego przez Witrynę, w tym
+znaków towarowych i nazw domen.
+15.5 Umieszczanie informacji lub danych, w szczególności zdjęć na Witrynie, tj. „Treści”, oznacza, że
+Użytkownicy Witryny lub Usług niniejszym udzielają VINTED oraz każdej spółce należącej do Grupy
+VINTED, bez wynagrodzenia, niewyłączną licencję na korzystanie z Treści na całym świecie, która będzie
+obowiązywać przez okres obowiązywania odpowiednich praw, jeśli dotyczy (i ich ewentualnych rozszerzeń).
+Taka licencja obejmuje prawo do korzystania, kopiowania, reprodukowania, wyświetlania i dostosowywania
+Treści. VINTED może wykorzystywać taką Treść na wszelkich znanych lub nieznanych dotychczas
+nośnikach, w szczególności w telewizji, na papierze, w Internecie (w ramach banerów i artykułów,
+umieszczać je na innych stronach internetowych) oraz w serwisach społecznościowych (Facebook, Twitter,
+Instagram, itp.), w celach komercyjnych, reklamowych oraz dla celów wewnętrznych, co Użytkownik
+akceptuje. Użytkownicy ponoszą wyłączną odpowiedzialność za Treść i potwierdzają, że posiadają wszelkie
+do niej prawa. Użytkownik, zamieszczając Treść na Witrynie, może zakazać korzystania z Treści w sposób i
+w celach wskazanych w niniejszym punkcie poprzez zmianę Ustawień Użytkownika i wyłączenie
+odpowiednich opcji w Ustawieniach Prywatności.
+15.6 Wszystkie powiadomienia, prośby i inne informacje pomiędzy Użytkownikiem a VINTED będą
+wysyłane w sposób określony w Ogólnych Warunkach poprzez formularz kontaktowy pojawiający się na
+Witrynie oraz do Użytkownika za pośrednictwem poczty elektronicznej na adres e-mail podany podczas
+rejestracji na Witrynie.
+15.7 Ogólne Warunki nie skutkują powstaniem partnerstwa pomiędzy VINTED a Użytkownikami, relacji
+pracownik pracodawca, relacji pomiędzy agentem handlowym a jego klientem ani relacji franczyzowej.
+15.8 VINTED informuje Użytkownika, że VINTED może, z zastrzeżeniem obowiązujących przepisów o
+ochronie danych osobowych, przenieść i/lub scedować wszelkie prawa i obowiązki wynikające z niniejszych
+Ogólnych Warunków na jakąkolwiek osobę trzecią, w szczególności w przypadku przeniesienia sektora
+działalności, połączenia poprzez założenie nowej spółki, połączenia poprzez przejęcie, podziału lub zmiany
+kontroli mającej wpływ na VINTED. Przeniesienie takie zwalnia VINTED na przyszłość. W przypadku
+przeniesienia przez VINTED i/lub cesji tych praw i obowiązków wynikających z niniejszych Ogólnych
+Warunków na jakąkolwiek osobę trzecią, Użytkownik ma prawo do natychmiastowego zakończenia relacji z
+VINTED i zamknięcia swojego konta w VINTED, w tym niniejszych Ogólnych Warunków.
+15.9 Użytkownik może zgłosić zastrzeżenia dotyczące dostępu, korzystania lub działania Witryny lub Usług
+poprzez powiadomienie. Powiadomienia należy wysyłać do VINTED za pomocą formularza znajdującego
+się na Witrynie lub listownie do VINTED UAB, na adres Svitrigailos 13, 03228 Wilno, Litwa. Prosimy o
+kontakt pod tym adresem w przypadku jakichkolwiek kwestii prawnych: legal@vinted.pl.
+Witryna jest prowadzona przez VINTED UAB.

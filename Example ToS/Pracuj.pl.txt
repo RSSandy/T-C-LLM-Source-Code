@@ -1,0 +1,670 @@
+REGULAMIN świadczenia usług drogą
+elektroniczną w ramach serwisów należących do
+Grupy Pracuj S.A.
+obowiązuje od 02 września 2021 r. Poprzednią wersję regulaminu znajdziesz tutaj
+Pobierz regulamin
+C
+DEFINICJE
+Formularz rejestracyjny – formularz wypełniany przez Użytkownika niezalogowanego, służący do założenia
+Konta.
+Kodeks Cywilny – ustawa z dnia 23 kwietnia 1964 r. Kodeks cywilny (tj. Dz.U. z 2017 r. poz. 459).
+Konto – zbiór zasobów i ustawień utworzonych dla Użytkownika w ramach Serwisów. Użytkownik może
+wykorzystywać Konto do zarządzania Usługami.
+Konto niepotwierdzone – konto techniczne utworzone po otrzymaniu przez Usługodawcę prawidłowo
+wypełnionego Formularza rejestracyjnego lub dokonaniu Uwierzytelnienia i zaakceptowaniu postanowień
+Regulaminu lub w określonych przypadkach zaaplikowaniu na ofertę pracy bez potwierdzenia założenia
+Konta. Usługodawca utrzymuje Konto niepotwierdzone do czasu potwierdzenia założenia Konta, w każdym
+jednak przypadku nie dłużej niż przez okres 60 dni.
+Pracodawca lub Pracodawcy  – pracodawca lub agencja doradztwa personalnego, która publikuje
+ogłoszenia o pracę w Serwisie lub korzysta z innych usług realizowanych przez Usługodawcę.
+Profil – funkcjonalność Konta pozwalająca Użytkownikowi na gromadzenie wybranych informacji, w tym
+dotyczących przebiegu jego kariery zawodowej, historii edukacji i innych umiejętności oraz dokumentów
+Użytkownika.
+Regulamin – niniejszy Regulamin.
+Serwisy lub Serwis – serwisy internetowe należące do Usługodawcy, w ramach których Usługodawca
+świadczy Usługi. Serwisy umieszczone są pod następującymi adresami: grupapracuj.pl, www.pracuj.pl,
+zarobki.pracuj.pl, cv.pracuj.pl, pracodawcy.pracuj.pl, porady.pracuj.pl, sciezkikariery.pracuj.pl
+Usługi – wszelkie usługi świadczone drogą elektroniczną przez Usługodawcę na rzecz Użytkowników i
+Użytkowników niezalogowanych w oparciu o Regulamin. Wykaz i opis Usług umieszczony został w
+Załączniku nr 1 do Regulaminu i stanowi jego integralną część. Użytkownik może samodzielnie
+modyfikować zakres Usług za pomocą odpowiednich ustawień w Ustawieniach (Prywatność).
+Usługodawca – Grupa Pracuj S.A. z siedzibą w Warszawie, ul. Prosta 68, 00-838 Warszawa, wpisana do
+rejestru przedsiębiorców prowadzonego przez Sąd Rejonowy dla m. st. Warszawy, XIII Wydział Gospodarczy
+Krajowego Rejestru Sądowego pod nr KRS 0000913770, posiadająca numer identyfikacji podatkowej (NIP)
+527-274-96-31. Usługodawca posiada status agencji doradztwa personalnego i jest wpisany do rejestru
+podmiotów prowadzących agencje zatrudnienia, o którym mowa w ustawie z dnia 20 kwietnia 2004 roku o
+promocji zatrudnienia i instytucjach rynku pracy (Dz.U. z 2004 r., poz. 1001).
+Ustawa o prawie autorskim i prawach pokrewnych – ustawa z dnia 4 lutego 1994 r. o prawie autorskim i
+prawach pokrewnych (tj. Dz.U. z 2017 r., poz. 880).
+Ustawa o świadczeniu usług drogą elektroniczną – ustawa z dnia 18 lipca 2002 r. o świadczeniu usług
+drogą elektroniczną (tj. Dz.U. z 2017 r., poz. 1219).
+Ustawienia (Prywatność) – funkcjonalność Konta pozwalająca Użytkownikowi korzystającemu z wybranych
+Usług na odpowiednie zarządzanie tymi Usługami, w tym na
+samodzielne modyfikowanie ich zakresu oraz na wybór preferencji odnośnie ochrony jego prywatności.
+Utwory – utwory w rozumieniu Ustawy o prawie autorskim i prawach pokrewnych, które będą publikowane
+przez Użytkownika w ramach korzystania z Serwisów lub wybranych Usług.
+Uwierzytelnienie – zewnętrzna usługa uwierzytelniająca (np. Facebook Connect), umożliwiająca założenie
+Konta i uzyskanie do niego dostępu.
+Użytkownik – pełnoletnia osoba fizyczna, która posiada Konto i korzysta z Usług świadczonych w ramach
+Serwisów.
+Użytkownik niezalogowany – pełnoletnia osoba fizyczna, korzystająca z Usług oferowanych przez Serwisy,
+które nie wymagają założenia Konta.
+Wizerunek – wizerunek, imię, nazwisko i cześć Użytkownika w rozumieniu art. 23 Kodeksu Cywilnego.
+I. POSTANOWIENIA OGÓLNE
+1. Niniejszy Regulamin określa:
+a. prawa i obowiązki Usługodawcy oraz Użytkownika i Użytkownika niezalogowanego, związane ze
+świadczeniem Usług,
+b. zasady wyłączania odpowiedzialności Usługodawcy z tytułu świadczenia Usług.
+2. Usługodawca udostępnia nieodpłatnie w Serwisach Użytkownikowi i Użytkownikowi niezalogowanemu
+Regulamin przed zawarciem umowy o świadczenie Usług. Użytkownik i Użytkownik niezalogowany nie są
+związani tymi postanowieniami Regulaminu, które nie zostały udostępnione w sposób opisany powyżej.
+3. Usługodawca świadczy Usługi zgodnie z Regulaminem.
+4. Użytkownik oraz Użytkownik niezalogowany zobowiązani są do przestrzegania postanowień Regulaminu.
+II. ZAWARCIE UMOWY
+1. Umowa o świadczenie Usług zostaje zawarta z Użytkownikiem niezalogowanym z chwilą skorzystania
+przez niego z dowolnych Usług oferowanych w ramach Serwisów, które nie wymagają założenia Konta.
+2. Umowa o świadczenie Usług zostaje zawarta z Użytkownikiem z chwilą prawidłowego wypełnienia przez
+niego Formularza rejestracyjnego albo dokonania Uwierzytelnienia oraz zaakceptowania Regulaminu
+poprzez odznaczenie odpowiedniego przycisku wyboru.
+3. Prawidłowe wypełnienie Formularza rejestracyjnego polega na podaniu: (a) loginu (adresu poczty
+elektronicznej) i hasła lub (b) tylko loginu. Zamiast wypełniania Formularza rejestracyjnego Użytkownik może
+dokonać Uwierzytelnienia.
+4. Użytkownik wypełniając i wysyłając Formularz rejestracyjny albo dokonując Uwierzytelnienia oświadcza,
+że:
+a. podane w nim dane są kompletne, zgodne ze stanem faktycznym oraz nie naruszają jakichkolwiek praw
+osób trzecich,
+b. jest pełnoletni oraz uprawniony do zawarcia umowy o świadczenie Usług.
+5. Po otrzymaniu prawidłowo wypełnionego Formularza rejestracyjnego lub dokonanym Uwierzytelnieniu,
+Usługodawca tworzy Konto niepotwierdzone o nazwie odpowiadającej podanemu przez Użytkownika
+adresowi poczty elektronicznej. Na wskazany przez Użytkownika adres poczty elektronicznej wysyłany jest
+mail aktywacyjny w celu potwierdzenia założenia Konta. Użytkownik ma 60 dni od dnia otrzymania linku
+aktywacyjnego na dokonanie potwierdzenia założenia Konta. Potwierdzenie założenia Konta zapewnia
+Użytkownikowi dostęp do Konta i możliwość korzystania z Usług, które wymagają założenia Konta. Jeżeli w
+terminie 60 dni od dnia otrzymania linku aktywacyjnego Użytkownik nie dokona potwierdzenia założenia
+Konta, nie będzie miał do niego dostępu i nie będzie mógł korzystać z Usług, które wymagają założenia
+Konta. W okresie 60 dni od dnia przesłania do Użytkownika linku aktywacyjnego, Usługodawca może
+przesyłać Użytkownikowi, na wskazany adres poczty elektronicznej, komunikaty przypominające o
+konieczności potwierdzenia założenia Konta. Po tym terminie Konto niepotwierdzone zostanie
+zanonimizowane.
+6. Użytkownik akceptuje konieczność posiadania aktualnego, czynnego adresu poczty elektronicznej. Adres
+ten jest podawany bezpośrednio w Formularzu rejestracyjnym lub uzyskiwany przez Usługodawcę w
+przypadku dokonania przez Użytkownika Uwierzytelnienia. Użytkownik zobowiązany jest do bieżącego
+monitorowania podanego adresu poczty elektronicznej, a w przypadku jego zmiany do niezwłocznego
+zaktualizowania tej informacji w swoim Koncie.
+7. Adres poczty elektronicznej jest powiązany z Kontem, stanowi konieczną formę identyfikacji Użytkownika
+wobec Usługodawcy i będzie wykorzystywany do wszelkiej korespondencji pomiędzy Usługodawcą i
+Użytkownikiem związanej ze świadczeniem Usług.
+8. Usługodawca może odmówić utworzenia Konta, zablokować lub usunąć istniejące Konto jeżeli jego nazwa
+jest już używana w ramach Serwisów lub jeżeli Usługodawca poweźmie uzasadnioną, wiarygodną
+informację, że jest ona sprzeczna z prawem, dobrymi obyczajami, narusza dobra osobiste osób trzecich lub
+uzasadnione interesy Usługodawcy.
+9. Użytkownik uzyskuje dostęp do utworzonego Konta za pomocą swojego loginu (adresu poczty
+elektronicznej) oraz samodzielnie ustanowionego hasła. Zamiast wprowadzania loginu i hasła Użytkownik
+może dokonać Uwierzytelnienia.
+10. Użytkownik zobowiązany jest nie ujawniać jakiejkolwiek osobie trzeciej hasła dostępu do Konta i ponosi
+wyłączną odpowiedzialność za szkody wyrządzone na skutek takiego ujawnienia.
+11. Umowa zawierana jest na czas nieokreślony.
+12. W rozsądnym czasie po zawarciu umowy, jednak przed rozpoczęciem świadczenia Usług, Usługodawca
+przekazuje Użytkownikowi potwierdzenie zawarcia umowy na trwałym nośniku.
+III. WARUNKI ŚWIADCZENIA USŁUG PRZEZ
+USŁUGODAWCĘ
+1. Wymagania techniczne niezbędne do współpracy z systemem teleinformatycznym, którym posługuje się
+Użytkownik lub Użytkownik niezalogowany i Usługodawca są następujące:
+a. połączenie z siecią Internet,
+b. przeglądarka internetowa umożliwiająca wyświetlanie na ekranie komputera dokumentów HTML.
+Przeglądarka powinna akceptować pliki cookies.
+2. W przypadku Usług dostępnych za pomocą urządzeń mobilnych, warunkiem ich świadczenia jest
+posiadanie właściwego rodzaju urządzenia mobilnego oraz poprawne zainstalowanie aplikacji mobilnej w
+pamięci tego urządzenia lub poprawne zainstalowanie przeglądarki internetowej.
+3. Usługodawca zastrzega, że korzystanie z Usług może wiązać się ze standardowym ryzykiem związanym z
+wykorzystaniem sieci Internet i rekomenduje Użytkownikom oraz Użytkownikom niezalogowanym
+przedsięwzięcie odpowiednich kroków w celu ich zminimalizowania.
+4. Usługodawca zobowiązuje się do rozpoczęcia świadczenia Usług wybranych przez Użytkownika
+niezwłocznie, a Usług wybranych przez Użytkownika niezalogowanego nie później niż w ciągu 24 godzin od
+momentu zawarcia umowy o świadczenie Usług. Jeżeli zawarcie umowy o świadczenie Usług z
+Użytkownikiem niezalogowanym nastąpiło w dzień ustawowo wolny od pracy, wówczas rozpoczęcie
+świadczenia Usług nastąpi najpóźniej do końca pierwszego dnia roboczego, następującego po dniu
+ustawowo wolnym od pracy.
+IV. PRAWA I OBOWIĄZKI USŁUGODAWCY,
+UŻYTKOWNIKA I UŻYTKOWNIKA
+NIEZALOGOWANEGO
+1. Usługodawca zobowiązuje się do stałego i nieprzerwanego świadczenia Usług.
+2. Usługodawca zastrzega sobie prawo do:
+a. przejściowego zaprzestania świadczenia Usług ze względu na czynności konserwacyjne lub związane z
+modyfikacją Serwisów,
+b. wysyłania komunikatów technicznych, prawnych i transakcyjnych związanych z funkcjonowaniem Usług, w
+sposób wskazany w Załączniku nr 1 do Regulaminu, stanowiącym Wykaz i opis Usług,
+c. odmowy świadczenia Usług jeżeli Użytkownik lub Użytkownik niezalogowany narusza Regulamin,
+d. dowolnej modyfikacji świadczonych Usług, narzędzi oraz sposobu działania Serwisów poprzez zmianę
+Regulaminu.
+3. Usługodawca zastrzega sobie prawo do zaprzestania świadczenia Usług, usunięcia wszelkich danych
+Użytkownika lub Użytkownika niezalogowanego oraz podjęcia
+wszelkich innych dozwolonych prawem czynności związanych z Serwisami, z tytułu których Użytkownikowi
+lub Użytkownikowi niezalogowanemu nie będą przysługiwać żadne roszczenia wobec Usługodawcy.
+4. Użytkownik ma możliwość zarządzania Usługami za pośrednictwem Konta, w tym Ustawień (Prywatność) i
+zmiany podanych przez siebie danych w dowolnym momencie.
+5. W przypadku wystąpienia awarii lub innych zakłóceń w funkcjonowaniu systemów Usługodawcy,
+uniemożliwiających korzystanie z określonych Usług, funkcjonalności lub ustawień, Usługodawca podejmuje
+niezwłocznie wszelkie działania zmierzające do naprawienia takiej awarii lub zakłócenia.
+6. W przypadku skorzystania przez Użytkownika z Usług związanych z publicznym udostępnieniem w
+Serwisach swojego Wizerunku, na podstawie art. 81 Ustawy o prawie autorskim i prawach pokrewnych,
+Użytkownik wyraża zgodę na jego nieodpłatne utrwalanie, zwielokrotnienie i rozpowszechnienie przez
+Usługodawcę. Usługodawca oświadcza, że Wizerunek będzie wykorzystywany w celu poprawnej realizacji
+Usług, identyfikacji Użytkownika lub w celach promocyjnych, reklamowych i marketingowych Usługodawcy.
+7. Użytkownik oświadcza, że przysługują mu autorskie prawa majątkowe do Utworów. Użytkownik udziela
+Usługodawcy nieodpłatnej, niewyłącznej oraz nieograniczonej terytorialnie licencji na czas realizacji Usług,
+zezwalającej na korzystanie z Utworów na następujących polach eksploatacji, obejmujących w szczególności:
+wytwarzanie, zwielokrotnianie, publiczne odtworzenie i wyświetlanie, wprowadzenie do pamięci komputera i
+serwerów sieci komputerowych, umieszczanie w sieci Internet.
+8. Niezależnie od ust. 6 powyżej, w przypadku utrwalenia Wizerunku w ramach Utworu będzie on
+zwielokrotniany i rozpowszechniany przez Usługodawcę na polach eksploatacji określonych w ust. 7
+powyżej.
+9. Użytkownik oraz Użytkownik niezalogowany korzystając z Usług zobowiązani są do powstrzymania się od:
+a. podawania nieprawdziwych lub nieaktualnych informacji oraz danych osobowych,
+b. publikacji lub przesyłania treści obraźliwych, sprzecznych z prawem lub naruszających chronione prawem
+dobra osobiste osób trzecich,
+c. wykorzystywania Usług do publikacji reklam towarów i usług oraz wszelkich informacji o charakterze
+komercyjnym,
+d. kopiowania, modyfikowania, rozpowszechniania, transmitowania lub wykorzystywania w inny sposób
+jakichkolwiek utworów i baz danych udostępnianych w Serwisach, za wyjątkiem korzystania z nich w ramach
+dozwolonego użytku,
+e. podejmowania jakichkolwiek działań, które mogą utrudnić lub zakłócić funkcjonowanie Serwisów oraz
+korzystania z Serwisów w sposób uciążliwy dla Usługodawcy lub innych Użytkowników lub Użytkowników
+niezalogowanych,
+f. wykorzystywania Usług w sposób sprzeczny z prawem, dobrymi obyczajami, naruszający dobra osobiste
+osób trzecich lub uzasadnione interesy Usługodawcy.
+10. Użytkownik oraz Użytkownik niezalogowany zobowiązani są do niezwłocznego zawiadamiania
+Usługodawcy o znanych im przypadkach naruszania Regulaminu oraz o bezprawnym charakterze danych,
+informacji lub działań podejmowanych za pośrednictwem Serwisów. Usługodawca po otrzymaniu takiego
+zawiadomienia podejmie przewidziane prawem działania, w tym niezwłocznie uniemożliwi dostęp do
+określonych danych, informacji lub działań.
+11. Niezależnie od postanowień ust. 10 powyżej Usługodawca zastrzega sobie prawo do zablokowania
+dostępu do zasobów Użytkownika oraz Użytkownika niezalogowanego, zawierających treści niezgodne z
+Regulaminem, w tym treści erotyczne, pornograficzne, zawierające nielegalne oprogramowanie lub
+informację na temat jego pozyskania, oraz inne treści sprzeczne z prawem, dobrymi obyczajami lub
+uzasadnionymi interesami Usługodawcy, w razie powzięcia wiarygodnych, uzasadnionych informacji na ten
+temat.
+V. WARUNKI PŁATNOŚCI
+1. Usługi świadczone są przez Usługodawcę nieodpłatnie.
+2. Usługodawca ma obowiązek uzyskać wyraźną zgodę Użytkownika oraz Użytkownika niezalogowanego na
+każdą ewentualną płatność wykraczającą poza postanowienia pkt V.1 powyżej (tzw. dodatkowa płatność)
+najpóźniej w chwili wyrażenia przez Użytkownika lub Użytkownika niezalogowanego woli związania się
+umową o świadczenie takiej Usługi.
+VI. ODPOWIEDZIALNOŚĆ
+1. Usługodawca oraz Użytkownik i Użytkownik niezalogowany zobowiązani są do naprawienia szkody, jaką
+druga strona poniosła na skutek niewykonania lub nienależytego wykonania przez nich obowiązków
+wynikających z Regulaminu, chyba że ich niewykonanie lub nienależyte wykonanie było następstwem
+okoliczności, za które nie ponoszą odpowiedzialności, w szczególności na skutek działania siły wyższej.
+2. Usługodawca, który otrzymał urzędowe zawiadomienie lub wiarygodną wiadomość o bezprawnym
+charakterze danych wykorzystywanych przez Użytkownika i Użytkownika niezalogowanego w ramach
+korzystania z Serwisów i uniemożliwił dostęp do takich danych lub informacji, nie ponosi względem nich
+odpowiedzialności za powstałą szkodę.
+3. Usługodawca nie ponosi wobec Użytkownika i Użytkownika niezalogowanego naruszających Regulamin
+odpowiedzialności za jakiekolwiek szkody powstałe na skutek zaprzestania świadczenia im Usług, w tym na
+skutek usunięcia Konta.
+4. Usługodawca nie ponosi ponadto odpowiedzialności za:
+a. jakiekolwiek szkody wyrządzone osobom trzecim, powstałe w wyniku korzystania przez Użytkownika i
+Użytkownika niezalogowanego z Usług w sposób sprzeczny z Regulaminem lub przepisami prawa,
+b. treści udostępniane przez Użytkownika i Użytkownika niezalogowanego w wyniku korzystania z Usług,
+które to treści naruszają prawo lub chronione prawem dobra osób trzecich,
+c. informacje oraz materiały pobrane, zamieszczone w Serwisach lub wysyłane za pośrednictwem sieci
+Internet przez Użytkownika i Użytkownika niezalogowanego,
+d. utratę przez Użytkownika i Użytkownika niezalogowanego danych spowodowaną działaniem czynników
+zewnętrznych (np. awaria sprzętu) lub też innymi okolicznościami niezależnymi od Usługodawcy (działanie
+osób trzecich), w tym zawinionymi przez Użytkownika i Użytkownika niezalogowanego,
+e. szkody wynikłe na skutek braku ciągłości dostarczania Usług, będące następstwem okoliczności, za które
+Usługodawca nie ponosi odpowiedzialności (siła wyższa, działania i zaniechania osób trzecich itp.),
+f. podania przez Użytkownika i Użytkownika niezalogowanego nieprawdziwych, nieaktualnych lub niepełnych
+danych lub informacji,
+g. nieprzestrzeganie przez Użytkownika i Użytkownika niezalogowanego postanowień Regulaminu.
+VII. OCHRONA DANYCH OSOBOWYCH
+1. Każdy Użytkownik oraz Użytkownik niezalogowany ma prawo do ochrony jego prywatności przez
+Usługodawcę.
+2. Zasady dotyczące przetwarzania przez Usługodawcę danych osobowych Użytkowników oraz
+Użytkowników niezalogowanych określa Polityka Prywatności.
+VIII. POSTĘPOWANIE REKLAMACYJNE
+1. Użytkownik i Użytkownik niezalogowany mają prawo składać reklamacje w sprawach dotyczących realizacji
+Usług.
+2. Reklamacje rozpatruje Usługodawca.
+3. Prawidłowo złożona reklamacja powinna zawierać co najmniej następujące dane:
+a. oznaczenie Użytkownika lub Użytkownika niezalogowanego (imię, nazwisko, adres poczty elektronicznej),
+b. adres Serwisu, którego reklamacja dotyczy,
+c. przedmiot reklamacji,
+d. okoliczności uzasadniające reklamację.
+4. Reklamacje nie zawierające powyższych danych nie będą rozpatrywane przez Usługodawcę.
+5. Reklamację (z dopiskiem „Reklamacja”) należy składać:
+a. na adres Usługodawcy: Grupa Pracuj S.A., ul. Prosta 68, 00-838 Warszawa,
+b. za pośrednictwem dostępnego w Serwisach formularza, lub
+c. na adres poczty elektronicznej: pomoc@pracuj.pl.
+6. Usługodawca dołoży starań, aby reklamacje były rozpatrzone w terminie najpóźniej 30 dni od ich
+otrzymania od Użytkownika lub Użytkownika niezalogowanego. O swojej decyzji zapadłej w wyniku
+rozpatrzenia reklamacji Usługodawca zawiadomi Użytkownika lub Użytkownika niezalogowanego za
+pośrednictwem poczty elektronicznej, na adres podany w reklamacji zgodnie z ust. 3 powyżej.
+7. Reklamacja rozpatrzona zgodnie z postanowieniami Regulaminu nie podlega dalszemu ani ponownemu
+rozpatrzeniu.
+IX. KONTAKT Z USŁUGODAWCĄ
+1. Użytkownik oraz Użytkownik niezalogowany mogą kontaktować się z Usługodawcą we wszelkich sprawach
+związanych z korzystaniem z Serwisów: pisemnie na adres Usługodawcy: Grupa Pracuj S.A., ul. Prosta 68, 00-
+838 Warszawa, mailowo na adres: pomoc@pracuj.pl lub telefonicznie pod numerem telefonu: tel.(22) 373
+73 00, fax: (22) 373 73 01.
+2. Opłata dla Użytkownika oraz Użytkownika niezalogowanego za połączenie z numerami telefonów
+wskazanymi w ust. 1 powyżej nie jest wyższa niż opłata za zwykłe połączenie telefoniczne, zgodnie z
+pakietem taryfowym dostawcy usług, z którego korzysta Użytkownik lub Użytkownik niezalogowany.
+X. ROZWIĄZANIE UMOWY LUB ODSTĄPIENIE OD
+UMOWY
+1. Umowa o świadczenie Usług może być rozwiązana przez którąkolwiek ze stron.
+2. W dowolnym momencie Użytkownik ma prawo rozwiązać umowę o świadczenie Usług poprzez
+samodzielne usunięcie swojego Konta, a Użytkownik niezalogowany poprzez zaprzestanie korzystania z
+Usług.
+3. Użytkownik może w terminie 14 dni od dnia zawarcia umowy o świadczenie Usług odstąpić od umowy bez
+podawania przyczyny i bez ponoszenia jakichkolwiek kosztów z tego tytułu. Oświadczenie o odstąpieniu
+powinno zostać złożone pisemnie na adres Usługodawcy: Grupa Pracuj S.A., ul. Prosta 68, 00-838 Warszawa
+lub mailowo na adres: pomoc@pracuj.pl. Oświadczenie o odstąpieniu od umowy o świadczenie Usług
+można również złożyć przy wykorzystaniu formularza.
+4. Usługodawca ma prawo rozwiązać umowę o świadczenie Usług w trybie natychmiastowym, w tym usunąć
+Konto Użytkownika, w następujących przypadkach:
+a. naruszenia przez Użytkownika lub Użytkownika niezalogowanego istotnych postanowień Regulaminu,
+b. powzięcia przez Usługodawcę uzasadnionych, wiarygodnych informacji, że nazwa Konta jest
+nieprawdziwa, sprzeczna z prawem, dobrymi obyczajami, narusza dobra osobiste osób trzecich lub
+uzasadnione interesy Usługodawcy,
+c. umieszczania w Serwisie lub w Koncie przez Użytkownika lub Użytkownika niezalogowanego treści
+nieprawdziwych, niezgodnych z obowiązującymi przepisami prawa, naruszających chronione prawem dobra
+osobiste osób trzecich lub uzasadnione interesy Usługodawcy,
+d. wykorzystywania przez Użytkownika lub Użytkownika niezalogowanego Usług niezgodnie ze ich
+przeznaczeniem,
+e. usunięcia przez Użytkownika adresu poczty elektronicznej, który był użyty do założenia Konta,
+f. otrzymywania przez Usługodawcę powtarzających się komunikatów o przepełnieniu skrzynki poczty
+elektronicznej Użytkownika, uniemożliwiającym dalsze świadczenie Usług.
+5. O rozwiązaniu umowy o świadczenie Usług Usługodawca poinformuje Użytkownika lub Użytkownika
+niezalogowanego (jeśli istnieje taka techniczna możliwość) najpóźniej w terminie 24 godzin od dnia
+rozwiązania.
+6. Usługodawca zastrzega sobie prawo do odmowy świadczenia Usług na rzecz Użytkownika lub
+Użytkownika niezalogowanego, w tym usunięcia Konta Użytkownika, jeżeli zostało ono założone po raz
+kolejny po usunięciu Konta przez Usługodawcę, wynikającym z naruszenia Regulaminu.
+XI. POSTANOWIENIA KOŃCOWE
+1. Regulamin obowiązuje bezterminowo. Usługodawca może w każdym czasie z ważnych przyczyn, w tym
+wskazanych w pkt X ust. 4 Regulaminu, zakończyć świadczenie Usług (w tym usługi Konta) za pośrednictwem
+Serwisów, przesyłając o tym informację za pośrednictwem poczty elektronicznej.
+2. Usługodawca zastrzega sobie prawo do zmiany Regulaminu z niżej wskazanych, ważnych przyczyn:
+a. jeżeli zmiana Regulaminu jest konieczna ze względu na zmianę przepisów powszechnie obowiązującego
+prawa,
+b. realizacji obowiązku wynikającego z prawomocnego orzeczenia sądu lub decyzji organów administracji,
+c. zmian wynikających ze względów bezpieczeństwa, w tym mających na celu uniemożliwienie korzystania z
+Serwisów, w sposób sprzeczny z przepisami prawa lub z Regulaminem,
+d. wprowadzenia istotnych zmian w funkcjonowaniu Serwisów oraz którejkolwiek z Usług, w tym związanych
+z postępem technicznym lub technologicznym, obejmujących zmiany w systemach Usługodawcy.
+3. Informacja o zmianie Regulaminu zostanie przekazana za pośrednictwem poczty elektronicznej na adres
+udostępniony przez Użytkownika lub poprzez przekazanie jasnej i wyraźnej informacji na stronach Serwisu,
+w obu przypadkach, z co najmniej 14-dniowym wyprzedzeniem. Zmiany wchodzą w życie w dacie wskazanej
+w informacji, o której mowa w niniejszym ustępie.
+4. Użytkownikowi i Użytkownikowi niezalogowanemu, który nie akceptuje wprowadzonych w Regulaminie
+zmian, przysługuje uprawnienie do rozwiązania umowy o świadczenie Usług drogą elektroniczną zgodnie z
+pkt X ust. 2 Regulaminu.
+5. Regulamin oraz umowy o świadczenie Usług podlegają prawu polskiemu.
+6. Wszelkie spory związane ze świadczeniem Usług zgodnie z Regulaminem będzie rozstrzygał polski sąd
+powszechny.
+7. Niezależnie od postanowień Regulaminu istnieje możliwości skorzystania przez Użytkownika i
+Użytkownika niezalogowanego z pozasądowych sposobów rozpatrywania reklamacji i dochodzenia
+roszczeń. Właściwe procedury w tym zakresie dostępne są m.in. w Urzędzie Ochrony Konkurencji i
+Konsumentów oraz na stronie www.uokik.gov.pl.
+8. W sprawach nieuregulowanych w Regulaminie zastosowanie mają przepisy Ustawy o świadczeniu usług
+drogą elektroniczną, Kodeksu cywilnego i inne bezwzględnie obowiązujące przepisy prawa.
+9. Załączniki stanowią integralną część Regulaminu.
+Załącznik nr 1
+WYKAZ I OPIS USŁUG
+I. Usługi dostępne dla Użytkowników
+1. Konto Pracuj.pl
+Konto, za pomocą którego Użytkownik przechowuje swoje dane związane z historią edukacji i przebiegiem
+kariery zawodowej oraz korzysta ze wszystkich, aktualnie dostępnych funkcjonalności Konta.
+Korzystanie z niektórych funkcjonalności Konta może być uzależnione od:
+a. wypełnienia określonych pól w Koncie – w takim przypadku Usługodawca zobowiązuje się wyraźnie
+oznaczyć wymagane pola,
+b. zamieszczenia stosownych plików w określonym przez Usługodawcę formacie i nie większych niż
+określony przez Usługodawcę limit wielkości zamieszczanych plików,
+c. podania odpowiednich treści i formy danych, które muszą być adekwatne do określonej przez
+Usługodawcę specyfiki i przeznaczenia danych (np. zdjęcie profilowe musi przedstawiać wizerunek
+Użytkownika w sposób umożliwiający jego rozpoznanie).
+W ramach Usługi Konto Pracuj.pl Usługodawca zapewnia następujące funkcjonalności:
+a) Aplikowanie Profilem
+Skorzystanie z Aplikowania Profilem możliwe jest wyłącznie po uzupełnieniu przez Użytkownika w Profilu
+danych osobowych. Aplikowanie Profilem polega na wygenerowaniu, w oparciu o podane przez Użytkownika
+informacje, CV w formacie PDF i przesłanie go w ramach wybranej przez Użytkownika rekrutacji. Aplikowanie
+Profilem stanowi alternatywę dla aplikowania przy wykorzystaniu CV przygotowanego samodzielnie przez
+Użytkownika. Użytkownik przed wysłaniem wygenerowanego CV uzyskuje podgląd jego treści.
+b) Rekomendowane oferty pracy
+Usługodawca informuje Użytkownika – za pomocą specjalnego, indywidualnego raportu – o ofertach pracy
+publikowanych w Serwisie, dopasowanych do preferencji i zainteresowań Użytkownika. Raport tworzony jest
+dla indywidualnego Użytkownika na podstawie analizy jego preferencji i zainteresowań, w tym ofert pracy,
+które Użytkownik oglądał i na które wysyłał aplikacje oraz informacji przetwarzanych w związku z innymi
+Usługami świadczonymi przez Usługodawcę. Do tworzenia raportu mogą być wykorzystywane również dane
+zawarte w Profilu Użytkownika lub w CV zapisanym przez Użytkownika w Koncie. Rekomendowane oferty
+pracy są prezentowane Użytkownikowi przez Usługodawcę w formie wiadomości e-mail przesyłanych na
+udostępniony przez Użytkownika adres poczty elektronicznej, w formie powiadomień w aplikacji mobilnej
+lub za pomocą powiadomień wyświetlanych w przeglądarce (zgodnie z ustawieniami przeglądarki).
+Użytkownik może zrezygnować z otrzymywania takich powiadomień w Ustawieniach (Prywatność) lub w
+innym miejscu wskazanym w Serwisach.
+c) Informowanie o statusie aplikacji
+Usługodawca informuje Użytkownika o statusie złożonej aplikacji na ofertę pracy opublikowaną w Serwisach,
+na podstawie aktywności Pracodawcy, począwszy od momentu odebrania aplikacji przez Pracodawcę do
+momentu jej rozpatrzenia. Usługodawca udostępnia Użytkownikowi podsumowanie statusów złożonych
+aplikacji oraz danych statystycznych wskazujących na szanse Użytkownika wśród innych kandydatów, o ile
+Pracodawca umożliwi Usługodawcy podanie takich informacji. Usługodawca może przekazać Użytkownikowi
+informacje, o których mowa powyżej, w czasie przez siebie wybranym, w szczególności za pomocą:
+specjalnych dedykowanych wiadomości e-mail przesyłanych na udostępniony przez Użytkownika adres
+poczty elektronicznej, poprzez kontakt telefoniczny na udostępniony przez Użytkownika numer telefonu (w
+tym   poprzez wysłanie wiadomości SMS), w formie powiadomień w aplikacji mobilnej lub za pomocą
+powiadomień wyświetlanych w przeglądarce (zgodnie z ustawieniami przeglądarki). Użytkownik może
+zrezygnować z otrzymywania takich powiadomień w Ustawieniach (Prywatność) lub w innym miejscu
+wskazanym w Serwisach.
+d) Wypełnianie Profilu danymi o Użytkowniku
+Wypełnienie Profilu dokumentem CV, a także udostępnienie przez Użytkownika w Serwisie innych danych,
+może pozwalać na automatyczne stworzenie lub uzupełnienie Profilu w oparciu o dane zawarte w CV
+zapisanym przez Użytkownika w Koncie oraz udostępnione przez Użytkownika w Serwisie.
+Użytkownik ma możliwość skorzystania z tej funkcjonalności:
+a. przy tworzeniu Konta (niezależnie od stopnia uzupełnienia Profilu) – w tym celu Użytkownik powinien
+wybrać odpowiednią opcję i załączyć plik CV w formacie i maksymalnym rozmiarze wskazanym przez
+Usługodawcę. W razie niezgodności lub niekompletności danych, Użytkownik może je samodzielnie
+uzupełnić,
+b. w ramach korzystania z Aplikowania Profilem,
+c. udzielając odpowiedzi na pytania zadane przez Usługodawcę w Serwisie,
+d. wykorzystując odpowiednią funkcję udostępnianą przez Usługodawcę w wybranych przez niego
+miejscach Serwisu.
+W efekcie skorzystania z funkcjonalności skorzystania z funkcjonalności, dane zawarte w CV lub podane
+przez Użytkownika w inny sposób mogą zostać automatycznie przeniesione do jego Profilu i być w nim
+prezentowane.
+e) Wiadomości
+Użytkownik, który zaaplikował na wybraną ofertę pracy opublikowaną przez Pracodawcę w Serwisie lub
+którego Profil został udostępniony Pracodawcy w wyniku realizacji Usługi Udostępnienia Profilu
+(Automatycznego Dopasowania), ma możliwość prowadzenia   korespondencji z tym Pracodawcą przy
+wykorzystaniu funkcjonalności Wiadomości. Funkcjonalność pozwala na otrzymywane przez Użytkownika
+wiadomości od Pracodawcy i wysyłanie na nie odpowiedzi za pośrednictwem Serwisu. Kontakt z
+Użytkownikiem w ramach funkcjonalności może zostać zainicjowany wyłącznie przez Pracodawcę, który
+korzysta z systemu Usługodawcy do zarządzania aplikacjami Użytkowników.
+Usługodawca może również udostępnić funkcjonalność dla Użytkowników w aplikacji mobilnej.
+W ramach funkcjonalności Usługodawca może informować Użytkownika za pomocą wiadomości e-mail
+wysyłanych na udostępniony przez Użytkownika adres poczty elektronicznej lub w formie powiadomień w
+Serwisie lub aplikacji mobilnej, o nowych wiadomościach nadesłanych przez Pracodawcę. Użytkownik może
+zrezygnować z otrzymywania takich powiadomień w Ustawieniach (Prywatność) oraz w innym miejscu
+wskazanym w Serwisie lub aplikacji mobilnej.
+f) Zapisane oferty pracy
+Użytkownik ma możliwość zapisania wybranych przez siebie ofert pracy w celu ich wyróżnienia na wynikach
+wyszukiwania i na podglądzie oferty pracy, jak również w celu ułatwienia dostępu do nich. Zapisane oferty
+pracy będą dostępne w dedykowanej zakładce w Koncie. Użytkownik ma możliwość zarządzania swoimi
+zapisanymi ofertami pracy za pośrednictwem Konta, w szczególności może je usuwać i przechowywać przy
+nich notatki. Usługodawca zachowuje prawo do usunięcia oferty z Zapisanych ofert pracy wraz z terminem
+zakończenia publikacji oferty pracy w Serwisie. Usługodawca może przekazać Użytkownikowi informacje o
+Zapisanych ofertach pracy w formie wiadomości e-mail przesyłanych na udostępniony przez Użytkownika
+adres poczty elektronicznej, w formie powiadomień w aplikacji mobilnej lub za pomocą powiadomień
+wyświetlanych w przeglądarce (zgodnie z ustawieniami przeglądarki). Użytkownik może zrezygnować z
+otrzymywania takich powiadomień w Ustawieniach (Prywatność) lub w innym miejscu wskazanym w
+Serwisach.
+g) Historia aplikowania na oferty pracy
+Użytkownik ma możliwość przechowywania historii aplikowania na oferty pracy. W przypadku ofert pracy, na
+które aplikacje zostały wysłane za pomocą formularza dostarczonego przez Usługodawcę lub Pracodawców
+korzystających z wybranych zewnętrznych systemów rekrutacyjnych, fakt zaaplikowania na ofertę pracy,
+liczba wysłanych aplikacji oraz daty ich wysłania są automatycznie zapisywane w Koncie.
+h) Udostępnianie Profilu
+Udostępnianie Profilu to Usługa, w ramach której Użytkownik może udostępnić swój Profil Pracodawcom.
+Usługa może być świadczona przez Usługodawcę, działającego jako agencja doradztwa personalnego, w
+następujący sposób:
+a. Usługodawca może automatycznie dopasować Profil Użytkownika do ofert pracy opublikowanych przez
+Pracodawców w Serwisie i udostępnić go Pracodawcom („Automatyczne Dopasowanie”);
+b. Usługodawca może udostępnić Pracodawcom Profil Użytkownika bez dopasowania, umożliwiając
+Pracodawcom samodzielne wyszukanie Użytkownika na potrzeby prowadzonych przez siebie rekrutacji
+(„Wyszukanie Użytkownika”);
+c. Usługodawca, korzystając z pomocy rekrutera, może dopasować Profil Użytkownika do ofert pracy
+opublikowanych w Serwisie lub potrzeb rekrutacyjnych Pracodawcy i udostępnić go Pracodawcom
+(„Preselekcja”).
+Warunkiem skorzystania z Udostępniania Profilu przez Użytkownika w każdym wariancie jest zamówienie
+Usługi na ekranie rejestracji Użytkownika lub w Ustawieniach (Prywatność) lub w innym miejscu wskazanym
+w Serwisie.
+Udostępnianie Profilu zostanie wyłączone, jeżeli Użytkownik zrezygnuje z tej Usługi. Rezygnacja oznacza, że
+dane osobowe Użytkownika zawarte w Profilu nie będą udostępnione Pracodawcom. Jeżeli jednak
+Użytkownik zrezygnuje z Usługi po ich udostępnieniu do Pracodawcy, jego dane osobowe mogą być
+przetwarzane przez Pracodawcę (jako odrębnego administratora danych) na zasadach przez niego
+określonych.
+Usługodawca nie gwarantuje, że dojdzie do udostępnienia Profilu Użytkownika Pracodawcom, ani że
+Pracodawcy po jego otrzymaniu skontaktują się z Użytkownikiem.
+Automatyczne Dopasowanie
+Automatyczne Dopasowanie polega na stworzeniu przez Usługodawcę w sposób zautomatyzowany profilu
+zawodowego Użytkownika na podstawie danych podanych przez Użytkownika przy zakładaniu Konta,
+podanych w Profilu oraz danych o aktywności Użytkownika w Serwisie (m.in. historii aplikowania na oferty
+pracy). Na podstawie tych informacji Usługodawca porówna profil zawodowy Użytkownika z ofertami pracy
+Pracodawców opublikowanymi w Serwisie. Usługodawca może udostępnić Pracodawcom Profil, który
+według Usługodawcy jest dopasowany do opublikowanych przez nich ofert pracy.
+W ramach Automatycznego Dopasowania, dane osobowe Użytkownika udostępniane będą potencjalnie
+wszystkim Pracodawcom publikującym oferty pracy w Serwisie, których lista znajduje się tutaj. Użytkownik
+ma możliwość wskazania Pracodawców, którym nie chce udostępniać Profilu (ograniczona widoczność
+Profilu). Aby włączyć ograniczoną widoczność Profilu dla konkretnych Pracodawców, Użytkownik powinien w
+oznaczonym miejscu w Serwisie określić nazwę Pracodawcy, któremu nie chce udostępniać swojego Profilu.
+Usługodawca zobowiązuje się do włączenia ograniczonej widoczności Profilu dla wykluczonych przez
+Użytkownika Pracodawców niezwłocznie, nie później jednak niż w ciągu kolejnych 24 godzin od momentu, w
+którym Użytkownik uzupełni dane tych Pracodawców i poprzez funkcję dodaj (oznaczoną ikoną plusa) wyrazi
+chęć włączenia ograniczonej widoczności Profilu.
+W ramach Automatycznego Dopasowania, Usługodawca może wysłać do Użytkownika wiadomość e-mail o
+aktywności Pracodawców, w szczególności o poleceniu lub obejrzeniu Profilu przez Pracodawcę . Takie
+powiadomienia Usługodawca może przysyłać także na numer telefonu Użytkownika (w tym poprzez
+wysyłanie wiadomości SMS), w formie powiadomień w aplikacji mobilnej lub za pomocą powiadomień
+wyświetlanych w przeglądarce (zgodnie z ustawieniami przeglądarki). Użytkownik może zrezygnować z
+otrzymywania takich powiadomień, nie rezygnując jednocześnie z korzystania z tej Usługi.
+W przypadku zainteresowania danego Pracodawcy Użytkownikiem i chęci zaproszenia
+go do udziału w rekrutacji, Usługodawca może poinformować o tym Użytkownika w formie wiadomości e-
+mail. Użytkownik, za pomocą przycisków zamieszczonych w przesłanej wiadomości e-mail, może potwierdzić
+chęć udziału w rekrutacji na daną ofertę pracy lub ją odrzucić. Informacja ta zostanie przekazana
+Pracodawcy, który zamieścił określoną ofertę pracy.
+Wyszukanie Użytkownika
+Wyszukanie Użytkownika polega na udostępnieniu Pracodawcom Profilu Użytkownika w systemie
+informatycznym Usługodawcy, na zasadach przez niego określonych. Pracodawcy mogą w nim samodzielnie
+wyszukać Użytkownika, na potrzeby prowadzonych przez siebie rekrutacji.
+W ramach Wyszukania Użytkownika, dane osobowe Użytkownika udostępniane będą potencjalnie wszystkim
+Pracodawcom publikującym oferty pracy w Serwisie, których lista znajduje się tutaj. Użytkownik ma
+możliwość wskazania Pracodawców, którym nie chce udostępniać Profilu (ograniczona widoczność Profilu).
+Włączenie ograniczonej widoczności Profilu dla wskazanych Pracodawców jest możliwe na takich samych
+zasadach, jak w przypadku Automatycznego Dopasowania.
+Usługodawca może wysłać wiadomość e-mail do Użytkownika z informacją o Pracodawcy, któremu
+udostępniono Profil Użytkownika.
+Preselekcja
+Preselekcja polega na udostępnieniu Pracodawcom Profilu Użytkownika po jego dopasowaniu przez
+rekrutera Usługodawcy do ofert pracy opublikowanych w Serwisie lub potrzeb rekrutacyjnych Pracodawcy.
+W ramach Preselekcji rekruter może kontaktować się z Użytkownikiem w formie telefonicznej lub
+wiadomości e-mail, w szczególności w celu uzyskania informacji, czy Użytkownik jest zainteresowany daną
+rekrutacją i czy spełnia wymagania określone przez Pracodawcę. Kontaktując się z Użytkownikiem,
+Usługodawca, w razie potrzeby, może zebrać również dodatkowe informacje o Użytkowniku.
+Usługodawca może udostępnić Pracodawcy Profil Użytkownika zainteresowanego rekrutacją oraz inne
+informacje zebrane przez rekrutera w ramach kontaktu
+z Użytkownikiem, po uzyskaniu na to zgody Użytkownika.
+i) Zapisane wyszukiwania
+Użytkownik może zlecić Usługodawcy powiadamianie go o pojawieniu się w Serwisie nowych ofert pracy.
+Prezentując oferty pracy Usługodawca uwzględniać będzie
+w szczególności słowa klucze podawane przez Użytkownika oraz informacje o aktywności Użytkownika w
+Serwisach. Użytkownik otrzymuje te informacje za pomocą wiadomości e-mail przesyłanych na
+udostępniony przez Użytkownika adres poczty elektronicznej lub w formie powiadomień w aplikacji
+mobilnej, jak również może otrzymywać takie informacje za pomocą powiadomień wyświetlanych w
+przeglądarce (zgodnie z ustawieniami przeglądarki).
+Kryteria wyboru ofert pracy wysyłanych w ramach Zapisanych wyszukiwań są samodzielnie wybierane przez
+Użytkownika i są one tożsame z kryteriami oferowanymi w Wyszukiwarce ofert w Serwisach.
+Użytkownik może  również określić częstotliwość przesyłanych powiadomień spośród opcji udostępnionych
+przez Usługodawcę. Użytkownik może też zrezygnować z otrzymywania takich powiadomień w Ustawieniach
+(Prywatność) lub w innym miejscu wskazanym w Serwisach.
+j) Aplikowanie na oferty pracy
+Aplikowanie na oferty pracy to Usługa, która umożliwia Użytkownikowi przesyłanie Pracodawcom
+odpowiedzi na oferty pracy wraz z dokumentami rekrutacyjnymi (w tym CV) za pomocą Serwisu. Aby
+skorzystać z Aplikowania na oferty pracy wymagane jest posiadanie Konta i uzupełnienie formularza
+aplikacyjnego. Uzupełnienie formularza aplikacyjnego polega w szczególności na podaniu następujących
+danych:
+a. imię i nazwisko,
+b. adres e-mail,
+c. numer telefonu,
+d. załączeniu CV lub innych dokumentów rekrutacyjnych – jeśli wymaga tego Pracodawca.
+W wybranych przypadkach:
+a. skorzystanie z Aplikowania na oferty pracy jest możliwe bez logowania się do Konta lub bez potwierdzenia
+założenia Konta. W takim przypadku Usługodawca tworzy dla Użytkownika Konto niepotwierdzone.
+b. nie jest wymagane uzupełnienie formularza aplikacyjnego, o którym mowa powyżej,
+c. skorzystanie z Aplikowania na oferty pracy może wymagać posiadania lub założenia konta i uzupełnienie
+formularza w zewnętrznym systemie rekrutacyjnym Pracodawcy,
+d. przesłanie odpowiedzi na ofertę pracy może nastąpić bezpośrednio na adres poczty elektronicznej
+Pracodawcy,
+e. jeżeli Użytkownik jest zalogowany do Konta, formularz aplikacyjny może zostać automatycznie
+uzupełniony danymi Użytkownika zawartymi w jego Profilu oraz mogą być do niego dołączone dokumenty
+zapisane przez Użytkownika w Koncie (np. jego CV),
+f. jeżeli Użytkownik jest zalogowany do Konta, dane z formularza aplikacyjnego wraz z dokumentami
+rekrutacyjnymi (w tym CV) są zapisywane automatycznie w Koncie.
+k) Odpowiedzi na pytania Pracodawcy
+Użytkownik (w tym również Użytkownik posiadający Konto niepotwierdzone), w celu usprawnienia procesu
+rekrutacji, bezpośrednio po zaaplikowaniu na ofertę pracy opublikowaną przez danego Pracodawcę w
+Serwisie, może udzielić odpowiedzi na ewentualne dodatkowe pytania zadane przez tego Pracodawcę.
+Odpowiedzi Użytkownika zostaną następnie przekazane przez Usługodawcę do tego Pracodawcy.
+Po udzieleniu przez Użytkownika odpowiedzi na pytania Pracodawcy, Usługodawca udostępni
+Użytkownikowi w Koncie informacje o tym, jak Użytkownik wypada na tle innych kandydatów, którzy również
+zaaplikowali na ofertę pracy tego Pracodawcy.
+Odpowiedzi Użytkownika będą przechowywane w Koncie Użytkownika do czasu jego usunięcia. W
+przypadku późniejszego zaaplikowania przez Użytkownika na inną ofertę pracy, dla której dany Pracodawca
+również przewidział dodatkowe pytania, pola odpowiedzi na pytania mogą zostać automatycznie
+uzupełnione wcześniejszymi odpowiedziami Użytkownika na tożsame pytania związane z innymi ofertami
+pracy, na które zaaplikował uprzednio Użytkownik. Przed wysłaniem odpowiedzi Użytkownikowi przysługuje
+jednak każdorazowo prawo do edytowania lub zmiany odpowiedzi.
+Pytania mogą być zadawane wyłącznie przez tych Pracodawców, którzy korzystają z systemu Usługodawcy
+do zarządzania aplikacjami Użytkowników i możliwości zadania pytań Użytkownikom aplikującym na ich
+ofertę pracy.
+Usługodawca nie ponosi odpowiedzialności za treść pytań wybranych przez Pracodawców, ani za wynik
+procesów rekrutacyjnych przeprowadzonych przez Pracodawców na podstawie odpowiedzi udzielonych
+przez Użytkowników
+l) Raporty o zarobkach
+Użytkownik ma możliwość sprawdzenia przeciętnych zarobków na wybranym przez siebie stanowisku pracy i
+wygenerowania raportu płacowego w tym zakresie. Raport umożliwia poznanie przeciętnej wysokości
+wynagrodzeń w zależności od wybranych kryteriów takich jak: obszar specjalizacji, poziom stanowiska,
+poziom doświadczenia, lokalizacja, wielkość firmy, itp. Usługodawca może prezentować Użytkownikowi
+Raport o zarobkach po uprzednim wypełnieniu przez Użytkownika odpowiedniej ankiety znajdującej się na
+stronach Serwisu, na podstawie uzupełnionych przez Użytkownika danych w Profilu lub na podstawie
+danych zawartych w CV zapisanym przez Użytkownika w Koncie. Usługodawca może wykorzystywać dane o
+zarobkach w celu prezentowania Użytkownikowi Rekomendowanych ofert pracy. Dane te będą
+automatycznie przetwarzane przez Usługodawcę w celach statystycznych i analitycznych. Użytkownik może
+aktualizować swoje dane o zarobkach zgromadzone w Koncie.
+W ramach tej Usługi Usługodawca może informować Użytkownika za pomocą wiadomości e-mail wysyłanych
+na udostępniony przez Użytkownika adres poczty elektronicznej lub w formie powiadomień w aplikacji
+mobilnej, o zbliżającym się końcu ważności ankiety wypełnionej przez Użytkownika, o aktualizacji raportu
+płacowego w związku z aktualizacją bazy danych Usługodawcy, jak również o zmianach funkcjonalności tej
+Usługi. Użytkownik może zrezygnować z otrzymywania takich powiadomień, nie rezygnując jednocześnie z
+korzystania z Usługi.
+m) Kreator CV
+Użytkownik ma możliwość przygotowania profesjonalnego CV, wybierając udostępniony przez Usługodawcę
+szablon w Serwisie lub aplikacji mobilnej. Warunkiem skorzystania z tej Usługi jest wypełnienie przez
+Użytkownika odpowiednich formularzy znajdujących się na stronach Serwisów lub w aplikacji mobilnej.
+Gotowy dokument CV Użytkownik może zapisać w swoim Koncie lub pobrać z Serwisu lub aplikacji mobilnej
+w formacie PDF.
+n) Możliwość udziału w Wydarzeniu Jobicon (dotyczy wydarzenia w formie stacjonarnej)
+Wydarzenie Jobicon to festiwal pracy organizowany przez Usługodawcę w terminach i miejscach wskazanych
+każdorazowo przez Usługodawcę m.in. za pośrednictwem danego Serwisu lub Serwisów lub mediów
+społecznościowych Usługodawcy. Poszczególne Wydarzenia Jobicon skierowane są do Pracodawców oraz
+Użytkowników (w szczególności studentów i absolwentów w wieku 19-30 lat). Podczas poszczególnych
+Wydarzeń Jobicon Pracodawcy mają możliwość spotkania się z kandydatami i rekrutowania ich do pracy, a
+także mają możliwość budowania i umacniania pozytywnego wizerunek swojej marki.
+Użytkownik ma możliwość pobrania imiennego biletu i udziału w danym Wydarzeniu Jobicon. W ramach
+wstępu na dane Wydarzenie Jobicon Użytkownik otrzymuje m.in:
+a. możliwość spotkania się z Pracodawcami i poznania ich aktualnych ofert pracy;
+b. możliwość wzięcia udziału w wykładach (m.in. spotkania z gośćmi ze świata biznesu, nauki i mediów,
+którzy podzielą się swoimi zawodowymi historiami), warsztatach i szkoleniach organizowanych przez
+Usługodawcę.
+Użytkownik może przebywać na terenie danego Wydarzenia Jobicon tylko w dniu tego wydarzenia i tylko w
+czasie jego trwania.
+Na terenie i podczas poszczególnych Wydarzeń Jobicon Użytkownika obowiązuje całkowity zakaz:
+a. wnoszenia i używania broni, amunicji i materiałów pirotechnicznych, oraz substancji chemicznych,
+stanowiących zagrożenie pożarowe, zagrożenie uszkodzenia mienia oraz stwarzających niebezpieczeństwo
+dla życia i zdrowia osób przebywających na terenie poszczególnych Wydarzeń Jobicon;
+b. wnoszenia i spożywania alkoholu oraz środków odurzających i substancji psychotropowych;
+c. palenia tytoniu i używania otwartego ognia;
+d. korzystania z e-papierosów lub podgrzewaczy tytoniu;
+e. zakłócania porządku publicznego (np. głośne zachowania);
+f. niszczenia infrastruktury festiwalu (np. obklejania reklamami ścian, podłogi);
+g. zanieczyszczanie hal i terenów otwartych odpadami wygenerowanymi przez siebie (opakowania po
+napojach i jedzeniu, niedopałki, gumy do żucia itp.);
+h. opierania się o elementy zabudowy stoisk, konstrukcje reklamowe i inne elementy aranżacji przestrzeni
+danego Wydarzenia Jobicon;
+i. prowadzenia jakichkolwiek działań komercyjnych, akwizycyjnych, a także agitacyjnych oraz zbiórek
+pieniężnych, jak również działań niezgodnych z obowiązującymi przepisami prawa.
+Usługodawca zastrzega sobie prawo do usunięcia z danego Wydarzenia Jobicon Użytkowników, którzy
+swoim zachowaniem naruszają powyższe postanowienia, w tym przepisy porządkowe obowiązujące w
+miejscu, w którym organizowane jest to Wydarzenie Jobicon, jak również Użytkowników, którzy swoim
+zachowaniem utrudniają lub uniemożliwiają prawidłowy przebieg tego Wydarzenia Jobicon.
+Poprzez wzięciu udziału w danym Wydarzeniu Jobicon, Użytkownik na podstawie art. 81 Ustawy o prawie
+autorskim i prawach pokrewnych i niezależnie od postanowień Regulaminu w przedmiotowym zakresie,
+wyraża zgodę na nieodpłatne utrwalanie, zwielokrotnianie i rozpowszechnianie swojego Wizerunku (w tym
+głosu) przez Usługodawcę, utrwalonego w ramach materiałów lub Utworów powstałych podczas tego
+Wydarzenia Jobicon. Wizerunek będzie rozpowszechniany bez ograniczeń czasowych i terytorialnych.
+Usługodawca oświadcza, że Wizerunek będzie wykorzystywany w kontekście sprawozdania z danego
+Wydarzenia Jobicon, w którym wziął udział Użytkownik oraz w celach promocyjnych, reklamowych i
+marketingowych Usługodawcy, w szczególności poprzez jego zamieszczenie na Serwisach, w ramach
+mediów społecznościowych Usługodawcy, w materiałach handlowych Usługodawcy lub poprzez jego
+udostępnienie w sieci Internet, tak aby każdy mógł mieć do niego dostęp w miejscu i czasie przez siebie
+wybranym. Niezależnie od powyższego, w przypadku utrwalania Wizerunku w ramach Utworów, Wizerunek
+będzie wykorzystywany na polach eksploatacji określonych w Regulaminie właściwych dla Utworów.
+Jednocześnie Użytkownik wyraża zgodę na zestawienia swojego Wizerunku z wypowiedziami lub
+wizerunkami innych osób lub ze znakami towarowymi Usługodawcy lub innych podmiotów uczestniczących
+w danym Wydarzeniu Jobicon.
+Usługodawca zastrzega sobie prawo do weryfikacji w dowolnym momencie dokumentów Użytkownika,
+uprawniających do przebywania na terenie danego Wydarzenia Jobicon, a w przypadku potwierdzenia lub
+uprawdopodobnienia posługiwania się dokumentami innego Użytkownika, bądź ich podrobienia, do
+usunięcia Użytkownika, u którego stwierdzono powyższe naruszenia, z miejsca w którym odbywa się to
+Wydarzenie Jobicon i na jego koszt.
+Użytkownik zobowiązany jest do zabezpieczenia własnego mienia wnoszonego na teren danego Wydarzenia
+Jobicon przed ewentualnymi szkodami lub utratą, na własny koszt i ryzyko.
+Użytkownik ponosi odpowiedzialność za wszelkie szkody, wynikające z niestosowania się do powyższych
+postanowień dotyczących Wydarzenia Jobicon.
+II. Usługi dostępne dla Użytkowników i Użytkowników niezalogowanych
+1. Rekomendowane oferty pracy w Serwisach
+Usługodawca informuje Użytkownika lub Użytkownika niezalogowanego – za pomocą specjalnego,
+indywidualnego raportu – o ofertach pracy publikowanych w Serwisie, dopasowanych do preferencji i
+zainteresowań Użytkownika lub Użytkownika niezalogowanego. Raport tworzony jest dla indywidualnego
+Użytkownika lub Użytkownika niezalogowanego na podstawie analizy jego preferencji i zainteresowań, w tym
+ofert pracy, które Użytkownik lub Użytkownik niezalogowany oglądał i na które wysyłał aplikacje oraz
+informacji przetwarzanych w związku z innymi Usługami świadczonymi przez Usługodawcę. Do tworzenia
+raportu mogą być wykorzystywane również dane zawarte w Profilu Użytkownika lub w CV zapisanym przez
+Użytkownika w Koncie. Rekomendowane oferty pracy są prezentowane Użytkownikowi lub Użytkownikowi
+niezalogowanemu przez Usługodawcę w różnych miejscach w Serwisach lub za pomocą powiadomień
+wyświetlanych w przeglądarce (zgodnie z ustawieniami przeglądarki).
+2. Aplikacja mobilna „Pracuj.pl oferty pracy”
+Aplikacja mobilna Usługodawcy umożliwiająca Użytkownikowi lub Użytkownikowi niezalogowanemu
+korzystanie za pomocą wybranych urządzeń mobilnych z wybranych funkcjonalności Konta i Usług.
+3. Wzory CV i listów motywacyjnych, dokumenty i poradniki
+Użytkownik lub Użytkownik niezalogowany ma możliwość pobrania dokumentów udostępnionych przez
+Usługodawcę w Serwisach, a w szczególności przykładowych wzorów CV i listów motywacyjnych.
+Usługodawca zastrzega sobie prawo do zmiany zakresu i formy udostępnionych dokumentów w dowolnie
+wybranym terminie.
+Usługodawca nie bierze odpowiedzialności za wynik procesu rekrutacyjnego, w którym Użytkownik lub
+Użytkownik niezalogowany posłużył się wzorami dokumentów oferowanymi przez Usługodawcę.
+4. Wyszukiwarka ofert w Serwisach
+Użytkownik lub Użytkownik niezalogowany ma możliwość wyszukiwania oraz przeglądania opublikowanych
+w Serwisach ofert pracy według udostępnionych kryteriów. W celu wyszukiwania ofert pracy Użytkownik lub
+Użytkownik niezalogowany może także skorzystać z chatbota dostępnego w aplikacji Facebook Messenger.
+Jeżeli Użytkownik lub Użytkownik niezalogowany korzysta z aplikacji mobilnej Usługodawcy ma również
+możliwość wyszukiwania ofert pracy na mapie.
+5. Kalkulator wynagrodzeń
+Użytkownik lub Użytkownik niezalogowany ma możliwość w Serwisie dokonywania poglądowych obliczeń
+kwot wynagrodzenia netto i brutto. Usługodawca nie gwarantuje poprawności wyników oraz nie ponosi
+odpowiedzialności za użycie kalkulatora do rozliczeń pomiędzy Pracodawcą a pracownikiem. Usługa może
+być dostępna również w formie mobilnej (Aplikacja mobilna „Kalkulator wynagrodzeń”).
+6. Ścieżki kariery
+Użytkownik lub Użytkownik niezalogowany ma możliwość uzyskania informacji o wykonywaniu danego
+zawodu w praktyce. Usługa skierowana jest w szczególności do studentów, którzy mogą dzięki niej
+zaczerpnąć informacje na temat stanowiska, na którym chcieliby pracować w przyszłości.
+Ich znalezienie jest możliwe za pomocą wyszukiwarki Ścieżek kariery, w której należy podać nazwę danego
+zawodu lub kierunku studiów.
+Usługa umożliwia zapoznanie się ze ścieżką dotarcia do danego stanowiska, umiejętnościami posiadanymi
+przez osoby wykonujące wybrany zawód lub ukończonymi przez nie kursami. W ramach Ścieżek kariery
+Usługodawca może przedstawić również opis pracy na danym stanowisku, informacje o przeciętnych
+zarobkach osiąganych na tym stanowisku oraz nazwy podobnych zawodów.
+Do tworzenia Ścieżek kariery mogą być wykorzystywane informacje zawarte w Profilu Użytkownika, takie jak:
+dane dotyczące wykształcenia, umiejętności, przebytych kursów zawodowych oraz zajmowanych stanowisk.
+Usługodawca 
+nie 
+gwarantuje 
+poprawności, 
+prawdziwości, 
+rzetelności 
+i 
+dokładności 
+informacji
+prezentowanych w ramach Usługi.
+7. Inne usługi
+Usługi niewymienione w Regulaminie świadczone są przez Usługodawcę na zasadach określonych we
+właściwych regulaminach.

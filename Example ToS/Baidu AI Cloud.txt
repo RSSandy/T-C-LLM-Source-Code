@@ -1,0 +1,718 @@
+Agreements 文档
+2022-01-13
+2
+3
+3
+3
+3
+5
+9
+10
+11
+12
+14
+15
+16
+16
+16
+18
+18
+19
+20
+21
+23
+24
+25
+27
+27
+27
+28
+28
+目录
+目录
+Baidu AI Cloud User Service Agreement
+Statement
+General Principles
+About Baidu AI Cloud Account
+Rights and Obligations of Users
+Rights and Obligations of Baidu AI Cloud
+User Business Data and Public Information
+Service Provisioning, Payment and Termination
+Disclaimer
+Intellectual Property Rights
+Confidentiality
+Others
+Privacy Policy
+Introduction
+The Scope of Application of the Agreement
+How we collect your personal information
+How we use your personal information
+How we use cookies and similar technologies
+How we share, transfer, and publicly disclose your personal information
+How we save and protect your personal information
+User Business Data and Public Information
+Your Rights
+How we process the personal information of minors
+How to transfer your personal information across borders
+How to update this Privacy Policy
+How to contact us
+Appendix
+Baidu 百度智能云文档
+目录
+2
+Baidu AI Cloud User Service Agreement
+Statement
+Regarding the versions of agreement provided by Baidu AI Cloud China Station, the Chinese version shall prevail, and the
+English version is for reference only.
+This service agreement is a valid and binding contract entered into by and between Beijing Baidu Netcom Science and
+Technology Co., Ltd. (hereinafter “this company” or “Baidu AI Cloud”), the operator of Baidu AI Cloud website (cloud.baidu.com,
+hereinafter “this website”) and the user (hereinafter “you”).
+Baidu AI Cloud provides you with the products and services (hereinafter “Baidu AI Cloud services” and “this service”) displayed
+on this website, and will continuously update the scope of products and services and service content. The latest Baidu AI
+Cloud services are subject to those displayed on the product and service introduction pages on this website and those actually
+provided to you. After you renew the agreement or order a new product or service, you shall abide by the terms of service
+effective at the time. The relevant content in this agreement may be updated after Baidu AI Cloud launches new products and
+services.
+General Principles
+1. You confirm that: Before using this service, you have fully read, understood and accepted all the terms and conditions of
+this service agreement. Please carefully read and fully understand the content of each clause, especially the clauses of
+exemption or limitation of liability, and governing law and dispute resolution clauses. If you have any questions about the
+agreement, you can enquire about customer service or relevant business departments. Clicking to agree on the web page
+means that you have fully read, understood and accepted all the terms and conditions of this agreement, and reached an
+agreement with Baidu AI Cloud.
+2. You agree that: Baidu AI Cloud has the right to unilaterally modify the content of this service agreement and corresponding
+service rules at any time, and has the right to announce the modifications through push notifications, web announcements,
+and so on, without serving a separate notification to you. If, following the announcement of the changes to the content of
+this service agreement, you do not agree to the modified service agreement, you have the right to cease using the service
+immediately. Your continued use of the service means that you have fully read, understood and accepted the terms and
+conditions of the modified agreement, and will also uses this service in accordance with the modified agreement.
+3. This agreement also covers the terms and conditions on relevant agreements, business rules, confidentiality agreements,
+and so on that Baidu AI Cloud may continue to add and publish concerning the services provided. Once the above content
+is officially released and notified to you as described in Article 3, the content becomes an integral part of this agreement,
+and you should abide by the said content.
+About Baidu AI Cloud Account
+1. Account type
+(1) Baidu AI Cloud account consists of personal account and corporate account
+(2) The personal account is a general Baidu account, and can be registered using a mobile phone or email. Mainly geared
+to individual users and developers.
+(3) Corporate account is a user account system geared to Baidu AI Cloud commercial products. Compared to personal
+account, corporate account has higher security level with more product options.
+(4) At the time of registration, you can learn more about it through the registration instructions on the registration page.
+2. Register an account
+(1) Right as principal You confirm that: When you complete the registration or actually use this service in other ways
+Baidu 百度智能云文档
+Baidu AI Cloud User Service Agreement
+3
+permitted by Baidu AI Cloud, you should be a natural person, legal person or other organization with full capacity for civil
+rights and full capacity for civil conduct (hereinafter collectively “legal subjects”).
+(2) Register an account
+Before using this service, you must first register and obtain the account provided by this company. You undertake
+and guarantee that:
+You have fully read the registration guides on the website of Baidu AI Cloud and selected the account type correctly.
+Baidu AI Cloud does not assume any responsibility for problems resulting from improper selection of account type.
+The user information you fill out is true, accurate, complete and timely, and it is ensured that Baidu AI Cloud can
+contact you via the contact details you provide.
+You should provide corresponding information such as identification, and corporate qualifications in a timely manner
+according to the requirements of Baidu AI Cloud service. Otherwise, Baidu AI Cloud has the right to refuse to provide
+you with relevant services.
+If the data or information you provide contains incorrect or untrue information, Baidu AI Cloud reserves the right to
+cancel your qualification for account registration, suspend or terminate the service to you.
+You are responsible for your Baidu AI Cloud account. Your Baidu AI Cloud account can only be used by you. Without
+the consent of Baidu AI Cloud and the change to the account under the real name system, this account shall not be
+transferred, used as a gift or bequeathed. Otherwise, Baidu AI Cloud has the right to recover the said account.
+To register as an agent for other natural persons or entities, you must provide Baidu AI Cloud with detailed materials
+and written authorization of the agent and the principal. If the aforesaid materials and documents are not provided,
+Baidu AI Cloud will treat the registrant as the member.
+You should accurately fill out and update the contact details such as email address, contact number, mailing
+address, and zip code so that Baidu AI Cloud or other members can contact you. You should solely bear any losses
+or additional costs you incur when using Baidu AI Cloud services if you cannot be contacted through these contact
+methods. You understand and agree that you are obliged to maintain the validity of the contact details you provide. If
+any change needs to be updated, you should perform the update in accordance with the requirements of Baidu AI
+Cloud.
+（3）Responsibility for account
+Baidu AI Cloud identifies your instructions through your username and password. Please keep safe your username and
+password. You must assume full responsibility for keeping confidential your password and account. You need to assume
+full responsibility for all activities that take place under your account. The loss caused by the disclosed password or
+forgotten user name shall be borne solely by you. At no time can you use another person’s account without the consent of
+the account holder. You shall assume the corresponding responsibility for the losses incurred by Baidu AI Cloud or a third
+party due to other people’s use of your account or due to your use of other people’s account.
+If you are aware that anyone fraudulently uses or steals your account and password, or makes any other unauthorized use
+or has any other acts of endangering security, you should immediately notify Baidu AI Cloud in a valid manner and request
+Baidu AI Cloud to suspend related services. At the same time, you understand that it requires a reasonable time limit for
+Baidu AI Cloud to take action according to your request. Prior to this, Baidu AI Cloud does not assume any liability for the
+executed instructions and the losses caused to you.
+3. Idnetity verification
+You understand and undertake that Baidu AI Cloud has the right to require you to complete the identity verification of your
+Baidu AI Cloud account to ensure the security of account and transactions. At the same time, Baidu AI Cloud may require
+you to provide information such as additional identity materials or enterprise qualifications according to law for further
+identity verification or qualification verification regarding certain products or services. Your account is only qualified to use
+related products or services after the authentication and verifications are successful.
+Baidu 百度智能云文档
+Baidu AI Cloud User Service Agreement
+4
+4. Associated account
+In general, your Baidu AI Cloud account is your unique identification basis for any activity performed on this website, and
+activities can be performed independently on this website under each Baidu AI Cloud account. However, under the following
+circumstances, Baidu AI Cloud has the right to make special provisions regarding multiple Baidu AI Cloud accounts owned
+by the same and/or associated legal entities at its sole discretion, including but not limited to:
+1) Multiple Baidu AI Cloud accounts have a relationship such as master account and sub-accounts, authorization account
+and authorized accounts, and are jointly and severally liable to each other in accordance with laws and regulations, this
+service agreement, Baidu AI Cloud products’ agreement or other Baidu AI Cloud rules; 2) Multiple Baidu AI Cloud accounts
+are registered by the same entity under the identity verification system, and two or more of Baidu AI Cloud accounts are
+involved in the acts of malicious arrears and/or violation of laws and regulations, this service agreement, Baidu AI Cloud
+products’ agreement or other Baidu AI Cloud rules; 3) Multiple Baidu AI Cloud accounts correspond to the same legal
+entity, and such legal entity has been previously identified as a maliciously registered account to obtain unjustified
+interests; 4) Other circumstances under which Baidu AI Cloud has sufficient reasons to process multiple Baidu AI Cloud
+accounts in a unified manner.
+5. Account cancellation
+You have the right to decide to cease using Baidu AI Cloud services and cancel your Baidu AI Cloud account. You can
+perform account cancellation according to the Baidu AI Cloud Agreement on Account Cancellation and operating guidelines.
+6. Legal claims
+You understand and agree that Baidu AI Cloud has the right to know the real background and purpose of your use of
+products and services provided in this website, and to require you to provide true, complete and accurate information
+truthfully. If Baidu AI Cloud has reasonable doubts that the information provided by you is not true, and that the transaction
+done by you is false or your behaviors violate the service rules of Baidu AI Cloud, Baidu AI Cloud shall have the right to
+restrict temporarily or permanently functions, in part or whole, of all products and/or services you use with your account.
+You understand and agree that Baidu AI Cloud has the right to search, freeze or deduct your personal information and
+funds, transaction and account you registered in this website in accordance with the requirement of state judicial,
+administration, military, security and other organs (including but not limited to public security organ, procuratorial organ,
+court, customs, tax authorities and security departments, etc.).
+Rights and Obligations of Users
+1. Your business permit requirements
+If the permission or approval by the relevant authorities is required for your commercial or non-commercial activities using
+the services provided by Baidu AI Cloud, you shall obtain the relevant permission or approval. They shall include but not
+limited to the followings:
+1) If you run multiple websites on the Cloud Compute Service, you must ensure that all the websites are licensed or
+approved by the national authorities;
+2) If your website provides non-commercial Internet information services, you must apply for ICP license for non-commercial
+websites, and ensure that all the submitted information is true and effective, and timely update the information in the ICP
+license system in case of any changes in the ICP license information;
+3) If your website provides commercial internet information services, you shall also obtain a commercial website license
+from the local communication management authority;
+4) If you provide BBS and other electronic bulletin services, you are also required to apply for ICP license or obtain
+corresponding approval according to relevant laws and policies;
+5) If you run the internet game website, you shall obtain the cyber culture business license according to law;
+6) If you operate an Internet video website, you shall apply for a license for information network dissemination of
+audiovisual programs in accordance with the law;
+7) If you are engaged in Internet information services such as news, publishing, education, health care, medicines and
+medical devices, you must be reviewed and approved by relevant authorities in accordance with laws, administrative
+regulations and relevant national regulations. Before applying for business licenses or going through the ICP license
+Baidu 百度智能云文档
+Baidu AI Cloud User Service Agreement
+5
+procedures, you shall be reviewed and approved by the relevant authority in accordance with the law.
+You understand and agree that the above does not cover all types of permissions or approvals by the relevant authorities
+for your commercial or non-commercial activities. You shall obtain the relevant permissions or approvals and comply with
+the requirements of relevant national and local laws and regulations enacted from time to time.
+2. Guarantee of legality of behavior
+You guarantee that you will comply with national and local laws and regulations, industry practices and social public ethics
+when using the Service, and will not use the services provided by us to store, release and disseminate the followings:
+1) Any content (information) that violates national laws, regulations and policies;
+2) Political propaganda and/or news information in violation of national regulations;
+3) Information involving national secrets and/or security;
+4) Information involving feudal superstition and/or obscene, pornographic, obscene information or information abetting
+crime;
+5) Information about gambling lottery, gambling games, and information violating the national ethnic and religious policies;
+6) Information hindering the safe operation of the internet;
+7) Information or content that infringes the legitimate rights and interests of others and/or is detrimental to social order,
+public security and public morality.
+Meanwhile, you also promise not to provide any convenience for others to release the above information which does not
+conform to the national regulations and/or the Agreement, including but not limited to setting URL, BANNER link, sending
+email, SMS, etc.
+You agree that Baidu AI Cloud has the right to terminate the provision of the services for you when you violate the above
+agreement, and does not refund any payment. You shall assume relevant legal responsibilities for any loss caused by your
+behaviors above to Baidu AI Cloud or other users of Baidu AI Cloud.
+3. No dissemination of harmful information
+You shall not spread bulk unsolicited email advertisements and spam mail (SPAM): i.e. you shall not distribute bulk
+unsolicited emails, electronic advertisements or emails containing reactionary, pornographic and other harmful information
+by using the services provided by Baidu AI Cloud. “Harmful information” includes but is not limited to:
+1. Information related to investigation, competition, pyramid sale, chain letters, spam or any replicable or actively
+provided messages (for commercial or other purposes) sent by using communication services;
+2. Information containing defamation, abuse, harassment, intimidation, threat to others or other violations of the
+legitimate rights of others (such as privacy and publicity right);
+3. Release, post, upload, distribute or spread any inappropriate, profane, defamatory, obscene, inferior information or
+other illegal subject, name, material or information;
+4. Upload or otherwise provide files containing images, photos, software or other information protected by intellectual
+property law (including but not limited to copyright or trademark law), privacy or publicity right, except where you own
+or control these rights or obtain all necessary permissions;
+5. Infringe any copyright, trademark, patent, business secret or other exclusive rights of any party in any way when
+using any materials or information (including images and photos) obtained through the service;
+6. Upload software or program containing virus, Trojan horse, worm, time bomb, cleaner, damaged file or any similar
+software or program that may damage other people’s computers or assets;
+7. Advertise or offer to sell or purchase any goods or services for any commercial purpose, unless such information is
+expressly permitted by the communication service;
+8. Download any file posted by another communication service user that you exactly know or should have known that
+they shall not be illegally replicated, displayed, executed and/or distributed in such manner;
+9. Forge or delete any copyright management information, such as authorship attribution, legal notice or other
+Baidu 百度智能云文档
+Baidu AI Cloud User Service Agreement
+6
+corresponding statement, proprietary logo, source or source label of software or other information contained in the
+uploaded file;
+10. Obtain or otherwise collect information about others, including email addresses;
+11. Mislead others by making false identities;
+12. Use, download or otherwise replicate, or make available (free or chargeable) to any other person or entity any
+directory, usage information or partial information of the service user or other users.
+4. Requirements for legality of communication service information
+Baidu AI Cloud does not assume the obligation to monitor communication service, but reserves the right to check the
+information posted to the communication service and remove any information at its sole discretion. Baidu AI Cloud reserves
+the right to terminate your access to any or all communication services for legal reasons at any time without further notice.
+Please always proceed with caution when providing any personally identifiable information about yourself or person under
+your custody in any communication service. Baidu AI Cloud does not control or accept any content, message or information
+that appears in any communication service, and does not bear any responsibility for communication service and any
+behavior caused by your joining in the communication service.
+Information uploaded to communications services may be subject to public restrictions on use, reproduction and/or
+distribution; you shall comply with these restrictions upon downloading.
+5. Requirements for legality of resource use
+You shall not occupy, or cause the programs or processes, etc. to occupy in large quantities the server memory, CPU or
+network bandwidth resources (such as Internet mining, etc.) in the platform (hereinafter referred to as Cloud Platform)
+formed by the Cloud computing resources of Baidu AI Cloud (such as Cloud Compute, network bandwidth, memory space,
+etc.), and bring serious and unreasonable loads to the Cloud Platform or the network or servers of other users (including
+but not limited to local and nonlocal and international networks, servers, etc.), products and applications, which affects the
+smooth connection between Baidu AI Cloud and the international internet or other specific networks and servers, or cause
+shutdown or crash of the products and services on Cloud Platform or servers of other platform users, or inaccessibility to
+products/applications by other platform users basing on Cloud Platform. Once found, your host will be forced to stop, your
+Baidu AI Cloud account will also be frozen immediately, and Baidu AI Cloud reserves the right to pursue your legal liability.
+6. Requirements for safety of software use
+Without the written permission of Baidu AI Cloud, you shall not modify, translate, adapt, lease, transfer license, spread or
+transfer the services or software provided by Baidu AI Cloud on the information network, nor shall you try to find the source
+code of the services or software provided by Baidu AI Cloud through reverse engineering, decompilation or in other ways.
+You shall not do any damage or attempt to damage network security, including but not limited to phishing, hacking, internet
+fraud, website or space contained or suspected of spreading the followings: Virus, Trojan horse, malicious code, and
+suspected attacks on other websites and servers, such as scanning, sniffing, ARP spoofing, DDoS, etc.
+You shall not make any change or attempt to change the configuration or damage the security of systems provided by
+Baidu AI Cloud. When using the service, it shall not damage, disable, overload or obstruct any server of Baidu AI Cloud or
+any networks connected to any server of Baidu AI Cloud in any way, nor interfere with any other user’s use of and access to
+any service. You shall not attempt to use any service, other accounts, and computer systems or network connected to any
+server of Baidu AI Cloud or any service by intrusion, password stealing or any other means. You shall not obtain or attempt
+to obtain any material or information not explicitly provided by the service by any means.
+7. Requirements for restriction of user behavior
+Unless you have purchased a service specially used for the purpose, you shall not use the Service to engage in DDoS
+protection, DNS protection and other protection sales business.
+You shall not use services provided by Baidu AI Cloud to engage in activities not subject to internet censorship to obtain
+overseas illegal information for the Territory.
+You shall not install or use pirated software on service or platform of Baidu AI Cloud; you shall be responsible for your own
+installation of software and operation.
+Baidu 百度智能云文档
+Baidu AI Cloud User Service Agreement
+7
+You shall, besides the Service, take reasonable and safe technical measures to ensure the security and integrity of all
+kinds of data and other information stored in Baidu server as a result of using the Service, and take full responsibility for
+the consequences caused by your behaviors (including but not limited to arrearage, own installation of software, encryption
+measures or other security measures).
+8. Requirements for legality of user behavior
+When using the Service, you must comply with the Agreement and Baidu’s relevant requirements, and shall not use the
+Service to engage in or provide convenience for the following behaviors (including but not limited to providing convenience
+for the behaviors of your end users, etc.):
+1) Use the Cloud Compute of the Service as a virtual server or disk space for lease, and as a proxy server (Proxy) or
+mailbox server;
+2) Conduct illegal internet activities such as gambling lottery, gambling games, “personal server” and “tag-on service” etc.;
+3) Release, transmit and disseminate email advertisement and spam mail (SPAM);
+4) Release, transmit and disseminate unwelcome or unsolicited e-mails, electronic advertisements, SMS advertisements
+or emails or SMS containing reactionary, pornographic and other harmful information;
+5) Establish or use relevant equipment to configure and run programs or processes unrelated to the service used, resulting
+in occupation in large quantities of the server memory, CPU or network bandwidth resources in the Service, and thus
+bringing serious loads to the system of the Service or other network or servers used by the users in the Service (including
+but not limited to local and nonlocal and international networks, servers, etc.), products/applications and services, which
+affects the smooth connection between the Service and the international internet or other specific networks and servers,
+and smooth connection within the Service, or causes shutdown or crash of the Service or the servers used by other users
+in the Service, or inaccessibility to products or services by other users of service provided by Baidu AI Cloud;
+6) Implement any behaviors destroying or trying to destroy the network security, including but not limited to malicious
+scanning, illegal intrusion into the system, illegal access to data, etc. on the website and the server by virus, Trojan horse,
+malicious code, phishing, etc.;
+7) Make any change or attempt to change the configuration or damage the security of systems provided by the Service.
+8) Use technology or other means to destroy or disrupt the operation of the Service or the use of the Service by others;
+9) Interfere or attempt to interfere with the normal operation of any product or any part or function of Baidu in any way, or
+make, release and disseminate the above tools and methods;
+10) Conduct any behavior that may violate honesty and credibility, public order and good customs, and public morality;
+release false information in any way to induce users to share false information, etc.;
+11) If you engaged in any business, including but not limited to “DNS resolution”, “security services”, “domain name proxy”,
+“reverse proxy”, etc., resulting in frequent attacks (including but not limited to DDoS attack) suffered by service platform of
+Baidu AI Cloud or other users of the platform, and you failed to correct such behavior in time, or eliminate the impact as
+required by Baidu, thereby causing threats to users of platform of the Service or other platforms, once found, your host will
+be forced to stop and your account will also be frozen immediately.
+9. Agreement on reasonable data processing
+You can specify the region where your content is stored. Without your consent, we will not transfer your content from the
+region you choose, unless (a) it must be transferred to comply with applicable laws and regulations or binding orders of
+government agencies; (b) according to your entrustment, you should ensure that your entrustment has gotten the
+necessary government licenses and user authorizations, and have the right to entrust Baidu to transmit relevant content to
+other regions; (c) it is transferred for the purpose of providing billing, management, technical services or investigating
+security incidents or violations of this agreement. We may process some data in the data center region where you use the
+service, and we may also process this data in the region where we maintain the operation, support and investigation
+system and teams.
+If you violate this user service agreement, Baidu AI Cloud has the right to refuse to continue to provide you with any
+services.
+If you use Baidu AI Cloud products or services to engage in any behavior that violates laws, regulations, or infringes on the
+legal rights of others, Baidu AI Cloud has the right to perform network security management obligations in accordance with
+the law, suspend or terminate the service, and reserves the right to pursue your relevant legal liabilities in accordance with
+Baidu 百度智能云文档
+Baidu AI Cloud User Service Agreement
+8
+the law.
+Rights and Obligations of Baidu AI Cloud
+1. Commitment on qualification of service provider
+Beijing Baidu Netcom Science and Technology Co., Ltd. hereby makes the commitment that it is a limited liability company
+duly established and validly existing under the laws of China, and will provide products and services for you in accordance
+with the Agreement, and earnestly perform the obligations and responsibilities hereunder.
+2. Commitment on protection of business secret
+Baidu AI Cloud will strictly protect your business secrets and privacy according to the Agreement, and will not disclose your
+confidential information to any third party without legal causes or your permission.
+3. Technical architecture support
+Baidu AI Cloud is responsible for the underlying technical architecture support under the operating system, as well as the
+operation and maintenance of the software provided by Baidu AI Cloud. You are responsible for the third-party applications
+installed yourself on the system.
+4. Provision of services as-is
+Baidu AI Cloud continuously improves service quality and level. You understand that, Baidu AI Cloud cannot guarantee that
+the products and services provided are without defects. You agree that even if services provided by Baidu AI Cloud are
+defective, the defects are unavoidable considering the industrial technological level then, and they will not be regarded as
+default of Baidu AI Cloud. You agree to work with Baidu AI Cloud to solve the problem of service defects due to the
+industrial technological level.
+5. Associated account management
+Certain products and services provided by Baidu AI Cloud have the function of account authorization management. You can
+authorize, in whole or part, your operating authorizations to one or more authorized accounts you designated. Under such
+circumstances, all operations performed under any authorized account shall be regarded as your behavior through your
+account, and any liability and service cost incurred therefrom shall be borne by you accordingly.
+6. Product compatibility disclaimer
+You understand and accept that Baidu AI Cloud provides you with security protection basing on certain services, as well as
+related functions and services regarding management and monitoring of Cloud resources. Although Baidu AI Cloud has
+completed detailed tests on these services, it cannot guarantee that they are completely compatible with all hardware and
+software systems, nor can it guarantee the complete accuracy of its software and services. In case of incompatibility and
+software errors, you shall immediately close or stop using related functions, and contact Baidu AI Cloud in time for
+technical support.
+7. Free resource activities
+You shall understand and agree that, when Baidu AI Cloud conducts testing and R&D of services and promotion of new
+products, it will provide the best support for service availability and reliability during your free trial (using) of the services or
+within the limit of your free use of the services. However, Baidu AI Cloud will not make any commitment on any service
+availability and reliability, nor will it undertake any liability for the consequences caused by your use of or being deprived
+from using the services provided by Baidu AI Cloud. Baidu AI Cloud reserves the possibility of charging for such free
+services in the future, prior to which you will be notified.
+8. Requirements for authenticity of ICP Service information
+According to Article 23 of Administrative Measures for ICP License of Non-commercial Internet-based Information Services,
+if the ICP license information is not true, the website will be closed and the ICP license will be cancelled. Please make
+commitment and confirm that: All the ICP license information submitted by you is authentic and effective. In case of any
+changes in your ICP license information, please submit the updated information in the ICP license system in time. If the ICP
+Baidu 百度智能云文档
+Baidu AI Cloud User Service Agreement
+9
+license information is not accurate as it was not updated in time, Baidu AI Cloud has the right to close the accessed
+website according to law.
+You understand and agree to authorize Baidu AI Cloud to, for the purpose of providing you with ICP Service, collect the textual
+and graphic information and live information related to the ICP Service, and conduct or entrust the trusted third-party
+institution to conduct the authentic verification. In the case of confirming the authenticity of your ICP license information, you
+will be provided with ICP license, ICP license change & cancellation and other services.
+The information collected by Baidu AI Cloud for the purpose of providing you with ICP Service will be used only for such
+purpose. If you have any objection to the collection of relevant information, you have the right to refuse to provide it. You can
+also consult in detail through the submission of work orders or telephone calls. You understand and accept that Baidu AI
+Cloud will not collect and process your ICP license information beyond the scope. In case of disclosure of your information by
+third party or other data security incidents, any legal liabilities shall be borne by such third party.
+9. No abuse of system resources
+Baidu AI Cloud reserves the right to force shutdown and freeze accounts in case of your abuse of system resources.
+10. Restriction of arrearage behavior
+Baidu AI Cloud reserves the right to suspend the provision of resources and services when your arrearage for resources
+exceeds a certain number of days (see specific product documentation for detailed rules). You shall be responsible for any
+possible consequences caused by the interruption of services, including the data damage and loss.
+User Business Data and Public Information
+User Business Data
+1. Baidu AI Cloud understands and recognizes that the data processed, stored, uploaded, downloaded, distributed and
+otherwise processed by you through the services provided by Baidu AI Cloud are all your user business data, and you have
+full ownership of your user business data.
+2. You are responsible for the source and content of your user business data. Baidu AI Cloud reminds you to carefully judge
+the legality of the data source and content. You shall be solely liable for all consequences and liabilities caused by the
+content of your user's business data violating laws, regulations, departmental rules or national policies.
+3. With regard to user business data, Baidu AI Cloud does not perform any unauthorized use or disclosure except for the
+implementation of your service requirements; except in the following circumstances:
+1. Baidu AI Cloud has the obligation to provide cooperation in accordance with the requirements of relevant laws,
+regulations or policy documents when inquiring or reading user business data by relevant state agencies according
+to law, and to disclose to third parties or administrative, judicial and other institutions;
+2. You and Baidu AI Cloud will negotiate separately.
+4. You can delete or change your user business data yourself. If you release the service or delete the data yourself, Baidu AI
+Cloud will delete your online data and no longer retain such data in accordance with your instructions. You should be
+cautious about deleting and changing data.
+5. When the service expires, the service is terminated early (including but not limited to early termination by mutual
+agreement, early termination due to other reasons, etc.) or you are in arrears, unless expressly agreed by laws and
+regulations, required by the competent authority or otherwise agreed by both parties, Baidu AI Cloud can only continue to
+store your user business data (if any) within a certain buffer period (subject to the time limit specified in the exclusive
+terms, product documentation, service description, etc. applicable to the service you ordered); when the buffer period
+expires, Baidu AI Cloud will delete all user business data, including all cached or backup copies, and no longer retain any of
+your user business data
+Baidu 百度智能云文档
+Baidu AI Cloud User Service Agreement
+10
+6. Once the user business data is deleted, it cannot be recovered; you shall bear the consequences and responsibilities
+caused by the deletion of the data. You understand and acknowledge that Baidu AI Cloud has no obligation to continue to
+retain, export or return user business data.
+7. According to your agreement with Baidu AI Cloud, Baidu AI Cloud stores user business data in your selected data center.
+Baidu AI Cloud abides by its security commitments to users and protects users' data stored in the Baidu AI Cloud data
+center in accordance with applicable laws.
+User Account Information
+1. Your user account information, including the information filled in or submitted when you log in to your Baidu AI Cloud
+account or order or use Baidu AI Cloud services:
+(1) Information including company name, business license information, name, gender, date of birth, ID number, passport
+information, phone number, email address, address (including zip code), and payment account number
+(2) Baidu AI Cloud's records of the service process, including your bills, historical purchase information, consultation
+records, fault reporting records, and troubleshooting process, etc.
+2. The collection of your user account information aims at providing you with services and improving service quality, so, in
+order to achieve this purpose, Baidu AI Cloud will only use your information for the following purposes, unless you and
+Baidu AI Cloud have agreed otherwise or it is inquired or read by relevant state agencies according to law:
+(1) Provide you with various services you use, and maintain and improve these services;
+(2) Subject to the requirements of relevant laws and regulations, recommend to you content that may interest you,
+including but not limited to sending you product and service information.
+User Support Data
+You understand and acknowledge that in order to respond to your requests for help in a timely manner, ensure the overall
+security of the cloud platform, and improve Baidu AI Cloud's services, Baidu AI Cloud will detect, browse, and record your
+service usage behavior, unsafe features of your data and other user support data. User support data does not include user
+business data and user account information.
+Service Provisioning, Payment and Termination
+1. You can activate and use the service through your Baidu AI Cloud account.
+2. You can activate the service through advanced top-up or post-payment. After activation, you can use the service by getting
+the key and password for logging in and using the service sent to you by Baidu AI Cloud. The service period starts from the
+time of activation.
+3. Before the expiration of the service period, if you unsubscribe from the corresponding service without any reason, Baidu AI
+Cloud has the right to take measures such as restoring the original price, charging liquidated damages, or charging
+cancellation/refund handling fees, whichever is specified on the display page on the corresponding official website or in the
+corresponding order;
+4. The method of charging during the service period, the method of using resources, the processing of unused resources after
+the service expires, etc., are subject to the corresponding product or service order agreement.
+5. You understand and acknowledge that Baidu AI Cloud does not guarantee the permanent provision of certain services, or
+may change the forms, specifications or other aspects of the services provided, due to technical upgrades, service system
+upgrades, or business strategy adjustments or changes in coordination with major national technology, regulations and
+policies. Before terminating the service or making such changes, Baidu AI Cloud will make its best efforts to give advance
+notice in advance by one or more methods such as website announcements, message, emails or short messages. To
+terminate the provision of this type of service, Baidu AI Cloud shall notify no less than 30 days in advance, and handle
+follow-up matters properly (including but not limited to refund service fees that you have paid but not consumed to your
+Baidu AI Cloud account).
+Baidu 百度智能云文档
+Baidu AI Cloud User Service Agreement
+11
+6. In the event of one of the following circumstances, the service period shall be terminated early:
+1）Both parties agree to terminate early;
+2）If you have seriously violated this agreement (including but not limited to, you have seriously violated relevant laws and
+regulations, or you have seriously violated any of the promises under this agreement, etc.), Baidu AI Cloud has the right to
+terminate the service in advance until all of your data are cleared;
+3）You understand and fully acknowledge that although Baidu AI Cloud has established (and will continue to improve
+according to technological development) the necessary technical measures to prevent events or behaviors (hereinafter
+referred to as these behaviors), such as computer viruses, network intrusions and attack damage (including but not limited
+to DDoS) from endangering network security. But in view of the limitations and relativity of network security technology and
+the unpredictability of these behaviors, if your website encounters such behaviors, which do damage to Baidu AI Cloud or
+other Baidu networks or servers (including but not limited to local, foreign and international networks, servers, etc.), or
+affect the smooth communication between Baidu AI Cloud and the Internet or other specific networks, servers, and Baidu
+AI Cloud inside communication, Baidu AI Cloud may decide to suspend or terminate the service or take other necessary
+protective measures.
+Disclaimer
+1. Baidu AI Cloud will not guarantee (including but not limited to):
+1）Baidu AI Cloud will meet the use requirements of all users;
+2）Baidu AI Cloud will not be interfered in and will always be timely, safe, reliable or free from errors; and any products,
+services or other materials acquired by users via Baidu AI Cloud will meet users’ expectations.
+3）You will solely assume any risks arising from your use of any materials you have downloaded or acquired via Baidu AI
+Cloud; you will take full responsibility for your computer system failure or data losses due to your use of this product;
+2. Baidu AI Cloud will reserve the right to suspend or terminate the provision for your services in case you violate laws and
+regulations issued by the state or the local government or you violate this service agreement, and will reserve the right to
+pursue legal liability against you.
+3. You agree and authorize Baidu AI Cloud to terminate directly the provision for your services, pursue legal liability against
+you by law and disclose through the website connected to Baidu if you cheat, publish or sell fake and shoddy products,
+infringe upon the lawful rights and interests of others or you seriously violate any service rules of Baidu AI Cloud when you
+use Baidu AI Cloud service. Under these circumstances, your account of Baidu AI Cloud may be directly shut down, and you
+may neither use any products provided by Baidu via PC or Apps more due to your above-mentioned behavior, nor log in any
+website of Baidu again. At the same time, Baidu will terminate its provision for all services to you.
+4. The reminder related to the trading operation appeared in content of this agreement or on pages of relevant products, or
+the information (short messages or calls) and content sent by Baidu AI Cloud to your mobile phone are relevant guidance
+for you to use this service when you use services provided by Baidu AI Cloud. Your use of this service represents you have
+agreed to accept the relevant guidance and rules provided by Baidu AI Cloud service. You understand and agree that Baidu
+AI Cloud has the right to improve and adjust relevant rules of Baidu AI Cloud services unilaterally without asking for your
+consent. The service guidance and rules shall be subject to the reminder on pages (or short messages or calls sent to the
+mobile phone) when you use the services. Your use of Baidu AI Cloud service shall be conditioned by your agreement and
+compliance with the service guidance and rules.
+5. Baidu AI Cloud may inform you of the progress of services and remind you of the next operation by e-mail (or short
+messages or calls sent to your mobile phone). However, Baidu AI Cloud will not guarantee that you can receive or timely
+receive this e-mail (or short messages or calls sent to this mobile phone) and will not promise to assume any results
+therefor. Therefore, you should log in the website of relevant products and services in a timely manner to view and carry out
+the trading operations during the service. Baidu AI Cloud will not assume any responsibility for any disputes or losses
+arising from your failure to view or / and modify or confirm the service status or your failure to submit relevant applications.
+6. You shall solely be responsible for all consequences resulted from the incorrect contact information you have previously
+Baidu 百度智能云文档
+Baidu AI Cloud User Service Agreement
+12
+provided to Baidu AI Cloud and poor safety and stability of your e-mail through which you receive e-mails sent by Baidu AI
+Cloud, including but not limited to consequences and losses arising from your failure to receive relevant notices sent by
+Baidu AI Cloud timely.
+7. System interruption or failure When you can’t use any online service due to the following conditions which may affect the
+normal operation of the system, Baidu AI Cloud will not be liable for damages. Such conditions include but not limited to:
+1. The system downtime and maintenance period of Baidu AI Cloud;
+2. When the data can’t be transmitted due to the failure of telecommunication equipment;
+3. When the business can’t be done due to the system failure of Baidu AI Cloud, which is resulted from the force
+majeure such as typhoon, earthquake, tsunami, flood, power failure, war and terrorist attack;
+4. The service interruption or latency resulted from the hacker attack, technical adjustment done by
+telecommunications sector or technical failure, website upgrade and problems related to banks;
+8. If the service you use is provided by a third party, the quality of service provided by such third party shall be assumed by
+the third party itself.
+9. Some links marked “Here” may guide you to leave the origin server. The server contained in links is not under the control of
+Baidu AI Cloud. Baidu AI Cloud will not be responsible for any content provided by any link server, any links contained in the
+link server or any change or renewal of such server. Baidu AI Cloud will not be responsible for any content from any link
+server. Baidu AI Cloud provides these links only for the purpose of providing convenience, but it doesn’t imply that Baidu AI
+Cloud approves corresponding third party server.
+10. Where it is permitted by law, Baidu AI Cloud will not be liable for any indirect, punitive, special and derivative losses
+(including business losses, loss in revenue, loss of profit, loss of use of data or other economic benefits) related to or
+arising from this agreement, no matter how such loss is caused or no matter whether such loss is resulted from the
+breach hereof (including the violation of guarantee) or the infringement, even though Baidu AI Cloud is informed of the
+possibility of such losses in advance. In addition, Baidu AI Cloud will be exempted from the responsibility for the above-
+mentioned losses even though the exclusive remedies as prescribed herein fail to realize the fundamental goal.
+11. In consideration of particularity of network services, you agree that Baidu AI Cloud may change, suspend or terminate
+services in part or whole at any time with legitimate reasons and will not be responsible for you therefor. However, Baidu AI
+Cloud will inform you of the said situation in advance as early as possible so that you can transfer and have a backup of
+relevant data as well as adjust businesses for the purpose of protecting your legal rights and interests.
+12. Baidu AI Cloud may repair, maintain, upgrade and relocate the machine room, server, broadband and database you use
+time to time in order to ensure the safety and stability of services. If the relevant services are interrupted or suspended
+within a reasonable time due to the above-mentioned situation, Baidu AI Cloud will not be responsible for you therefor. In
+case of important change (such as the relocation of machine room), Baidu AI Cloud shall inform you at least 30 days in
+advance, and you shall cooperate with Baidu AI Cloud. You understand and agree Baidu AI Cloud may terminate your
+services and refund your payment which you have already made but you have not consumed yet to your account.
+13. You understand and agree: The service provided by Baidu AI Cloud is based on the current situation which the existing
+technology and condition can reach. Baidu AI Cloud will try its best to provide services for you to make the service coherent
+and safe. However, Baidu AI Cloud can neither guarantee services provided by itself are flawless, nor foresee or prevent
+legal, technical and other risks at any time, including but not limited to service interruption, loss of data, data leakage or
+data theft and other losses as well as risks arising from the force majeure, virus, trojans, hacker attack, unstable system,
+service flaw of a third party and acts of government. Therefore, you agree: Baidu AI Cloud will not be deemed as the breach
+hereof even though the service provided by Baidu AI Cloud has flaws because the said flaws can’t be avoided by the
+technological level of the industry at that time. Meanwhile, Baidu AI Cloud shall be exempted from any liability for losses of
+data or information therefrom.
+14. You understand and agree: During the use of this service, this service may be interrupted by risks such as the force
+Baidu 百度智能云文档
+Baidu AI Cloud User Service Agreement
+13
+majeure. In case of the said circumstance, Baidu AI Cloud will try to cooperate with relevant departments in the first place
+and restore it timely, provided that Baidu AI Cloud will be exempted from any losses therefrom.
+15. You understand and agree: Baidu AI Cloud will not be liable for any losses due to your installation of pirated software,
+system and data resource during your use and installation of CVM Server. Baidu shall reserve its right of recourse in case
+losses of Baidu are caused by your own behavior.
+Intellectual Property Rights
+1. The intellectual property rights of all products, technologies and all programs of Baidu AI Cloud are owned by Baidu. The
+names and related graphics and logos of Baidu AI Cloud, other products and services of Baidu AI Cloud are registered
+trademarks of Baidu. Without the permission of Baidu AI Cloud and Baidu, no one is allowed to use such trademarks
+(including but not limited to: copying, disseminating, displaying, mirroring, uploading, downloading in illegal ways).
+Otherwise, it will be held liable by law.
+2. The intellectual property rights of any material, technology or technical support, software, service, etc. provided to the other
+party under the Agreement shall be owned by the provider or its legal right holder; unless expressly agreed by the provider
+or legal right holder, the other party has no right to copy, disseminate, transfer, license or provide for the use of others the
+above-mentioned knowledge, otherwise it shall be held liable.
+3. You shall guarantee that the information provided to Baidu AI Cloud, all the data uploaded to Baidu AI Cloud service, the
+use of Baidu AI Cloud service, and the materials involved in using Baidu AI Cloud service or the corresponding results
+produced will not infringe the legitimate rights and interests of any third party; if any third party files any complaints, claims,
+lawsuits or other types of demands against you for the information and data you provide, upload or use, or your actions
+and work results, You understand and acknowledge that you shall solve it immediately and compensate Baidu AI Cloud for
+all the economic losses arising therefrom, including but not limited to all cost, compensation expenses, etc.
+4. If a third-party organization or individual raises questions or complaints about the ownership of the intellectual property
+rights of Baidu AI Cloud services, you shall inform Baidu AI Cloud in time, and Baidu AI Cloud will handle the same.
+5. Materials provided by you to Baidu AI Cloud or materials published on any Baidu website For information you provide to
+Baidu AI Cloud (including feedback and suggestions), or the information you post, upload, enter or submit to any service or
+its associated service for view of the general public or any public or private community members (hereinafter referred to as
+your submission), by posting, uploading, entering, providing or submitting (hereinafter referred to as "posting") your
+submission, you grant Baidu AI Cloud and its affiliates and necessary sub-licensee the right to use the submission related
+to the operation of its Internet business (including but not limited to all Baidu services), including but not limited to the
+following rights to: copy, distribute, transmit, publicly display, publicly execute, reproduce, edit, translate and reprint your
+submissions; and to sublicense such rights to any provider of the service.
+6. It is hereby agreed that no compensation will be paid for use of your submissions. Baidu AI Cloud is not obliged to post or
+use any information you may provide, and Baidu AI Cloud may remove any submissions at any time at its sole discretion.
+7. By posting your submissions, you guarantee and state that you own or otherwise control all the rights described in the
+Terms of Use, including but not limited to all rights necessary for your provision, posting, uploading, entering or
+submission.
+8. In addition to the above guarantees and statement, by posting submissions containing images, photos, pictures or other
+graphics in whole or in part (hereinafter referred to as "images"), you guarantee and state that: (a) You are the copyright
+owner of such images, or the copyright owner of such images has allowed you to use such images or any content and/or
+images contained in such images, and you shall use such images in a same way and for a same purpose as authorized
+and specified in the Terms of Use and the service, (b) you have the rights required to grant licenses and sub-licenses (as
+described in the Terms of Use), and (c) each person in such images (if any) have agreed to the use of images specified in
+the Terms of Use, including but not limited to distribution, public display and copying of such images. By posting such
+images, you grant (a) all members of the private community (because each such image is accessible to members of such
+Baidu 百度智能云文档
+Baidu AI Cloud User Service Agreement
+14
+private community), and/or (b) the general public (because each such image can be placed anywhere on the service except
+for private communities (including but not limited to the production of printed matter and gifts containing such images) the
+rights to use your images when using any service in accordance with the Terms of Use, including but not limited to a non-
+exclusive, global, royalty-free license to: copy, distribute, transmit, publicly display, publicly execute, copy, edit, translate
+and reprint your images without attaching your name to such images; and the right to sublicense such rights to any provider
+of the service. When you completely remove such images from the service, the image license granted in the previous
+sentence terminates, provided that such termination shall not affect any licenses unrelated to such images granted before
+your complete removal. No compensation will be paid for use of your image.
+9. If (1) all copies contain the following copyright notice, and contain both the copyright notice and the permission notice; (2)
+such service documents are only for information and non-commercial or personal use, and will not be copied or published
+on any network computer, or disseminated through any medium; and (3) no modification is made to any document, the
+license to use the service documents (such as white papers, press releases, data sheets and FAQs) is granted.
+Recognized educational institutions, such as schools, research institutes, etc., may download and copy documents, and
+distribute them in the classroom for teaching purposes. Distribution of documents outside of the classroom requires
+explicit written permission. The use of documents for any other purpose is expressly prohibited by law and may result in
+severe civil and criminal penalties.
+10. The above documents do not contain the design or layout of the Baidu AI Cloud website or any other sites owned,
+operated, licensed or controlled by Baidu. The elements of the Baidu website are protected by the Trade Dress Law,
+Trademark Law, Anti-Unfair Competition Law and other laws, and shall not be copied or imitated in whole or in part. Without
+the express permission of Baidu, it is not allowed to copy or transmit any logo, graphics, sound or image related to Baidu
+or product on Baidu website.
+11. Baidu and/or its suppliers make(s) no statement regarding the applicability of the information and related graphics
+contained in the document published as part of the service for any purpose. All such documents and related graphics shall
+be provided "As Is" without warranty of any kind. Baidu shall not be liable for any special, indirect, consequential damage
+or any other damage caused by use interruption, data or profit loss arising from or in connection with the use or execution
+of the information provided by the service, whether in contract, negligence, tort, or otherwise.
+Confidentiality
+1. You and Baidu AI Cloud make a solemn commitment that one party will not disclose the confidential information of the
+other party acquired during the cooperation to any third party in any form, and that the personnel who have an access to
+such confidential information shall strictly observe the confidentiality obligation as set forth in this article.
+2. Both parties hereto agree to try their best to protect the confidential information from being disclosed. In case the
+disclosure of confidential information is detected, both parties shall cooperate with each other to avoid or reduce the
+consequences of damage by taking all reasonable measures.
+3. The said confidentiality obligation shall not be terminated due to the change, cancellation or termination of this agreement.
+4. The confidential information mentioned in this agreement refer to:
+a) Paper or electronic materials such as any agreement, faxes or e-mails exchanged between parties hereto related to this
+project, including the content and terms hereof (discount or promotional information provided by Baidu AI Cloud to you in
+particular);；
+b) Price, financial and marketing planning, customers’ materials, unreleased products, business plan, marketing
+information, investment information, financial position, drawing, design idea, technical know-how, computer programs,
+source code, research approach and other materials;
+c) The information and document designated by the disclosing party as the business secret with the text or mark on or
+before the disclosure;
+d) Other information which conforms to the constitutive requirements of legal trade secrets.
+Baidu 百度智能云文档
+Baidu AI Cloud User Service Agreement
+15
+5. This article shall not apply to the following content:
+a) Information which has already known by the public;
+b) Non-confidential information which is acquired by the information receiving party through legitimate means and is widely
+known by the industry.
+c) The information which has already been known by the information disclosing party, and the information disclosing party
+is not obligated to keep it secret;
+d) The information disclosed by a third party and regarded as the one which need not be kept secret by the information
+receiving party through the most prudent judgment;
+e) The information developed by the information receiving party independently;
+f) The confidential information disclosed by the information receiving party with a written consent from the information
+disclosing party;
+g) When this agreement is submitted to a third party only for the purpose of submission of tender as described previously
+in response to the bidding requirement of the third party;
+h) Baidu AI Cloud shares your data to a third party within a reasonable and necessary scope for the purpose of providing
+the service you demand;
+i) The content which must be exposed to any authorities or institutions in accordance with the requirement of laws.
+Others
+1. This agreement will enter into force immediately after it is announced. Baidu AI Cloud has the right to modify the content of
+this agreement at any time. The modified results are published on Baidu AI Cloud website through push notifications, web
+announcement, and so on, without serving a separate notification to you. If you do not agree to the changes made by Baidu
+AI Cloud to this agreement, you have the right to cease using the network service. Your continued use of the network
+service will be deemed that you accept the changes made by Baidu AI Cloud to the relevant provisions of this agreement.
+2. Baidu AI Cloud has the right of reasonable processing and final interpretation regarding various special offers under this
+agreement, including but not limited to invitation codes, vouchers, and virtual currencies.
+3. All notifications of Baidu AI Cloud to users under the SLA can be made through work order, webpage announcements,
+messages, emails, SMS or other forms. Such notifications are deemed to have been delivered to the recipients on the date
+of delivery.
+4. The conclusion, execution, interpretation of this agreement as well as dispute resolution shall be governed by Chinese laws
+(for the purposes of this agreement, the laws of Hong Kong Special Administrative Region, Macau Special Administrative
+Region and Taiwan region are not included, and conflicts of laws are not used). If there is any dispute between the two
+parties regarding the content of the SLA or its implementation, the two parties shall try to resolve the issue through friendly
+negotiation. If the negotiation fails, either party may bring a lawsuit to the People's Court of Haidian District of Beijing.
+5. The SLA constitutes an entire agreement between the two parties on the matters agreed in the SLA and other related
+matters. Except as provided in the SLA, no other rights are granted to the parties to the SLA.
+6. If any agreement in the SLA is completely or partially invalid or not enforceable for whatever reason, the rest of the SLA is
+still valid and binding.
+Privacy Policy
+Introduction
+Regarding the versions of agreement provided by Baidu AI Cloud China Station, the Chinese version shall prevail, and the
+English version is for reference only.
+Baidu 百度智能云文档
+Privacy Policy
+16

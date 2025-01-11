@@ -1,0 +1,607 @@
+*** General Terms and Conditions for Passengers (“GTC-P”)
+May 2021
+
+mytaxi Polska sp. z o.o., ul. Młynarska 42, 01-205 Warszawa („FREE NOW”). FREE NOW
+website: free-now.com.
+
+pomoc@free-now.com
+Preamble
+These GTC-P shall govern the use by passengers (“User” or “Users”) of the FREE NOW software
+(“App”) and FREE NOW services, including the service of making the App available, the
+passenger carriage intermediary services and the “Pay by App” service. The User accepts the
+GTC P when he first registers in the App and he shall observe these when using the App.
+The contracts between FREE NOW and the User are concluded in the Polish language only and
+pursuant to these GTC-P. The English version of the GTC-P is a non-binding translation of the
+Polish text. The text of the contract will be stored in the App. The applicable GTC-P can be
+viewed at any time within the App on the User’s end device or on the FREE NOW website.
+A. General Terms and Conditions for using the App
+I. FREE NOW services
+1. The main service that FREE NOW renders on the basis of the GTC-P is the service of
+making the App available. Before availing of the service of making the App available and
+other FREE NOW services, the User must register in the App by providing true and accurate
+information during the registration (i.e. first and last name(s), telephone number, and valid e-
+mail address), choose a secure password and accept the GTC-P. Only then the User is
+entitled to make use of the service of making the App available. After obtaining access to
+the App, the User may use it to make decisions regarding use of other FREE NOW services
+(such as ordering the passenger carriage intermediary service). In each case FREE NOW
+Services are rendered on the basis of the GTC-P and applicable laws.
+2. Users registered with FREE NOW have the possibility to use additional mobility services via
+the App. “Additional Mobility Services” means mobility services including i.a. the
+possibility of renting electric scooters, electric mopeds, carsharing, which are provided by
+other providers of mobility services, which cooperate with FREE NOW and which services
+may be intermediated via App and are accessible via App. Additional Mobility Services are
+provided and offered by “Mobility Services Provider”
+3. FREE NOW does not charge the User any fees for the use of the FREE NOW Services,
+unless otherwise agreed and/or prescribed in these GTC-P (e.g. cancellation fees, section
+VII). FREE NOW reserves the right to establish, remove and/or revise charges for any or all
+services obtained through the use of the FREE NOW Services at any time. FREE NOW will
+inform the User of any changes regarding the charges. In case of FREE NOW services
+provided on the basis of a continuous legal relationship, e.g. the service of making the App
+available, such changes will become effective when the User accepts the new version of the
+GTC-P in the App or after providing the User with a new version of GTC-P by email and the
+User's decision to continue using the App. If the User does not agree on the introduced
+changes, both the User and FREE NOW may terminate the contract concluded with FREE
+NOW with immediate effect. Charges for the use ofAdditional Mobility Services are subject
+to the agreements concluded between the user and the Mobility Services Provider
+intermediated via the App.
+4. In case of one-off FREE NOW Services (e.g. the intermediary service), in each case a version
+of the GTC-P up to date at the time of ordering a service applies. In each case the User may
+review the up-to-date version of the GTC-P (in the App or at FREE NOW website) before
+making a decision on ordering the service through the App. Additionally, the basic
+information on the terms of the service provision are displayed in the app before the User
+makes a decision on ordering a given service. 
+5. The App is available for mobile end devices, particularly smartphones, computers or tablet
+PCs capable of connecting to the Internet (“End Devices”). Through the App the User can
+use FREE NOW’s service, subject to its availability. Via the App the User can in particular
+use the intermediary service consisting in requesting through the App a ride that will be
+transferred to an available carrier (i.e. an entrepreneur conducting a business activity in the
+area of the carriage of passengers by taxi; the request may be sent directly to the carrier’s
+employees (drivers) if the carrier engages employees to provide carriage services). To this
+end, the User’s current location is being identified and sent to the carrier. After the carrier
+accepts the User’s request, the User’s identification information (the User’s first and last
+name(s), telephone number and the photo if such have been uploaded in the App) is sent to
+the carrier. For the purpose of performance of the carriage service by the carrier, the User
+can also contact the carrier or the driver acting on the carrier’s behalf who accepted the
+User’s request through the App.
+6. The services provided via the App do not include access to the Internet, which is required to
+use the App. The User is responsible for arranging the Internet access and for choosing
+such End Device which meets the technical requirements for using the App and for keeping
+the necessary software of the End Device updated at his own cost.
+7. If the User uses the intermediary service and requests a ride via the App , FREE NOW
+forwards the request to a potential carrier. With respect to carriages FREE NOW provides the
+User with the use of the App only an intermediation service for the carriage of persons,
+consisting in enabling the execution of an agreement for the carriage of persons between
+the User and the carrier and payment of the fee for carriage by the User, and no other
+services. In particular, use of the App does not result in execution of the transportation
+contract between FREE NOW and the User. Any claims related to carriage ordered through
+the App will result exclusively from the agreement of carriage of persons executed between
+the User and the carrier. Due to the fact that FREE NOW, as an intermediary, is not a party to
+the agreement of carriage of persons, FREE NOW may not be held liable for claims arising
+from such agreement.
+8. If the User uses the intermediary service and requests Additional Mobility Service via the
+App, FREE NOW forwards the request to a potential Mobility Services Provider. With respect
+to Additional Mobility Service FREE NOW provides the User with the use of the App only an
+intermediation service for Additional Mobility Service, consisting in enabling the execution of
+an agreement for the particular Additional Mobility Service between the User and the
+particular Mobility Services Provider and payment of the fee for the Additional Mobility
+Service by the User, and no other services. In particular, use of the App does not result in
+execution of the service contract regarding particular Additional Mobility Service between
+FREE NOW and the User. Any claims related to Additional Mobility Service ordered through
+the App will result exclusively from the agreement executed between the User and the
+Mobility Services Provider. Due to the fact that FREE NOW, as an intermediary, is not a party
+to the agreement of Additional Mobility Service, FREE NOW may not be held liable for claims
+arising from such agreement.
+9. The User agrees that the intermediary service is carried out immediately after its
+commissioning via the App. After FREE NOW’s service had been performed, i.e. after
+accepting the order by the carrier or after accepting the offer for Additional Mobility Service,
+the User loses the right to withdraw from the intermediation contract, as it is executed.
+10. The rides can also be booked and billed as business trips under the contract concluded
+between FREE NOW and a business client, which can authorize their personnel or other
+natural persons to have a trip billed as business trip under the business account.
+11. If the User books a business trip through the App or decides to pay for the trip as for the
+business trip via the business account at the end of a trip, data collected by FREE NOW via
+the App will be sent for trip handling and billing purposes to the business client who
+authorizes the User for the business trip. If a ride is booked as a business trip, billing-related
+information, especially first and last name(s), e-mail address, time of day, start/endpoints of
+a route and charge for the trip will be sent to the business client who authorizes the User for
+the business trip. The amount of data sent will depend on the requirements of the business
+client in order to settle the costs for the business trip.
+12. FREE NOW may use services of the affiliated companies or external cooperation partners in
+order to process billing data.
+13. FREE NOW’s services aim at adults. Persons between 13 and 18 years of age are only
+allowed to use the App with the consent of their legal representatives. The legal
+representatives of such minor shall be liable for controlling the use of the App by the minor.
+II. Other mobility services
+1. In the course of using Additional Mobility Services, FREE NOW acts as an intermediary of a
+service contract with the respective Mobility Services Provider and neither provides
+Additional Mobility Services nor becomes a contractual partner of the User. The contractual
+partner of the User is the respective Mobility Services Providers
+2. The Mobility Services Providers themselves are responsible for the Additional Mobility
+Services. The general terms and conditions of the respective service Mobility Services
+Provider apply to the use of the mobility services. These will be made available to the User
+prior to booking and, if necessary, the User’s consent will be obtained. Apart from that, the
+present GTC-P of FREE NOW shall apply accordingly to the intermediary services in relation
+to the booking of Additional Mobility Services described in this section via the FREE NOW
+App.
+3. The privacy policy of the respective Mobility Services Provider will also be made known to
+the User prior to booking the Additional Mobility Services.
+4. The Mobility Services Provider assigns to FREE NOW its claims against the User for
+payment of the fees for the Additional Mobility Services. FREE NOW therefore collects the
+payment of the price of the Service in its own name and for its own account. However, the
+service contract continues to exist between the Mobility Services Provider and the User.
+5. Unless other payment methods are offered for the respective Additional Mobility Services,
+the User must pay the Mobility Services Provider's claim for Additional Mobility Services by
+way of the Pay by App service (as further detailed under section B. below) in accordance
+with these GTC-P. The fee for the Additional Mobility Services shall be paid using the
+payment method selected by the User during the registration or booking process.
+6. The Mobility Services Providers require in some cases verification of the User’s driving
+licence, identity and/or address (“Validation”) for the purposes of booking Additional
+Mobility Services. Additionally, meeting other criteria, such as a minimum level of driving
+experience, which is determined theoretically based on the period of holding a driving
+licence, may be required for bookings with certain Mobility Services Providers. In order to
+meet these requirements, FREE NOW may offer a Validation to the User. The User is free in
+deciding whether to use a Validation or to not order Additional Mobility Services through the
+App. FREE NOW bindingly determines the manner of a Validation offered. A Validation is
+made via FREE NOW App. It can be done by FREE NOW or on FREE NOW’s behalf by a
+third party. In a Validation process the User must provide requested information completely
+and accurately, and update this information in case of any changes. Additionally, it is
+required to submit official documents (e.g. an ID card, a driving licence). A successful
+Validation will be stored in the User’s FREE NOW account. FREE NOW may repeat a
+completed Validation at a later time and update it. Moreover, a subsequent change of the
+requirements regarding the Validation may result in changes of a Validation that has already
+been completed.
+7. The User is responsible for fulfilling any and all requirements for the use of the Additional
+Mobility Services or services agreed with or by the Mobility Services Providers in
+accordance with conditions and regulations applicable in this respect (e.g. a valid driving
+licence).
+8. FREE NOW reserves the right to not forward the User’s booking of an Additional Mobility
+Service to the Mobility Services Provider, where there are reasonable grounds to assume
+that the User will not behave in accordance with the contract or where it is apparent to FREE
+NOW that the User does not meet the minimum requirements set by the Mobility Services
+Provider or FREE NOW for making a booking with a specific Mobility Services Provider.
+III. Availability, change and stoppage of service
+1. FREE NOW will make every effort to achieve the highest level of availability possible and
+eliminate outages as soon as possible however the User cannot demand permanent and
+uninterrupted availability of the App. Neither will FREE NOW vouch that a ride or an
+Additional Mobility Service will be always available when the User wants to order it.
+2. In addition, FREE NOW has the right to stop services temporarily even without informing the
+Users individually. Nevertheless, FREE NOW will try to inform the Users before stopping the
+service through the FREE NOW website, the App or through other communication means.
+3. FREE NOW reserves the right at any time to modify the App, in order to enhance the App
+and make qualitative improvements to it, or to stop offering the services provided through
+the App. If the modification in the App causes the necessity to adjust these GTC-P, FREE
+NOW will notify the User thereof and provide him with the new terms and conditions for
+acceptance.
+4. FREE NOW indicates that the services provided by FREE NOW to the User regarding the
+carriages constitute an intermediary in the carriage of persons consisting in enabling the
+execution of an agreement for the carriage of persons between the User and the carrier.
+Therefore, FREE NOW may be held liable to the Users for non-performance or improper
+performance of the intermediation service (for details see Section IV(2)) and is not liable for
+the non-performance or improper performance of the agreement for the carriage by the
+carrier (in particular, but not exclusively, if the carrier or the driver acting on the carrier’s
+behalf has refused to execute the agreement of carriage or has refused to perform it due to
+territorial restrictions on the license under which it carries out national road transport
+activities).
+IV. Liability
+1. FREE NOW will not be liable for correctness and completeness of the data provided by the
+User. FREE NOW verifies the basic data of the carrier or the driver acting on the carrier’s
+behalf while admitting the driver to the App. However, FREE NOW shall not be liable for
+ongoing correctness and completeness of the data provided by the carriers or the drivers
+acting on the carriers’ behalf.
+2. FREE NOW is liable to the User for loss and damage caused by FREE NOW resulting from
+the improper performance of intermediation services, unless loss or damage resulted from
+circumstances for which FREE NOW is not liable. FREE NOW is responsible for loss or
+damage suffered by the User only to the extent such damage is an ordinary result of
+improper performance of intermediary services.
+3. FREE NOW is responsible to the non-consumer Users only for loss and damage culpably
+caused by FREE NOW. In such case FREE NOW is not liable for lost profits.
+4. Limitations of liability shall not apply to any mandatory statutory liability, in particular, in
+cases of personal injuries to life, body or health, and are without prejudice to the liability to
+consumers.
+5. If the App or the sending of data damages the User’s hardware or software or causes loss of
+data, FREE NOW should be liable only in case when the loss or damage is a result of a
+circumstances for which FREE NOW is at fault.
+6. FREE NOW is only an intermediary and is not liable for services provided by a carrier or by a
+Mobility Services Provider. Damage suffered by the User in connection with the passenger
+transports for which FREE NOW acts as an intermediary or with the Additional Mobility
+Services will be settled between the parties to the transport contract (i.e. the User and a
+given carrier) or the parties to the Additional Mobility Services. FREE NOW’s liability for the
+services rendered by a carrier or a Provider of Additional Mobility Services is excluded.
+7. FREE NOW will not incur any liability if it ceases to provide services entirely or partially,
+temporarily or for good.
+8. The FREE NOW website may contain links to other websites and third parties’ content that
+do not constitute a part of the FREE NOW website. FREE NOW has no influence on the
+current or future appearance of third-party websites or on the content thereof and does not
+modify these. FREE NOW is neither responsible for the accuracy, completeness or
+truthfulness of the information published thereon, nor for the products and services offered
+by third parties via the website which link is posted on the FREE NOW website. All
+contracts, transactions and other arrangements between the User and third parties are
+concluded and made at the risk of the User and these third parties. By clicking on the third
+party’s website, the User leaves the FREE NOW website and is redirected to the third party’s
+website. If FREE NOW becomes aware that the content of third parties’ websites, which
+links are posted on the FREE NOW website, infringes the law, FREE NOW will immediately
+remove the links from the FREE NOW website.
+9. FREE NOW’s liability shall be excluded for expenses, costs or damages incurred or
+sustained as a result of the fact that the User classified a private trip as a business trip
+unless it is caused by FREE NOW’s fault.
+V. General obligations of the User
+1. The User undertakes to provide true, complete and accurate personal data. The User also
+undertakes to keep the data up to date.
+2. The User, who is permitted by a business client of FREE NOW to pay for trips as business
+trips via the business account, is obligated to report the nature of a trip taken by him (private
+or business) truthfully. FREE NOW is neither obligated nor technically in a position to
+determine whether the User’s trip is for business or private purposes.
+3. Furthermore, the User must see to it, that when using the App, no impairment, overloading
+or damage occurs and that the purpose of the App is not jeopardized or circumvented. The
+User must not circumvent or modify the security measures in the App either directly or
+through third parties.
+4. All rights to the software shall remain with FREE NOW. The User may not copy, modify,
+reverse engineer, decompile or distribute the software provided by FREE NOW.
+5. The User is responsible for keeping his username and password secure and must not
+provide these to third parties or allow them to access the App. The User must inform FREE
+NOW immediately if a third party uses his account without authorization. In particular, the
+User is obligated to inform FREE NOW of any loss, theft or misuse of his password or
+smartphone or other End Device on which he uses FREE NOW and Pay by App, or any other
+unauthorized use of his user account, password or other personal identification features. If
+the User suspects that any of the above has happened or comes to know thereof, he must
+immediately notify FREE NOW using the contact details provided in the App or on the FREE
+NOW website.
+6. If in connection with the use of the App the User broke the law, he is responsible for
+damages he caused towards the affected legal or natural persons, including FREE NOW on
+a basis of general rules regarding compensation.
+7. The User undertakes to inform FREE NOW promptly and with full details if any third party
+asserts claims against FREE NOW due to the User’s breach of law.
+8. The User may not store, use or otherwise process the personal data of any other parties
+involved (i.e. drivers or other Users), for any other purposes than using the App and in a way
+that is allowed by the GTC-P.
+VI. Responsibility for content
+1. In case FREE NOW permits its Users to publish content in the App, on the websites or other
+media operated or hosted by FREE NOW, the publishing User shall be solely responsible for
+such published content. The User is obligated to observe the applicable law in this regard.
+2. FREE NOW is entitled to remove immediately any published material that violates the law.
+VII. Conditions for trip cancellation fee
+1. If the User decides to cancel a trip, after his/her booking has been accepted by the carrier or
+the driver acting on the carrier’s behalf, or the service was cancelled by the carrier or the
+driver acting on the carrier’s behalf when the User did not show up at the place where the
+User requested the carrier or the driver acting on the carrier’s behalf to appear, a fee may be
+charged by FREE NOW to the User. For more information on the cancellation policy and the
+cancelation fee click on the following link.
+2. The User may demand the repayment of the cancellation fee charged to him in any case it
+was unjustified. Such a request shall be sent by e-mail or by mail to FREE NOW within 30
+days after the fee was charged.
+VIII. Term and Termination
+Contract concluded under GTC-P is of unlimited duration and both parties are entitled to
+terminate the contract any time with 3 days’ notice. In particular, FREE NOW reserves the right to
+terminate the contract without notice if the User severely violates contractual or legal obligations.
+For the sake of clarity, the termination of the contract under which the service of making the App
+available is rendered, terminates the use of Pay by App and any other service associated with the
+App at the same time.
+B. Terms and conditions for the “Pay by App” service
+I. Subject matter of Pay by App, PayPal note
+1. Pursuant to the GTC-P, FREE NOW permits Users to avail of cashless means via the App to
+pay (i) individual carriers for trips taken and (ii) for Additional Mobility Services, using any of
+the payment methods admissible by FREE NOW. The maximum amount that could be paid
+for a trip (including first trip) using Pay by App is specified on the FREE NOW website and in
+the App. The maximum amount that could be paid for an Additional Mobility Service using
+Pay by App is specified on the website of the respective Mobility Services Providers and in
+the App.
+2. The User acknowledges and agrees that
+
+a) during registration of a payment method (e.g. credit card), when ordering a ride, an
+Additional Mobility Service or when paying via the app, the User may be required to perform
+an additional authentication of his/her identity;
+
+b) this authentication may be processed via different methods (e.g. one-time passcode,
+password, biometric authentication) and they depend on each User’s agreement with his/her
+bank, payment service provider and/or credit card issuer (e.g. Visa, Mastercard, American
+Express);
+
+c) FREE NOW reserves the right to require such authentication from the User’s bank or
+payment service provider for additional security;
+
+d) during this authentication process, FREE NOW reserves the right to share additional
+payment relevant information about the User with the relevant payment service provider
+which will be transferred to the User’s bank or payment service provider.
+In addition to the above, FREE NOW reserves the right to process a payment request at any
+time after a charge becomes due and payable to FREE NOW in accordance with these
+Terms and Conditions (for example, cancellation fees, delayed payments, debt settlement or
+other charges, including those charged by the respective Mobility Services Providers)
+without requiring any additional authentication from the User described above. The User
+should note that the terms of this clause B.I(2) are provided for the User’s information in
+relation to the processing of payments. As a result, (i) FREE NOW shall have no
+responsibility or liability to the User for the application, non-application, delay or failure of
+any such processes in any given case and (ii) the terms of this clause B.I(2) shall not affect or
+detract from the Users obligations to FREE NOW under these Terms and Conditions.
+3. The User is free to select from the payment methods admissible by the App. The User, at
+any time, can modify or remove these cashless payment methods in the App. The User
+confirms that the data provided for payment are correct.
+4. If the User opts for PayPal, he does not need to provide FREE NOW with his bank details.
+The payment is effected by way of an automated direct debit (electronic direct debit) or
+charge (credit card payment) between the User and PayPal. Under PayPal’s terms and
+conditions of use, the User may be charged separately for the use of PayPal’s service. In
+order to use PayPal’s payment service for FREE NOW, the User must set up a PayPal
+account with PayPal.
+5. Generally, it is possible to pay for a trip or an Additional Mobility Service with use of the Pay
+by App service in all vehicles used by a certain carrier and for all Additional Mobility
+Services. However, if payment with use of Pay by App is not possible with a given Mobility
+Services Provider for technical reasons (that for instance occur at a later time), the following
+applies: the User must pay for trips performed with taxis or rented cars in cash (or with an
+EC or credit card, whichever available). If it is impossible for FREE NOW to collect the fee for
+the respective Additional Mobility Service itself from the User through the payment method
+registered by the User, the User must pay the fee to FREE NOW immediately, however not
+later than within 5 days. To this end, respective information on the fee for a given Additional
+Mobility Service is displayed to the User in the FREE NOW App.
+II. Contractual obligations of the User and payment
+1. The User is not obligated to pay the driver for trips by cashless means of payment through
+Pay by App. He can freely choose the method of payment (i.e. in cash or Pay by App). When
+registering cashless means of payment through Pay by App, the User agrees to being
+charged by FREE NOW acting on the carrier’s behalf with any future fees due under these
+GTC-P. Making a payment by the cashless means of payment through Pay by App
+registered by the User will not require the User to take any additional actions each time and
+will be initiated by FREE NOW, to which the User agrees by registering the cashless means
+of payment through Pay by App.
+2. If the User opts to Pay by App for rides, he must pay the gross transportation fare and,
+where applicable, any desired tip and other due charges. By registering in the App cashless
+means of payment through Pay by App under the present GTC-P, the User authorizes FREE
+NOW to charge his credit card or PayPal account to the sum due for the ordered rides or
+deduct the due amount by other means of payment admissible by the App, to which the
+User agrees by registering cashless means of payment through Pay by App.
+3. If the User accepts the GTC-P and opts to Pay by App, he requests issuing of an invoice or
+an electronic bill instead of a fiscal receipt. In this case, the issued fiscal receipt will not be
+handed out to the User. The invoice for the trip or for the Additional Mobility Services will be
+sent promptly via email at the email address provided to FREE NOW by the User. The User
+must check the receipt/invoice and inform FREE NOW immediately of any discrepancies.
+Any claims based on an incorrectly calculated or incorrectly stated amount shall relate
+exclusively to the contract between the User and the service provider and shall be asserted
+by the User against the latter.
+4. Where the User deposits a new payment method (e.g. credit card) for Pay by App and in the
+moment of payment, FREE NOW reserves the right to make a pre-authorization transaction
+(usually € 0.50) for validation purposes using the payment method in the moment of
+deposition of the payment method. The deposition of the payment method will fail if the pre-
+authorization fails. This pre- authorization transaction is also made if the hail was
+unsuccessful or the trip is cancelled. Any pre- authorisation will temporarily reduce the
+available balance for the respective payment method by the pre-authorization amount for up
+to 10 working days and may appear as a temporary hold on the relevant payment card. The
+pre-authorisation amount for validation purposes as described above will not be charged to
+the concerned payment method.
+Furthermore, FREE NOW may require a pre-authorisation on the User’s default or selected
+payment method that reflects the estimated or, as the case may be, the fixed fare amount
+including any preselected tip for the trip. This amount will not be charged at the time of
+booking from the default or selected payment method but is reserved for payment of the
+actual ride including any preselected tip, any applicable cancellation fee or other FREE NOW
+charges. FREE NOW may confirm details of this pre-authorisation by email (to the User’s
+registered email address) or through the App once the User completes the booking. If
+payment is received in full, the reserved amount will be released by FREE NOW. This may
+take the User’s bank or payment service provider up to 5 working days to process.
+By using the Pay by App feature, the User consents to FREE NOW’s pre-authorisation
+procedures as referred to in this clause.
+5. FREE NOW reserves the right not to offer certain payment methods in individual cases or in
+general.
+6. FREE NOW explicitly reserves the right to block the User’s account or the additional Pay by
+App functions for the User permanently or temporarily or to ask the User to define a new
+password, PIN or other personal identification feature if it is suspected that the User’s
+account or personal identification feature have been used fraudulently or without
+authorization. In such instances, FREE NOW undertakes to inform the User, that his User’s
+account or additional Pay by App function have been blocked, if possible, before blocking,
+but at the latest immediately after blocking, giving the reason for the blockage.
+7. A fee for an ordered trip charged to the User through the selected payment manner pursuant
+to this point B.II above may be calculated on the basis of the indication of a taximeter
+installed in a taxi used to carry out a ride or otherwise in accordance with generally
+applicable law. If the fee is a flat rate, the User will be informed of the amount via the App
+when ordering a ride. A fee for the intermediated Additional Mobility Service is calculated in
+accordance with the terms and conditions provided by the Mobility Services Provider made
+available to the User. If the fee is a flat rate, the User may be informed of the amount via the
+App when ordering the Additional Mobility Service.
+III. Conditions for use of Vouchers through Pay by App
+Unless any other terms and conditions of FREE NOW will apply to particular promotion
+campaigns, the following conditions for use of vouchers shall apply:
+1. The User can only use a promotional code if he selects Pay by App as a payment method.
+2. The promotional code will be valid for a single or multiple trip or a single or multiple
+Additional Mobility Service and may be used only once during the specified promotion
+period. Promotional codes that are not redeemed during the promotion period expire without
+any compensation. The promotional codes cannot be exchanged for cash. In case it was not
+possible to use the code due to technical errors with the App, FREE NOW provides the User
+with a substitute code.
+3. The promotional code for a first Pay by App service, can only be used once per User and by
+the first payment by using Pay by App service. If then the User has not used the promotional
+code, the code expires and cannot be used anymore or changed for another one.
+4. For the proper usage, it is essential to enter the code before a payment is initiated and the
+code has been accepted as valid.
+5. The promotional code can only be redeemed in cities participating in the promotion where
+Pay by App is available. On FREE NOW website, the User can check the cities where such
+functions are available.
+6. The corresponding promotional codes cannot be combined with other promotions, coupons
+or discounts. The codes have no cash value, are non-transferable and can only be used
+once. The loss of the promotional code will not give any right to substitution. The code may
+not be sold, resold or exchanged for cash.
+7. In case of unauthorized use, FREE NOW will be authorized to block the User’s account.
+Likewise, in case of fraud, attempted fraud or suspicion of other illegal activities related to
+the promotional code, FREE NOW will be authorized to block and delete the corresponding
+User accounts. In such case FREE NOW informs the User of the reason for such blockage
+or removal.
+IV. Liability
+1. If the User chooses to pay by App, he must ensure that he has sufficient funds. If the bank
+account FREE NOW attempts to charge does not have sufficient funds, the User must bear
+any charges or costs incurred as a result of insufficient funds in the bank account.
+2. If the cashless payment process malfunctions the User should contact PayPal or his
+provider of payment services directly.
+3. If the User defaults on his payment for the payment option selected by him, FREE NOW
+shall be entitled to demand statutory interest payable on delay as FREE NOW acquires the
+claim for payment from the drivers/ Mobility Services Providers.
+4. If the User violates his obligation to take due care to protect his usage identification and his
+personal identification feature from unauthorized third-party access, and as a result of this
+violation of duty of care, FREE NOW incurs a loss, FREE NOW explicitly reserves the right to
+assert damages against the User.
+C. Subscription
+1. The User may use against payment – if available at the given time – a special FREE NOW
+offer consisting in purchase of a specified number of electronic codes or one code for a
+specified number of trips to be used for payments for rides or Additional Mobility Services 
+booked through the App (“Subscription”).
+2. The Subscription consists in purchase of:
+
+a) a specified number of codes with a certain nominal value for a specified gross price; each
+code may be used once to make a Pay by App payment for a trip or
+
+b) one code for a specified number of trips with a certain nominal value per trip, exclusively
+by the User who purchased the Subscription.
+3. The exact price for the Subscription and the number and value of the codes is available at
+the FREE NOW website or, if introduced, in the App. The Subscription is valid for one month
+each.
+4. If the price for a single trip exceeds the value of a single code, the User must pay the
+difference on general conditions as apply for him to payments for trips booked by the App.
+5. The part of the Subscription not used within the time limit for which the Subscription has
+been purchased is not carried over to the next time period and may not be used after the
+expiry of the Subscription.
+6. To buy the Subscription the User has to pay the price for the Subscription previously notified
+to him. The Subscription is ordered through a special FREE NOW website or, if introduced,
+in the App where the method of payment for the Subscription is indicated. The Subscription
+agreement is concluded upon effective payment by the User. Payment has to be made until
+3 (three) days before the first day of the month the Subscription shall apply.
+7. Upon purchase of a Subscription, the User may choose at the time of payment an option of
+automatic renewal of the Subscription, which means that the Subscription is automatically
+extended after the given time period has elapsed. The Subscription may be terminated with
+the effect at the end of the next time period through a special FREE NOW website, via e-mail
+to pomoc@free-now.com or, if introduced, in the app.
+8. Upon purchase of the Subscription, the User shall specify whether the performance of the
+Subscription agreement should start before the expiry of the time limit for withdrawal (see
+the next section).
+9. Since the Subscription agreement is concluded online, the User may withdraw from the
+Subscription agreement within 14 days from its conclusion without specifying the cause. In
+order to use this right the User should fill in a withdrawal statement, pursuant to the
+template available on the FREE NOW website and send it to FREE NOW by regular mail to
+the address of FREE NOW registered office indicated on the FREE NOW website or per e-
+mail to pomoc@free-now.com. The statement is effective provided that it is sent before the
+lapse of 14 days from the conclusion of the Subscription agreement.
+10. If the Subscription agreement is effectively withdrawn from by the User, the Subscription
+agreement is deemed to not have been concluded and the User is released from any and all
+obligations resulting therefrom. The Subscription amount shall be returned to the User not
+later than within 14 days from receipt of the withdrawal statement. If the User used
+Subscription for payment of trips before the expiry of the time limit for withdrawal, only the
+part of the Subscription which has not been used will be returned.
+11. After the payment for the Subscription is effectively made the User will be provided with the
+terms of the Subscription via e-mail to his e-mail address indicated in the App.
+12. Use of trips as part of the Subscription does not change the legal nature of the FREE NOW
+service and FREE NOW remains the intermediary.
+D. Rules of filing and reviewing complaints
+1. If the User has any reservations about the services provided by FREE NOW, the User may
+file a complaint in the form referred to in section 2 below.
+2. The User may file complaints in the following forms:
+
+a) electronically to: pomoc@free-now.com
+
+b) in writing, delivered personally or by regular mail to the address of FREE NOW registered
+office.
+3. The complaint should contain the following:
+
+a) detailed description of the event it refers to;
+
+b) reservations about the services offered/provided by FREE NOW;
+
+c) explicit indication of User’s claim towards FREE NOW.
+4. The complaints are reviewed within no longer than 30 days from receipt of the complaint by
+FREE NOW.
+5. The User will be informed of the result of the complaint review by FREE NOW within 30 days
+from its receipt by registered letter or e-mail, depending of the form in which the complaint
+has been filed.
+6. Complaints regarding transportation services provided by carriers should be submitted
+directly to carriers providing the services and may be filed:
+1. in Warsaw with the Administration & Resident Services Department of the Capital City
+Hall of Warsaw with its registered office in Warsaw, Al. Jerozolimskie 28. The
+complaints are filed in writing (Al. Jerozolimskie 28, 00-024 Warszawa) or electronically
+(Sekretariat.BAiSO@um.warszawa.pl);
+2. in Krakow, to the Transport and Regulated Business Department of the Vehicle and
+Driver Register Department of the City Hall of Krakow with headquarters in Krakow at
+Al. Powstania Warszawskiego 10. Complaints are filed in writing (Al. Powstania
+Warszawskiego 10, 31-541 Kraków) or in electronic form (km.umk@um.krakow.pl);
+3. in Łódź with the Office for the Promotion of Employment and Business Services of the
+Łódź City Hall with its registered office in Łódź at Al. Politechniki 32. The complaints
+are filed in writing (Al. Politechniki 32, 93-590 Łódź) or in electronic form
+(bpz@uml.lodz.pl);
+4. in Gdańsk to the Department of Communication of the Gdańsk City Hall with
+headquarters in Gdańsk at ul. Bernarda Milskiego 1. The complaints are filed in writing
+(ul. Bernarda Milskiego 1, 80-809 Gdańsk) or in electronic form (wk@gdansk.gda.pl);
+5. in Gdynia to the Department of Civil Affairs of the Gdynia City Hall with its registered
+office in Gdynia at Al. Marszałka Piłsudskiego 52/54. The complaints are filed in writing
+(Al. Marszałka Piłsudskiego 52/54, 81-382 Gdynia) or in electronic form
+(wydz.spraw_obywatelskich@gdynia.pl);
+6. in Sopot, to the Communication Department of the Sopot City Hall with its registered
+office in Sopot, ul. Tadeusza Kościuszki 25/27. The complaints are filed in writing
+(Tadeusza Kościuszki 25/27, 81-704 Sopot) or in electronic form (ums@sopot.pl);
+7. in Wrocław to the Department of Administrative Decisions and Business Inspection of
+the Transport Department of the Wrocław City Hall with its registered office in Wrocław
+at ul. Gabrieli Zapolskiej 4. The complaints are filed in writing (Gabrieli Zapolskiej 4, 50-
+032 Wrocław) or in electronic form (wtr@um.wroc.pl);
+8. in Poznań to the Division of Licenses for Road Transport and Control of the
+Department of Economic Activity and Agriculture of the Poznań City Hall with its
+registered office in Poznań at ul. 28 czerwca 1956. The complaints are filed in writing
+(ul. 28 czerwca 1956, 61-441 Poznań) or in electronic form (dgr@um.poznan.pl);
+9. in Katowice to the Transport Department of the Katowice City Hall with its registered
+office in Katowice at ul. Warszawska 4. The complaints are filed in writing (ul.
+Warszawska 4, 40-006 Katowice) or in electronic form (t@katowice.eu);
+10. in Gliwice to the Department of Communication of the Gliwice City Hall with its
+registered office in Gliwice, ul. Zwycięstwa 21. The complaints are filled in writing (ul.
+Zwycięstwa 21, 44-100 Gliwice) or in electronic form (km@um.gliwice.pl);
+11. in Bytom to the Department of Local Transport of the City Hall Bytom with its
+registered office in Bytom, ul. Smolenia 35. The complaints are filled in writing (ul.
+Smolenia 35, 41-900 Bytom) or in electronic form (ai@um.bytom.pl);
+12. in Chorzów to the Communication Department of the Chorzów City Hall its registered
+office in Chorzów at ul. Rynek 1. The complaints are filled in writing (ul. Rynek 1, 41-
+500 Chorzów);
+13. in Zabrze to the Communication Department of the Zabrze City Hall at ul. Wolności
+286. The complaints are filled in writing (ul. Wolności 286, 41-800 Zabrze) or in
+electronic form (sekretariat_wk@um.zabrze.pl);
+14. in Ruda Śląska to the Department of Communication of the Ruda Śląska City Hall at
+Plac Jana Pawła II 6. The complaints are filled in writing (Plac Jana Pawła II 6, 41-709
+Ruda Śląska) or in electronic form (um_kom@rudaslaska.pl).
+D. Rules of filing and reviewing complaints
+1. Should any provision of the GTC-P be or become ineffective or invalid or should they
+contain a loophole, the effectiveness of the remaining provisions shall not be affected. A
+provision reflecting as close as possible to the economic purpose of the GTC-P shall be
+incorporated to replace the ineffective provision or fill the loophole.
+2. With regard to the data protection regulations, reference is made to the Privacy Policy
+Passenger, which can be found at free-now.com/pl/owu-pp-cookies/ .
+3. If the User is an entrepreneur, including natural person who (1) uses FREE NOW Services in
+direct connection to their business activity and (2) uses FREE NOW Services professionally,
+the exclusive place of jurisdiction for all disputes arising out of these GTC-P and a contract
+concluded with FREE NOW shall be FREE NOW’s registered head office.
+4. These GTC-P shall be governed by the Polish law, with the exclusion of the UN sales
+convention.
+5. FREE NOW will inform the User of amendments to these GTC-P. In case of FREE NOW
+services provided on the basis of a continuous legal relationship, e.g. the service of making
+the App available, the amendment will become effective when the User accepts the new
+version of the GTC-P in the App or after providing the User with a new version of GTC-P by
+email and the User's decision to continue using the App. If the User does not agree on the
+introduced changes, both the User and FREE NOW may terminate the contract concluded
+with FREE NOW with immediate effect. In case of FREE NOW services provided on the
+basis of a continuous legal relationship, e.g. the service of making the App available, the
+GTC-P may be amended during such relationship, in particular for the following reasons:
+a) the applicable legal provisions have been amended which requires amending the GTC-P,
+b) FREE NOW has introduced changes with respect to payment manners and the way of
+registering payments regarding FREE NOW Services,
+
+c) a new scope or manner of providing FREE NOW Services has been introduced or existing
+ones cancelled or changed,
+
+d) a new promotion relating to FREE NOW Services has been introduced or an existing one
+cancelled or changed by FREE NOW,
+e) FREE NOW has introduced technical changes to the App,
+
+f) editorial changes or updates of information (such as contact details indicated in the GTC-
+P) have been made,
+
+g) changes in the terms and conditions of cooperation between FREE NOW and third parties
+(e.g. carriers), requiring an amendment to the GTC-P.
+6. In case of one-off FREE NOW Services (e.g. the intermediary service), in each case the
+version of the GTC-P up to date as of the ordering of a service applies. In each case the
+User may read the up-to-date version of the GTC-P (in the App or at the FREE NOW
+website) before making a decision on ordering a service via the App. Additionally, the basic
+information on the terms of the service provision are displayed in the App before the User
+makes a decision on ordering a given service.
+7. In case of any issues, questions or problems, please contact FREE NOW through customer
+care. The contact details will be available through the App in the section “Contact” or on the
+FREE NOW website.
+8. Settlement of disputes may take place by way of out-of-court settlement of disputes. The
+European Commission provides a platform for online dispute settlement (OS), which is
+located at: ec.europa.eu/consumers/odr
+9. The User is informed that FREE NOW is not obligated nor willing to participate in the above-
+mentioned dispute settlement procedure.

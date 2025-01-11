@@ -1,0 +1,999 @@
+TERMS AND CONDITIONS OF ELECTRONICALLY SUPPLIED SERVICES BY BENEFIT
+SYSTEMS S.A.
+TERMS AND CONDITIONS
+OF ELECTRONICALLY SUPPLIED SERVICES
+BY BENEFIT SYSTEMS S.A.
+Table of contents:
+§ 1 General Provisions. Definitions
+§ 2 Rights and Obligations of the Service User. Account Registration
+§ 3 Withdrawal from, and Termination of the Account Agreement
+§ 4 Technical requirements. Particular risks of using electronically supplied services
+§ 5 Personal data
+§ 6 Intellectual Property Rights
+§ 7 Contact and Complaints
+§ 8 Liability
+§ 9 Amendments to these Terms and Conditions
+§ 10 Final Provisions
+Appendix 1 – terms and conditions of using kartamultisport.pl website
+Appendix 2 – terms and conditions of using multilife.com.pl website
+Appendix 3 – terms and conditions of using emultisport.pl website
+Appendix 4 – terms and conditions of using MultiSport mobile application
+Appendix 5 – Model withdrawal statement from the Account Agreement
+Appendix 6 – specimen form of the withdrawal from the MultiSport Card/ MultiLife Service
+Use Agreement
+§ 1 General Provisions. Definitions
+These Terms and Conditions have been drawn up to meet the obligation referred to in Article
+8(1)(1) of the Act of 18 July 2002 on Electronically Supplied Services. The Terms and Conditions
+set out the conditions and terms of using:
+kartamultisport.pl website, and
+multilife.com.pl website, and
+emultisport.pl website, and
+MultiSport Mobile App.
+§ 1 - 10 of the Terms and Conditions lay down common terms and conditions for Websites and
+the Application are presented in subpara. 1 above, while Appendices 1 – 4 of the Terms and
+Conditions lay down detailed provisions on individual Websites and the Application:
+Appendix 1 – relating to the kartamultisport.pl website,
+Appendix 2 – relating to the multilife.com.pl website,
+Appendix 3 – relating to the emultisport.pl website,
+Appendix 4 – relating to the MultiSport mobile application.
+If provisions of § 1 - 10 of the Terms and Conditions and of the Appendix differ between each other,
+provisions of the Appendix shall prevail.
+The Service User shall be bound by these Terms and Conditions (including provisions of the
+respective Appendix 1 – 4) which apply to that Website or the Application which the Service
+User uses (e.g. if the Service User does not use the emultisport.pl website, provisions of the
+Terms and Conditions relating to the emultipsort.pl website do not apply to that Service User).
+These Terms and Conditions shall be published in the appropriate tab of the Website or the
+Application, as mentioned in subpara. 1 above, the Service User may display and fix the text of
+the Terms and Conditions in any technically possible way.
+The following capitalised terms used in these Terms and Conditions shall have the following
+meaning:
+MultiSport Application, Application – a set of services and features available to the Service
+Users in the MultiSport mobile app, owned by Benefit Systems, designed for, but not limited to,
+the authentication of the right to use the services provided at a Facility (with a Mobile Card,
+without the need to present a plastic microchip Card) and verification of the Service User’s
+identity,
+Benefit Systems – Benefit Systems S.A., with its registered office in Warsaw, at the following
+address: Plac Europejski 2, 00-844 Warsaw, entered in the Register of Entrepreneurs in the
+National Court Register kept by the District Court for the Capital City of Warsaw, 13th
+Commercial Division of the National Court Register (KRS), with the KRS Number: 0000370919,
+NIP 836-16-76-510, REGON 750721670, e-mail address: bok@benefitsystems.pl, tel. no.: (22)
+242 42 42,
+Password – a sequence of letters, digital or other characters used to secure access to the
+Account of the Service User. The password must meet the following criteria: have at least 8
+characters, including one capital letter, one lower case letter, one digit and one special
+character (e.g. !, $, &),
+MultiSport Card, Card – a personal card issued by Benefit Systems, which entitles the User to
+use the MultiSport Program services available for a specific Card type. The Card may be in the
+traditional format of a plastic chip card bearing the User’s signature, or in the electronic format
+of a digital record in the Application, hereinafter referred to as the “Mobile Card”. The terms
+and conditions of use of the Card shall be defined in a separate "Terms and Conditions of Use
+of MultiSport Programme Cards" document, available at https://www.benefitsystems.pl/dla-
+ciebie/multisport/,
+Customer – an entity which has enabled the User to use the MultiSport Programme or the
+MultiLife Programme (in case of Employee Users, a Customer will typically be the User’s
+employer, and in case of Users who are Additional Persons, a Customer will typically be the
+Employer of the Employee User),
+Account – the individual account of the Service User maintained on his/her behalf by Benefit
+Systems, after his/her registration. The Account enables the Service User to use all features of
+the Websites and the Application available for a given Service User,
+Login – an individual identification of the Service User, required along with the Password in
+order to use the Account. The e-mail address of the Service User entered by the Service User
+during Registration shall be the Service User’s login,
+Mobile Card – MultiSport Card in the electronic form in the Application,
+Additional Person – a User who is not an Employee,
+Partner – an entity which provides services to the Users as part of the MultiSport Programme or
+the MultiLife Programme on the basis of a contract with Benefit Systems,
+Platform, eMultiSport Platform – website available at emultisport.pl designed for the
+administrative support of the MultiSport Programme and MultiLife Programme. A Service User
+may access eMultiSport Platform only if the Customer has enabled him/her to use that Platform,
+Employee – a natural person who is an employee of the Customer under a contract of
+employment or one who collaborates with the Customer under a contract of mandate, task-
+specific contract, cooperation agreement, service contract or on a different legal basis,
+Product – the MultiSport Card or the MultiLife Service, respectively,
+MultiLife Service – a personal product issued by Benefit Systems granting the User the right to
+use the services specified in the MultiLife Programme which are available for the given type of
+the MultiLife Service. The MultiLife Service is issued only in the form of an electronic record (i.e.
+the MultiLife Service number). The terms and conditions of use of the MultiLife Service shall be
+defined in separate “Terms and Conditions of Use of the MultiLife Programme” available at
+https://www.benefitsystems.pl/dla-ciebie/multilife/,
+Programme – the MultiSport Programme or the MultiLife Programme, respectively,
+MultiLife Programme – a programme comprising a selection of wellbeing services customized
+by Benefit Systems for the Customer and provided to the Users. A User may only participate in
+the MultiLife Programme if the Customer has enabled him/her to use the MultiLife Programme. A
+detailed description of the range of services available for the individual MultiLife Services shall
+be available from the benefitsystems.pl website, MultiLife tab,
+MultiSport Programme – a programme comprising a selection of sports and recreation
+services customized by Benefit Systems for the Customer and provided to the Users. A User
+may only participate in the MultiSport Programme if the Client has enabled him/her to use the
+MultiSport Programme. A detailed description of the range of services available for the
+individual Cards shall be available from the benefitsystems.pl website, MultiSport tab,
+Terms and Conditions – these terms and conditions, together with all the appendices hereto
+which constitute an integral part hereof,
+Registration – an activity performed in the manner specified in the Terms and Conditions,
+which must be completed by the Service User before all features of the Website and the
+Application, including the Account, which are available to the Service User can be used; this
+activity constitutes conclusion of the Account Agreement,
+MultiLife Platform – website available at multilife.com.pl, which is a collection of services and
+functionalities available to the MultiLife Service User after registration and logging into the
+MultiLife Platform, and a set of Service User’s data and settings related to operation of services
+after logging in,
+MultiSport Zone – website available at kartamultisport.pl, which is a collection of services and
+functionalities available to the MultiSport Card User after registration and logging into the
+MultiSport Zone, and a set of Service User’s data and settings related to operation of services
+after logging in,
+Website – website available at kartamultisport.pl or multilife.com.pl or emultisport.pl
+respectively, together Websites,
+Account Agreement – means a free-of-charge agreement of electronically supplied services,
+which is concluded between the Service User and Benefit Systems for an indefinite period of
+time, the object of which is to maintain the Account for the Service User,
+Service User – any person using the Website or the Application on terms specified in these
+Terms and Conditions,
+User – means a natural person who uses a MultiSport Programme or MultiLife Programme,
+§ 2 Rights and Obligations of the Service User. Account Registration
+Service Users may use the kartamultisport.pl or multilife.com.pl or the Application as
+unregistered or registered Service Users. Only registered Service Users who are Employees may
+use the Website provided that the Customer has allowed them to use the Platform.
+Upon the moment the Website or the Application is actually used by an unregistered Service
+User, an agreement of electronically supplied services is concluded, under which functionalities
+of the Website or the Application can be used in accordance with provisions of the Terms and
+Conditions. The agreement is terminated upon the moment the service is actually performed.
+Only Service Users who are at least 13 years old and have at least limited legal capacity may
+register an Account on the Website or in the Application.
+If the Service User is a Child under the age of 13, Registration on the Website or in the
+Application shall be made on behalf of the child by their parent or legal guardian.
+Each Service User may hold one Account only.
+For Registration purposes, the Service User should enter the data required in the registration
+form and accept the Terms and Conditions. Next, the Service User will receive the Registration
+confirmation and an activation link to the e-mail address of the Service User entered during
+Registration. The Service User should click the activation link to activate the Account. As soon
+as Registration is confirmed, an Account Agreement is concluded.
+Registration or logging in is also possible via third party authentication services selected when
+choosing the method of Registration or logging in (e.g. Apple, Facebook). To Register or log in
+using third party authentication services, the Service User must have an account with a provider
+of such a service. Logging in via a third party authentication service is possible only after a prior
+Registration via such a service.
+The Account of the Service User on the Websites and the Application is integrated in such a way
+that the Registration on one Website or Application allows the Service User to use other
+Websites and Applications after logging in, without the need to re-register (provided that the
+Website or Application are available to the Service User). Essentially:
+a. for Registration on the Website - the Service User logs into other Websites and Applications
+using the Login and Password entered on the Website,
+b. for Registration in the Application - the Service User logs into Websites using the Login and
+Password entered in the Application,
+c. in the event that the Service User’s Account is deleted from the Website, the Service User’s
+Account shall also be deleted from other Websites and the Application,
+d. in the event that the Service User’s Account is deleted from the Application, the Service User’s
+Account shall also be deleted from the Websites.
+Registration of an Account and its use shall be voluntary.
+Each Service User shall be obliged to use the Website and the Application solely for his/her own
+use and in a manner consistent with the content of these Terms and Conditions, legal
+regulations and good practices.
+The Service User shall be required to secure the data of the Account (Login and Password,
+Product number) against unauthorized access. The Service User should in particular make
+every effort to keep the Password confidential and not to disclose it to third parties. The Service
+User shall be required to immediately notify Benefit Systems in the manner specified in Article 7
+below of each and every breach of their Password or the Product number, and of any violation of
+the rules laid down in these Terms and Conditions. In that case, the Service User should change
+the Password immediately, using the appropriate functionalities within his or her Account.
+In particular, the following shall be forbidden:
+a. delivering illegal content or the Service User using the Website or Application contrary to these
+Terms and Conditions, provisions of law, good practices, or violating the personal rights of third
+parties and the rights and interests of Benefit Systems;
+b. modifying the Website or the Application;
+c. placing in or distributing via the Website or the Application any malicious software (including
+viruses and trojans) or other mechanisms that could cause a disruption in the operation of the
+Website or the Application or its functioning contrary to these Terms and Conditions;
+d. impersonating other people, providing false personal data or otherwise misleading as to the
+Service User’s identity;
+e. making available to third parties one's Account.
+If the Service User is found to have been using the Website or the Application in breach of the
+applicable regulations or these Terms and Conditions, and in particular that they engage in the
+practices described in subpara. 10-12 above, and particularly breach the security mechanisms
+of the Website or the Application or engage in other forms of hacking, Benefit Systems may,
+with immediate effect, block such Service User’s Account. Benefit Systems shall immediately
+notify the Service User of the blocking of the Account, and provide a reason for such a measure,
+to the e-mail address given by the Service User during registration. Benefit Systems may set a
+deadline for the User to reinstate compliance with law and these Terms and Conditions, and if
+the Service User adheres, Benefit Systems may unblock the Account.
+Benefit Systems may display information to Service Users on the Website on products and
+services available to Product holders, including information on Benefit Systems’ own products
+and services as well as the products and services of Benefit Systems’ counterparties who offer
+additional benefits to the Product holders (such as dietitian services, trainer services, medical
+and insurance services, as well as education and development services) in forms used over the
+Internet.
+The Service User who gives their consent may receive push messages on the Website, i.e. short
+messages that are displayed directly on the Website while the Service User is using the
+Website. The push messages may include administrative messages (such as information on a
+response to the Service User’s report, amendments to these Terms and Conditions, etc.), or
+information on products and services available to Product holders, including information on
+Benefit Systems’ own products and services as well as the products and services of Benefit
+Systems’ counterparties who offer additional benefits to the Product holders (such as dietitian
+services, trainer services, medical and insurance services, as well as education and
+development services). The Service User may switch off or configure the push messages in
+their browser settings.
+§ 3 Withdrawal from, and Termination of the Account Agreement
+[withdrawal from the Account Agreement] The Service User has the right to withdraw from
+the Account Agreement without cause within 14 days of conclusion of the Account Agreement.
+To exercise the right of withdrawal, the Service User must notify Benefit Systems of his/her
+decision by submitting a clear statement (for example a statement sent by post, by fax or by e-
+mail) to the following contact details: Benefit Systems S.A., Plac Europejski 2, 00-844 Warsaw,
+address: bok@benefitsystems.pl, tel. no. (22) 242 42 42. For this purpose, the Service User
+may use the form based on the specimen attached as Appendix 5 to the Terms and Conditions,
+which is not mandatory. In the event of a withdrawal from the Account Agreement, Benefit
+Systems shall immediately delete the Account on the Websites and in the Application. To
+comply with the time limit for withdrawal from the Account Agreement, the Service User needs
+to send a notice of exercise of the Service User’s right of withdrawal prior to the expiry of the
+time limit for withdrawal.
+[termination of the Account Agreement] The Service User may terminate the Account
+Agreement for convenience at any time. To exercise this right, the Service User must notify
+Benefit Systems of his/her decision using the following contact details: Benefit Systems S.A.,
+Plac Europejski 2, 00-844 Warsaw, address: bok@benefitsystems.pl, tel. no. (22) 242 42 42. In
+the event of termination of the Account Agreement, Benefit Systems shall immediately delete
+the Account on the Websites and in the Application, no later than within 14 days of the
+termination notice (time limit for termination).
+Service User’s withdrawal from or termination of the Account agreement is not equivalent to the
+User’s resignation from the MultiSport Programme (i.e. the MultiSport Card) or the MultiLife
+Programme (i.e. the MultiLife Service). The User may resign from the MultiSport Programme or
+the MultiLife Programme at any time subject to the terms and conditions of the agreement with
+the Customer. In order to resign from the MultiSport Programme or the MultiLife Programme, the
+User may contact the Customer or Benefit Systems in a manner specified in Article 7 below or, if
+the User has access to the eMultiSport Platform, he or she may effect the resignation through
+the Platform. Detailed rules for User resignation from membership in the MultiSport Programme
+or the MultiLife Programme are laid down in terms and conditions of these Programmes,
+available at benefitsystems.pl in the MultiSport or MultiLife tab respectively.
+The Service User may contact Benefit Systems in all matters related to Benefit Systems
+processing of personal data of the Service User and matters related to the exercise of Service
+User’s rights under the GDPR by using the contact form available
+at: https://www.benefitsystems.pl/formularz-dane-osobowe/, or by e-mail at
+daneosobowe@benefitsystems.pl, tel. no. (22) 242 42 42, address for correspondence: Benefit
+Systems S.A., Plac Europejski 2, 00-844 Warsaw. The data protection officer may be contacted
+by e-mail at iod@benefitsystems.pl, and by post at: Benefit Systems S.A. Pl. Europejski 2, 00-
+844 Warszawa, in an envelope marked “IOD”.
+Benefit Systems may terminate the Account Agreement with a 14 days notice (by sending the
+notice to the Service User by e-mail) for important reasons, such as the following
+circumstances:
+the lapse of uninterrupted 18 months or more since the Service User has not held a Product;
+the Customer’s decision to withdraw the Service User’s rights to use the MultiSport Programme
+or the MultiLife Programme;
+death of the Service User;
+gross breach of the Terms and Conditions by the Service User, i.e. situations when the Service
+User (closed catalogue) breaches provisions of § 2 subpara. 1, 3 – 7, 10 – 12 of the Terms and
+Conditions.
+In the event of termination of the Account Agreement, Benefit Systems shall delete the Account on
+the Websites and in the Application within 14 days of the termination notice.
+§ 4 Technical requirements. Particular risks of using electronically supplied services
+Benefit Systems shall ensure that Service Users can use the Website via the Internet using all
+popular Internet browsers, operating systems, computer types and Internet connection types.
+Benefit Systems does not warrant and will not be responsible for ensuring that any configuration
+option of electronic equipment held by the Service User will enable the use of the Website. The
+minimum technical requirements for using the Website, subject to the previous sentence, are as
+follows:
+a. a computer or another electronic device with at least 2 Mb/s in Internet bandwidth,
+b. Operating system: Windows 7 or higher, Mac OS X 10.7 or higher, Ubuntu 10 or higher,
+c. equipped with the latest version of the web browser: Google Chrome, Firefox, Microsoft Edge,
+Safari or Opera, which will support cookies and JavaScript.
+Benefit Systems represents that the public nature of the Internet network and the use of
+electronically supplied services may entail the risk of Service User’s data being intercepted and
+modified by unauthorized individuals. Service Users should therefore use appropriate technical
+measures to mitigate those risks. In particular, Participants should use anti-virus software and
+software protecting the identity of Internet users.
+Benefit Systems applies technical and organisational measures corresponding to the level of
+risk, including measures to prevent unauthorized interception and modification of personal data
+sent on the Internet, in order to ensure security of messages and data transferred over the
+Website. Benefit Systems ensures secure transmission of data transmitted via the Website
+through the use of HTTPS protocol and signing data from the Service User's device with SSL
+certificate.
+Primary potential risks of using the Internet include:
+a. malware;
+b. various types of applications or scripts which are harmful, criminal or malicious towards the
+network user IT system, such as viruses, worms, trojans, keyloggers, dialers;
+c. spyware;
+d. software that tracks the Service User’s activities, collecting information about the Participants
+and sending it, without the Service User's knowledge or consent, to the author of the software;
+e. spam;
+f. unwanted and unsolicited electronic messages distributed concurrently to multiple users, often
+of advertising nature;
+g. wrongful eliciting of confidential personal information (such as passwords) by pretending to be
+a respectable person or institution (phishing);
+h. attack on the Service User's IT system using such hacking tools as e.g. exploit rootkits.
+Protection against risks of the Service User’s use of the electronically supplied services is also
+afforded by:
+a. active firewall,
+b. updating of any type of software,
+c. not opening electronic mail attachments from unknown sources,
+d. reading installation windows of applications, and their licensing terms,
+e. deactivating macros in MS Office files of unknown origin,
+f. regular comprehensive scans of the system by anti-virus and anti-malware software,
+g. data transmission encryption,
+h. installation of prevention software (attack detection and prevention),
+a. using the original system and applications from legal sources.
+Detailed provisions on technical requirements and threats related to the use of electronically
+supplied services relating to the Application are presented in Appendix 4 – terms and conditions
+of using MultiSport mobile application.
+§ 5 Personal data
+The Benefit Systems shall be the controller of Service Users’ personal data.
+Detailed information on personal data processing is available
+at: https://www.kartamultisport.pl/obowiazek-informacyjny
+§ 6 Intellectual Property Rights
+Intellectual property rights to the Websites and Application and all content comprising or made
+available on the Websites or the Application, such as text, artwork, logotypes, icons, images,
+photos, audio and video files, data files, presentations, programs, navigation solutions,
+selection and layout of content presented on the Websites or the Application and any other data
+shall be protected (by copyright, protection rights to trademark and other exclusive rights)
+inuring to Benefit Systems or entities with which Benefit Systems has an agreement in place on
+the use of such content to run the Website or the Application. No part of the Websites and
+Application or content disseminated on the Websites and Application may be fixed, duplicated
+or disseminated in any form or manner and may not be traded without Benefit Systems' prior
+written consent.
+Use of the Website and the Application shall not result in the transfer of any intellectual
+property rights, in particular copyright to the Website or the Application or any part thereof, to
+the Service User. Upon acceptance of these Terms and Conditions, Benefit Systems shall allow
+the Service User to use the Website or the Application to the extent of its features as provided
+to the User and these Terms and Conditions, without territorial restrictions, for permitted
+personal use.
+§ 7 Contact and Complaints
+The Service User may contact Benefit Systems by post by writing to Benefit Systems S.A., Plac
+Europejski 2, 00-844 Warsaw, adding the name of the concerned Website or the Application, or
+by e-mail at: bok@benefitsystems.pl or by calling (22) 242 42 42. The call will be charged at the
+operator’s rate applicable to domestic calls.
+The Service User may lodge complaints related to the use of the Website, Application,
+MultiSport Programme or MultiLife Programme, at the discretion of the complaining person: by
+writing to the address of Benefit Systems: Plac Europejski 2, 00-844 Warszawa, with a notation
+“Reklamacja” [Complaint] or by e-mail to: reklamacje@benefitsystems.pl, with a notation
+“Reklamacja” [Complaint] in the message’s title.
+A complaint should contain data identifying the person lodging the complaint (full name, login,
+Product number), the exact mailing address or e-mail address for responding to the complaint
+as well as an indication of the reason for the complaint and the related request.
+A response to the complaint is provided within up to 14 days of the complaint being received by
+Benefit Systems. If the complaint does not contain the information necessary for reviewing the
+complaint, Benefit Systems will ask the complainant to supplement the complaint as necessary,
+and the time limit of 14 days shall run anew from the moment the supplemented complaint is
+submitted.
+A complaint shall be answered in writing or by e-mail, depending on how it has been lodged, to
+the address specified in the complaint letter/message.
+Complaints shall be considered in accordance with these Terms and Conditions and the
+provisions of law generally applicable in Poland.
+§ 8 Liability
+Benefit Systems may interrupt or disrupt provision of electronic services and provision of
+access to the Website or the Application if the reason for such interruptions or disruptions is:
+a modification, modernization, expansion or maintenance of the ICT system or Benefit Systems’
+software provided that Service Users are notified of that by means of a message posted on the
+Website or the Application;
+reasons beyond control of Benefit Systems (force majeure, acts or omissions by third parties
+which Benefit Systems is not liable for).
+The Website or the Application may contain links (connections) to websites that support the use
+of websites or electronically supplied services which are made available or provided by the
+Partners. Service Users shall use the websites and electronically supplied services from the
+Partners at their own risk. In addition, these Terms and Conditions shall not apply to the
+websites and electronically supplied services made available or provided by the Partners. In
+such case, terms and conditions defined separately by the Partners shall apply.
+Benefit Systems shall not be liable to Service Users for:
+1)      the Website being non-operational or difficulties in using the Website or the Application due to
+reasons attributable to the Service User;
+2)      the loss of the Password by the Service User or third parties learning the Password (regardless
+of the method used). However, Benefit Systems shall be liable if the Service User lost his/her
+Password or third parties learn the Password for reasons which Benefit is liable for;
+3)      damage caused by an act or omission by the Service User, in particular for the use of the
+Website or the Application by the User in a manner inconsistent with the applicable provisions of the
+law or these Terms and Conditions.
+Service Users may use the services available on the Website and in the Application depending
+on their health and fitness level.
+§ 9 Amendments to these Terms and Conditions
+For important reasons, Benefit Systems may make amendments to the Terms and Conditions.
+The Terms and Conditions may be amended for the following important causes:
+a. change of existing services, introduction of new services or discontinuation of some product or
+services by Benefit Systems;
+b. change to service provision methods;
+c. brand change;
+d. change necessitated by changes to any mandatory provisions of law or their interpretation;
+e. change necessitated by administrative decisions or a court ruling or another similar act (e.g.
+guidelines of competent bodies of public administration);
+f. technical change relating to the operation of the Website or the Application, including change or
+enhancement of the functionalities of the Website or the Application;
+g. change motivated by an improvement in the quality of service provision or enhancement of
+Service Users safety;
+h. prevention of violations of the Terms and Conditions or stopping their abuse;
+a. elimination of uncertainties or interpretation doubts concerning the Terms and Conditions;
+j. introduction by Benefit Systems of organisational or technological changes, including changes
+concerning the rules of serving Service Users, which affect the manner in which Service Users
+are served.
+Each Service User shall be notified of amendments to these Terms and Conditions by sending
+information of amendments to the Service User’s e-mail or additionally by posting information
+about amendments on the Website or the Application. The text of the current Terms and
+Conditions shall always be available in the relevant tab on the Website or the Application.
+Changes to these Terms and Conditions shall take effect on the date specified in the change
+notice, but not earlier than 14 days after notification of the change. In the event that the Service
+User does not accept the changes, he or she may terminate the Account Agreement (as
+specified in Article 3.2 hereof).
+§ 10 Final Provisions
+The Polish law shall apply to settlement of any disputes arising out these Terms and Conditions.
+Any such disputes shall be resolved by the common court of local jurisdiction.
+Service Users shall be advised by Benefit Systems of the possibility to have recourse to out-of-
+court complaint and redress methods. The rules of access to these procedures are available at
+the registered offices or on the websites of entities authorised to deal with out-of-court
+resolution of disputes. The entities include in particular consumer ombudsmen or Provincial
+Inspectorates of the Trade Inspection, the list of which is available on the website of the Office
+of Competition and Consumer Protection. Benefit Systems would like to inform you that there is
+an online system for resolving disputes between consumers and traders in the EU (the European
+Online Dispute Resolution (ODR) platform) available at http://ec.europa.eu/consumers/odr/.
+Benefit Systems shall not resort to out-of-court resolution of consumer disputes as referred to
+in the Act of 23 September 2016 on Out-of-Court Resolution of Consumer Disputes.
+These Terms and Conditions do not restrict or waive any rights of Service Users inuring to them
+under unconditionally applicable laws.
+Provisions of the generally applicable Polish law shall apply to matters not regulated by these
+Terms and Conditions.
+These Terms and Conditions shall come into effect on 14 February 2022.
+Appendix No. 1
+Terms and conditions of using kartamultisport.pl website
+For unregistered Service Users, the MultiSport Zone supports searching for Facilities and
+browsing of selected content, including information about the MultiSport Programme or the
+FAQ.
+Access to services in the MultiSport Zone shall only be provided to registered and logged-in
+Service Users who hold an active MultiSport Card.
+Access to services in the MultiSport Zone shall only be provided free of charge to Service Users
+who hold an active MultiSport Card. In addition, the Service User shall bear the cost of data
+transmission required to run and use the MultiSport Zone in the amount set by the
+telecommunications operator whose services the Service User uses.
+The Service User shall be able to use the following features in the MultiSport Zone:
+a. Service User’s Account,
+b. sports facility finder,
+c. services available under the MultiSport Programme to logged-in Service Users who hold an
+active MultiSport Card whose up-to-date range for a given Card type is available
+at www.benefitsystems.pl or kartamultisport.pl.
+Benefit Systems may allow Service Users to use other services than specified in subpara. 4
+above and described in the MultiSport Zone or after accepting separate terms and conditions of
+such service.
+When searching for a Facility, the MultiSport Zone uses the geolocation feature. The
+geolocation feature is disabled by default. The Service User may manually enable geolocation
+by granting consent to save the location of their device. Geolocation is not necessary for using
+the Facility search engine.
+Appendix 2
+Terms and conditions of using multilife.com.pl website
+For unregistered Service Users, the MultiLife Platform supports browsing of selected content,
+including information about the MultiLife Programme or the FAQ.
+Access to services on the MultiLife Platform shall only be provided to registered and logged-in
+Service Users who hold an active MultiLife Service.
+Access to services under the MultiLife Platform may be payable to Service Users holding an
+active MultiLife Service; the payment amount and charging terms shall be defined in the
+agreement with the Customer. In addition, the Service User shall bear the cost of data
+transmission required to run and use the MultiLife Platform in the amount set by the
+telecommunications operator whose services the Service User uses.
+The Service User shall be able to use the following features of the MultiLife Platform:
+a. Service User’s Account,
+b. services available under the MultiLife Programme to logged-in Service Users who hold an active
+MultiLife Service whose up-to-date range is available for a given type of Service at
+www.benefitsystems.pl or multilife.com.pl.
+Benefit Systems may allow Service Users to use other services than specified in subpara. 4
+above and described in the MultiLife Zone or after accepting separate terms and conditions of
+such service.
+Appendix 3
+Terms and conditions of using emultisport.pl website
+§ 1 Definitions. General provisions
+The following capitalised terms used in these Terms and Conditions shall have the following
+meaning:
+Acquirer – means an entity which handles the payment process,
+Business Days – weekdays from Monday to Friday, excluding public holidays,
+Delivery – means an actual act consisting in the delivery of a Product/Products to a User via the
+Customer. For a MultiLife Service, Delivery consists in the Operator sending the MultiLife
+Service number to the e-mail address of the User, which was entered when placing an order for
+the MultiLife Service,
+Platform User – means the Client or the Manager,
+Operator – means Benefit Systems,
+Payment – means payment of amounts due for User membership in a MultiSport Programme or
+MultiLife Programme under the Product Use Agreement,
+Terms of Use of MultiLife Services – means the terms and conditions of using the MultiLife
+Service as defined in separate “Terms and Conditions of Use of the MultiLife Programme”
+available at https://www.benefitsystems.pl/dla-ciebie/multilife/,
+Terms of Use of MultiSport Cards – means the terms and conditions of using the MultiSport
+Card as defined in separate “Terms and Conditions of Use of MultiSport Programme Cards”
+available at https://www.benefitsystems.pl/dla-ciebie/multisport/,
+Product Use Agreement – means an agreement for the provision of services under the
+MultiSport Programme or MultiLife Programme concluded between the Client and the Operator
+electronically via the Account under the rules set out in the Terms and Conditions, based on
+which the Operator provides the User with a service of membership in the MultiSport
+Programme or MultiLife Programme and delivers the ordered MultiSport Cards or MultiLife
+Services respectively that entitle the User to use the services set out in the MultiSport
+Programme or MultiLife Programme, and the Client, by making the Payment, finances or co-
+finances the cost of membership in the Programme. The Client may conclude the Product Use
+Agreement only if the Customer makes it possible for the Client under the Master Agreement,
+Master Agreement – means a service agreement concluded between the Customer and the
+Operator, which lays down the terms of membership in the MultiSport Programme or MultiLife
+Programme for the Users and the time limit for placing orders for the Products (MultiSport Cards
+or MultiLife Service), the period for which the Products can be ordered, the number of Products
+of a given type available to the Client and the possible scope of financing or co-financing of the
+cost of the Products by the Client,
+Client – an Employee with full legal capacity, who uses the Platform,
+Product Order – means a factual act performed by a Client using an Account that generates an
+obligation on the part of the Operator to provide the User with a service of membership in the
+MultiSport Programme or MultiLife Programme and deliver the products ordered (MultiSport
+Cards or MultiLife Services) or activate them so that the User is able to use the services
+specified in the Programme. The Client may Order the Product only if the Customer makes it
+possible for the Client under the Master Agreement,
+Manager – means the Employee who uses the Platform on behalf of the Customer authorised
+by the Customer to perform activities related to administration of the MultiSport Programme or
+the MultiLife Programme via the Platform, to the extent and under the rules laid down in the
+Master Agreement.
+Since the Master Agreement is the basis for using the Programme, before starting to use
+the Programme, the Platform User should obtain information about the scope and
+manner of using the Platform or the Programme and the Platform from his or her
+employer or the principal (Customer). The Operator makes available to Platform Users,
+through the Platform, information on the detailed rules of using the Programme and
+Platform, as well as information about available MultiSport Cards or the MultiLife
+Services. The current scope of services available for different MultiSport Card types and
+MultiLife Services is listed on www.benefitsystems.pl in the MultiSport or MultiLife tab
+respectively. The Operator may change the manner of Programme use by a particular
+Platform User only at the request of the Customer.
+§ 2 Registration. Use of the Account
+The Client shall Register in the manner described in § 2 of the Terms and Conditions unless the
+Master Agreement provides otherwise.
+The Manager shall Register as follows: The Operator creates the Manager’s Account using the
+Manager’s data provided in the Master Agreement. Then, the Operator sends the Account
+confirmation with an activation link to the Manager. The Manager should click the activation link
+to confirm the Registration, accept the Terms and Conditions and set up the Password. As soon
+as Registration is confirmed, an Account Agreement is concluded.
+The Master Agreement may provide for another method of Registration, of which the Platform
+User will be informed by the Operator or the Customer.
+The Client may use the following functionalities of the Platform: enter into Product Use
+Agreement or place Product Orders, order a Product duplicate, activate and deactivate the
+Product, perform other functionalities described on the Platform; the scope of functionalities
+available to the Client is defined in the Master Agreement.
+The Manager may use the following functionalities of the Platform: perform activities related to
+administration of the MultiSport Programme or the MultiLife Programme via the Platform (e.g.
+order a Product, order a Product duplicate, activate and deactivate the Product, perform other
+functionalities described on the Platform); the scope of functionalities available to the Client is
+defined in the Master Agreement.
+If the Operator or Customer terminates the Master Agreement, Benefit Systems shall block
+access to the Platform for Platform Users of that Customer, on the day the Master Agreement is
+terminated. Platform Users shall continue to have an Account and shall be able to use other
+Websites and Applications (other than the Platform).
+If the Customer decides to deprive the Platform User from the right to use the Platform or the
+MultiSport Programme or the MultiLife Programme, Benefit Systems shall block access to the
+Platform to that User from the day specified by the Customer. The Platform User shall continue
+to hold the Account and shall be able to use other Websites and Applications (other than the
+Platform).
+If the Customer ceases to pay amounts due under the Master Agreement, the Operator may
+block Platform access to Users of the Platform of that Customer. After the outstanding
+payments are made, the access will be unblocked.
+§ 3 Product Orders (if the Programme is fully financed by the Customer)
+A Client whose cost of membership or whose Additional Person’s cost of membership in the
+MultiSport Programme or MultiLife Programme is fully funded by the Customer places a Product
+Order to use the services provided as part of the Programme. The scope of services available to
+the Client results from provisions of the Master Agreement concluded between the Customer
+and the Operator, which specifically defines the rules of membership in the MultiSport
+Programme or MultiLife Programme, the rules and method of ordering MultiSport Cards or
+MultiLife Services, the expiry date of MultiSport Cards or MultiLife Services, the number of
+MultiSport Cards of a given type or the MultiLife Services available to the User.
+In order to place a Product Order for himself or herself, the Client selects the Product
+(MultiSport Card or MultiLife Service), agrees to the processing of personal data for the purpose
+of using services in connection with the MultiSport Programme or MultiLife Programme
+respectively, and accepts the Terms of Use of MultiSport Card or the Terms of Use of MultiLife
+Service, depending on the Programme which the User applies to.
+In order to place a Product Order for an Additional Person, a Client selects the Product
+(MultiSport Card or MultiLife Service) and enters the e-mail address of the Additional Person to
+whom the Operator will send information regarding the order for the Product so that the
+Additional Person can fill out the required data and grant their consent to the processing of
+personal data to use the services related to the MultiSport Programme or MultiLife Programme
+as applicable, and to accept the Terms of Use of MultiSport Cards or the Terms of Use of the
+MultiLife Services, depending on the Programme to which the Client enrols the Additional
+Person. The Additional Person will receive, at the indicated e-mail address, a notice requesting
+that the Additional Person fills out the data and grants consent to the processing of personal
+data in order to use the services in connection with the MultiSport Programme or MultiLife
+Programme respectively and that the Additional Person accepts the Terms of Use of MultiSport
+Cards or the Terms of Use of the MultiLife Services respectively. Granting of the consents
+mentioned above is necessary to receive the Product. The Client will receive a notice from the
+Operator requesting that the Additional Person supplements the data and grants their consent.
+If the Additional Person is a minor, the consent to the processing of personal data and to the
+approval of Terms of Use of MultiSport Cards or Terms of Use of MultiLife Services is granted by
+the parent or legal guardian of the minor.
+In the Master Agreement, the Operator and the Customer may agree on a different process of
+placing Orders than the process described in subpara. 2 and 3 above (e.g. the Operator may
+provide the Client with the option to attach a signed scan of a statement by an Additional
+Person or parent or legal guardian of the Additional Person who is a minor regarding the consent
+to processing of personal data for the purposes of using the services in connection with the
+MultiSport Programme or the MultiLife Programme or the Customer shall collect and archive
+relevant consents from Additional Person in writing).
+As soon as the Client submits a Product Order, an automatic message with a confirmation that
+the Product Order has been accepted will be sent to the e-mail address of the Client. The
+confirmation will also be available in the relevant tab in the Client’s Account. The confirmation
+will include the following information: Product type (MultiSport Card or MultiLife Service), the
+date from which the Product will be active and, if applicable, the period for which the Product is
+ordered.
+When the Client places the Product Order, the Operator will deliver the Product(s) in the manner
+and by the date specified in the Master Agreement.
+These provisions will not prevent the Client from ordering the Product for himself or herself at
+the same time, without making payment in accordance with this paragraph, and ordering the
+Product for the Additional Person with an obligation to make payment in accordance with article
+4 of this Appendix 4 to the Terms and Conditions (Product Use Agreement). In such a case,
+provisions of § 4 below apply to placing orders for Products for the Additional Person.
+§ 4 Product Use Agreement (if the Programme is financed or co-financed by the Client)
+ A Client who finances or co-finances the cost of membership in the MultiSport Programme or
+MultiLife Programme (for the Platform User or an Additional Person) enters into the Product Use
+Agreement to use the services provided as part of the Programme.
+Information about the detailed rules of using the Programme, in particular about the amounts
+and dates of Payments, is made available to the Client on the Platform in a manner which allows
+the Client to become familiar with such information before the Platform User commences the
+procedure of concluding the Product Use Agreement as described in the following paragraphs.
+The Product Use Agreement is concluded for an indefinite period of time and may be terminated
+with a notice effective at the end of the calendar month in which the notice of termination is
+made, unless the Master Agreement stipulates otherwise.
+In order to conclude the Product Use Agreement for himself or herself, the Client selects the
+Product (MultiSport Card or MultiLife Service), agrees to the processing of personal data for the
+purpose of using services in connection with the MultiSport Programme or MultiLife Programme
+respectively, and accepts the Terms of Use of MultiSport Card or the Terms of Use of MultiLife
+Service, depending on the Programme which the User applies to.
+In order to conclude the Product Use Agreement for an Additional Person, a Client selects the
+Product (MultiSport Card or MultiLife Service) and enters the e-mail address of the Additional
+Person to whom the Operator will send information regarding the order for the Product so that
+the Additional Person can fill out the required data and grant their consent to the processing of
+personal data to use the services related to the MultiSport Programme or MultiLife Programme
+as applicable, and to accept the Terms of Use of MultiSport Cards or the Terms of Use of the
+MultiLife Services, depending on the Programme to which the Client enrols the Additional
+Person. The Additional Person will receive, at the indicated e-mail address, a notice requesting
+that the Additional Person fills out the data and grants consent to the processing of personal
+data in order to use the services in connection with the MultiSport Programme or MultiLife
+Programme respectively and that the Additional Person accepts the Terms of Use of MultiSport
+Cards or the Terms of Use of the MultiLife Services respectively. Granting of the consents
+mentioned above is necessary to receive the Product. The Client will receive a notice from the
+Operator requesting that the Additional Person supplements the data and grants their consent.
+If the Additional Person is a minor, the consent to the processing of personal data and to the
+approval of Terms of Use of MultiSport Cards or Terms of Use of MultiLife Services is granted by
+the parent or legal guardian of the minor.
+In the Master Agreement, the Operator and the Customer may agree on a different process of
+entering into the Product Use Agreement than the process described in subpara. 4 and 5 above
+(e.g. the Operator may provide the Client with the option to attach a signed scan of a statement
+by an Additional Person or parent or legal guardian of the Additional Person who is a minor
+regarding the consent to processing of personal data for the purposes of using the services in
+connection with the MultiSport Programme or the MultiLife Programme or the Customer shall
+collect and archive relevant consents from Additional Person in writing).
+The Client indicates whether the use of the services specified in the Programme is to start
+before the lapse of the Product Use Agreement by selecting the appropriate option on the
+Platform.
+Next, the Client selects the “Payment” or equivalent instruction from the relevant Platform tab.
+Selecting a “Payment” or equivalent instruction means that an offer is placed with the Operator
+for entering into a Product Use Agreement. This offer is promptly accepted by the Operator by
+sending to the Client a confirmation of conclusion of the Product Use Agreement referred to in
+subpara. 9 and 10 below.
+As soon as the Client selects the “Payment” or equivalent instruction, an automatic message
+with a confirmation of conclusion of the Product Use Agreement will be sent to the e-mail
+address of the Platform User, as entered in the Account details. At this moment, the Product
+Use Agreement is entered into. The confirmation will also be available in the relevant tab in the
+Client’s Account.
+The confirmation of the Product Use Agreement conclusion will include, among others, the
+following information: Product type (MultiSport Card or MultiLife Service), the date from which
+the Product will be active, payment dates, the method and date of Product Delivery, Product
+expiry date if any, and a notice on the right of withdrawal from the Product Use Agreement.
+Upon conclusion of the Product Use Agreement and making the Payment, the Operator shall
+deliver the Product(s).
+The amount of Payment binding on the parties to the Product Use Agreement is the amount of
+financing or co-financing of the cost of Programme membership by the Client, is expressed in
+Polish zlotys and is indicated in the Platform when the Client orders the Product.
+The Client may instruct that Platform payments for services be made by the Operator in the
+form of recurring card payments.
+If such an instruction is placed, the Operator is responsible for the correct payment order.
+At any time during the term of the Product Use Agreement, the method of making payments
+may be changed.
+The Operator will issue accounting documents in accordance with governing provisions of the
+law for the costs of Programme membership incurred by the Client and paid through the
+Platform at the amount corresponding to the payment made.
+§ 5 Payments
+Payments made on the Platform by a bank transfer or payment card in connection with the
+Product Use Agreement will be processed by PayU S.A. with its registered office in Poznań at ul.
+Grunwaldzka 186, entered into the Register of Entrepreneurs kept by the District Court for
+Poznań - Nowe Miasto i Wilda in Poznań, 8th Commercial Division of the National Court Register,
+under KRS No.: 0000274399, NIP (Tax Identification Number): 779-23-08-495, REGON
+(statistical number) 300523444, as the Acquirer.
+After conclusion of the Product Use Agreement, the Client may choose the method of making
+payments:
+a. on his/her own, in which case the Client is obliged to order Payments to the Acquirer before
+commencement of each consecutive Settlement Period within the time limit specified in the
+Product Use Agreement, or
+b. via the Operator, in which case the Operator is obliged to order Payment to the Acquirer by the
+dates specified in the Product Use Agreement, without the need for the Client to submit
+instructions in this regard each time.
+A Client makes Payments on his/her own. The Operator will not charge the Client any fees for
+execution of Payments through the Acquirer.
+Failure to make the Payment by the date prescribed by the Product Use Agreement results in
+the Product being blocked, i.e. suspension of the right to use the services specified in the
+Programme. The Operator will not charge any Programme membership fees for the period of
+suspension.
+If the Product remains blocked due to failure to make the Payment for a period longer than 9
+consecutive months, the Operator may terminate the Product Use Agreement with a one
+month’s notice (i.e. one month before termination of the Agreement, the Operator will send an
+electronic message to the Client informing him or her about the planned termination of the
+Product Use Agreement).
+The Client may file any complaints due to non-performance or improper performance of
+Payment services to the Acquirer or to the Operator.
+§ 6 Withdrawal from the Product Use Agreement
+The Client may withdraw from the Product Use Agreement in whole or in part without stating the
+reason within 14 days of the date of conclusion of the agreement, i.e. from the date of receipt of
+the confirmation of its conclusion as referred to in article 4.9 and 4.10 along with the instruction
+on the right of withdrawal.
+To exercise the right of withdrawal, the Client must notify Benefit Systems of his/her decision by
+submitting a clear statement (for example a statement sent by post, by fax or by e-mail) to the
+following contact details: Benefit Systems S.A., Plac Europejski 2, 00-844 Warsaw, address:
+bok@benefitsystems.pl, tel. no. (22) 242 42 42. For this purpose, the Client may use the form
+based on the specimen attached as Appendix 6 to the Terms and Conditions, which is not
+mandatory. To comply with the time limit for withdrawal from the Product Use Agreement, the
+Client needs to send a notice of exercise of the Client’s right of withdrawal prior to the expiry of
+the time limit for withdrawal.
+When using Products issued to Additional Persons, withdrawal from the Product Use Agreement
+with respect to the product issued to the Employee also means withdrawal from the Product Use
+Agreement with respect to all Products issued to Additional Persons, unless otherwise specified
+in the Master Agreement.
+If the Client withdraws from the Product Use Agreement, the Operator shall refund the Client for
+the amounts paid by the Client as part of financing or co-financing of Product costs (including
+the costs of Product delivery, with the exception of additional costs arising out of the method of
+delivery as selected by the Client, other than the least expensive ordinary way of delivery
+offered by the Operator), using the same means of payment used by the Client, unless the
+Client specifically agrees to a different type of refund that does not involve any costs for the
+Client.
+The money will be refunded immediately, at the latest 14 days after the Operator receives of the
+Client’s notice of withdrawal from the Product Use Agreement.
+For MultiSport Product, if, at the Client’s express request, the use of the services specified in
+the Programme started before the end of the period for withdrawal from the Product Use
+Agreement as referred to in subpara. 1 above, the Client is required to pay for the services
+provided by the Operator in respect of the Card issued to the Employee and the cards issued to
+Additional Persons until withdrawal from the Product User Agreement, in the amount of 1/30 of
+the monthly fee for the use of the services specified in the Programme for each day on which
+such Services are used by the Client or Users who are Additional Persons. The Platform
+Operator may deduct this amount from the amount of refund for the services referred to in
+subpara. 5 above.
+For MultiLife Service, if the Product Use Agreement for a MultiLife Service is concluded less
+than 14 days before the date on which the MultiLife Service is activated and if, at the Client’s
+express request, the use of the services specified in the Programme started before the end of
+the period of withdrawal from the Product Use Agreement and the Client has been notified by
+the Operator of the loss of the right to withdraw from the agreement, then the Client will not be
+entitled to withdraw from the Product Use Agreement for the MultiLife Service (in accordance
+with article 38 (13) of the Act on Consumer Rights).
+Appendix 4
+Terms and conditions of using MultiSport mobile application
+§ 1 Definitions. General provisions
+The following capitalised terms used in these Terms and Conditions shall have the following
+meaning:
+Identity Document – a document which may be used to prove the User’s identity, showing his
+or her full name and photograph, issued by a public administration authority (in particular, an
+identity card, passport, residence card, driver’s license), a professional self-government
+authority (service card), primary school, secondary school, art college (school IDs) or tertiary
+schools (student IDs). An employee badge shall not be regarded as an Identity Document. An
+Identity Document shall also be accepted in the form of presenting the screen of the User’s
+mobile device showing his or her personal data via the mTożsamość (mIdentity) feature of the
+mObywatel (mCitizen) app,
+Child – a child of the Employee aged under 15,
+Kids Card – a Card issued by Benefit Systems to a Child, i.e. MultiSport Kids Card, MultiSport
+Kids Aqua Card, MultiSport Plus Dziecko Card, MultiSport Classic Dziecko Card, MultiActive
+Dziecko Card, MultiActive Kids Card, MultiSport Classic Kids Card, MultiSport Light Kids Card or
+MultiSport Light Dziecko Card,
+Student Card – a Card issued by Benefit Systems to Youths,
+Youth – a child of the Employee between the age of 16 and 26,
+Facility – a facility where sports and recreation services are provided as part of the MultiSport
+Programme,
+Confirmed Identity – a feature of the Application which confirms that the User’s identity has
+been verified.
+The Application can be downloaded from an application store appropriate for a given mobile
+device, including GooglePlay, Huawei AppGallery or AppStore.
+Service Users may use the Application as unregistered or registered Users.
+Any person who downloads the Application to his/her mobile device may use the Application as
+an unregistered Service User.
+Access to services in the Application shall only be provided to registered and logged-in Service
+Users who hold an active MultiSport Card (subject to services described in § 3 subpara. 1 and 2
+below).
+§ 2 Technical Requirements
+A mobile device with access to the Internet (a mobile phone or a tablet) shall be required for
+downloading the Application.
+Use of the Application shall require a mobile device (a mobile phone or a tablet) with the
+Android or iOS operating systems in at least the following versions: Android v. 8.0, iOS v. 14.0
+and Internet connection.
+The technical security measures provided within the Application shall include:
+d. encryption of API connection using SSL,
+e. authorization using an OAuth server.
+Benefit Systems represents that the public nature of the Internet network and the use of
+electronically supplied services may entail the risk of Service User’s data being intercepted and
+modified by unauthorized individuals. Service Users should therefore use appropriate technical
+measures to mitigate those risks. In particular, Service Users should use anti-virus software and
+software protecting the identity of Internet users. Benefit Systems shall never ask the Service
+User to provide their Password in any form.
+§ 3 Functionalities
+In case of unregistered Service Users, the Application enables searching for Facilities and
+sharing the Application with other Service Users, as well as Service Users can browse selected
+content, including information about the MultiSport Programme, contact details and FAQ.
+A Service User registered and logged in to the Application may use all features available to
+unregistered Service Users and the following features available only to registered Service Users:
+a. Service User’s Account,
+b. pedometer,
+c. evaluating the Application and leaving comments about the Application in the additional “Rate
+Application” module,
+d. other services described in the Application for logged-in Service Users.
+A Service User registered and logged in to the Application who holds an active MultiSport Card
+may use the features specified in subpara. 1-2 above, and the following additional features:
+a. access to the video content,
+b. adding Facilities searched in the search engine to the “Favourites" category and giving opinions
+on the Facilities,
+c. connecting the Mobile Kids Card to the Service User Account – feature available only to
+Employee Service Users,
+d. making the Mobile Kids Card available to other Service Users registered in the Application
+(excluding other Kids Card Service Users) – feature available only to Employee Users,
+e. Confirmed Identity,
+f. other services described in the Application for logged-in Service Users who hold an active
+MultiSport Card.
+When searching for a Facility, the Application uses the geolocation feature. The geolocation
+feature is disabled by default. The Service User may manually enable geolocation by granting
+consent to save the location of their mobile device. Geolocation is not necessary for using the
+search engine.
+[connecting a Mobile Kids Card to the Service User’s Account] A Service User who is an
+Employee may only connect to his/her Account the Kids Card issued to him/her for a Child
+registered in the MultiSport Programme by that Service User. After confirmation of the
+connection, the Mobile Kids Card will be displayed in the Account of the Service User as an
+Additional Mobile Card.
+[making the Mobile Kids Card available to other Service Users registered in the
+Application (excluding other Kids Card Service User)] Having connected the Mobile Kids
+Card to his or her Account, the Employee who is the Service User may use the feature
+consisting in making the Mobile Kids Card available to other Service Users registered in the
+Application (including Student Card Users, but excluding other Kids Card Users). After
+confirmation of the connection, the Mobile Kids Card will be displayed in the Account of the
+Service User as an Additional Mobile Card. If the Mobile Kids Card is made available to a Student
+Card User who is under 18 years of age, when visiting the Facility, the Student Card User and
+the Kids Card User should report at the Facility reception (except for the Swimming Pool Facility)
+that they are minors and present their parent's or legal guardian's consent to the visit in
+accordance with the terms and conditions in force at the Facility.
+[Confirmed Identity] In order to obtain a Confirmed Identity, the Service User should carry out
+the process of verifying his/her identity as follows:
+a. The Service User should upload his/her photo from the memory of his/her mobile device to the
+Application, and then
+b. The Service User should present at the Facility the identity document and the Application with
+the photo referred to in point a) above, together with the QR code or token number used to
+confirm identity generated in the presence of the Facility staff. After confirmation of the identity
+in the Facility, the Service User obtains the status of a Service User with the identity verified in
+the Application, which will be automatically marked in the Application with the annotation
+"Confirmed" on the Service User Account in the Application,
+c. the verification of the Child's identity may be carried out both by the Service User who has
+enrolled the Child in the MultiSport Programme and by the Service User to whom the Child's
+Mobile Kids Card has been made available. In any case, in order to verify the identity of the
+Child, it shall be necessary to show the Child's identity document at the Facility (which does not
+apply to Children not subject to the schooling obligation),
+d. The Service User may carry out identity verification at most Facilities; in order to confirm that a
+specific Facility enables such identity verification, the Service User should check this at the
+website at www.benefitsystems.pl/MultiSport/ via the Website’s Facility search engine or via the
+Application’s “Search” tab before visiting such Facility.
+If the Service User verifies his or her identity in the Application and obtains a Confirmed Identity,
+he or she may not change his or her photo on a given mobile device (referred to in subpara.
+8(a)) for the duration of the photo change blockade (indicated in the Application). During that
+time, the Service User may change the photo on a given mobile device by contacting Benefit
+Systems at the address: bok@benefitsystems.pl.
+The Confirmed Identity shall be valid on a given mobile device only. If the mobile device is
+changed or if several devices are used, the Service User should verify the identity on the new
+(next) device again.
+[pedometer] The Service User may use the feature consisting in displaying in the Application
+information on the number of steps taken by him/her on a given day and month, starting from
+the moment of commencing the use of the pedometer. Data on the number of steps will be
+collected:
+a. from the Google Fit or HUAWEI Zdrowie service – for Android mobile devices,
+b. from the HealthKit service – for iOS mobile devices.
+In order to use this feature, the Service User should:
+a. have an account in GoogleFit or HUAWEI Zdrowie application or have active HealthKit service,
+depending on the operating system available on the Service User's mobile device,
+b. connect the GoogleFit or HUAWEI Zdrowie or HealthKit service with the Application and give the
+Application permission to display and store the number of steps.
+The data obtained by Benefit Systems from the services indicated in this section do not constitute
+special categories of personal data, nor will they be used to assess the Service User's health.
+The Service User may receive push messages, i.e. short messages that are displayed directly on
+the screen of the Service User’s mobile device while the Service User uses or does not use the
+Application, containing administrative information (e.g. information about responding to the
+Service User’s request, amendments to these Terms and Conditions, etc.). If the Service User
+agrees, he or she may receive push messages displayed directly on the screen of the Service
+User’s mobile device when the Service User is or is not using the Application, with information
+on products and services available to Cardholders, including information on Benefit Systems’
+own products and services as well as the products and services of Benefit Systems’
+counterparties who offer additional benefits to the Cardholders (such as dietitian services,
+trainer services, medical and insurance services, as well as education- and development
+services). The Service User may switch off or configure the Push messages in the Application
+settings.
+The Application may allow Service Users to use additional services upon acceptance of
+separate terms and conditions governing a given service.
+§ 4 Using a Mobile Card and a Confirmed Identity
+Only logged-in Service Users who hold an active MultiSport Card may use a Mobile Card and
+Confirmed Identity.
+In order to use the services of a Facility as part of the MultiSport Programme using a Mobile
+Card, it shall be necessary:
+a. for the Service User to hold an active MultiSport Card,
+b. to log in to the Application and, in the case of a Mobile Kids Card, log in to the Child's Account
+in the Application or add a Mobile Kids Card to the Service User's Account or make the Mobile
+Kids Card available to another Service User,
+c. to generate a QR Code or token number,
+To generate a QR code or token number an Internet connection is required.
+If there is no Internet connection, the Service User can generate a QR Code or token number offline.
+The screen with the QR Code generated should show "Offline Code". The Service User will be able to
+use the QR Code or token number offline when he/she first generates a QR Code or token number
+online when he/she has access to the Internet.
+d. presenting a valid QR Code or a valid token number to be scanned at the Facility together with:
+i. an Identity document, or
+ii. a Confirmed Identity.
+In most Facilities, the Service User may present a Mobile Card with a Confirmed Identity in order to
+use the services available at the Facilities. In order to verify whether a given Facility accepts a Mobile
+Card with a Confirmed Identity, the Service User should check this on the following website before
+visiting the Facility at www.benefitsystems.pl/MultiSport/ in the Facilities search or in the “Search” tab
+of the Application;
+e. if a QR code or token number cannot be generated in the Application, the Service User may
+obtain a QR Code or the token number with information necessary to use the services provided
+by the Facility (forename and surname of the Service User, Card type and number, information
+about the Confirmed Identity status “Confirmed”, “Unconfirmed”, and if uploaded to the
+Application – Service User’s photo) to the e-mail address of the Service User which is the
+Service User’s Login in the Application.
+A QR Code or token number must be generated in the Facility immediately before using the
+service of the Facility.
+The QR Code and token number shall be one-time and they shall have a specific duration
+indicated each time in the Application.
+Cancelling a visit to the Facility shall require the generation of a separate QR Code or token
+number and their presentation to Facility personnel.
+The User shall not be able to use the Facility’s services unless he or she has complied with the
+prerequisites specified in these Terms and Conditions, the terms of the Card, or the house rules
+of the Partner’s Facility specified by the Partner, in particular:
+a. in the event that the data on the Card or displayed by the Application on the Mobile Card does
+not match the data in the Identity Document;
+b. in the event that the Service User carries no Card and does not use the Mobile Card;
+c. in the event that the Service User carries no Identity Document, and at the same time does not
+use a Confirmed Identity in the Application.
+Benefit Systems shall have the right to deactivate a Confirmed Identity or block the Service User
+from using the Mobile Card in the following cases:
+a. using the Confirmed Identity or the Mobile Card by the Service User in contravention of these
+Terms and Conditions, in particular if the Service User is not a Cardholder or if he/she uploaded
+a photo of a person other than the Cardholder into the Application to obtain a Confirmed
+Identity;
+b. reasonable suspicion of use of the Confirmed Identity or Mobile Card by unauthorised persons;
+c. use of the Mobile Card for a purpose which only serves to reduce the functionality of the
+Application by deliberately limiting its availability or overloading its capacity;
+d. reasonable suspicion of any unauthorised operations related to the use of the Confirmed
+Identity or Mobile Card.
+Using the Application, including the Mobile Card, or deleting an Account in the Application shall
+not affect the Service User's ability to continue using the plastic version of the Card with a chip.
+§ 5. Personal Data
+The Controller of the Service User's personal data and – in the event that a Mobile Kids Card is
+added to the Service User’s Account – of the Service User's Child, is Benefit Systems.
+Detailed information on the processing of personal data is available in the “Consent” tab of the
+Application, after selecting the “More” option and then the “Settings” option.
+Appendix 5
+Model withdrawal statement from the Account Agreement
+To submit a notice of withdrawal from the Agreement for maintaining an account on the Website / in
+the Application with Benefit Systems, the following form of the notice may be used:
+Benefit Systems S.A.
+Plac Europejski 2
+00-844 Warsaw
+bok@benefitsystems.pl
+I ………………………………. hereby withdraw from the Agreement for maintaining an account in the Website
+/ Application: ……………………………….
+Full name………………………………………………………….
+Login on the Website / in the Application……………………………………………………………
+Appendix 6
+Specimen form of the withdrawal from the MultiSport Card/ MultiLife Service Use Agreement
+To submit a statement of withdrawal from the Agreement for the Use of the Product, the following
+model statement may be used:
+Benefit Systems S.A.
+Plac Europejski 2
+00-844 Warsaw
+bok@benefitsystems.pl
+I hereby terminate the MultiSport Card/MultiLife Service Use Agreement.
+User’s first name and surname: ………………………………………………………….
+E-mail address used to set up the Platform account: ………………………………………………………………
+Number of the MultiSport Card / MultiLife Service of the User (if the MultiSport Card / MultiLife
+Service is not delivered to the User, leave this field blank) …………………………………………………
+SCOPE OF WITHDRAWAL:
+resignation from the MultiSport Card / MultiLife Service of the Employee: YES*/NO (mark as
+appropriate):
+* In accordance with the Terms and Conditions, resignation from the MultiSport Card/MultiLife
+Service by the Employee means resignation from all Cards/ Products of Additional Persons.
+or
+resignation from the MultiSport Card / MultiLife Service of the Additional Person
+(accompanying persons, children, young people, senior citizens) YES/NO* (mark as
+appropriate):
+Full name of the additional person: …………………………………………………………………….…
+Full name of the additional person: …………………………………………………………………….…
+Full name of the additional person: …………………………………………………………………….…
+Full name of the additional person: …………………………………………………………………….…
+Full name of the additional person: …………………………………………………………………….…
+Full name of the additional person: …………………………………………………………………….…
+Full name of the additional person: …………………………………………………………………….…
+Full name of the additional person: …………………………………………………………………….…
+* In accordance with the Terms and Conditions, no Cards/ Products of Additional Persons can be left
+available if the Employee resigns from the MultiSport Card/MultiLife Service.
+Name of the Employee’s employer** …………………………………………………..
+Number of bank account to which the refund is to be made** ………………………………………………
+** Optional data; provision of such data will speed up application processing.

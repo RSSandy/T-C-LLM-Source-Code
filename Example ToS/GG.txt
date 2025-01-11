@@ -1,0 +1,287 @@
+Term of Use of GG Platform
+Effective as of 20/05/19
+Section I: General.
+Section II: Types and scope of the Service covered by the Term of Use.
+Section III: Terms and conditions of the Service.
+Section IV: The terms for entering into an agreement and terminating it, and commencement of the
+Service.
+Section V: Liability.
+Section VI: Intellectual property.
+Section VII: Complaint procedure.
+Section VIII: Final provisions.
+Section I. General.
+1. The following provisions constitute the Terms of Use (hereinafter: the “Terms”) referred to in 
+art. 8 of the Act on Provision of Electronic Services of 18 July 2002 (Journal of Laws 2002 no. 
+144, item 1204, as amended; hereinafter: the “Act”). 
+2. The Terms specify the rules of providing electronic services by Fintecom Sp. z o.o. with its 
+registered office in Koszalin, at the address: ul. Marszałka Piłsudskiego 45 75-502 Koszalin, 
+entered into the Register of Entrepreneurs of the National Court Register kept by the District 
+Court in Koszalin, IX Commercial Division, under the number 0000362067 (hereinafter: 
+“Fintecom”) on Internet communication platform available through Fintecom 
+teleinformation system (hereinafter: the “Platform”). 
+3. Fintecom teleinformation system consists in a set of interacting IT devices and software that 
+allows to process, handle, send and receive the data through telecommunication networks, 
+using a terminal equipment suitable for a given type of network. 
+4. The provision of electronic services by Fintecom consists in providing you with certain 
+functionalities of the Platform (in some cases together with the software necessary to use 
+them) that have certain characteristics (hereinafter: the “Functionalities”) by sending and 
+receiving data through teleinformation systems, at your request, without the simultaneous 
+physical presence of the parties, whereby the data is transmitted through public networks 
+(hereinafter: the “Service”). 
+5. The Service is provided to: 
+1. natural persons having full or partial legal capacity who are over 16 years old; 
+2. other entities having full or partial legal capacity under other regulations, who 
+accepted the Terms and entered into the agreement on provision of the Service 
+(hereinafter: “You”/”User”). 
+6. Fintecom, at the address: https://www.ggapp.com/info/threats/ provides the information 
+referred to in art. 6 of the Act. 
+7. The Service is provided free of charge. Certain Functionalities of the Service may be paid. 
+8. The provision of the Service free of charge commences after you start to use the available 
+Functionalities of the Platform. 
+9. Making paid Functionalities available to you occurs at your request, after accepting the 
+Terms of the paid provision of the Service. 
+Section II: Types and scope of the Service covered by the Term 
+of Use.
+1. Fintecom provides several Functionalities on the Platform. 
+2. The Functionalities are in particular: 
+1. sending text messages, 
+2. sending graphical messages, 
+3. sending graphical text messages, 
+4. sending compressed multimedia messages, 
+5. archiving the messages sent; 
+6. making available the space in the resources of the Fintecom teleinformation system 
+(hosting) to store the data (files) and to synchronize them between the 
+teleinformation system and users’ devices, 
+7. sharing the data (files) entered into the system with other Users, 
+8. providing the possibility to use the applications extending the Functionalities, made 
+available by Fintecom and third parties. 
+3. On the Platform, Fintecom provides information, instructions and explanations regarding the
+Service or Functionalities, either in a distinguished form (among others graphic fields, pop-
+ups etc.) or by referring to instruction manuals, when you perform certain actions using the 
+tools or the software made available by Fintecom as part of the Service. 
+4. Fintecom updates the data referred to in Article 3 if the scope of the Service or 
+Functionalities changes. 
+5. Fintecom, at the address: https://www.ggapp.com/info/technical-parameters-of-the-service/
+provides the information about the changes of the parameters related to the Functionalities. 
+6. The Platform also allows access to applications made available by third parties. In such a 
+case the application is not a part of the Platform and using it does not constitute the usage of
+the Service, of which you will be notified before starting to use a given application, and the 
+data required to use such application teleinformation system is transferred from Fintecom at 
+your request and at your own risk. Finishing the installation of the application made 
+available by a third party on the Platform is equivalent to you requesting Fintecom to 
+transmit certain data, including your personal data (with your consent) from Fintecom 
+teleinformation system. Uninstalling a given application made available by third parties 
+means that you withdraw your consent to transmit the data. 
+Section III: Terms and conditions of the Service.
+1. Provision of the Service requires you to have at your disposal a teleinformation system that 
+meets the following minimal technical requirements: 
+1. Internet connection, 
+2. terminal equipment, 
+3. in some cases using a software allowing to read the files in various formats (among 
+others images, sounds, multimedia, text, videos etc.). 
+2. Fintecom data entry and retention policy is available here: 
+https://www.ggapp.com/info/privacy-policy/, and technical requirements are available at 
+the address: https://www.ggapp.com/info/technical-conditions/. 
+3. If Fintecom makes the available software to use a given Functionality, you have a right to use 
+it within a scope of such Functionality only with Fintecom software or the software of third 
+parties made available by Fintecom and with its consent. If in such a case you use the Service
+or its Functionalities with the software from entities other than Fintecom or the software of 
+third parties made available without a consent from Fintecom, you are in breach of the 
+Terms. At the address: https://www.ggapp.com/info/list-of-authorised-software/ Fintecom 
+provides the information about the software that is intended for the use of a given 
+Functionality and made available by Fintecom. 
+4. Fintecom shares the data chosen and entered by you in the teleinformation system with 
+other Users in order to provide services to them. 
+5. You may stop using the Service at any moment. 
+6. You are obliged to: 
+1. comply with the law, Terms of Use, good manners and generally applicable rules of 
+using the Internet; 
+2. use the Service in a manner that does not violate the rights of Fintecom or third 
+parties; 
+3. refrain from mass registration of GG accounts for the purposes that are not 
+compatible with the purpose of the Service. 
+7. You are obliged to refrain from any unlawful activities while using the Service, in particular: 
+1. using the Service directly or indirectly for the purpose contrary to the law, the Terms 
+of Use, good manners or generally applicable rules of using the Internet; 
+2. using the Service in a manner that violates the rights of Fintecom or third parties; 
+3. using the Service with the software different than the software of Fintecom or the one 
+belonging to third parties and made available by Fintecom; 
+4. transmission by or to the Fintecom teleinformation system the data which: 
+1. cause the disruption or overloading of the Fintecom teleinformation system or 
+the system of third parties directly or indirectly taking part in the provision of 
+the Service; 
+2. provide an unsolicited commercial communication addressed to a designated 
+recipient within the meaning of the Act (Spam); 
+3. in other way violate the law, the Terms, rights of Fintecom or third parties, 
+good manners, generally applicable rules of using the Internet. 
+8. Fintecom uses technical systems in order to prevent misuse of the Services. 
+9. Fintecom may permanently or temporarily cease to provide the Service or Functionality to 
+you if: 
+1. you violate the law, the Terms, rights of Fintecom or third parties, good manners, 
+generally applicable rules of using the Internet or there is a reasonable suspicion that 
+you did so (temporarily, until clarification is obtained); 
+2. you refuse to consent to the change of the Terms of Use in time specified in Article 2 
+(1) in the Section VIII of the Terms of Use. 
+10.Permanent or temporary cessation of the Service provision may occur, inter Alia, as a result 
+of the following breaches: 
+1. sharing or sending the content that is pornographic, racist, outrages religious 
+feelings, incites hatred or violence, and the content that is indecent, offensive or 
+violates the law or good manners; 
+2. use of threats, harassment, stalking or other activities violating the rights of third 
+parties (violations reported by other Users), 
+3. misuse of image, identity theft or impersonation; 
+4. fraud, information theft, software piracy or copyright infringement; 
+5. fishing the data, unauthorized data capture, damage of data integrity; 
+6. other activities that violate the Terms, good manners, generally applicable rules of 
+using the Internet, generally applicable law, rights of Fintecom or third parties. 
+11.Permanent cessation of the Service provision means an immediate termination of the 
+agreement and is irreversible. Permanent cessation of the Service provision may also cause 
+deletion of all the data that you entered into the Fintecom teleinformation system, unless: 
+1. the law provides otherwise; or 
+2. deletion of all your data from the Fintecom teleinformation system is impossible due 
+to the character of the Service or Functionality. 
+12.Temporary cessation of the Service provision results in the limitation of your use of: 
+1. the Service; or 
+2. its Functionalities. 
+Temporary cessation of the Service provision may be revoked after you provide appropriate 
+explanations on the matter of violations.
+13.Fintecom may process the data of the User to whom it ceased to provide the Service for the 
+purpose and in the scope necessary to clarify the circumstances of a prohibited use of the 
+Service. 
+14.Under art. 14 (2-3) of the Act, Fintecom has a right to prevent (block) access to the data 
+entered by you to the teleinformation system of Fintecom in the case of: 
+1. receiving an official notice of unlawfulness of the data stored or the activities related 
+to it, 
+2. receiving a credible information or in any way becoming aware of the unlawful 
+character of the data stored or the activities related to it. 
+15.In the situation referred to in Article 14 Fintecom immediately notifies you of its intention to 
+prevent (block) the access to the data. The notification shall be sent to your GG Number. 
+16.Fintecom reserves the right to block the registration of GG account if the attempts are made 
+for a mass registration of accounts for the purposes violating the Terms or not compatible 
+with the purpose of the Service. 
+Section IV: The terms for entering into an agreement and 
+terminating it, and commencement of the Service.
+1. The provision of the Service requires a registration of the GG account. 
+2. During the registration we require you to provide certain data, including your personal data 
+(with your consent). 
+3. Upon registration you confirm that you are more than 16 years old and that you take 
+responsibility for the correctness of the data provided. If you provide false personal data, 
+some of the Functionalities may be unavailable until the data is corrected. 
+4. After the registration process, the User is assigned a unique identifier (GG number) which 
+enables the use of Services. The User is not entitled to dispose of the GG Number in a manner
+other than as specified in the Regulations. 
+5. If the User terminates the Service Agreement (account deletion) or in the event of 
+termination of the contract for the provision of the Service by Fintecom due to the use of the 
+Service by the User in a manner inconsistent with the Regulations: 
+1. The User loses the right to use the GG Number, 
+2. Fintecom has the right to assign the GG Number to another User, 
+3. For GG numbers purchased in the official GG Store ( https://shop.gg.pl/ ), Fintecom 
+has the right to assign the GG Number to another User after a period of at least 24 
+months since the last login to the GG Service. 
+6. The agreement on the provision of the Service is concluded at the moment of accepting the 
+Terms and commencement of the Service provision. 
+7. You access the Service with a login and password. 
+8. The agreement on the provision of the Service is terminated: 
+1. at your request, or 
+2. by Fintecom, in the situations indicated in the Article 8 in the Section III of the Terms, 
+subject to the provisions of Articles 9–14. 
+9. The Service Agreement may be terminated by Fintecom if not used (understood as not 
+logging in to the Service) continuously for the period of: 
+1. At least 12 months 
+2. At least 24 months – for GG numbers purchased from the official GG Store 
+10.Termination of the agreement on the provision of the Service may cause the deletion of all 
+your data from the Fintecom teleinformation system, unless: 
+1. the law provides otherwise; or 
+2. deletion of all your data from the Fintecom teleinformation system is impossible due 
+to the character of the Service or Functionality. 
+11.If you made more than one registration the result of terminating the agreement on the 
+provision of the Service will affect only the Service with a relevant GG Number. 
+12.The Personal Data Controller is Fintecom. 
+13.The rules of processing the personal data with regard to using the Service are provided in the
+Privacy Policy. 
+Section V: Liability.
+1. You are responsible for all the actions taken after logging into the Service. 
+2. You use: 
+1. the Service, in accordance with the Terms 
+2. services provided by third parties, at your own risk. Using the services made available 
+in the GG messenger by third parties does not does exclude or limit the liability of 
+Fintecom related to the provision of the Service, to the extent that it cannot be 
+excluded or limited by law. 
+3. Fintecom is liable to the Users for failure to perform or an improper performance of the 
+Service to the extent pursuant to the Terms, unless failure to perform or an improper 
+performance of the Service is a consequence of circumstances for which Fintecom is not 
+responsible under the law. 
+4. Pursuant to art. 14 of the Act, Fintecom is not responsible for the data entered by the Users 
+and stored in the Fintecom teleinformation system. 
+5. According to Article 13 of the Act, Fintecom is not responsible for the data transmitted, as it 
+provides automatic and indirect storage of the data in order to ensure fast access to them at 
+the request of other entity (another User). 
+6. Fintecom is not responsible for the consequences of failure to perform or an improper 
+performance of the commitments made to you by other Users. 
+7. Fintecom is not responsible for any consequences of using the applications which are 
+accessible on the Platform but made available by third parties, of which you will be notified 
+before using the application. 
+8. Fintecom is not responsible for: 
+1. deletion of the data entered by the Users to the Fintecom teleinformation system 
+from the systems not controlled by Fintecom, 
+2. consequences of using the Service or its Functionalities with software different than 
+the software of Fintecom or the one belonging to third parties and made available by 
+Fintecom, indicated at the address: https://www.ggapp.com/info/list-of-authorised-
+software/ (the list of the authorized software). 
+3. consequences of sharing a login and password with third parties. 
+9. The Terms shall be applied taking into account the rights of Users resulting from consumer 
+laws. 
+Section VI. Intellectual property.
+1. Fintecom has intellectual property rights to the works, within the meaning of the Act on 
+Copyright and Related Rights Act of 4 February 1994 (Journal of Laws no. 24, item 83, as 
+amended), markings and trademarks shared on the Platform, to the extent necessary to 
+provide the Service. 
+2. Works, markings and trademarks shared in the Service and for the purpose of providing it are
+protected by the law. 
+3. You have a right to use the works within the framework of permitted private use provided for 
+by legal regulations. 
+4. Any use beyond the permitted private use requires obtaining prior consent of the authorized 
+entity. 
+5. The terms of use of the software made available by Fintecom are specified in relevant license 
+agreements. 
+6. License agreement for the use of the software made available by Fintecom for the purpose of 
+providing the Service constitutes a part of the Terms, as an appendix. 
+Section VII. Complaint procedure.
+1. Complaints regarding the provision of the Service may be made for: 
+1. failure to perform the Service, or 
+2. undue performance of the Service. 
+2. The complaint may be filed in: 
+1. written form, by mail, at the address: ul. Marszałka Piłsudskiego 45 75-502 Koszalin, 
+2. electronic form, at the e-mail address: reklamacje@gg.pl. 
+3. The complaint should include: 
+1. name and surname of the complainant, 
+2. e-mail address provided during the registration, 
+3. identifier of the User on the Platform (GG Number), 
+4. subject of the complaint and the circumstances justifying it. 
+4. Complaints are handled in the order of their receipt, but not later than in 14 (fourteen) days. 
+In justified cases, if the handling of the complaint requires more time, Fintecom may extend 
+this period for additional 14 (fourteen) days, of which the complainant will be notified. 
+5. If the complaint is incomplete so that it is impossible to handle it, Fintecom shall 
+immediately request the complainant to supplement it and instruct them that the failure to 
+complete it will prevent its handling. 
+6. The complainant is notified about the manner of handling the complaint in the form in which
+the complaint was made. 
+Section VIII. Final provisions
+1. A current version of the Terms is made available in a manner allowing its storage and 
+reproduction in the ordinary course of action. 
+2. Each change of the Terms will be effective: 
+1. in 15 (fifteen) days from the date of notification or at any other time indicated by 
+Fintecom but not shorter than 15 (fifteen) days; if you do not agree to the change, you 
+are obliged to make a statement to Fintecom, including by Fintecom teleinformation 
+system, before the change enters into force and from such date you are obliged to 
+stop using the Service; 
+2. immediately upon notification of the change or in any other time indicated by 
+Fintecom, if the changes concern provisions of the Terms that do not have an 
+influence on the situation the Users. 
+3. For assessing rights and obligations under the Terms, Polish law shall be applicable, in 
+particular the provisions of the Polish Civil Code and the Act on Consumer Rights of 30 May 
+2014 (Journal of Laws 2014, item 827). 
+4. Amicable settlement of disputes: European Commission operates an on line dispute 
+settlement platform. It is available here: 
+https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=PL. 
+5. Using other alternative settlement mechanisms requires the consent of Fintecom. 

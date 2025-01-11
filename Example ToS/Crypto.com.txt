@@ -1,0 +1,5644 @@
+ 
+ 
+Exchange Terms and 
+Conditions 
+Published by CRO DAX Limited 
+ 
+Last Update: 1 February 2022 
+ 
+ 
+THIS IS AN IMPORTANT DOCUMENT.  
+ 
+PLEASE READ IT CAREFULLY AND KEEP IT FOR FUTURE REFERENCE.  
+ 
+This document contains important information which applies to your dealings with us in relation 
+to the Exchange and your Account (both terms as defined in this document). You should read this 
+document carefully and keep it for future reference. 
+ 
+Different terms and conditions may apply in relation to specific services offered by us, or in respect 
+of specific transactions. Any such terms and conditions are additional to the terms set out in this 
+document. 
+ 
+Certain risks relating to the Exchange are described in the Annex to this document. Please ensure 
+that you read and understand the risks described in the Annex. This document does not disclose 
+or discuss all of the risks, or other significant aspects, of conducting transactions or of the 
+transactions conducted. You should not construe these or any other statements as legal, tax or 
+financial advice. 
+ 
+We are not acting as your financial advisor and you must not regard us as acting in that capacity. 
+You should consult your own independent professional advisors before entering into any 
+transaction and only enter into a transaction if you have fully understood its nature, the contractual 
+relationship into which you are entering, all relevant terms and conditions and the nature and 
+extent of your exposure to loss. 
+ 
+This document and other terms that apply to your activities may change from time to time. You 
+should check our website for the latest terms and additional information before you enter into 
+any new transaction. If you have any questions about this document, or in the event of any 
+service difficulties or interruptions, please contact us using the details below or via our website 
+at https://crypto.com/exchange/document/tnc. 
+Canada Residents. If you are a resident of Canada, the products and services described herein 
+that you access and use are provided by Foris DAX, Inc.  
+1 
+ 
+Exchange Terms and Conditions 
+Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+Part 1 About this document and our relationship 
+5 
+1 
+Definitions 
+5 
+1.1 
+Defined terms 
+5 
+2 
+Interpretation 
+14 
+2.1 
+Rules of interpretation 
+14 
+2.2 
+Next day 
+15 
+2.3 
+Next Business Day 
+15 
+2.4 
+Headings 
+15 
+2.5 
+Inconsistency 
+15 
+2.6 
+Pronoun usage 
+16 
+3 
+About this document and our Agreement 
+16 
+3.1 
+The Exchange Terms and Conditions 
+16 
+3.2 
+The Agreement 
+16 
+3.3 
+Single agreement 
+16 
+3.4 
+Our relationship: no fiduciary duties or other roles 
+16 
+3.5 
+Questions 
+17 
+Part 2 Accounts, Instructions and payments 
+18 
+4 
+Accounts 
+18 
+4.1 
+Application 
+18 
+4.2 
+Establishing an Account 
+18 
+4.3 
+Account requirements 
+19 
+4.4 
+Account details and access 
+19 
+4.5 
+Account operations 
+19 
+4.6 
+Completion of Virtual Asset transfers 
+20 
+4.7 
+Account operating authority – Authorised Persons 
+20 
+5 
+Custodial arrangements 
+21 
+5.1 
+Holding of Virtual Assets 
+21 
+5.2 
+Benefits arising for the Virtual Assets 
+21 
+6 
+Instructions 
+22 
+6.1 
+Instructions generally 
+22 
+6.2 
+Electronic Instructions and records 
+22 
+6.3 
+Giving and receiving Instructions 
+22 
+6.4 
+Acknowledgement of Instructions 
+23 
+6.5 
+When we may refuse, cancel or reverse Instructions 
+23 
+6.6 
+Risks of giving Instructions 
+24 
+7 
+Payments, deliveries and other obligations 
+24 
+7.1 
+Payment and deliveries 
+24 
+7.2 
+Withholding 
+25 
+7.3 
+Value added tax 
+25 
+7.4 
+Independent payment obligations 
+25 
+7.5 
+Rights of netting, set-off and lien 
+25 
+1 
+ 
+7.6 
+Payment in other asset 
+26 
+7.7 
+Virtual Asset restrictions 
+26 
+7.8 
+Conversion on judgment debt 
+26 
+7.9 
+Third party payments 
+27 
+7.10 
+General conditions precedent to payments by us 
+27 
+7.11 
+Return of Virtual Assets 
+27 
+8 
+Calculations 
+27 
+8.1 
+Calculation agent 
+27 
+8.2 
+Adjustments 
+28 
+9 
+Netting and set-off 
+28 
+9.1 
+Netting 
+28 
+9.2 
+Set-off 
+28 
+9.3 
+Our other rights 
+28 
+Part 3 Exchange 
+29 
+10 
+Trading on the Exchange 
+29 
+10.1 
+Description 
+29 
+10.2 
+Availability of the Exchange 
+29 
+10.3 
+Submitting an Order 
+29 
+10.4 
+Orders 
+30 
+10.5 
+Price deviation warning 
+30 
+10.6 
+Limit Orders 
+30 
+10.7 
+Market Orders 
+30 
+10.8 
+Advanced Orders 
+30 
+10.9 
+Order Matching Engine 
+31 
+10.10 
+Self-Execution prevention 
+31 
+10.11 
+Trade Engine 
+31 
+10.12 
+Order minimums and maximums 
+31 
+11 
+Orders 
+32 
+11.1 
+Orders must be pre-paid 
+32 
+11.2 
+Your responsibilities 
+32 
+11.3 
+Limits and controls on Orders 
+32 
+Part 4 Other key provisions 
+33 
+12 
+Use of the Exchange and the Account 
+33 
+12.1 
+“As is” basis 
+33 
+12.2 
+Compliance 
+33 
+12.3 
+Maintaining standards in operating the Account 
+33 
+12.4 
+Pre-conditions for use of the Exchange 
+34 
+12.5 
+Withdrawal or suspension of use of the Exchange 
+35 
+13 
+Exchange Materials 
+35 
+13.1 
+Limitations on use 
+35 
+13.2 
+Protection of rights in the Exchange Materials 
+35 
+13.3 
+Third party actions 
+35 
+14 
+Ongoing requirements 
+36 
+14.1 
+Maintenance of eligibility 
+36 
+14.2 
+Compliance 
+36 
+14.3 
+Self-reporting 
+36 
+15 
+Powers of Crypto.com 
+36 
+1 
+ 
+15.1 
+Power to revise the Agreement 
+36 
+15.2 
+Notice 
+36 
+15.3 
+Power regarding transfers and Exchange use 
+37 
+15.4 
+Power to cancel, reverse or modify Orders 
+37 
+15.5 
+Power to protect market integrity in case of technical fault etc 
+37 
+15.6 
+Notification of exercise of power 
+38 
+16 
+Role of Crypto.com 
+38 
+16.1 
+Our role as agent or principal 
+38 
+16.2 
+No obligation to notify market price movements 
+38 
+16.3 
+Conflicts of interest 
+38 
+16.4 
+Services and activities of Crypto.com 
+39 
+16.5 
+Use of third parties 
+39 
+16.6 
+Account Protection Program 
+39 
+17 
+Prevention of Market Misconduct 
+39 
+17.1 
+Prohibition on Market Misconduct 
+39 
+17.2 
+Prohibited Orders 
+39 
+17.3 
+Reporting requirement 
+40 
+18 
+Information, representations and warranties 
+40 
+18.1 
+Information 
+40 
+18.2 
+Representations and warranties 
+40 
+18.3 
+Repetition of representations and warranties 
+42 
+18.4 
+Notification 
+43 
+19 
+Indemnities 
+43 
+19.1 
+Your indemnity 
+43 
+19.2 
+Interest 
+44 
+19.3 
+Further steps 
+44 
+19.4 
+Application of indemnity 
+44 
+20 
+Our liability 
+44 
+20.1 
+Exclusion and limitation of liability 
+44 
+20.2 
+Responsibility for decisions 
+46 
+20.3 
+Hyperlinked sites 
+46 
+20.4 
+Circumstances beyond our control 
+46 
+21 
+Network events 
+46 
+21.1 
+Infrastructure Participant, Network Participant and Network Event 
+46 
+21.2 
+Cooperation and enquiries 
+47 
+21.3 
+Staking 
+47 
+21.4 
+Network event 
+47 
+22 
+Fees and Costs 
+47 
+22.1 
+Payment of fees and Costs 
+47 
+22.2 
+Overdue payments 
+48 
+22.3 
+Calculation 
+48 
+22.4 
+No refund 
+48 
+22.5 
+Costs on cancellation 
+48 
+22.6 
+Benefits with Staking 
+48 
+23 
+Termination, suspension and enforcement 
+48 
+23.1 
+Termination by either party 
+48 
+23.2 
+Termination by us 
+48 
+23.3 
+Additional rights to terminate 
+49 
+1 
+ 
+23.4 
+The Agreement 
+49 
+23.5 
+No effect on rights and liabilities 
+50 
+23.6 
+Review of entitlements 
+50 
+23.7 
+Enforcement action 
+50 
+23.8 
+Suspension 
+50 
+23.9 
+Payments and handling of Virtual Assets upon termination 
+50 
+24 
+General terms 
+51 
+24.1 
+Hardware, Trading Tools and other materials 
+51 
+24.2 
+Prompt performance 
+51 
+24.3 
+Waiver and variation 
+51 
+24.4 
+Exercise of rights 
+51 
+24.5 
+Approvals and consents 
+52 
+24.6 
+Complying with a court order 
+52 
+24.7 
+Consents 
+52 
+24.8 
+Indemnities 
+52 
+24.9 
+Third party services 
+52 
+24.10 
+Assignment and other dealings 
+52 
+24.11 
+Compliance with Law 
+52 
+24.12 
+Inconsistent laws and severability 
+52 
+24.13 
+Third party rights 
+53 
+24.14 
+Reports 
+53 
+24.15 
+Construction 
+53 
+24.16 
+Supervening legislation 
+53 
+24.17 
+Confidentiality 
+53 
+24.18 
+Anti-money laundering and sanctions 
+54 
+24.19 
+Complaints 
+54 
+25 
+Statements and records 
+54 
+25.1 
+Transaction records 
+54 
+25.2 
+Reporting mistakes 
+54 
+25.3 
+Reversals 
+55 
+26 
+Notices and communications 
+55 
+26.1 
+Notices and electronic delivery 
+55 
+26.2 
+Delivery 
+55 
+26.3 
+Digital signatures 
+55 
+26.4 
+Electronic contracts 
+56 
+26.5 
+Client constitutes more than one person 
+56 
+26.6 
+Recording of communications 
+56 
+26.7 
+Records 
+56 
+26.8 
+Governing law 
+56 
+26.9 
+Submission to arbitration 
+57 
+26.10 
+Serving documents 
+57 
+Annex I 
+Risk disclosure statement 
+58 
+Annex II 
+Sub-Account Terms and Conditions 
+66 
+Annex III 
+USD Deposits and USDC Withdrawals 
+73 
+6 
+ 
+Exchange Terms and Conditions 
+ 
+Part 1 About this document and our relationship 
+ 
+1 
+Definitions 
+1.1 
+Defined terms 
+The following terms have the following meanings, unless the contrary intention appears. 
+ 
+Account means an account that is established by Crypto.com in your name for the 
+purposes of using the Exchange, which is made available through the Website, App 
+and/or other means as determined by Crypto.com in its sole discretion. It includes the 
+Spot Wallet or any other virtual asset wallet(s) established by Crypto.com to trade 
+Virtual Assets or provide specific services under this Agreement. 
+ 
+Advanced Order means any Order type made available on the Website and/or App 
+from time to time that is not a Maker Order, Market Order or a Limit Order. 
+ 
+Agreement means the agreement between Crypto.com and you that is made up of the 
+following documents: 
+ 
+(a) 
+These Exchange Terms and Conditions. 
+ 
+(b) 
+Your Application. 
+ 
+(c) 
+Any Confirmations to which you are party. 
+ 
+(d) 
+Any document or part of the Website and/or App that sets out the fees and 
+Costs that may apply to the Exchange. 
+ 
+(e) 
+The Exchange FAQs. 
+ 
+(f) 
+Any Addendum with respect to the suite of services (other than your use of the 
+Exchange and/or the Account) offered through the Exchange. 
+ 
+(g) 
+Any other rules, notifications, guidelines, terms, agreement or other document 
+designated by us to form part of the Agreement. 
+ 
+Agreed Communication Method means: 
+ 
+(a) 
+the Website; 
+ 
+(b) 
+App; and 
+ 
+(c) 
+any other communication method as notified by Crypto.com to you as another 
+Agreed Communication Method, or otherwise in writing, as being appropriate 
+for submitting Orders. 
+ 
+Airdrop means a distributed or attempted distribution where an address that holds a 
+Virtual Asset receives or is allocated a certain amount of the same or another Virtual 
+Asset. 
+ 
+AML/CTF Requirements mean any Applicable Law pertaining to money laundering, 
+terrorism financing, bribery, corruption, tax evasion, fraud, the trafficking of arms, drugs, 
+humans or wildlife, slavery, proliferation of weapons of mass destruction, or Sanctions. 
+ 
+App means the mobile application software developed, owned, and made available by 
+Crypto.com which allow you to access one or more of the services under this 
+Agreement. 
+ 
+Application means an: 
+7 
+ 
+ 
+(a) 
+application to use the Exchange; and 
+(b) 
+application for an Account, 
+ 
+in the form specified by Crypto.com through an Agreed Communication Method. 
+ 
+Applicable Law means any applicable common law, principles of equity, and laws 
+made by a government or relevant authority or judicial body, including regulations, 
+rules, decrees, court judgments, office directives, requests, policies, codes, circulars, 
+guidelines or other instruments (whether or not having the force of law), and 
+consolidations, amendments, re-enactments or replacements of any of them from time 
+to time. 
+ 
+Authorised Person means any person that you (as a corporate client) authorise (either 
+alone or collectively) and Crypto.com approves to act on your behalf in giving 
+Instructions, operating your Account or performing any other act in connection with the 
+Agreement. 
+ 
+Available Jurisdiction means a jurisdiction which is stated here, where the Exchange 
+is available for service. 
+ 
+Base Asset means the first Virtual Asset stated in a Trading Pair. 
+ 
+Business Day means a day that is not a Saturday, Sunday, other general holiday (as 
+defined in the General Holidays Ordinance (Cap. 149 of the Laws of Hong Kong)), or 
+day on which a tropical cyclone No. 8 or above or a "black" rainstorm warning is hoisted 
+in Hong Kong at any time between 9:00 am and 5:00 pm and, if hoisted before 11:59 
+am on that day, is not lifted before 12:00pm on that day. 
+ 
+Confirmation means a trade confirmation (or similar) relating to an Executed Order. 
+ 
+Control of a person includes the power to directly or indirectly: 
+ 
+(a) 
+determine the management or policies of the person; 
+ 
+(b) 
+control the membership of the board or other governing body of the person; or 
+ 
+(c) 
+control the casting of more than one half of the maximum number of votes that 
+may be cast at a general meeting of the person, 
+ 
+regardless of whether the power is in writing or not, enforceable or unenforceable, 
+expressed or implied, formal or informal or arises by means of trusts, agreements, 
+arrangements, understandings, practices or otherwise. 
+ 
+Controller of a person means the person that has the power to Control that person. 
+ 
+Costs include costs, fees, charges, disbursements and/or expenses, including those 
+arising in connection with: 
+ 
+(a) 
+Virtual Asset networks or blockchains underlying a Virtual Asset; and 
+ 
+(b) 
+engagement of third-party service providers (on a full indemnity basis) including 
+legal advisers, trustees, or any agent, delegate nominee or custodian 
+appointed by us. 
+ 
+Counter Asset means the second Virtual Asset stated in a Trading Pair. 
+ 
+Crypto.com means CRO DAX Limited, unless you reside in Canada, in which case 
+Crypto.com means Foris DAX, Inc. 
+ 
+Crypto.com Group means Crypto.com and each Crypto.com Group Member. 
+ 
+Crypto.com Group Member means Crypto.com, and any person, entity or company 
+that (directly or indirectly through one or more intermediaries), is in Control of 
+8 
+ 
+Crypto.com, is Controlled by Crypto.com, or is under common Control with Crypto.com. 
+ 
+Deceptive Activity occurs where a person, directly or indirectly, in a transaction 
+involving any Virtual Asset:  
+ 
+(a) 
+employs any device, scheme or artifice with intent to defraud or deceive; 
+or 
+ 
+(b) 
+engages in any act, practice or course of business which is fraudulent or 
+deceptive, or would operate as a fraud or deception. 
+ 
+Dispute includes any dispute, controversy, difference or claim arising out of or in 
+connection with the Agreement or the subject matter of the Agreement, including any 
+question concerning its formation, validity, interpretation, performance, breach and 
+termination. 
+ 
+Eligible Virtual Asset means a Virtual Asset that: 
+ 
+(a) 
+has not been associated with a wallet address that is or has been blacklisted or 
+otherwise identified by a Government Agency or relevant authority as being 
+related to a breach or potential breach of the AML/CTF Requirements or 
+Financial Crime Regulation; 
+ 
+(b) 
+is not otherwise associated with suspicious or illicit activities, including the dark 
+web or ransomware cases; or 
+ 
+(c) 
+is otherwise available for trading on the Website and/or App, 
+ 
+in each case, as determined by Crypto.com in its sole discretion, having regard to 
+Applicable Law, Crypto.com’s internal policies and any other relevant considerations. 
+ 
+Enabled Device means the mobile device or other device successfully registered by 
+you for the use in connection with the App, and services under this Agreement. 
+ 
+Encumbrance means any: 
+ 
+(a) 
+security for the payment of money or performance of obligations, including a 
+mortgage, charge, lien, pledge, trust, power or title retention or flawed deposit 
+arrangement; 
+ 
+(b) 
+right, interest or arrangement which has the effect of giving another person a 
+preference, priority or advantage over creditors including any right of set-off; 
+ 
+(c) 
+right that a person (other than the owner) has to remove something from land 
+(known as a profit à prendre), easement, public right of way, restrictive or 
+positive covenant, lease, or licence to use or occupy; or 
+ 
+(d) 
+third party right or interest or any right arising as a consequence of the 
+enforcement of a judgment, 
+ 
+or any agreement to create any of them or allow them to exist. 
+ 
+Exchange means the exchange that is operated by Crypto.com in accordance with the 
+Agreement. 
+ 
+Exchange FAQs means the applicable “Exchange FAQs” published on the Website by 
+Crypto.com. 
+ 
+Exchange Materials means the Trading Tools, marketing information and other 
+materials available on or via the Exchange. 
+ 
+Exchange Terms and Conditions or Terms means this document. 
+ 
+Event of Default means any event specified in these Exchange Terms and Conditions 
+9 
+ 
+as giving rise to the right of Crypto.com to terminate the Agreement immediately by 
+notice. 
+ 
+Execution means the matching of two Orders, and “Executed” and “Executed 
+Orders” are to be interpreted accordingly.  
+ 
+False or Misleading Information Disclosure occurs when a person: 
+ 
+(a) 
+discloses, circulates or disseminates; 
+ 
+(b) 
+authorises or is concerned in the disclosure, circulation or dissemination of, 
+information that is likely to: 
+(i) 
+induce another person to trade Assets; 
+ 
+(ii) 
+induce the trading of Assets by another person; or 
+ 
+(iii) 
+maintain, increase, reduce or stabilise the price of Assets, 
+ 
+where: 
+ 
+(A) 
+the information is false or misleading as to a material fact, or is 
+false or misleading through the omission of a material fact; 
+and 
+ 
+(B) 
+the person knows that, or is reckless or negligent as to 
+whether, the information is false or misleading as to a material 
+fact, or is false or misleading through the omission of a 
+material fact. 
+ 
+False Trading occurs when a person does anything or causes anything, intentionally, 
+negligently or recklessly, that has the effect, or is likely to have the effect of: 
+ 
+(a) 
+creating a false or misleading appearance of active trading in an Asset; or 
+ 
+(b) 
+creating an artificial price, or maintaining the price at a level that is an artificial 
+price, for an Asset. 
+ 
+Fiat Currency means any asset that is: 
+ 
+(a) 
+legal tender in a country or territory; and 
+ 
+(b) 
+customarily used and accepted as a medium of exchange in its country or 
+territory of issue; 
+ 
+in each case as determined by us. 
+ 
+Financial Crime Regulation means any Applicable Law, internal policy or regulatory 
+requirement pertaining to money laundering, terrorism financing, bribery, corruption, 
+Tax evasion, fraud, the trafficking of arms, drugs, humans or wildlife, slavery, 
+proliferation of weapons of mass destruction, or evasion of sanctions. A reference to a 
+violation of Financial Crime Regulation includes any acts or attempts to circumvent or 
+violate any Applicable Laws relating to Financial Crime Regulation. 
+ 
+Force Majeure Event means any event that is beyond our control and prevents us or 
+delays us from performing our obligations under the Agreement, including: acts of God 
+(including earthquake, cyclone, fire, explosion, flood, landslide, lightning, storm, 
+tempest, pandemic, drought or meteor); 
+ 
+(a) 
+acts of war and terrorism, declared or undeclared (including invasion, act of a 
+foreign enemy, hostilities between nations, civil insurrection or militarily 
+usurped power); 
+ 
+10 
+ 
+(b) 
+civil disorder (including any act of a public enemy, sabotage, malicious 
+damage, terrorism or civil unrest); 
+ 
+(c) 
+embargoes (including confiscation, nationalisation, requisition, expropriation, 
+prohibition, restraint or damage to property by or under the order of any 
+government or government authority); 
+ 
+(d) 
+natural disasters; 
+ 
+(e) 
+unnatural disasters (including ionising radiation or contamination by 
+radioactivity from any nuclear waste or from combustion of nuclear fuel); 
+ 
+(f) 
+labour disputes (including strikes, blockades, lock out or other industrial 
+disputes); 
+ 
+(g) 
+failure in the internet, communications networks and facilities, or other 
+infrastructure, systems, operations or of equipment relevant to the provision or 
+use of the Exchange; 
+ 
+(h) 
+data breaches or data-processing failures; or 
+ 
+(i) 
+adoption of or any change in Applicable Law, or the promulgation of or any 
+change in the interpretation in Applicable Law by any relevant Government 
+Agency, or the public statement or action by any Government Agency or its 
+official or representative thereof acting in an official capacity. 
+ 
+Fork means changes in operating rules of the underlying protocols of a Virtual Asset 
+that may result in: 
+ 
+(a) 
+more than one version of that Virtual Asset;  
+ 
+(b) 
+material  changes in the value, function, and/or the name of a Virtual Asset and/or 
+ 
+(c) 
+Crypto.com holding an amount (which may be an identical amount) of Virtual 
+Assets associated with each forked network, 
+ 
+in each case as determined by us in our sole discretion.  
+ 
+Government Agency means any government, semi-governmental, administrative, 
+fiscal, judicial or quasi-judicial body, department, commission, authority, tribunal, 
+agency or entity. 
+ 
+HKIAC means the Hong Kong International Arbitration Centre. 
+ 
+Hong Kong means the Hong Kong Special Administrative Region of the People’s 
+Republic of China. 
+ 
+Infrastructure Participant means trading venues and other financial market 
+infrastructures that facilitate the clearing, settlement, and recording of transactions 
+relating to Virtual Assets. 
+ 
+Inside Information means, in relation to an Issuer, specific information that is: 
+ 
+(a) 
+about: 
+ 
+(i) 
+the Issuer; 
+ 
+(ii) 
+a Controller or Senior Manager of the Issuer; or 
+ 
+(iii) 
+the Virtual Assets of the Issuer; and 
+ 
+(b) 
+not generally known to the persons who are accustomed or would be likely to 
+deal in the Virtual Assets of the Issuer but would if generally known to them be 
+likely to materially affect the value of the Virtual Assets. 
+11 
+ 
+ 
+Insider Dealing occurs when a person who has information which that person knows is 
+Inside Information in relation to an Issuer: 
+ 
+(a) 
+deals in a Virtual Asset that is issued by that Issuer; 
+(b) 
+counsels or procures another person to deal in any Virtual Asset that is issued 
+by that Issuer; or 
+ 
+(c) 
+discloses the Inside Information, directly or indirectly, to another person. 
+ 
+A person is Insolvent if it: 
+ 
+(a) 
+makes a general arrangement or composition with or for the benefit of its 
+creditors; 
+ 
+(b) 
+institutes or has instituted against it any voluntary or involuntary proceeding 
+seeking relief under any insolvency, bankruptcy or other law affecting creditors’ 
+rights, or, has a winding-up or liquidation petition presented against it and such 
+proceeding or petition: 
+ 
+(i) 
+results in a judgment of insolvency or bankruptcy liquidation of the 
+person or the entry of an order for relief or winding-up or liquidation; or 
+ 
+(ii) 
+is not dismissed, discharged, stayed or restrained in each case within 
+15 days of the institution or petition (as the case may be); 
+ 
+(d) 
+is dissolved other than pursuant to a consolidation, amalgamation or merger; 
+ 
+(e) 
+is unable to pay its debts as they become due or admits in writing of its inability 
+to pay its debts as they become due; 
+ 
+(f) 
+seeks or becomes subject to the appointment of an administrator, liquidator, 
+receiver, trustee or other similar official for it or for all or substantially all of its 
+assets; 
+ 
+(g) 
+causes or is subject to any event with respect to it which, under Applicable 
+Law, has an effect analogous to any of the events specified in paragraphs (a) 
+to (e); or 
+ 
+(h) 
+takes any action in furtherance of or indicating its consent to any of the events 
+specified in paragraphs (a) to (e). 
+ 
+Issuer means any person that issues a Virtual Asset. For the avoidance of doubt, a 
+Virtual Asset is not required to have an Issuer. 
+ 
+Instruction means an instruction from you to Crypto.com in relation to the Exchange, 
+your Account or any services under this Agreement. 
+ 
+Jailbroken, as applicable to the device in question: 
+ 
+(a) 
+means a device that has been freed from the restrictions imposed on it by the 
+mobile service provider and/or the phone manufacturer without their approval, 
+as applicable; and/or 
+ 
+(b) 
+has the meaning set out in the Exchange FAQs. 
+ 
+Limit Order means an Order that is Executed at the price specified in that Order. 
+ 
+Loss includes any direct, indirect or consequential loss, damage, expense, demand, 
+claims, liabilities, judgments, fines, penalties (whether civil, criminal or other) and 
+amounts paid or payable in settlement, including, without limitation, all interest, 
+assessments and other charges paid or payable in connection with or in respect of any 
+of the foregoing and Costs of any kind. 
+ 
+12 
+ 
+Market Manipulation occurs when a person: 
+ 
+(a) 
+enters into or carries out, directly or indirectly, two or more transactions in 
+Assets that by themselves or in conjunction with any other transaction 
+increase, or are likely to increase, the price of any Assets, with the 
+intention of inducing another person to buy, or to refrain from 
+selling, those Assets; 
+ 
+(b) 
+a person enters into or carries out, directly or indirectly, two or more 
+transactions in Assets that by themselves or in conjunction with any other 
+transaction reduce, or are likely to reduce, the price of any Assets, with the 
+intention of inducing another person to sell, or to refrain from buying, those 
+Assets; or 
+ 
+(c) 
+a person enters into or carries out, directly or indirectly, two or more 
+transactions in Assets that by themselves or in conjunction with any other 
+transaction maintain or stabilise, or are likely to maintain or stabilise, the price 
+of any Assets, with the intention of inducing another person to trade, or to 
+refrain from trading, those Assets. 
+ 
+Market Misconduct means: 
+ 
+(a) 
+Insider Dealing; 
+ 
+(b) 
+False Trading; 
+ 
+(c) 
+Price Rigging; 
+ 
+(d) 
+Prohibited Transaction Disclosure; 
+ 
+(e) 
+False or Misleading Information Disclosure; 
+ 
+(f) 
+Market Manipulation; or 
+ 
+(g) 
+Deceptive Activity, 
+ 
+and includes attempting to engage in, or assisting, counselling or procuring another 
+person to engage in, any of the conduct referred to in paragraphs (a) to (g). 
+ 
+Maker Order means an Order that will not immediately be Executed against another 
+Order upon submission to the Exchange. 
+ 
+Market Order means an Order that is Executed at the best available price that is 
+currently available for the relevant Trading Pair on the Exchange. 
+ 
+MFA means multi-factor authentication.    
+ 
+Mis-execution occurs when an Order is Executed otherwise than in accordance with 
+the Order. 
+ 
+Network Event in relation to a Virtual Asset means: 
+ 
+(a) 
+a Fork, Airdrop or other event which results in the generation of new or 
+alternate Virtual Assets from an existing Virtual Asset, and which creates rights 
+of an existing Virtual Asset holder to receive or otherwise control the newly 
+created Virtual Assets immediately after the Network Event; or 
+ 
+(b) 
+any event in respect of any protocol underlying a Virtual Asset, which is 
+exogenous to us, and results in loss of control or ownership of Virtual Assets 
+held by Crypto.com or you, including any consensus by a relevant network 
+protocol to fail to honour or record an Executed Order on the network, or to 
+revert any Executed Order previously honoured or recorded on the network. 
+ 
+Network Participant means a person or entity who has the ability to cause the 
+13 
+ 
+happening of a Network Event, including any group of persons or entities acting in 
+concert. 
+ 
+Order means an Instruction to trade a specified quantity of a Base Asset for a specified 
+price stated in the Counter Asset on the Exchange. 
+ 
+Order Matching Engine means, collectively, Crypto.com’s systems for Execution. 
+ 
+Price Rigging occurs when a person enters into or carries out: 
+ 
+(a) 
+any transaction of sale or purchase of an Asset that does not involve a change 
+in the beneficial ownership of that Asset; or 
+ 
+(b) 
+any fictitious or artificial transaction or device, whether intentionally or 
+recklessly, 
+ 
+and the conduct has the effect of maintaining, increasing, reducing, stabilising, or 
+causing fluctuations in the price of a Virtual Asset. 
+ 
+Prohibited Transaction means any transaction that involves Market Misconduct. 
+ 
+Prohibited Transaction Disclosure occurs when a person: 
+ 
+(a) 
+discloses; 
+ 
+(b) 
+circulates; 
+ 
+(c) 
+disseminates; 
+ 
+(d) 
+authorises; or 
+ 
+(e) 
+is concerned in the disclosure, circulation or dissemination of, 
+information to the effect that the price of Virtual Assets: 
+(i) 
+will be maintained, increased, reduced or stabilised; or 
+ 
+(ii) 
+is likely to be maintained, increased, reduced or stabilised, 
+ 
+because of a Prohibited Transaction relating to those Virtual Assets, if that person, or 
+an associate of that person: 
+ 
+(A) 
+has entered into or carried out, directly or indirectly, a 
+Prohibited Transaction; or 
+ 
+(B) 
+has received, or expects to receive, directly or indirectly, a 
+benefit as a result of the disclosure, circulation or 
+dissemination of the information. 
+ 
+Proscribed Address means: 
+ 
+(a) 
+any blockchain address that appears in a list of addresses with which dealings 
+are proscribed by the United Nations or another Government Agency or 
+relevant authority under Applicable Law, or is part of a group of addresses that 
+appears in such a list; and 
+ 
+(b) 
+without limiting the generality of this definition, an address stated on the United 
+States of America Department of Treasury’s Specially Designated Nationals 
+list. 
+ 
+Proscribed Person means a person who appears to Crypto.com to: 
+ 
+(a) 
+be in breach of any AML/CTF Requirements of any jurisdiction; 
+ 
+14 
+ 
+(b) 
+appear in a list of persons with whom dealings are proscribed by the United 
+Nations or another Government Agency or a regulatory authority under 
+Applicable Law; or 
+ 
+(c) 
+act on behalf, or for the benefit of, any person described in paragraph (a) or (b). 
+Sanctions means any economic sanctions laws, regulations, embargoes or restrictive 
+measures imposed by the United Nations Security Council and/or Hong Kong, the 
+Cayman Islands, the United States of America, the United Kingdom of Great Britain and 
+Northern Ireland, the European Union or its member states, or by any other Available 
+Jurisdiction. 
+ 
+Self-Execution means that in respect of any Executed Orders, the same person has 
+provided both the Taker Order and the Maker Orders. 
+ 
+Senior Management of a person means the managing director, the board of directors 
+and the chief executive officer, as well as all other personnel who are in a position of 
+authority over that person’s business decisions, or who have significant influence or 
+control over that person, and “Senior Manager” is to be interpreted accordingly. 
+ 
+Spot Wallet means each virtual asset wallet provided to you by Crypto.com upon 
+opening an Account for the purpose of trading under these Exchange Terms and 
+Conditions. 
+ 
+Taker Order means an Order that will be immediately Executed against another Order 
+upon submission to the Exchange. 
+ 
+Taxes means taxes, levies, imposts, charges and duties imposed by any Government 
+Agency (including stamp and transaction duties) together with any related interest, 
+penalties, fines and expenses in connection with them, except if imposed on, or 
+calculated having regard to, the overall net income of Crypto.com. 
+ 
+Trade Engine means, collectively, Crypto.com’s systems for settling Executed Orders 
+by transferring the relevant Virtual Assets between the relevant Accounts. 
+ 
+Trading Hours means the times during which the Exchange is available, as notified via 
+an Agreed Communication Method or otherwise in writing by Crypto.com. 
+ 
+Trading Tools means the applications (including any application programming 
+interface), algorithms, software (including any files, images, tables and data 
+incorporated in or generated by the software and data accompanying the software), 
+interfaces or code that Crypto.com may provide to you for using the Exchange. It 
+includes the Website and the App and any related specific applications, algorithms, 
+software, interfaces and codes. 
+ 
+Trading Pair means the combination of a Base Asset and a Counter Asset that is 
+offered for trading on the Exchange. 
+ 
+ 
+Virtual Asset means any asset that is: 
+ 
+(a) 
+expressed as a unit; 
+ 
+(b) 
+capable of being transferred, stored and traded on a peer-to-peer basis, with 
+or without conditions or limitations; and 
+ 
+(c) 
+approved by Crypto.com from time to time for use in connection with the 
+Exchange. 
+ 
+Virtual Assets do not include Fiat Currencies. For the avoidance of doubt, 
+any Virtual Asset that: 
+(i) 
+is transferred on any additional layer on top of a blockchain relating to 
+another Virtual Asset or any side chain; or 
+15 
+ 
+ 
+(ii) 
+is a derivative of another Virtual Asset, has enhanced features or 
+functionality that supplements or interacts with another Virtual Asset, 
+ 
+is to be treated as a distinct Virtual Asset from such other Virtual Asset and its use in 
+connection with the Services will be subject to approval by Crypto.com. 
+ 
+Unauthorised Transaction means an Instruction that is not authorised by you. For the 
+avoidance of doubt, an Instruction that is authorised and/or initiated by you as a result of 
+mistake, duress, fraud, misrepresentation, inducement etc shall not constitute an 
+Unauthorised Transaction. 
+ 
+Website means www.crypto.com/exchange. 
+ 
+16 
+ 
+ 
+2 
+Interpretation 
+2.1 
+Rules of interpretation 
+Unless the contrary intention appears, a reference in the Agreement to: 
+ 
+(a) 
+any reference to a Virtual Asset includes any part or fraction thereof; 
+ 
+(b) 
+a reference to anything (including an amount) is a reference to the whole and 
+each part of it; 
+ 
+(c) 
+labels used for definitions are for convenience only and do not affect 
+interpretation; 
+ 
+(d) 
+a document (including these Exchange Terms and Conditions) includes any 
+variation or replacement of it; 
+ 
+(e) 
+a reference to a document includes any document that is ancillary to that 
+document, or any agreement or other legally enforceable arrangement created 
+by that or under that document; 
+ 
+(f) 
+a clause, Part, annexure or schedule is a reference to a clause in, Part of, or 
+annexure or schedule to, these Exchange Terms and Conditions; 
+ 
+(g) 
+a statute, ordinance, code or other law includes regulations and other 
+instruments under it and consolidations, amendments, re-enactments or 
+replacements of any of them; 
+ 
+(h) 
+the singular includes the plural and vice versa; 
+ 
+(i) 
+the word “person” includes an individual, a firm, a body corporate, a 
+partnership, a joint venture, an unincorporated body or association, or any 
+Government Agency; 
+ 
+(j) 
+a particular person includes a reference to the person’s executors, 
+administrators, successors, substitutes (including persons taking by novation) 
+and assigns; 
+ 
+(k) 
+an agreement, representation or warranty in favour of two or more persons is 
+for the benefit of them jointly and each of them individually; 
+ 
+(l) 
+an agreement, representation or warranty by two or more persons binds them 
+jointly and each of them individually; 
+ 
+(m) 
+a group of persons or things is a reference to any two or more of them jointly 
+and to each of them individually; 
+ 
+(n) 
+a period of time dating from a given day or the day of an act or event, is to be 
+calculated exclusive of that day; 
+ 
+(o) 
+unless stated otherwise in writing by Crypto.com, a day is to be interpreted as 
+the period of time commencing at midnight and ending 24 hours later; 
+ 
+(p) 
+the words “include”, “including”, “for example” or “such as” when introducing an 
+example, does not limit the meaning of the words to which the example relates 
+to that example or examples of a similar kind; 
+ 
+(q) 
+the word “blockchain” includes any other form of distributed ledger technology; 
+ 
+(r) 
+a reference to “law” includes common law, principles of equity and legislation 
+(including regulations, rules, by-laws, ordinances and proclamations) and 
+17 
+ 
+includes any consolidations, amendments, re-enactments or replacements of 
+any of them; 
+ 
+(s) 
+a reference to “regulation” includes legislation and instruments of a legislative 
+character under legislation (such as regulations, rules, by-laws, ordinances, 
+directives and proclamations) as well as instruments or orders issued or 
+endorsed by the SFC or government or regulatory authorities and any 
+licensing, registration or approval requirements under any of these; 
+ 
+(t) 
+a reference to "in writing" means in legible form and capable of reproduction on 
+paper, and includes electronic communication; 
+ 
+(u) 
+a reference to “material” includes the ability to affect the outcome of a decision 
+or application; 
+ 
+(v) 
+time is a reference to Hong Kong time; 
+ 
+(w) 
+“property” or “asset” includes any present or future, real or personal, tangible or 
+intangible property, asset or undertaking and any right, interest or benefit under 
+or arising from it; and 
+ 
+(x) 
+any thing (including any amount or Service) includes each part and/or feature 
+of it. 
+ 
+2.2 
+Next day 
+If an act specified in the Agreement is to be done by a party on or by a given day is 
+done after 5.30pm on that day, it is taken to be done on the next day. 
+ 
+2.3 
+Next Business Day 
+If an event specified in the Agreement must occur on a stipulated day which is not a 
+Business Day, then the stipulated day will be taken to be the next Business Day. 
+ 
+2.4 
+Headings 
+Headings (including those in brackets at the beginning of paragraphs) are for 
+convenience only and do not affect the interpretation of the Agreement. 
+ 
+2.5 
+Inconsistency 
+Subject to the application of any mandatory provisions of any Applicable Law, if there is 
+any inconsistency between: 
+ 
+(a) 
+the English version and any other language version of any part of the 
+Agreement, the English version prevails; 
+ 
+(b) 
+the Application and any other terms of the Agreement, the other terms prevail; 
+ 
+(c) 
+these Exchange Terms and Conditions and any specific terms applicable to a 
+particular service that forms part of the Agreement, or to a particular 
+jurisdiction, the specific terms prevail; 
+ 
+(d) 
+these Exchange Terms and Conditions and the Exchange FAQs, these 
+Exchange Terms and Conditions prevail; 
+ 
+(e) 
+a Confirmation and any other terms of the Agreement, the Confirmation 
+prevails for the relevant Executed Order; or 
+ 
+(f) 
+the Agreement and any direction, decision, requirement or other rule issued by 
+us in connection with the Exchange, the latter in time prevails, 
+ 
+(g) 
+in each case, to the extent of the inconsistency, and unless otherwise specified 
+by us in writing. 
+18 
+ 
+2.6 
+Pronoun usage 
+In these Exchange Terms and Conditions: 
+ 
+(a) 
+“you” or “your” refers to: 
+ 
+(i) 
+the person agreeing to these Exchange Terms and Conditions; and 
+ 
+(ii) 
+where the context permits, includes any Authorised Person of that 
+person; and 
+ 
+(b) 
+“we” or “us” refers to Crypto.com. 
+ 
+3 
+About this document and our Agreement 
+3.1 
+The Exchange Terms and Conditions 
+(a) 
+These Exchange Terms and Conditions are issued by Crypto.com. 
+ 
+(b) 
+These Exchange Terms and Conditions set out the terms and conditions that 
+apply to your use of: 
+ 
+(i) 
+the Exchange; and 
+ 
+(ii) 
+your Account. 
+ 
+3.2 
+The Agreement 
+(a) 
+The terms of the Agreement apply to you and to any Authorised Person. 
+ 
+(b) 
+If you or an Authorised Person do not agree with terms of the Agreement, you 
+or the Authorised Person shall not use the Exchange or access your Account. 
+ 
+(c) 
+You are responsible for ensuring that each Authorised Person complies with 
+the Agreement and for anything an Authorised Person does in connection with 
+the Agreement. 
+ 
+(d) 
+You must ensure that each Authorised Person is given a copy of the 
+Agreement and any privacy notice issued by us from time to time. 
+ 
+(e) 
+The Exchange FAQs may be amended or varied by us from time to time 
+through an Agreed Communication Method. The updated Exchange FAQs will 
+apply from when they are published. Please ensure you always check the 
+latest published version. Crypto.com may revise other terms of the Agreement 
+in accordance with clause 15. 
+ 
+3.3 
+Single agreement 
+Each Order is submitted by you, and all transactions are entered into, in reliance on the 
+fact that the Agreement forms a single agreement between you and us and neither you 
+nor us would otherwise enter into any transactions. 
+ 
+3.4 
+Our relationship: no fiduciary duties or other roles 
+You acknowledge that none of: 
+ 
+(a) 
+the relationship between you and us; 
+ 
+(b) 
+the activities contemplated by the Agreement; or 
+ 
+(c) 
+any other matter, 
+ 
+gives rise to any fiduciary, trustee or equitable duties on our part in your favour, even 
+where we have better knowledge of the market generally or of any particular Order. In 
+particular, there are no duties that would oblige us to accept responsibilities more 
+19 
+ 
+extensive than those set out in the Agreement or which prevent or hinder us in carrying 
+out any of the activities contemplated by the Agreement. For example, we do not provide 
+advice of any kind as a service under the Agreement and we do not act as your adviser 
+in relation to any aspect of your use of the Exchange or Virtual Asset transactions 
+generally. 
+ 
+3.5 
+Questions 
+If you have any questions about the Agreement, you should obtain appropriate , 
+independent professional advice. 
+20 
+ 
+Exchange Terms and Conditions 
+ 
+Part 2 Accounts, Instructions and payments 
+ 
+4 
+Accounts 
+4.1 
+Application 
+(a) 
+If you are a new user and want to use the Exchange, you must: 
+ 
+(i) 
+make an Application; and 
+ 
+(ii) 
+provide such information as we reasonably request. The 
+information that you provide must be complete, accurate and up- 
+to-date. 
+ 
+(b) 
+Different eligibility criteria may apply between applicants. We may 
+refuse your Application for any reason. Unless required by Applicable 
+Law, we do not need to give reasons for refusing or accepting an 
+Application. 
+ 
+(c) 
+If you are an existing user of any Crypto.com Group’s services and 
+want to use the Exchange, you agree that the             relevant entity may 
+share with us the onboarding documents you provided previously for 
+the Application. 
+ 
+(d) 
+If we approve your Application: 
+ 
+(i) 
+the terms on which you may use the Exchange and your 
+Account are set out in the Agreement; 
+ 
+(ii) 
+we may grant to you a non-exclusive, non-sub-licensable 
+(except as permitted within these Terms, to Authorised Persons 
+under clause 4.7), non-transferable personal right to, use the 
+Exchange and your Account to trade Virtual Assets; and 
+ 
+(iii) 
+you may only use the Exchange, an Account, an Agreed 
+Communication Method and Exchange Materials for your own 
+purposes. 
+ 
+(e) 
+If you are a resident of a particular Available Jurisdiction, or have a 
+relevant connection to a particular jurisdiction, additional terms and 
+conditions may apply as notified by us at any time. 
+ 
+(f) 
+A reference to “terms and conditions” in forms, statements, brochures 
+and other documents we provide is a reference to the relevant terms 
+contained in the Agreement. 
+ 
+4.2 
+Establishing an Account 
+(a) 
+We may open an Account in your name following receipt of an 
+Application in accordance with paragraph 4.1(a). 
+ 
+(b) 
+We have the sole discretion as to the opening, operation and closure of 
+an Account or any wallet that forms part of your Account. Without 
+limiting the terms of the Agreement, we may, at any time, without liability: 
+ 
+(i) 
+vary, suspend or close an Account or wallet; 
+ 
+(ii) 
+specify or vary the scope and extent of an Account or wallet and 
+the Exchange; 
+21 
+ 
+(iii) 
+prescribe the specific Exchange (including any specific Virtual 
+Assets) supported in respect of an Account; 
+ 
+(iv) 
+set or vary any limit regarding an Account or wallet; or 
+ 
+(v) 
+restrict or impose conditions or limits on an Account or wallet. 
+ 
+(c) 
+Subject to our discretion and operational requirements, you may not hold 
+more than one Account. 
+ 
+(d) 
+All Accounts are established and maintained by us for the sole purpose 
+of providing the Exchange and recording relevant Virtual Asset 
+movements. In no circumstances should an Account be interpreted as a 
+banking or custody service, or a stored value facility, of any kind. 
+ 
+(e) 
+We may open and provide one or more sub-accounts in your name 
+following an application from you in accordance with, and subject to, the 
+terms described in Annex II to these Exchange Terms and Conditions. 
+ 
+4.3 
+Account requirements 
+In addition to any other requirements that we may impose in respect of your 
+Account from time to time, you must, promptly: 
+ 
+(a) 
+supply such information, documentation and authorisation as requested 
+by us in order for us to carry out all necessary “know your customer” 
+checks and AML/CTF Requirements and comply with all Applicable Law; 
+and 
+ 
+(b) 
+notify us in writing of any change in any information, documentation or 
+authorisation provided to us, and submit appropriate supporting 
+information and/or documents relating to such change. 
+ 
+We reserve the right in our absolute discretion to refuse any Application, or the 
+designation of any person to operate the Account, and we may not give you any 
+reasons for that refusal. 
+ 
+4.4 
+Account details and access 
+(a) 
+We may issue you with a user name and password, or other appropriate 
+log-in details or access method for your Account. 
+ 
+(b) 
+You are responsible for keeping your log-in details or access method 
+confidential so that your Account cannot be accessed or used without 
+your permission. 
+ 
+(c) 
+You must comply with any specifications that we make in relation to your 
+use of the Exchange and an Agreed Communication Method. This 
+includes any authentication and other security procedures. 
+ 
+4.5 
+Account operations 
+(a) 
+Without limiting our other rights or obligations under the Agreement, and 
+subject to Applicable Law: 
+ 
+(i) 
+you may transfer Virtual Assets to us in connection with the 
+Exchange, in accordance with the instructions provided through 
+an Agreed Communication Method; 
+ 
+(ii) 
+we will record, in your Account, any amounts of Virtual Assets 
+received by us from you in connection with the Exchange; 
+22 
+ 
+(iii) 
+we may deduct from your Account and pay, whether to us or 
+otherwise: 
+ 
+(A) 
+any fees and Costs; and 
+ 
+(B) 
+any payments required in respect of an Executed Order; 
+and 
+ 
+(iv) 
+your may transfer Virtual Assets within any wallets associated 
+with your Account. 
+ 
+(b) 
+Only Eligible Virtual Assets are permitted for use in connection with your 
+Account and Exchange. We retain sole discretion to determine when 
+and if a Virtual Asset is an Eligible Virtual Asset, and you acknowledge 
+and understand that such determination may take significant time, and 
+that we are under no obligation to provide you with any reasons in 
+respect of any determination. If you transfer any Virtual Assets that are 
+not Eligible Virtual Assets, such Virtual Assets may be permanently lost. 
+ 
+(c) 
+You must not transfer: 
+ 
+(i) 
+Virtual Assets to us unless: 
+ 
+(A) 
+you are the lawful, legal and beneficial owner of such 
+Virtual Assets; 
+ 
+(B) 
+you have the absolute right to sell, assign, convey, 
+transfer and deliver the Virtual Assets; and 
+ 
+(C) 
+the Virtual Assets are free of any Encumbrance; and 
+ 
+(ii) 
+anything to us other than Virtual Assets. 
+ 
+(d) 
+We may make payments from your Account without any express 
+instructions from you, and you authorise us to make such payments in 
+accordance with clauses 5 and 7. 
+ 
+(e) 
+You may request us to transfer Virtual Asset recorded in your Spot 
+Wallet to an external digital address that is compatible with the relevant 
+Virtual Asset and that is controlled by you, in accordance with the 
+instructions provided through an Agreed Communication Method, and 
+subject always to (i) our discretion to accept or reject Instructions (ii) 
+our assessment that the external digital address is not a Proscribed 
+Address. 
+ 
+(f) 
+It is your responsibility to ensure that you provide us with the correct 
+digital address details. For example, if you provide us with incorrect 
+digital address details, or if you are unable to access the digital address 
+provided, your Virtual Assets may be permanently lost and we take no 
+responsibility or liability whatsoever for such losses incurred by you. 
+ 
+4.6 
+Completion of Virtual Asset transfers 
+(a) 
+A transfer of Virtual Assets from an Account is not complete until 
+confirmed as complete by Crypto.com. 
+ 
+(b) 
+A transfer of Virtual Assets that is pending will be designated as a 
+pending transaction in the Account. The balance of the Account will also 
+show a debit of the Virtual Assets having been made. 
+ 
+4.7 
+Account operating authority – Authorised Persons 
+(a) 
+Before appointing an Authorised Person, you must give us account 
+operating authority details for that Authorised Person. 
+23 
+ 
+(b) 
+We will act on, and in accordance with, the account operating authority 
+until you vary (by removing or adding Authorised Persons) or cancel it. 
+ 
+(c) 
+If you want to vary the account operating authority by changing either the 
+Authorised Persons or the method of operation, or cancel the authority, 
+you must give instructions in writing to us. On receipt of the instructions, 
+we will vary or cancel the authority. The variation or cancellation 
+becomes effective within a reasonable time after we accept your 
+instructions and we will notify you once the variation or cancellation is 
+effective and its effective date. If there is more than one account holder: 
+ 
+(i) 
+all of you must authorise adding an additional person as an 
+Authorised Person; and 
+ 
+(ii) 
+any of you may cancel an additional person’s authority to be an 
+Authorised Person. 
+ 
+(d) 
+We are entitled to rely on any Instructions and/or (other) instructions 
+given or purported to be given by an Authorised Person in accordance 
+with the authority. 
+ 
+5 
+Custodial arrangements 
+5.1 
+Holding of Virtual Assets 
+(a) 
+Any Virtual Assets in your Account, or purchased by us on your behalf, 
+and held by us for safekeeping may be held: 
+ 
+(i) 
+by us; or 
+ 
+(ii) 
+by any other institution engaged by us which provides services 
+for the custody  of Virtual Assets. 
+ 
+(b) 
+You understand and accept that: 
+ 
+(i) 
+your Virtual Assets held by us under this clause 5.1 do not enjoy 
+the same protections as are available in respect of traditional 
+deposits and financial products; 
+ 
+(ii) 
+we are under no duty to return to you the Virtual Assets 
+originally delivered to, or otherwise held by, us, but where 
+necessary we will return assets of an identical type, and to the 
+same nominal value, of the relevant Virtual Assets to you; and 
+ 
+(iii) 
+we may deposit, transfer, lend, pledge, repledge or otherwise 
+deal with your Virtual Assets if: 
+ 
+(A) 
+such action is for the Execution of an Order; 
+ 
+(B) 
+such action is for the settlement of any amount owing 
+under a service provided under this Agreement, or any 
+Costs owed by you to us or Crypto.com Group in 
+respect of the Exchange; or 
+ 
+(C) 
+otherwise in accordance with your Instructions, subject 
+to Applicable Law. 
+ 
+5.2 
+Benefits arising for the Virtual Assets 
+If we receive any interest, distributions or other benefits arising from your Virtual 
+Assets held by us or any other institution for you, we may or may not: 
+ 
+(a) 
+credit the relevant amount to your Account; or 
+24 
+ 
+(b) 
+pay or transfer the relevant amount to you, in a manner as agreed by us, 
+ 
+subject to Applicable Law, our internal policy, clause 21 and any other term of the 
+Agreement. 
+ 
+6 
+Instructions 
+6.1 
+Instructions generally 
+You: 
+ 
+(a) 
+authorise us to accept Instructions from you or any Authorised Person 
+(appointed under clause 4.7). You confirm that each Authorised Person 
+has the power to give Instructions on your behalf. You will, and will 
+procure that each of your  Authorised Persons will, comply with any 
+requirements we reasonably impose in relation to the Instructions and 
+any Applicable Law; 
+ 
+(b) 
+agree that we may assume the authenticity of any Instructions given or 
+purportedly given by you or any Authorised Person, or that any person 
+claiming to be your authorised representative is in fact that person. We 
+are not obliged to enquire into any of these matters; 
+ 
+(c) 
+agree we may assume the authenticity of any Instructions given or 
+purportedly given by you or any Authorised Person from your Enabled 
+Device, are in fact your Instructions. We are not obliged to enquire into 
+any of these matters; 
+ 
+(d) 
+authorise us to act upon any Instruction that we believe to be authentic 
+and valid. We may conclusively rely on the Instructions if we believe that 
+the Instructions were given by you or your Authorised Person and are 
+duly authorised, accurate and complete, even though this is incorrect 
+and even if you send us further communications that differ in any respect 
+from such Instructions; and 
+ 
+(e) 
+are responsible for ensuring the accuracy and completeness of the 
+Instructions. You acknowledge and agree that once given, an Instruction 
+cannot be revoked and if acted on by us, the Instruction will be binding 
+on you. 
+ 
+6.2 
+Electronic Instructions and records 
+To the extent applicable, you acknowledge that all Instructions given (and our 
+records of those Instructions) in electronic form are original documents in writing. 
+You agree not to challenge their validity, admissibility or enforceability on the 
+basis that they are in electronic form. 
+ 
+6.3 
+Giving and receiving Instructions 
+(a) 
+You may provide Instructions through the Agreed Communication 
+Methods that apply to the Exchange. 
+ 
+(b) 
+Subject to our discretion to reject any Instruction, all Instructions are only 
+valid and effective if received by us within the Trading Hours on a 
+Business Day. However, we do not guarantee that any of the 
+Instructions will be processed even though they may have been 
+received. 
+ 
+(c) 
+Instructions from you are irrevocable and you are not entitled to cancel, 
+reverse or otherwise disclaim such Instructions. We are under no 
+obligation to act on an Instruction to cancel or amend a previous 
+Instruction from you or your Authorised Person. We may also be unable 
+25 
+ 
+to cancel or amend an unexecuted or partly executed Instruction for any 
+reason. 
+ 
+(d) 
+We use our reasonable endeavours to execute the Instructions, but we 
+do not guarantee that the Instructions will be wholly or partially executed 
+or will be executed by a certain time. Partially exercised Instructions 
+may not be cancelled or reversed on the basis that the Instructions have 
+not been wholly exercised. We are not responsible for any delays due to 
+a Force Majeure Event, a Network Event, market factors, our own 
+verification or authorisation processes or any other reason whatsoever, 
+nor for executing an Order before processing any cancellation or 
+amendment that you may send to us. 
+ 
+6.4 
+Acknowledgement of Instructions 
+(a) 
+We agree to acknowledge your Instructions in relation to the entry into 
+an Order, through the Agreed Communication Method. 
+ 
+(b) 
+If we do not acknowledge your Instructions under clause 6.4(a), that 
+Instruction is deemed to not to have been received by us. 
+ 
+6.5 
+When we may refuse, cancel or reverse Instructions 
+(a) 
+We reserve the right at all times to refuse, cancel or reverse your 
+Instructions, without giving any reason or explanation or prior notice. For 
+example, we may, in addition to any other rights we may have: 
+ 
+(i) 
+decline to accept your Instructions where: 
+ 
+(A) 
+we believe that: 
+ 
+(aa) 
+the Instruction could result in a breach of any 
+Applicable Law; 
+ 
+(ab) 
+a pre-condition under clause 12.4 has not be 
+satisfied; 
+ 
+(ac) 
+the pre-pay requirement under clause 11.1 has 
+not been met, where applicable; 
+ 
+(ad) 
+the Instruction is unclear, ambiguous or 
+incomplete; or 
+ 
+(ae) 
+the Instruction involves Market Misconduct or 
+would constitute a Prohibited Transaction; 
+ 
+(B) 
+you or a counterparty are prevented from completing an 
+Order, or it becomes impossible or impracticable for you 
+or a counterparty to complete an Order, due to a Force 
+Majeure Event; 
+ 
+(C) 
+you disaffirm, disclaim, repudiate or reject, in whole or in 
+part, the Agreement, any Confirmation or any Order (or 
+such action is taken by an Authorised Person on your 
+behalf); 
+ 
+(D) 
+in our opinion, you are in material breach of any 
+provision of the Agreement; 
+ 
+(E) 
+an Event of Default has occurred; or 
+26 
+ 
+(F) 
+you fail to provide any information requested by us in 
+respect of an Order, or where required to do so in 
+compliance with the Agreement, any Applicable Law or 
+the requirement of any contract; 
+ 
+(ii) 
+where you, an Authorised Person, or a person we believe is 
+connected with you, appears to be a Proscribed Person: 
+ 
+(A) 
+refuse to process or complete any Instruction, suspend 
+the provision of a service to you; 
+ 
+(B) 
+refuse to allow or to facilitate any Order for you or to any 
+other Proscribed Person or other person; or 
+ 
+(C) 
+terminate the Agreement; or 
+ 
+(iii) 
+decline to act where there are insufficient Eligible Virtual Assets 
+in the Account to carry out the Instruction, or where the 
+Instruction does not comply with any limit that applies in respect 
+of your use of the Exchange. 
+ 
+(b) 
+Without limiting clause 6.5(a) or any other rights we may have under the 
+Agreement, we may: 
+ 
+(i) 
+decline to act on your behalf or accept your Instructions where: 
+the original Instruction has expired and is not reconfirmed at that time; 
+the basis for any quotation for the relevant Virtual Asset has changed 
+and the Instruction has not been reconfirmed; 
+ 
+the Virtual Assets are the subject of a trading halt and the order has not 
+been reconfirmed; or 
+ 
+the Virtual Asset are no longer available for the purposes of the 
+Exchange; or 
+ 
+(ii) 
+cancel or reverse any Instruction without contacting you where a 
+Government Agency has recommended or required a 
+cancellation or reversal. 
+ 
+(c) 
+If we exercise our rights under this clause 6.5 you must pay us on 
+demand any Loss that we incur in relation to any action taken under that 
+clause or any Applicable Law. 
+ 
+6.6 
+Risks of giving Instructions 
+You acknowledge and accept the risks of giving Instructions by the Agreed 
+Communication Method, including the risk of any Instructions being unauthorised 
+or given by an unauthorised person, the risk that we may process Instructions 
+twice if you send the same Instructions to us in different forms and the risk that 
+any information sent by electronic means cannot be guaranteed to be secure or 
+free from virus or delay. 
+ 
+7 
+Payments, deliveries and other obligations 
+7.1 
+Payment and deliveries 
+(a) 
+We may, acting in good faith and in a commercially reasonable manner, 
+refuse to accept or make (or accept or make on such terms as it may 
+determine) any transfer of a Virtual Asset from or to you and we will 
+provide notice of any such refusal as soon as reasonably practicable. In 
+27 
+ 
+particular, we may refuse to facilitate any transfer of Virtual Assets, 
+whether through the Trade Engine or otherwise, that are not Eligible 
+Virtual Assets from you, and you cannot use any such Virtual Assets to 
+settle an Executed Order. 
+ 
+(b) 
+You acknowledge and agree that if at any time there are (having regard 
+to other payments debited or due to be debited) insufficient Eligible 
+Virtual Assets recorded in a relevant Account or any amount owed to us, 
+we may, in our absolute discretion and without any obligation to do so: 
+ 
+(i) 
+decline to execute your Instructions; and 
+ 
+(ii) 
+force-sell any Eligible Virtual Assets held by us on your behalf, 
+in each case without further instruction or sanction from you. 
+7.2 
+Withholding 
+(a) 
+If any Applicable Law requires you to deduct any Tax from a payment to 
+us, you must increase the amount payable so that, after making the 
+deduction, we receive the amount we would have received if no 
+deduction had been required. You agree to deduct the amount for the 
+Tax, pay that amount to the relevant Government Agency in accordance 
+with Applicable Law and give us the original receipts. 
+ 
+(b) 
+We may be required to withhold payments to you, and pass such 
+amounts to a Government Agency. If at any time any relevant 
+Government Agency requires us to make a deduction or withholding on 
+any payment due to you, you agree to immediately reimburse us for the 
+amount of any such deduction or withholding or we may recover such 
+amount in accordance with clause 7.1(b) (ii). You will indemnify us 
+against any Loss we suffer or incur as a result of such deduction or 
+withholding. 
+ 
+7.3 
+Value added tax 
+(a) 
+All payments to be made by you in connection with the Agreement are 
+calculated without regard to any goods and services tax, consumption 
+tax, value added tax or any Tax of a similar nature. 
+ 
+(b) 
+If any of these types of Taxes are payable in connection with the 
+payment, you must pay us an additional amount equal to the payment 
+multiplied by the appropriate rate of Tax. You must do so at the same 
+time as making the payment. 
+ 
+7.4 
+Independent payment obligations 
+Your obligation to pay any amount under the Agreement is separate from each of 
+your other obligations to pay. 
+ 
+7.5 
+Rights of netting, set-off and lien 
+(a) 
+If, on any day, either or you or Crypto.com have payment and delivery 
+obligations in the same Virtual Asset in respect of two or more Executed 
+Orders, then we may elect for such Virtual Asset to be delivered, on a 
+net basis so that such obligations will be automatically satisfied and 
+discharged.  
+(b) 
+If, in respect of the same Virtual Asset, the aggregate amount that would 
+otherwise have been payable by one party exceeds the aggregate 
+amount that would otherwise have been payable by the other party, such 
+payment and delivery obligations will be replaced by an obligation upon 
+the party by which the larger aggregate amount would have been 
+payable, to pay to the other party the excess of the larger aggregate 
+amount over the smaller aggregate amount. 
+28 
+ 
+(c) 
+In addition to our rights under clause 7.5(a), we may at any time and 
+without notice to you set off any amount we owe you against any amount 
+that you owe us or, where more than one person constitutes our client, 
+that any one or more of those persons singly or jointly owe us (in either 
+case, whether or not the obligation is matured or contingent and 
+irrespective of the currency, asset or place of payment). Any amounts 
+that are so set off will be discharged promptly and in all respects. 
+ 
+(d) 
+We are entitled to exercise a lien over any or all of your property which 
+(for any reason) is in or comes into our possession or control, except that 
+this lien does not cover any property where it may give rise to any 
+obligation to disclose an interest on our part. We have the right to sell 
+such property and apply the proceeds of sale, after deduction of 
+reasonable Costs, to satisfy any amount you owe us. 
+ 
+(e) 
+For the purposes of this clause 7.5, we may make any conversion at a 
+rate that we reasonably consider appropriate. 
+ 
+(f) 
+Our rights under this clause 7.5 are in addition to any other right of set- 
+off, offset, combination of accounts, lien, right of retention or withholding 
+or similar right or requirement to which we are at any time otherwise 
+entitled or subject whether under the Agreement or by operation of 
+Applicable Law. 
+ 
+7.6 
+Payment in other asset 
+You waive any right you may have in any jurisdiction to pay any amount other 
+than in the Eligible Virtual Asset in which it is due. If we receive an amount in a 
+Virtual Asset other than that in which it is due: 
+ 
+(a) 
+we may return the payment and require you to make the payment in the 
+appropriate and due Eligible Virtual Asset. We may charge you for the 
+Costs incurred in returning the payment to you; or 
+ 
+(b) 
+we may convert the amount into the due Eligible Virtual Asset on the 
+date and at rates we reasonably consider appropriate. We may deduct 
+Costs incurred in the conversion. In such circumstances, you must 
+satisfy your obligations to pay in the due Eligible Virtual Asset only to the 
+extent of the amount of the due Eligible Virtual Asset or other asset 
+obtained from the conversion after deducting the Costs of the 
+conversion. 
+ 
+7.7 
+Virtual Asset restrictions 
+(a) 
+You must comply with any exchange controls and Applicable Law in 
+connection with the Agreement. 
+ 
+(b) 
+If a jurisdiction restricts the availability or transfer of any Virtual Asset, or 
+we are otherwise unable to pay in a particular Virtual Asset, we need not 
+make any payment to you in that Virtual Asset. We may make the 
+payment in any Virtual Asset we reasonably consider appropriate, using 
+a rate that we reasonably consider appropriate. 
+ 
+7.8 
+Conversion on judgment debt 
+If a judgment, order or proof of debt for or the recovery of an amount in 
+connection with the Agreement is expressed in a Virtual Asset other than that in 
+which the amount is due under the Agreement, then you agree to indemnify us 
+on demand against: 
+ 
+(a) 
+any difference arising from converting the Virtual Asset, if the rate of 
+exchange we would otherwise use under the Agreement when we 
+29 
+ 
+receive a payment in the Virtual Asset is less favourable to us than the 
+rate of exchange used for the purpose of the judgment, order or 
+acceptance of proof of debt; and 
+ 
+(b) 
+the Costs of conversion. 
+ 
+7.9 
+Third party payments 
+We are not obliged to make any payments and or deliveries to a third party, 
+except as expressly contemplated by the Agreement or otherwise agreed by us 
+in writing. Any third-party payments may also be subject to conditions. 
+ 
+7.10 
+General conditions precedent to payments by us 
+Each of our obligations to make a payment or delivery, or to perform an 
+obligation referred to in this clause 7.10, is subject to the conditions precedent 
+that: 
+ 
+(a) 
+we are satisfied that you have fulfilled your corresponding obligations (if 
+any) in accordance with all applicable terms; 
+ 
+(b) 
+no Event of Default has occurred and is continuing; and 
+ 
+(c) 
+such actions will not cause us to be in breach of any Applicable Law or 
+our internal policies. 
+ 
+7.11 
+Return of Virtual Assets 
+(a) 
+We may, at our discretion, upon the passage of an applicable time 
+period determined by us or as otherwise required by Applicable Law or 
+our internal policy, return any Virtual Assets recorded in your Account to 
+a designated external address that is compatible with the relevant Virtual 
+Asset and that is under your control, as last notified to us in writing. 
+ 
+(b) 
+If we receive Virtual Assets which are determined not to be Eligible 
+Virtual Assets, upon our request, you must provide us with an external 
+address under your control. Subject to Applicable Law and our internal 
+policy, we will return the Virtual Assets received to such address. 
+ 
+(c) 
+To the extent permissible under Applicable Law, we reserve the right to 
+deduct a fee, Costs or other administrative charge in respect of the 
+return of any Virtual Assets. 
+ 
+8 
+Calculations 
+8.1 
+Calculation agent 
+(a) 
+We are the calculation agent for each Executed Order. All calculations 
+are carried out in our sole discretion, unless otherwise specified in the 
+relevant Confirmation. 
+ 
+(b) 
+The calculation agent is, subject to the relevant Confirmation, 
+responsible for: 
+ 
+(i) 
+calculating the fees and any rates, amounts, periods and dates 
+(including changes to any of them) in accordance with the 
+Confirmation; 
+ 
+(ii) 
+giving notice of such fees, rates, amounts, periods and dates; 
+30 
+ 
+(iii) 
+determining the value of any Virtual Asset expressed in respect 
+of another Virtual Asset or as expressed in respect of a Fiat 
+Currency; 
+ 
+(iv) 
+effecting or calculating any Virtual Asset conversion necessary 
+or desirable for the purposes of any Executed Order; and 
+ 
+(v) 
+calculating any netting or set-off in accordance with clause 9. 
+ 
+(c) 
+The calculations and determinations of the calculation agent are final 
+and binding on you in the absence of manifest error. They will be 
+applied using such methodology as we determine in good faith and in 
+our discretion. 
+ 
+8.2 
+Adjustments 
+(a) 
+If, in our opinion, any event or circumstance, including any Network 
+Event or Force Majeure Event, occurs that adversely affects our ability in 
+determining the amount payable to or by you in respect of any Order and 
+such circumstances continue for a period of not less than five Business 
+Days, we may make such adjustments to the method used or to be used 
+to determine the amount payable to or by you in respect of any Executed 
+Order in accordance with our customary practices or market practice of 
+which we aware (if any). 
+ 
+(b) 
+Adjustments made in accordance with clause 8.2(a) are binding and 
+conclusive against you. 
+ 
+9 
+Netting and set-off 
+9.1 
+Netting 
+In respect of two or more Executed Orders to which you are a party, a net 
+amount will be calculated by us as calculation agent in respect of all amounts 
+payable on the same date in the same Virtual Asset in respect of such Executed 
+Orders, regardless of whether such amounts are payable in respect of the same 
+Executed Order. 
+ 
+9.2 
+Set-off 
+At any time, if there are amounts payable in any Virtual Asset by you to us or to 
+any counterparty, as calculated by us as calculation agent, then your obligation 
+under the Agreement to make payment of any such amount of Virtual Asset will, 
+in our sole discretion and after giving of seven Business Days’ notice, be 
+satisfied and discharged, in whole or in part, by way of set-off against any Virtual 
+Asset in your Account. 
+ 
+9.3 
+Our other rights 
+Our right to net and/or set-off under this clause 9 is in addition to any other right 
+of set-off, offset, combination of accounts, lien, right of retention or withholding or 
+similar right or requirement to which us is at any time otherwise entitled or 
+subject whether under the Agreement or by operation of Applicable Law. 
+31 
+ 
+Part 3 Exchange 
+ 
+10 
+Trading on the Exchange 
+10.1 
+Description 
+The Exchange enables you to acquire or dispose of Virtual Assets through the 
+Exchange by using your Account, in accordance with the Agreement. 
+ 
+10.2 
+Availability of the Exchange 
+(a) 
+The Exchange is available during Trading Hours on each day. 
+ 
+(b) 
+The Exchange may not be available at certain times. In particular, there 
+may be some downtime (as advised through an Agreed Communication 
+Method) when use of the Exchange will be restricted or not possible. 
+ 
+(c) 
+We may periodically shut down the Exchange or access to the Exchange 
+via the Website or App, and interrupt any automatic functions for the 
+following reasons: 
+ 
+(i) 
+planned system and software maintenance; 
+ 
+(ii) 
+unscheduled emergency maintenance; 
+ 
+(iii) 
+seasonal holidays; and 
+ 
+(iv) 
+any other event that Crypto.com consider requires suspension of 
+the Exchange. 
+ 
+10.3 
+Submitting an Order 
+(a) 
+An Order can only be submitted to the Exchange by you, using an 
+Agreed Communication Method and the procedure provided through that 
+Agreed Communication Method for that Order. 
+ 
+(b) 
+An Order must be a: 
+ 
+(i) 
+Limit Order; 
+ 
+(ii) 
+Market Order; or 
+ 
+(iii) 
+Advanced Order. 
+ 
+(c) 
+An Order must comply with any applicable minimum and maximum 
+Order values and any other requirements specified via the Agreed 
+Communication Method. 
+ 
+(d) 
+When submitting an Order, you must comply with any trading and 
+position limits imposed on you by us in accordance with these Exchange 
+Terms and Conditions. 
+ 
+(e) 
+You must have an available balance of the relevant Eligible Virtual 
+Assets in your Account to submit an Order. This available balance must 
+be sufficient to cover: 
+ 
+(i) 
+the total value of the Order; and 
+ 
+(ii) 
+any applicable fees. 
+32 
+ 
+(f) 
+When you place an Order, the quantity of the relevant Eligible Virtual 
+Asset will be placed on hold in your Account until that Order is Executed 
+or cancelled. 
+ 
+10.4 
+Orders 
+(a) 
+Once submitted to the Exchange in accordance with clause 10.3, an 
+Order: 
+ 
+(i) 
+will be displayed on the Exchange; and 
+ 
+(ii) 
+remains open and binding on the person that submitted it until it 
+is Executed or cancelled. 
+ 
+(b) 
+You may cancel an Order that you have submitted at any time before the 
+Order is Executed. 
+ 
+10.5 
+Price deviation warning 
+We will endeavour to display a warning to you who attempts to submit an Order 
+that may completely or partially Execute at a price that is more than 5% away 
+from the price specified in the most recently Executed Order for that Trading Pair. 
+However, it is ultimately up to you to decide whether or not to submit the Order in 
+any event. 
+ 
+10.6 
+Limit Orders 
+(a) 
+A Limit Order is not guaranteed to Execute. 
+ 
+(b) 
+A Limit Order may only Execute at the price stated in the Limit Order or 
+at a better price. 
+ 
+(c) 
+A Limit Order can be a Maker Order or a Taker Order. 
+ 
+10.7 
+Market Orders 
+(a) 
+A Market Order may Execute at a number of different prices, depending 
+on: 
+ 
+(i) 
+the quantity of the Base Asset specified; and 
+ 
+(ii) 
+the volume and prices of Orders on the Exchange, 
+ 
+at the time that the Market Order is submitted and while the Market 
+Order remains open. 
+ 
+(b) 
+A Market Order is always a Taker Order. 
+ 
+10.8 
+Advanced Orders 
+(a) 
+We may, in our sole discretion, specify through an Agreed 
+Communication Method: 
+ 
+(i) 
+additional; and/or 
+ 
+(ii) 
+different, 
+ 
+requirements, restrictions or conditions in respect of one or more 
+Advanced Orders or types of Advanced Order. 
+ 
+(b) 
+If any requirement, restriction or condition for an Advanced Order (or a 
+type of Advanced Order) is inconsistent with any other provision of the 
+Agreement, the former prevails to the extent of the inconsistency in 
+33 
+ 
+respect of that Advanced Order (or Advanced Order type) unless 
+otherwise specified in writing. 
+ 
+10.9 
+Order Matching Engine 
+(a) 
+To Execute Orders, the Order Matching Engine will match a Taker Order 
+with a Maker Order. 
+ 
+(b) 
+Orders are matched based on the price and time that the Orders are 
+placed, and earlier Orders at the same price take priority over later 
+Orders. 
+ 
+(c) 
+An Order may be matched with and Executed by one or more Orders at 
+the same price. 
+ 
+(d) 
+A Taker Order will be: 
+ 
+(i) 
+matched with the best price and earliest Maker Order with the 
+same price level for that Trading Pair on the Exchange; and 
+ 
+(ii) 
+if it is not Executed by that Maker Order or is only partially 
+Executed by that Maker Order, matched with any subsequent 
+Maker Order in accordance with clause 10.9(b). 
+ 
+(e) 
+The process stated in clause 10.9(d)(ii) is repeated until the Taker Order 
+is completely Executed or cancelled. 
+ 
+10.10 Self-Execution prevention 
+(a) 
+Where two Orders of the same quantity would result in Self-Execution, 
+we will cancel both Orders. 
+ 
+10.11 Trade Engine 
+(a) 
+Executed Orders and applicable fees, Costs and Tax will be settled in 
+full, without set off, counterclaim or deduction or withholding, unless the 
+deduction or withholding is required by Applicable Law, by the Trade 
+Engine. 
+ 
+(b) 
+Executed Orders will be settled as soon as possible after Execution. 
+ 
+(c) 
+Settlement of Executed Orders by the Trade Engine is final and will not 
+be reversed unless: 
+ 
+(i) 
+we are compelled to do so by any Applicable Law; 
+ 
+(ii) 
+we are entitled to under the terms of the Agreement; or 
+ 
+(iii) 
+Mis-execution has occurred. 
+ 
+(d) 
+With respect to clause 10.11(c)(ii), we will take all reasonable steps to 
+restore the relevant you to the position that you would have been in had 
+the Mis-execution not occurred. 
+ 
+10.12 Order minimums and maximums 
+(a) 
+The minimum and maximum Order values for the Exchange will be 
+published by us on the App and/or Website, which may be adjusted from 
+time to time. 
+34 
+ 
+ 
+11 
+Orders 
+11.1 
+Orders must be pre-paid 
+(a) 
+Before you place an Order, you must have a sufficient amount and 
+appropriate type of Eligible Virtual Assets recorded in your Account to 
+meet your obligations in respect of the proposed Virtual Asset 
+transaction, inclusive of any applicable fees, Costs and Tax. 
+Notwithstanding the amount displayed as being recorded to an Account, 
+only Eligible Virtual Assets will be taken into account when assessing 
+whether the sufficiency and appropriateness requirements under this 
+clause 11.1(a) are satisfied. 
+ 
+(b) 
+If any Virtual Assets in your Account are determined not to be Eligible 
+Virtual Assets, you must substitute the assets in your Account with 
+Eligible Virtual Assets before you can submit an Order, or discharge your 
+obligations in respect of an Executed Order. 
+ 
+11.2 
+Your responsibilities 
+Without limiting any other provision of the Agreement: 
+ 
+(a) 
+the submission of an Order and the performance of any Executed Order 
+and any agreement arising under or in connection with that Executed 
+Order, is your sole responsibility; and 
+ 
+(b) 
+you are responsible for complying with all notification requirements and 
+other reporting obligations relating to Executed Orders under Applicable 
+Law. 
+ 
+11.3 
+Limits and controls on Orders 
+(a) 
+We may impose trading and position limits, and position management 
+controls on you, including limits and controls to mitigate and manage our 
+own liquidity, operational and other risks, at any time, without prior notice 
+and without giving reasons. As a result, you understand and 
+acknowledge that you may be prevented from submitting an Order or 
+undertaking other steps at certain times if such actions would cause you 
+to exceed an applicable limit, and that we may apply an applicable filter 
+to reject an Instruction submitted by you. 
+ 
+(b) 
+We may monitor your positions against the limits or controls imposed by 
+us under clause 11.3(a). Any such limits imposed by us are solely for 
+our protection and we will have no responsibility for monitoring or 
+ensuring your compliance with any limits imposed on your trading 
+activities by you or by Applicable Law. 
+ 
+(c) 
+You agree to comply with any limits or controls imposed by us under 
+clause 11.3(a) and not take any actions that will cause you to violate any 
+limits imposed by us on your activities. 
+ 
+(d) 
+To ensure compliance with Applicable Law or any limits set by us under 
+clause 11.3(a), we may decline to act on Instructions and/or execute an 
+Order. We may also suspend your use of the Trading Tools, require you 
+to take certain steps, or take any other action that we consider 
+appropriate in the circumstances. 
+ 
+(e) 
+You indemnify us against any Loss as a result of your breach of any 
+limits or controls imposed by us under this clause 11.3(a) provided that 
+such limits or controls are notified to you at the time that they are 
+imposed. 
+35 
+ 
+(f) 
+Despite any provision in the Agreement to the contrary, we are not 
+required to: 
+ 
+(i) 
+make available to you any product or service, including the 
+Exchange, an Account and the Trading Tools; or 
+ 
+(ii) 
+facilitate any Order, 
+ 
+(g) 
+if such actions may cause us to breach any Applicable Law, including 
+any AML/CTF Requirement. 
+ 
+ 
+Part 4 Other key provisions 
+ 
+12 
+Use of the Exchange and the Account 
+12.1 
+“As is” basis 
+(a) 
+You acknowledge that the Exchange, your Account, the Website and the 
+App have not been developed for your individual needs. 
+ 
+(b) 
+You acknowledge that you use the Exchange and your Account 
+(including the Website and the App) on an “as is” basis at your own risk. 
+ 
+(c) 
+We are not responsible for any consequence or Loss arising from your 
+choice to use the Exchange or your Account, including via the Website 
+or the App. 
+ 
+12.2 
+Compliance 
+You agree that before using the Exchange or your Account while you are outside 
+your country of residency, you will ensure that you would not be breaking any 
+laws, rules or regulations in that other country by doing so. 
+ 
+12.3 
+Maintaining standards in operating the Account 
+(a) 
+When operating your Account, you must: 
+ 
+(i) 
+ensure that your systems and any relevant device, including any 
+Enabled Device, are maintained in good order and are suitable 
+for use with your Account; 
+ 
+(ii) 
+maintain adequate security measures over your systems and 
+devices, including any Enabled Device, so as not to permit 
+anyone other than you or your Authorised Persons from 
+operating your Account; 
+ 
+(iii) 
+run any such tests and provide any information to us as we may 
+reasonably request to establish that your systems and devices 
+satisfy the requirements to operate your Account; 
+ 
+(iv) 
+carry out virus, rootkit, keylogger and other malware checks of 
+your systems and devices on a regular basis (including any 
+specific virus or malware detection programs as required by us 
+from time to time); 
+ 
+(v) 
+inform us immediately of any unauthorised access to your 
+Account or any unauthorised transaction or Instruction; and, if 
+within your control, cause such unauthorised access to cease; 
+36 
+ 
+(vi) 
+not at any time leave unattended any system, telephone, 
+computer, terminal or device from which you are able to operate 
+your Account; 
+ 
+(vii) 
+not send, distribute or upload, in any way, data or materials that 
+contain malfunctions, malware, viruses or other such deficiency 
+or harmful components that may impair or damage the operation 
+of Exchange, App, Account and/or Website; 
+ 
+(viii) 
+not post, promote or transmit through the Website or App any 
+unlawful, harassing, libellous, harmful, vulgar, obscene or 
+otherwise objectionable material of any kind or nature; 
+ 
+(ix) 
+if you become aware of any material defect, malfunction, 
+malware, virus or other such deficiency in your Account or that 
+there has been unauthorised access to your Account, notify us 
+immediately of such deficiency, and cease to use the Account 
+until you have been notified that such deficiency has been 
+rectified; and 
+ 
+(x) 
+obtain and install all applicable hardware, software, updates, 
+patches that are necessary for your use of the Website or the 
+App. 
+ 
+(b) 
+In addition to any other rights under the Agreement, we may suspend, 
+terminate and/or replace an Account at any time and without notice to 
+you if we believe this is necessary or desirable to enable us to comply 
+with Applicable Law. 
+ 
+12.4 
+Pre-conditions for use of the Exchange 
+(a) 
+We may determine whether, and the terms upon which the Exchange is 
+made available to you under the Agreement from time to time, at our 
+sole discretion. 
+ 
+(b) 
+Without limiting clause 12.4(a), we may refuse to make the Exchange 
+available to you if, in our opinion: 
+ 
+(i) 
+an Event of Default has occurred and is continuing; 
+ 
+(ii) 
+you have provided any incorrect, incomplete or misleading 
+information or made an incorrect or misleading representation or 
+warranty; 
+ 
+(iii) 
+you have not provided all documents and information requested 
+by us or satisfied any pre-condition imposed by us on the 
+Exchange; or 
+ 
+(iv) 
+you have not provided sufficient evidence that meets our 
+eligibility criteria use the Exchange. 
+ 
+(c) 
+Without limitation to any other term of the Agreement, we may also 
+suspend or refuse to make the Exchange available if, in our opinion, the 
+Exchange may: 
+ 
+(i) 
+not comply with Applicable Law; 
+ 
+(ii) 
+be being used to circumvent any Applicable Law; or 
+ 
+(iii) 
+result in us being associated with a Proscribed Person or 
+Proscribed Address. 
+37 
+ 
+12.5 
+Withdrawal or suspension of use of the Exchange 
+We reserve the right to withdraw or suspend your right to use the Exchange at 
+any time without prior notice to or any consent from you and without assigning 
+any reason for that action. 
+ 
+13 
+Exchange Materials 
+13.1 
+Limitations on use 
+(a) 
+You may not allow or permit any other person to use the Exchange 
+Materials or otherwise deal with them for the benefit of any other person 
+or in any way that is not specifically contemplated by the Agreement 
+(including by way of downloading, copying, reproducing, adapting, 
+publishing, selling, or distributing them) without our express written 
+consent, which we may reject or grant at our own discretion, with or 
+without conditions. 
+ 
+(b) 
+You will keep all Exchange Materials strictly confidential, except to the 
+extent that they are already in the public domain (other than through a 
+breach of the Agreement or any other obligation of confidence). 
+ 
+(c) 
+You will respect and protect all rights, title and interest (including any 
+intellectual property rights) in the Exchange Materials. 
+ 
+(d) 
+Without limitation to clause 13.1(c), the Website and/or the App is 
+proprietary to Crypto.com. By using the Website and/or the App, 
+Crypto.com grants to you and any Authorised Person a personal, limited, 
+non-exclusive, non-transferable, non-sublicensable right to use the 
+Website and/or the App. 
+ 
+13.2 
+Protection of rights in the Exchange Materials 
+(a) 
+You undertake that you, without limiting any other restrictions, will not, 
+and will not attempt to: 
+ 
+(i) 
+tamper with, modify, adapt, translate, de-compile, reverse- 
+engineer or otherwise alter in any way; 
+ 
+(ii) 
+create derivative works based on, or combine or merge with or 
+into any other software or documentation; 
+ 
+(iii) 
+gain unauthorised access to, make unauthorised use of or make 
+use of for any illegal purpose (or any other purpose that is not 
+contemplated in the Agreement); or 
+ 
+(iv) 
+remove, erase or tamper with any copyright or proprietary notice 
+printed or stamped on, affixed to, or encoded or recorded on, 
+ 
+any Exchange Materials. 
+ 
+(b) 
+Crypto.com is not, at any time, obliged to provide any adaptations, 
+enhancements and/or modifications to the Exchange Materials, including 
+any updates, patches, bug-fixes and/or upgrades to the Website or App 
+or any new versions and/or releases of the Website or the App which 
+incorporate new features or functions. 
+ 
+13.3 
+Third party actions 
+(a) 
+You acknowledge that we and/or other third parties may take legal action 
+against you if you breach clauses 13.1 and 13.2 at any time, or if we or 
+such third parties suspect that you have done so. You may also be 
+38 
+ 
+subject to other fines and penalties in any relevant jurisdiction. You 
+undertake to notify us immediately if you become aware of any breach 
+described in this clauses 13.1 and 13.2 or that any action described in 
+clause 13.2 is being perpetrated or attempted by another person. 
+ 
+(b) 
+You may also be required by us to notify the relevant third parties of any 
+breach by you of any of the Agreement. You also authorise us to do so 
+on your behalf. 
+ 
+14 
+Ongoing requirements 
+14.1 
+Maintenance of eligibility 
+You must be able to demonstrate to our satisfaction that you are: 
+ 
+(a) 
+a resident of an Available Jurisdiction; and 
+ 
+(b) 
+not otherwise prohibited or restricted from accessing or using the 
+Exchange, 
+ 
+on an ongoing basis. 
+ 
+14.2 
+Compliance 
+You must comply with: 
+ 
+(a) 
+the Agreement; 
+ 
+(b) 
+Applicable Law, including: 
+ 
+(i) 
+AML/CTF Requirements; and 
+ 
+(ii) 
+Financial Crime Regulations, 
+on an ongoing basis. 
+14.3 
+Self-reporting 
+You must: 
+ 
+(a) 
+contact us immediately; and 
+ 
+(b) 
+not access the Exchange, 
+ 
+if you have reason to believe that you do not meet the requirements set out in 
+clauses 14.1 or 14.2. 
+ 
+15 
+Powers of Crypto.com 
+15.1 
+Power to revise the Agreement 
+Subject to clause 15.2, Crypto.com may revise the Agreement. 
+ 
+15.2 
+Notice 
+Crypto.com will provide 14 Business Days’ notice prior to revising any material 
+terms of the Agreement: 
+ 
+(a) 
+subject to clause 3.2(e) and any other applicable terms that may permit 
+revisions to take immediate effect, or a shorter notice period; and 
+ 
+(b) 
+unless otherwise specified in the relevant notice. 
+39 
+ 
+15.3 
+Power regarding transfers and Exchange use 
+Without limitation to any other powers of Crypto.com described in the Agreement, 
+we may: 
+ 
+(a) 
+withdraw or suspend your access use of the Exchange in accordance 
+with the terms of these Exchange Terms and Conditions; or 
+ 
+(b) 
+restrict any transfers to or from your Account if: 
+ 
+(i) 
+we have reason to believe that you have not complied with the 
+Agreement; 
+ 
+(ii) 
+any Applicable Law or internal policy requires us to do so; or 
+ 
+(iii) 
+we have reason to believe that the transaction is related to any 
+unlawful activities. 
+ 
+15.4 
+Power to cancel, reverse or modify Orders 
+(a) 
+Subject to clause 15.4(b), we may cancel, reverse or modify an Order 
+submitted by you if we have reason to believe that: 
+ 
+(i) 
+the Order contains errors on price, quantity, or other parameters; 
+ 
+(ii) 
+you have not complied with the Agreement; 
+ 
+(iii) 
+any Applicable Law or internal policy requires Crypto.com to do 
+so; or 
+ 
+(iv) 
+the Order has been executed based on an aberrant value. 
+ 
+(b) 
+Crypto.com must not otherwise cancel or modify any Order merely for its 
+own convenience or for the convenience of any other person. 
+ 
+15.5 
+Power to protect market integrity in case of technical fault etc 
+(a) 
+If: 
+ 
+(i) 
+technical issues or other circumstances prevent or degrade your 
+ability to: 
+ 
+(A) 
+submit or cancel Instructions; or 
+ 
+(B) 
+use the Exchange; or 
+ 
+(ii) 
+Crypto.com considers that intervention is necessary to maintain 
+fair, efficient and orderly trading on the Exchange, 
+ 
+then Crypto.com may take any measure that it deems necessary to 
+protect the integrity of the Exchange. 
+ 
+(b) 
+The measures that Crypto.com may take in accordance with clause 
+15.5(a)(i) include: 
+ 
+(i) 
+disabling or restricting access to an Account; 
+ 
+(ii) 
+restricting access via the Website and/or the App; 
+ 
+(iii) 
+disallowing the submission of Orders; 
+ 
+(iv) 
+restricting Order types or imposing conditions on Orders; 
+40 
+ 
+(v) 
+restricting your use of the Exchange; 
+ 
+(vi) 
+modifying the operation of the Order Matching Engine or the 
+Trade Engine; or 
+ 
+(vii) 
+suspending or limiting trading on the Exchange. 
+ 
+15.6 
+Notification of exercise of power 
+(a) 
+Crypto.com must notify through the Website and/or the App if it 
+exercises any of the powers set out in this clause 15, subject to 
+Applicable Law, internal policies and confidentiality requirements. 
+ 
+(b) 
+Notwithstanding clause 15.6(a), where Crypto.com only exercises its 
+powers in respect of one or more (but not all) persons, then it may notify 
+the relevant persons directly, subject to Applicable Law, internal policies 
+and confidentiality requirements. 
+ 
+16 
+Role of Crypto.com 
+16.1 
+Our role as agent or principal 
+(a) 
+By using the Exchange, you acknowledge that we may act as agent or 
+principal in relation to any Order that you submit. 
+ 
+(b) 
+Where we act as principal in relation to an Order, this will be stated in the 
+relevant quote and Confirmation in accordance with clauses 5 and 7. 
+ 
+(c) 
+We do not make any representations and warranties with respect to any 
+assets that are involved in such transaction. This applies even if we 
+undertake certain checks and/or other compliance procedures with 
+respect to the Order. Such procedures are for our own benefit and you 
+should not rely on them. 
+ 
+16.2 
+No obligation to notify market price movements 
+(a) 
+Unless otherwise required by Applicable Law, we are not required to 
+keep you informed of any market price movements (or other risk 
+movements) in relation to a Virtual Asset, even if these may harm your 
+position in respect of that Virtual Asset. 
+ 
+(b) 
+Clause 16.2(a) does not apply to the general provision of information 
+provided on the Exchange, or as is strictly necessary to deliver any 
+services under this Agreement. 
+ 
+16.3 
+Conflicts of interest 
+(a) 
+You understand and agree that the nature of the trading activities as part 
+of the Exchange may create conflicts of interest between your interests 
+and those of other clients, counterparties or us. Some of these 
+circumstances are described in other Parts of these Exchange Terms 
+and Conditions and in other disclosures that we may make from time to 
+time. 
+ 
+(b) 
+If we act in circumstance where we have a conflict of interest, we will 
+take reasonable steps to ensure you are treated fairly. We may, in our 
+absolute discretion, without giving any reason or notice and without 
+incurring any liability of any nature to you, decline to transact with you or 
+otherwise to act on your Instructions in such circumstances. 
+41 
+ 
+16.4 
+Services and activities of Crypto.com 
+(a) 
+Our activities in connection with the Exchange are non-exclusive. 
+Subject to Applicable Law, we may transact with, and provide services 
+to, such other persons as we, in our absolute discretion, deem fit and will 
+be duly paid or compensated. 
+ 
+(b) 
+Unless required by Applicable Law, we are not liable or under any 
+obligation: 
+ 
+(i) 
+to account to you any benefit received by us for dealing with, or 
+providing services to, others; or 
+ 
+(ii) 
+disclose to you any fact or thing which may come to our notice in 
+the course of dealing with, or providing services to, others or in 
+the course of its business, 
+ 
+in any other capacity or in any manner whatsoever. 
+ 
+(c) 
+We and other Crypto.com Group Members may take proprietary 
+positions or undertake proprietary activities, including hedging 
+transactions related to Orders submitted by you, which may affect the 
+market price, rate or other market factors underlying an Order. 
+ 
+16.5 
+Use of third parties 
+(a) 
+You acknowledge and agree that we: 
+ 
+(i) 
+may use third party service providers, such as exchanges, 
+brokers and custodians, at our discretion in order to provide the 
+Exchange from time to time; 
+ 
+(ii) 
+may be unable to provide the Exchange if the services of 
+appropriate third-party service providers are not available on 
+commercially reasonable terms; and 
+ 
+(iii) 
+are not liable for the acts, omissions or unavailability on 
+reasonable commercial terms or any Losses sustained in 
+connection with the use, of such third-party service providers, 
+provided that we exercise reasonable care in their selection. 
+ 
+(b) 
+We agree to undertake appropriate due diligence before the appointment 
+of any third-party service providers, as well as ongoing due diligence at 
+regular intervals, in respect of the ongoing engagement of appointed 
+third-party services providers. Such due diligence will be in accordance 
+with our internal policies and procedures. 
+ 
+16.6 
+ACCOUNT PROTECTION PROGRAM  
+(a) 
+If we determine in our sole discretion that there has been an Unauthorised 
+Transaction, we may provide relief to you (“APP Relief”) subject to (i) the 
+remainder of this Clause 16.6 (ii) Annex III and (iii) your continued 
+adherence to these Terms.  
+(b) 
+You must satisfy all conditions imposed by Us under the Terms and as 
+further clarified in the FAQs, as may be updated from time to time, in order 
+to be eligible for consideration for APP Relief. 
+(c) 
+To assess your eligibility for APP Relief, we may request for relevant 
+information and documents from you or any other third party sources. By 
+providing such information, you understand and give your consent to us 
+and/or our respective representatives or agents to collect, use, store, 
+transfer and/or disclose the information, to or with all such persons 
+(including any Crypto.com Group Member or any third party service 
+provider) for the purpose of enabling CRO DAX Limited to assess your 
+eligibility for APP Relief. 
+42 
+ 
+(d) 
+We will at our sole discretion determine whether you should obtain relief 
+and the quantum of such relief (up to the maximum amounts specified 
+under Clause 16.6(f)). In accepting any APP relief, you also agree that (i) 
+we reserve the right to set off any outstanding funds that you may owe us 
+and (ii) waive any claims or rights you may have against us for the full 
+value of the Unauthorised Transaction. We also reserve the right to rescind 
+full or partial payments made pursuant to this APP, or to take any other 
+actions against you if we subsequently determine that any information that 
+you have provided was untrue, or that your conduct involved bad faith, 
+dishonesty, or fraud. 
+(e) 
+If we make a determination in your favour, we maintain any and all rights 
+under these Terms which are consistent with that determination. 
+Notwithstanding the rest of this Clause 16.6, you hereby agree that we 
+shall not be deemed to have waived our rights under clauses 19, 20 and 
+that all such Terms remain in full force and effect.  
+(f) 
+If we determine that you should obtain relief under the APP, we may 
+calculate your relief as follows, subject to the upper limit set out in this 
+Clause 16.6 (f)(ii):  
+(i) 
+In the case of an Unauthorised Transaction, we will give you the 
+amount of the relevant Virtual Asset that is up to the amount that you 
+lost. 
+(ii) The maximum recovery limit of the Virtual Assets is USD 250,000 
+calculated by reference to the USD price of those assets as of the date 
+of the Unauthorised Transaction or the date that the APP Relief is 
+disbursed, whichever is lower. 
+(g) 
+You hereby agree and acknowledge that we maintain the full right and 
+discretion to amend the terms of as well as suspend or terminate the APP 
+without prior notice to you, including but not limited to an event where APP 
+Relief becomes subject to any prohibitions or restrictions arising from 
+Applicable Law.   
+(h) 
+You hereby acknowledge and agree that our determination under Clause 
+16.6(d) is full and final, and shall not enliven any process of appeal or 
+further contest. You furthermore undertake and represent that you waive all 
+claims whatsoever against us and/or our affiliates upon accepting any full 
+or partial relief under the APP, regardless of whether any future recoveries 
+are made due to our efforts to recover relevant Eligible Virtual Assets. 
+ 
+ 
+17 
+Prevention of Market Misconduct 
+17.1 
+Prohibition on Market Misconduct 
+You must not engage in Market Misconduct. 
+ 
+17.2 
+Prohibited Orders 
+You must not submit an Order: 
+ 
+(a) 
+that, if Executed, would constitute a Prohibited Transaction; 
+ 
+(b) 
+with a view to concealing or facilitating Market Misconduct by yourself or 
+any other person; or 
+(c) 
+the primary purpose of which is to transfer Virtual Assets between 
+Accounts without creating or reducing the open interest in a Trading Pair. 
+ 
+17.3 
+Reporting requirement 
+You must immediately contact Crypto.com if you know, or have reason to 
+believe, that: 
+ 
+(a) 
+you have engaged in Market Misconduct; 
+ 
+43 
+ 
+(b) 
+another person (including Authorised Person) on the Exchange has 
+engaged in Market Misconduct; 
+ 
+(c) 
+any other person has engaged in Market Misconduct in respect of the 
+Exchange or a Virtual Asset generally; or 
+ 
+(d) 
+Market Misconduct is otherwise occurring on the Exchange. 
+ 
+18 
+Information, representations and warranties 
+18.1 
+Information 
+(a) 
+If we ask, you must give us any information about, or documents in 
+connection with, the Agreement or your financial affairs. All information 
+or documents must be in the form we require and will be deemed 
+certified by you to be true. 
+ 
+(b) 
+You must obtain the consent of persons named in the Agreement or 
+other relevant document, and of any Authorised Person, to our 
+collection, holding and use of their information. You agree that you will 
+provide a copy of any privacy-related policy, statement, circular, notice or 
+other terms and conditions made available by us to you from time to time 
+to such persons. A copy of our current privacy notice is available on the 
+App and Website. 
+ 
+(c) 
+You consent to us periodically checking your credit status with any credit 
+bureau, credit reference agency or similar service provider in any 
+relevant jurisdiction. 
+ 
+(d) 
+Without limiting any other provision of the Agreement, you acknowledge 
+and agree that the information and documents contemplated by this 
+clause 18.1 may be transferred to and processed and/or stored by us, 
+any Crypto.com Group Member and/or any other persons engaged by 
+us. Such information and documents may be released or disclosed in 
+accordance with the local laws or practice of the jurisdiction to which the 
+data is transferred. 
+ 
+(e) 
+We agree to notify you of any material change to our name, principal 
+address, licensing status, or the Exchange from time to time. 
+ 
+(f) 
+We will notify you in advance of any changes to our rules, procedures or 
+policies that, in our discretion, are applicable to you for using the 
+Exchange. 
+ 
+(g) 
+You agree to immediately notify Crypto.com of any material misconduct, 
+including misconduct of any Authorised Person, that may give rise to an 
+Event of Default, or otherwise directly or indirectly affect Crypto.com’s 
+rights, this Agreement or the operation of the Exchange. 
+ 
+18.2 
+Representations and warranties 
+By making an Application, you represent and warrant that: 
+44 
+ 
+(a) 
+if you are an individual, you are at least 18 years of age and resident in 
+an Available Jurisdiction; 
+ 
+(b) 
+if you are a corporation or other legal person, you are duly incorporated 
+and/or organised under the laws of an Available Jurisdiction; 
+ 
+(c) 
+the information and documents you provided are true and accurate and 
+up-to-date and shall remain true and accurate and up-to-date throughout 
+the term of the Agreement; 
+ 
+(d) 
+you have appropriate knowledge and experience of blockchain 
+technology, cryptography and smart contracts and the Virtual Assets 
+applicable to each Order and related features and risks; 
+ 
+(e) 
+you understand the nature and assume risks of the subject matter of the 
+Agreement; 
+ 
+(f) 
+you are capable of assuming, and do assume, all risks associated with 
+the Agreement and any Order, including those risks described in Annex I 
+of these Exchange Terms and Conditions; 
+ 
+(g) 
+in respect of the Exchange and each Order, you: 
+ 
+(i) 
+have received, read and understand all relevant documents that 
+make up the Agreement; 
+ 
+(ii) 
+have adequate information in relation to your decision to use the 
+Exchange and submit the Order; and 
+ 
+(iii) 
+have made your own independent decision to use the Exchange 
+and submit the Order and that the Exchange and each Order are 
+appropriate and proper for you based on your own judgment and 
+on advice from independent advisers you have considered 
+necessary; 
+ 
+(h) 
+you enter into the Agreement and submit each Order as principal and 
+are not acting as an agent for any other person, as trustee of any trust or 
+on behalf, or for the benefit, of any other person. Without limiting the 
+generality of this sub-paragraph, no Authorised Person has any interest 
+in your Account or any Order; 
+ 
+(i) 
+you have full legal capacity, power and all necessary authorisations to 
+own your assets and carry on any business it conducts, to enter into the 
+Agreement and submit each Order and to comply with its obligations and 
+exercise its rights under them; 
+ 
+(j) 
+you have obtained all necessary authorisations and consents, and taken 
+all necessary corporate actions (as applicable) to make all payments and 
+deliveries contemplated by the Agreement; 
+ 
+(k) 
+your obligations under the Agreement are valid, binding and enforceable 
+and it will not be in breach of any Applicable Law, authorisation, 
+document or agreement by entering into or complying with obligations or 
+exercising rights under the Agreement or any Order; 
+ 
+(l) 
+you, any Authorised Person, any person who controls you and any 
+person for whom you act, as applicable, is not a Proscribed Person; 
+ 
+(m) 
+if you are a corporation or other legal person, the person that enters into 
+the Agreement on your behalf is, and any person representing you in 
+relation to any Order is and will be, duly authorised to do so; 
+45 
+ 
+(n) 
+all the information given, and representations made, by you (or on your 
+behalf) are correct, complete and not misleading; 
+ 
+(o) 
+since the date of any information you have given us, there has been no 
+change in that information or your financial circumstances that may have 
+a material adverse effect on your ability to meet any of your obligations 
+to us; 
+ 
+(p) 
+any device that you or any of your Authorised Persons uses, including 
+your Enabled Device, is not Jailbroken and otherwise meets the device 
+requirements as described in the Exchange FAQs; 
+ 
+(q) 
+you have not withheld any information that might have caused us not to 
+enter into the Agreement or not allow your Order to be submitted 
+(including information about the assets you own and any Encumbrance 
+over them); 
+ 
+(r) 
+neither you, nor any assets you own, have immunity from the jurisdiction 
+of a court or from legal process in any place; 
+ 
+(s) 
+you are not relying on any communication from us as advice (whether 
+written or oral) from us, and we are not an advisor to you, in connection 
+with the Agreement or any Order; 
+ 
+(t) 
+you understand the nature and assume risks of the subject matter of the 
+Agreement and will seek independent advice where necessary. You 
+also have sources of information other than those provided by us and 
+our representatives that you use in evaluating Virtual Assets; 
+ 
+(u) 
+at any time that you deliver, or procure the delivery of, Virtual Assets to 
+us in connection with an Order or otherwise, you have the absolute right 
+to sell, assign, convey, transfer and deliver such Virtual Asset, and are 
+deemed to confirm that it is fully paid and free of any Encumbrance; 
+ 
+(v) 
+no action, suit or proceeding at law or in equity before any court, tribunal, 
+Government Agency or any arbitrator that is likely to affect the legality, 
+validity or enforceability against you or the Agreement or your ability to 
+perform your obligations under the Agreement is pending or, to your 
+knowledge, threatened against you; 
+ 
+(w) 
+you are responsible for your own Tax affairs, and you have not 
+committed or been convicted of any Tax or other criminal offence; 
+ 
+(x) 
+no Event of Default has occurred, nor has any event occurred which 
+may, with the giving of notice or lapse of time or fulfilment of any 
+condition, become an Event of Default; and 
+ 
+(y) 
+you understand that all transactions on the Exchange are between 
+Virtual Assets, and do not involve Fiat Currencies. 
+ 
+18.3 
+Repetition of representations and warranties 
+You repeat the representations and warranties set out in clause 18.2 every time 
+you: 
+ 
+(a) 
+submit an Order; 
+ 
+(b) 
+give an Instruction; or 
+ 
+(c) 
+otherwise operate your Account or use the Exchange. 
+46 
+ 
+18.4 
+Notification 
+You must immediately notify us if: 
+ 
+(a) 
+an Event of Default occurs; or 
+ 
+(b) 
+you have reason to believe that you cannot truthfully make or repeat the 
+representations and warranties set out in this clause 18. 
+ 
+19 
+Indemnities 
+19.1 
+Your indemnity 
+You indemnify us and each other Crypto.com Group Member and each of the 
+forementioned’s  respective  directors, officers, employees and agents (each, an 
+“indemnified party”) against, and must pay the indemnified party on demand 
+for, any Loss the indemnified party reasonably incur in connection with the 
+Agreement, your breach of any of the terms of the Agreement, your use of the 
+Exchange and/or App, and any Order by you, including: 
+ 
+(a) 
+the provision of the Exchange or entry into an Order in circumstances 
+where we are not in breach of the Agreement; 
+ 
+(b) 
+an Event of Default occurs in relation to you; 
+ 
+(c) 
+searches and enquiries made in connection with you (including checking 
+for Insolvency); 
+ 
+(d) 
+Instructions given to us by you or an Authorised Person, or a person 
+purporting to be you or an Authorised Person provided that we act in 
+good faith when effecting the Instructions, save where we have actual 
+knowledge of any fraud or forgery; 
+ 
+(e) 
+us acting on, delaying or refusing to act on Instructions from you or an 
+Authorised Person or taking action against you or an Authorised Person; 
+ 
+(f) 
+the settlement or attempted settlement of any Executed Order or any 
+failure to settle any such Executed Order, in circumstances where we 
+are not in breach of the Agreement; 
+ 
+(g) 
+any service provided by a third party nominated by you; 
+ 
+(h) 
+any Tax payable by the indemnified party on, or calculated by reference 
+to, any Order or any amount paid or payable by or to you under the 
+Agreement (excluding any Tax payable by the indemnified party by 
+reference to its net income); 
+ 
+(i) 
+any action taken by a third party to gain control of any Virtual Asset 
+contemplated by the Agreement; 
+ 
+(j) 
+any person exercising, or not exercising, rights under the Agreement 
+(including enforcement action and debt collection Costs, such as 
+valuation fees and auctioneer’s charges); or 
+ 
+(k) 
+the costs of the indemnified party in defending itself successfully against 
+any claims of fraud, negligence or wilful default, 
+ 
+in each case except to the extent the Loss is a direct result of the indemnified 
+party’s own gross negligence, fraud or wilful misconduct. 
+47 
+ 
+19.2 
+Interest 
+You agree to pay interest on any amounts in respect of which you are required to 
+indemnify any person under clause 19.1 or otherwise under the Agreement from 
+the date of demand until the date of receipt by that person in full of such amounts 
+and the interest (after as well as before judgment), at the rate of interest 
+described in clause 22.2. 
+ 
+19.3 
+Further steps 
+If we ask, you must: 
+ 
+(a) 
+appear and defend at your own cost any action which may be brought 
+against us in connection with the Agreement; and 
+ 
+(b) 
+sign any document we reasonably require to give further effect to this 
+clause 19. 
+ 
+19.4 
+Application of indemnity 
+You agree that the provisions of this clause 19: 
+ 
+(a) 
+continue in full force and effect in relation to Instructions received before 
+we give notice to you that we will not accept further Instructions; and 
+ 
+(b) 
+are unconditional, irrevocable and survive termination of all dealings 
+between us and you and are not impaired by any act, omission, matter or 
+thing that might discharge or impair the indemnity but for this clause. 
+ 
+20 
+Our liability 
+20.1 
+Exclusion and limitation of liability 
+Unless any Applicable Law prohibits us from excluding or limiting our liability or 
+where the Loss is directly caused by our own gross negligence, fraud or wilful 
+misconduct, we are not liable for any Loss incurred in connection with the 
+Agreement, including in connection with: 
+ 
+(a) 
+the general risks of investing or entering into any Order or using the 
+Exchange, including those described in Annex I; 
+ 
+(b) 
+the provision or unavailability of any Virtual Asset, Account, the 
+Exchange, the Website or the App; 
+ 
+(c) 
+investing or holding assets in a particular jurisdiction (including Losses 
+arising from nationalisation, expropriation or other governmental action, 
+financial services regulations, currency or asset restrictions, devaluations 
+or fluctuations, and market conditions affecting the orderly execution of 
+transactions or affecting the value of assets); 
+ 
+(d) 
+the collection, deposit or credit of invalid, fraudulent or forged Virtual 
+Assets transfers; 
+ 
+(e) 
+effecting delivery or payment against an expectation of receipt, save 
+where such delivery or payment is contrary to local market practice; 
+ 
+(f) 
+an instruction to deliver Virtual Assets to an exchange, broker, custodian 
+or other third party, even if we might have information tending to show 
+that this course of action, or the choice of a particular exchange, broker, 
+custodian or other third party for a transaction, is unwise; 
+48 
+ 
+(g) 
+any information that we provide on Virtual Assets, market trends or 
+otherwise, even if such information is provided at your request; 
+ 
+(h) 
+subject to clause 16.5, any act or omission of any exchange, broker, 
+custodian or any other third party, whether or not appointed by us. We 
+are not obliged to request such exchange, broker, custodian or any third 
+party to comply with its obligations; 
+ 
+(i) 
+the exercise or attempted exercise of, failure to exercise, or delay in 
+exercising, a right or remedy or a delay or error in making payments or 
+deliveries under the Agreement; 
+ 
+(j) 
+you or an Authorised Person’s Instructions, any unauthorised 
+Instructions or our refusal to act on any Instruction; 
+ 
+(k) 
+any Force Majeure Event; 
+ 
+(l) 
+a Network Event not reasonably within our control; 
+ 
+(m) 
+an Event of Default; 
+ 
+(n) 
+termination of any of the Agreement; or 
+ 
+(o) 
+any return or purported return of Virtual Assets in accordance with 
+clause 23.9, 
+ 
+and this disclaimer applies where the Loss arises for any reason and even if the 
+Loss was reasonably foreseeable or we had been advised of the possibility of the 
+Loss. 
+ 
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW AND 
+WITHOUT PREJUDICING THE FOREGOING, IN NO EVENT SHALL 
+CRYPTO.COM AND CRYPTO.COM GROUP MEMBER, THEIR RESPECTIVE 
+SHAREHOLDERS, MEMBERS, DIRECTORS, OFFICERS, EMPLOYEES, 
+ATTORNEYS, AGENTS, REPRESENTATIVES, SUPPLIERS OR 
+CONTRACTORS BE LIABLE FOR ANY INCIDENTAL, INDIRECT, SPECIAL, 
+PUNITIVE, CONSEQUENTIAL OR SIMILAR DAMAGES OR LIABILITIES 
+WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS 
+OF DATA, INFORMATION, REVENUE, PROFITS OR OTHER BUSINESS OR 
+FINANCIAL BENEFIT) ARISING OUT OF OR IN CONNECTION WITH THE 
+SERVICES PROVIDED HEREUNDER, ANY PERFORMANCE OR NON- 
+PERFORMANCE OF THE SERVICES PROVIDED HEREUNDER, OR ANY 
+OTHER PRODUCT, SERVICE OR OTHER ITEM PROVIDED BY OR ON 
+BEHALF OF CRYPTO.COM OR CRYPTO.COM GROUP MEMBER, WHETHER 
+UNDER CONTRACT, STATUTE, STRICT LIABILITY OR OTHER THEORY 
+EVEN IF CRYPTO.COM HAS BEEN ADVISED OF THE POSSIBILITY OF 
+SUCH DAMAGES EXCEPT TO THE EXTENT OF A FINAL JUDICIAL 
+DETERMINATION THAT SUCH DAMAGES WERE A RESULT OF 
+CRYPTO.COM OR CRYPTO.COM GROUP MEMBER’S, GROSS 
+NEGLIGENCE, FRAUD OR WILLFUL MISCONDUCT. 
+ 
+NOTWITHSTANDING THE FOREGOING, IN NO EVENT SHALL THE 
+LIABILITY OF CRYPTO.COM OR CRYPTO.COM GROUP MEMBER, 
+AFFILIATES AND THEIR RESPECTIVE SHAREHOLDERS, MEMBERS, 
+DIRECTORS, OFFICERS, EMPLOYEES, ATTORNEYS, AGENTS, 
+REPRESENTATIVES, SUPPLIERS OR CONTRACTORS ARISING OUT OF OR 
+IN CONNECTION THE SERVICES PROVIDED HEREUNDER, ANY 
+PERFORMANCE OR NON-PERFORMANCE OF THE SERVICES, OR ANY 
+OTHER PRODUCT, SERVICE OR OTHER ITEM PROVIDED BY OR ON 
+BEHALF OF CRYPTO.COM, CRYPTO.COM GROUP MEMBER, WHETHER 
+UNDER CONTRACT, STATUTE, STRICT LIABILITY OR OTHER THEORY, 
+49 
+ 
+EXCEED THE AMOUNT OF THE FEES PAID BY YOU TO CRYPTO.COM 
+UNDER THE AGREEMENT IN THE TWELVE-MONTH PERIOD IMMEDIATELY 
+PRECEDING THE EVENT GIVING RISE TO THE CLAIM FOR LIABILITY. 
+ 
+20.2 
+Responsibility for decisions 
+(a) 
+All decisions on whether to invest in, hold or dispose of any Virtual 
+Assets or to enter into any Order are yours. We are not responsible for 
+any decision made by you: 
+ 
+(i) 
+to enter into the Agreement or submit any Order, or to use any 
+of the Exchange; or 
+ 
+(ii) 
+about any features or risks of any Virtual Asset, or any fees or 
+Costs payable in connection with it. 
+ 
+(b) 
+While some of our employees and agents may be authorised to give you 
+certain types of information about Virtual Assets or other products or 
+services neither our employees nor its agents have any authority to 
+make representations about anything in connection the Agreement. 
+ 
+(c) 
+Subject to any Applicable Law, we are not liable for any Loss if its 
+employees or agents act without authority. However, if you consider that 
+any representation has been made to you that is not set out in the 
+Agreement, you must give us details in writing so that we can clarify it. 
+ 
+20.3 
+Hyperlinked sites 
+(a) 
+We are not responsible for, do not endorse, and make no representation 
+or warranty in connection with, any hyperlinked internet sites through an 
+Agreed Communication Method or other internet sites to which you may 
+be referred. We are not responsible for any Loss incurred in connection 
+with those sites. 
+ 
+(b) 
+Such internet sites may contain information that has not been devised, 
+verified or tested by us or our officers, employees or agents. We do not 
+endorse the accuracy or completeness of such information, nor do we 
+guarantee that such information, or the provision of any hyperlinks to 
+you, do not infringe third party rights. 
+ 
+20.4 
+Circumstances beyond our control 
+We are not liable for any Loss incurred in connection with our inability or delay in 
+receiving or executing Instructions or unavailability of funds or any Virtual Asset 
+due to a Force Majeure Event or any circumstances beyond our reasonable 
+control. If a Force Majeure Event occurs or any circumstances beyond our 
+reasonable control occur, we may take any action we consider appropriate in 
+connection with the Agreement. 
+ 
+21 
+Network events 
+21.1 
+Infrastructure Participant, Network Participant and Network Event 
+If: 
+ 
+(a) 
+any Infrastructure Participant or Network Participant gives a direction, or 
+makes a decision or election, that affects an Executed Order; or 
+ 
+(b) 
+any Infrastructure Participant or Network Participant becomes Insolvent 
+or is suspended from operating; or 
+ 
+(c) 
+a Network Event has occurred, 
+50 
+ 
+then we may take any action which we, in our sole discretion, consider 
+appropriate to correspond with the direction, decision, election or event (including 
+a Network Event), or to mitigate any loss incurred or potential loss or impact 
+which may be incurred as a result of such action or event. Any such action may 
+result in suspension of access to, or adjustment of the balance in, your Account. 
+Subject to Applicable Law, any such action will be binding on you (including, 
+where relevant, making any decision or election in relation to a Network Event). 
+ 
+21.2 
+Cooperation and enquiries 
+Where any Infrastructure Participant, Network Participant or any regulatory body 
+makes an enquiry which relates to the Exchange, your Account or an Order, you 
+agree to co-operate with us and that any information relevant to the enquiry may 
+be passed to any Crypto.com Group Member, or any Infrastructure Participant, 
+Network Participant or regulatory body, as may be appropriate. 
+ 
+21.3 
+Staking 
+Unless specifically announced through an Agreed Communication Method in 
+relation to a Virtual Asset and subject to the terms therein, we do not support the 
+staking of such Virtual Asset on your behalf and do not distribute any rewards 
+associated with such staking. However, we may stake such Virtual Assets and 
+claim rewards for our own benefit. 
+ 
+21.4 
+Network event 
+On each occasion of a Network Event, we in our sole and absolute discretion 
+may determine: 
+ 
+(a) 
+in the event of a Fork, which branch of the Fork is recognised and 
+supported, if any, and where necessary to take any action or make any 
+election required to implement such recognition and support of that Fork; 
+ 
+(b) 
+in the event of an Airdrop, whether to credit any Virtual Assets received 
+by us to the Account or participate in an Airdrop, and upon what terms to 
+do so, such decision regarding the Airdropped Virtual Assets remains 
+with us at all times. We will not be liable to you for failure to credit any 
+Virtual Asset to you or participate in any Airdrop. If we do not support an 
+Airdrop, we will not claim such Airdrop for our own benefit (unless it is 
+unavoidable or impractical to avoid based on the means of distribution); 
+ 
+(c) 
+in the event of a Network Event which results in loss of ownership or 
+control of Virtual Assets, how such loss is apportioned; and 
+ 
+(d) 
+whether to halt transactions in a specific Virtual Asset (or generally) or 
+any other activities for any period of time, which period of time may also 
+be extended in our sole and absolute discretion. 
+ 
+Upon becoming aware of a Network Event, we will notify you through an Agreed 
+Communication Method, as soon as practicable. We will also publish our 
+decision in handling the relevant Virtual Assets in the event of a Network Event at 
+least one Business Day before the occurrence of the Network Event, unless to do 
+so is impossible or reasonably impracticable. 
+ 
+22 
+Fees and Costs 
+22.1 
+Payment of fees and Costs 
+You must pay the fees, charges, commissions and Costs specified by us on the 
+“Fees page” on the Website, through another Agreed Communication Method, or 
+as otherwise notified by us in writing as applying to the Exchange from time to 
+time. 
+51 
+ 
+22.2 
+Overdue payments 
+From the time any amount under the Agreement is overdue for payment until it is 
+paid, you agree to pay interest at our prevailing default interest rate on the 
+overdue amount when we ask. This rate is revised by us periodically and is 
+available from us on request. 
+ 
+22.3 
+Calculation 
+Any interest payable under the Agreement accrues and is calculated in 
+accordance with our usual practice. If default interest is charged under clause 
+22.2, we may add to the outstanding amount any interest under this clause which 
+has not been paid. You are then liable for interest under this clause on the total 
+amount. 
+ 
+22.4 
+No refund 
+Unless otherwise specified in the Agreement, you are not entitled to any refund 
+of any Costs, fees or interest you have paid, or subsidy you have received, 
+including where you cancel an Order, or all or any of the Agreement ends. 
+ 
+22.5 
+Costs on cancellation 
+If all or any of the Agreement ends or you cancel an Order, we may require you 
+to pay interest, fees and Costs incurred in connection with the Agreement or 
+Order. 
+ 
+22.6 
+Benefits with Staking 
+If you stake Crypto.org Coin (as referenced in paragraph 3.2 of Annex I) in the 
+Exchange, you may enjoy the following benefits: 
+ 
+(a) 
+discount in fees and Costs, details of such discount is specified by us on 
+the Fees page on the Website and App; 
+ 
+(b) 
+receive interest in Crypto.org Coin, details of which are specified on the 
+FAQ page on the Website; and 
+ 
+(c) 
+any other benefits as may be notified by us in writing via any Agreed 
+Communication Method from time to time. 
+ 
+23 
+Termination, suspension and enforcement 
+23.1 
+Termination by either party 
+Either you or we may terminate any part of the Agreement, or the Agreement as 
+a whole, by giving the other party at least seven days’ notice in writing. 
+ 
+23.2 
+Termination by us 
+In addition to our rights in clause 23.1, we may terminate any (or all) of the 
+Agreement immediately by notice to you, if: 
+ 
+(a) 
+you provide incorrect, incomplete or misleading information or make a 
+representation or warranty that is incorrect or misleading; 
+ 
+(b) 
+you breach any payment or delivery obligation or other term of the 
+Agreement, any other agreement with us, or any term of any 
+arrangement you have with another financial institution, or another 
+financial institution has suspended or terminated your use of any 
+financial services; 
+ 
+(c) 
+you become Insolvent or any of your assets are subject to Insolvency 
+proceedings; 
+52 
+ 
+(d) 
+you act fraudulently or dishonestly; 
+ 
+(e) 
+you disaffirm, disclaim, repudiate or reject, in whole or in part, the 
+Agreement, any Confirmation or any Executed Order (or such action is 
+taken by an Authorised Person on your behalf); 
+ 
+(f) 
+any Authorised Person or other person asserts any interest in, or right to 
+control, your Account by virtue of you having provided access to your 
+Account or otherwise; 
+ 
+(g) 
+performance of any obligation by either you or we under the Agreement 
+breaches, or is likely to breach, any Applicable Law (including AML/CTF 
+Requirements, Financial Crime Regulations or market abuse 
+requirements) or is otherwise contrary to any policy we apply as a result 
+of an order or sanction issued by any Government Agency; 
+ 
+(h) 
+anything occurs which, in our opinion, is likely to have a material adverse 
+effect on your ability or willingness to comply with your obligations under 
+the Agreement; 
+ 
+(i) 
+performance of any obligation by either you or we under the Agreement 
+breaches, or is likely to breach, any Applicable Law or is otherwise 
+contrary to any policy we apply as a result of an order or sanction issued 
+by any Government Agency; 
+ 
+(j) 
+we are required by Applicable Law to do so; 
+ 
+(k) 
+any of your Virtual Assets are subject to enforcement of a judgment or 
+are expropriated, compulsorily acquired or resumed on any basis; 
+ 
+(l) 
+you are convicted of a Tax or other crime in any jurisdiction; 
+ 
+(m) 
+we, in our discretion, consider that your Account is being operated or the 
+Exchange are otherwise being used in an irregular or improper manner; 
+ 
+(n) 
+you fail to provide any information requested under the Agreement, or 
+where required to do so in compliance with any Applicable Law or the 
+requirement of any contract; 
+ 
+(o) 
+any other event of default (however described) under any other 
+agreement between you and any Crypto.com Group Member occurs; or 
+ 
+(p) 
+your Account has been inactive for three years. 
+ 
+Our rights under this clause 23.2 do not affect any other right under the 
+Agreement and are subject to the giving of any notice, demand or lapse of time 
+which is required by Applicable Law and cannot be excluded. 
+ 
+23.3 
+Additional rights to terminate 
+Other terms of our Agreement that are applicable to a particular service may 
+specify additional circumstances in which you or we may end the Agreement. 
+These apply in addition to the rights set out in clause 23.1 and 23.2. 
+ 
+23.4 
+The Agreement 
+After the Agreement ends, you must: 
+ 
+(a) 
+not use the Exchange and/or operate any Account that is the subject of 
+the termination, or any benefits in connection with the Exchange; 
+53 
+ 
+(b) 
+immediately make all payments and deliveries required in connection 
+with the Agreement, your Account, the Exchange and any relevant 
+Executed Orders; and 
+ 
+(c) 
+do any other thing which the Agreement requires to be done when your 
+right to use the Exchange and operate your Account ends. 
+ 
+23.5 
+No effect on rights and liabilities 
+(a) 
+Subject to clause 23.9, the termination of all (or any) of the Agreement 
+does not affect any of the rights and obligations of either of us that arose 
+before termination. You are not entitled to any refund of any fee or 
+amount paid or subsidy received in connection with the Agreement or 
+any Executed Order. 
+ 
+(b) 
+All provisions in the Agreement in connection with payments, clawbacks, 
+indemnities, limitation of liability, disclosure of information, set-off, asset 
+conversion, Tax, and the provisions in clauses 23.9 and 24 survive 
+termination of the Agreement. 
+ 
+23.6 
+Review of entitlements 
+After all (or any) of the Agreement ends, we may review and withdraw any 
+promotional or preferential arrangement that applies to you. 
+ 
+23.7 
+Enforcement action 
+We may take any action we consider appropriate to enforce the Agreement, 
+including employing any third-party agent to collect any amount owing, taking 
+steps to enforce its rights against your assets, such as attaching any amount 
+owing to those assets, and commencing legal proceedings. 
+ 
+23.8 
+Suspension 
+We may suspend our engagement in any or all of the activities contemplated by 
+the Agreement at any time, including the Exchange generally, for any reason 
+(even if no Event of Default has occurred and is continuing), with effect from such 
+time and for such duration as we may determine. If we do so, we will notify you 
+as soon as practicable, to the extent permitted by Applicable Law. 
+ 
+23.9 
+Payments and handling of Virtual Assets upon termination 
+(a) 
+Upon termination of this Agreement, we may return any Virtual Assets 
+recorded in your Account to a designated external address to you in 
+accordance with clause 7.11. 
+ 
+(b) 
+If we are unable to return any Virtual Assets to you pursuant to clause 
+23.9(a), we will take reasonable steps, as determined in our sole 
+discretion in the circumstances, to contact you and return the Virtual 
+Assets in the form and manner we deem appropriate. 
+ 
+(c) 
+If we are unable to contact you or return the Virtual Assets pursuant to 
+clause 23.9(b), we may deal with the relevant amount of Virtual Assets 
+(less applicable Costs) as we consider appropriate, as determined in our 
+sole discretion. This includes transferring the Virtual Assets to a third 
+party. You will not have any further rights to such amounts. Without 
+limiting any of the foregoing, we are not obliged to hold any such Virtual 
+Assets for you. 
+54 
+ 
+ 
+24 
+General terms 
+24.1 
+Hardware, Trading Tools and other materials 
+(a) 
+You are solely responsible for installing and maintaining any applicable 
+hardware and Trading Tools for using your Account and the Exchange. 
+ 
+(b) 
+You are required to comply with all systemic requirements imposed in 
+relation to your Account and the Exchange, including installing and 
+updating any applicable security procedures. 
+ 
+24.2 
+Prompt performance 
+If the Agreement specifies when you must perform an obligation, you must 
+perform it by the time specified. You must perform all other obligations promptly. 
+Time is of the essence in respect of your obligations to deliver or pay any Virtual 
+Asset. 
+ 
+24.3 
+Waiver and variation 
+(a) 
+A provision of the Agreement, or right created under it, may not be 
+waived except in writing signed by the party or parties to be bound and is 
+only effective for the purpose for which it is given. 
+ 
+(b) 
+You acknowledge that various features of the activities contemplated by 
+the Agreement may be changed at any time, including applicable Costs, 
+subject to Applicable Law. 
+ 
+24.4 
+Exercise of rights 
+(a) 
+Unless expressly stated otherwise in the Agreement, we may exercise a 
+right or remedy, give or refuse our consent or approval, and/or make any 
+other determination or decision, in connection with the Agreement in any 
+way we consider appropriate in our absolute discretion, including by 
+imposing conditions. We need not provide reasons for any decision we 
+make. 
+ 
+(b) 
+Except for a waiver or variation in accordance with clause 24.3, nothing 
+we do suspends, varies or prevents us from exercising our rights under 
+the Agreement. If we do not exercise a right or remedy fully or at a given 
+time, we can still exercise it later. 
+ 
+(c) 
+We are not liable for any Loss caused by the exercise or attempted 
+exercise of, failure to exercise, or delay in exercising, a right or remedy, 
+whether or not caused by our negligence. 
+ 
+(d) 
+Our rights and remedies under the Agreement: 
+ 
+(i) 
+are in addition to other rights and remedies given by Applicable 
+Law independently of the Agreement; 
+ 
+(ii) 
+do not merge with and are not adversely affected by any other 
+agreement and may be executed independently or together with 
+any rights or remedies including under any other agreement; 
+and 
+ 
+(iii) 
+are not affected by any payment, settlement or anything which 
+might otherwise affect them at law including the variation of the 
+Agreement or the Insolvency of any person. 
+55 
+ 
+24.5 
+Approvals and consents 
+By giving its approval or consent, we do not make or give any warranty or 
+representation as to any circumstance relating to the subject matter of the 
+consent or approval. 
+ 
+24.6 
+Complying with a court order 
+If we are served with a court order, we act in accordance with the court order and 
+you must not commence proceedings against us in relation to our actions under 
+the court order. 
+ 
+24.7 
+Consents 
+We may give, or withhold, any consent or approval in connection with the 
+Agreement upon such terms as we consider appropriate. 
+ 
+24.8 
+Indemnities 
+The indemnities in the Agreement are continuing obligations, independent of your 
+other obligations under it. It is not necessary for us to incur expense or make 
+payment before enforcing a right of indemnity in connection with the Agreement. 
+ 
+24.9 
+Third party services 
+(a) 
+Without limiting clauses 16.5 and 24.10, but subject to Applicable Law, 
+we may: 
+ 
+(i) 
+employ independent contractors and agents (including 
+correspondents) or utilise the services of any Crypto.com Group 
+Member or other third party to make certain functions or 
+information available to you and/or otherwise to effect the 
+Exchange, on terms we consider appropriate; and 
+ 
+(ii) 
+change any service provider at any time without prior notice. 
+ 
+(b) 
+In addition to the Agreement, your use of the Exchange may be subject 
+to the terms and conditions imposed by relevant third parties from time to 
+time, as notified to you. 
+ 
+24.10 Assignment and other dealings 
+(a) 
+You may not assign, transfer or otherwise deal with your rights or 
+obligations under the Agreement to anyone without our prior written 
+consent. 
+ 
+(b) 
+We may assign, transfer or otherwise deal with our rights and obligations 
+as we see fit and need not obtain your prior written consent, nor notify 
+you. To the extent that any consent is required under Applicable Law to 
+effect a relevant dealing, you agree that this clause 24.10(b) is deemed 
+to serve that purpose. 
+ 
+24.11 Compliance with Law 
+Nothing in the Agreement requires us to do or not do anything if it would or might 
+in our reasonable opinion constitute a breach of our policy or any Applicable Law 
+or requirement of any Government Agency. 
+ 
+24.12 Inconsistent laws and severability 
+To the extent permitted by Applicable Law: 
+ 
+(a) 
+you waive all rights conferred by Applicable Law which are inconsistent 
+with the Agreement; and 
+56 
+ 
+(b) 
+the Agreement otherwise prevails to the extent it is inconsistent with any 
+Applicable Law. 
+ 
+(c) 
+However, if and to the extent that an Applicable Law is inconsistent with 
+the Agreement in a way that would otherwise have the effect of making a 
+provision of the Agreement illegal, void or unenforceable, or contravene 
+a requirement of Applicable Law or impose an obligation or liability which 
+is prohibited by that law, then the Applicable Law overrides the 
+Agreement to the extent of the inconsistency, and the Agreement is to be 
+read as if that provision were varied to the extent necessary to comply 
+with that Applicable Law and avoid that effect (or, if necessary, omitted). 
+ 
+24.13 Third party rights 
+The Agreement does not create or confer any rights or benefits enforceable by 
+any person not a party to it except: 
+ 
+(a) 
+a Crypto.com Group Member and any other an indemnified party (as 
+defined in clause 19.1) may enforce its rights or benefits in the 
+Agreement, including any indemnity, limitation or exclusion of liability; 
+and 
+ 
+(b) 
+a person who is a permitted successor or assignee of our rights or 
+benefits of the Agreement may enforce those rights or benefits. 
+ 
+No consent from the persons referred to in this clause 24.13 is required for the 
+parties to vary or rescind the Agreement (whether or not in a way that varies or 
+extinguishes rights or benefits in favour of those third parties). 
+ 
+24.14 Reports 
+Any report we obtain is for our use only. Even if we provide a copy of the report 
+to you, you cannot rely on it. You cannot sue us, the valuer or consultant if the 
+report is wrong. 
+ 
+24.15 Construction 
+No rule of construction applies to the disadvantage of a party because that party 
+was responsible for the preparation of, or seeks to rely on, the Agreement or any 
+part of it. 
+ 
+24.16 Supervening legislation 
+Any present or future legislation which operates to vary the obligations of a party 
+in connection with the Agreement with the result that another party’s rights, 
+powers or remedies are adversely affected (including, by way of delay or 
+postponement) is excluded except to the extent that its exclusion is prohibited or 
+rendered ineffective by Applicable Law. 
+ 
+24.17 Confidentiality 
+Each party agrees not to disclose information provided by any other party that is 
+not publicly available except: 
+ 
+(a) 
+to any person in connection with an exercise of rights or a dealing with 
+rights or obligations under the Agreement; 
+ 
+(b) 
+to officers, employees, legal and other advisers and auditors of any 
+party; 
+ 
+(c) 
+to any party to the Agreement or any related companies of any party to 
+the Agreement, provided the recipient agrees to act consistently with this 
+clause 24.17; 
+57 
+ 
+(d) 
+with the consent of the party who provided the information (such consent 
+not to be unreasonably withheld); 
+ 
+(e) 
+publishing relevant Orders and other Instructions on a non-attributed 
+basis on the Exchange; 
+ 
+(f) 
+any disclosure the disclosing party reasonably believes is required by 
+any Applicable Law or Government Agency; or 
+ 
+(g) 
+otherwise in accordance with the Agreement. 
+ 
+Each party consents to disclosures made in accordance with this clause 24.17. 
+ 
+24.18 Anti-money laundering and sanctions 
+(a) 
+Notwithstanding any other provision of the Agreement to the contrary, we 
+are not obliged to do or omit to do anything if it would, or might in its 
+reasonable opinion, constitute a breach of any AML/CTF Requirements. 
+ 
+(b) 
+You must provide to us upon request all information and documents that 
+are within your possession, custody or control reasonably required by us 
+from time to time, and as necessary in order for us to comply with any 
+applicable AML/CTF Requirements. 
+ 
+(c) 
+You agree that we may disclose any information concerning you to any 
+Government Agency, law enforcement entity, regulatory agency or court 
+(in any jurisdiction) where required by any Applicable Law. 
+ 
+(d) 
+You agree to exercise your rights and perform your obligations under the 
+Agreement in accordance with all applicable AML/CTF Requirements. 
+ 
+(e) 
+You agree to provide evidence of due authority and specimen signatures 
+for each Authorised Person. 
+ 
+(f) 
+You agree that we may take a sufficient time to consider, verify or block 
+an Order, if you or any other person or entity in connection with the 
+Order becomes a sanctioned person or entity, or upon the occurrence of 
+a match on our sanction filters. 
+ 
+24.19 Complaints 
+If you have any feedback, questions or complaints, please contact us via email at 
+contact@crypto.com. Whilst we strive to respond to you as soon as possible, for 
+more complicated issues, it may take us up to 45 days to resolve and get back to 
+you. You accept and agree that we shall not be responsible for any loss and 
+damage incurred during such period. 
+ 
+25 
+Statements and records 
+25.1 
+Transaction records 
+You may access your transaction history and records in your Account. You are 
+responsible for checking Account statements for errors. 
+ 
+25.2 
+Reporting mistakes 
+You must report any mistaken or unauthorised Orders, Executed or otherwise, to 
+us as soon as possible. Unless otherwise stated, if you do not report such 
+Orders to us within three days of the date of the Order, we are entitled to treat 
+the Order as correct. 
+58 
+ 
+25.3 
+Reversals 
+We may cancel, reverse or debit any Virtual Asset transfer we make under the 
+Agreement (including any interest paid) and make any corresponding 
+adjustments to an Account: 
+ 
+(a) 
+to correct a mistake; 
+ 
+(b) 
+if we have not received cleared and unconditional Virtual Assets in full 
+and promptly; or 
+ 
+(c) 
+if we have reasonable grounds for doing so. 
+ 
+26 
+Notices and communications 
+26.1 
+Notices and electronic delivery 
+(a) 
+You authorise us to deliver all communications, agreements, documents, 
+notices, disclosures and Confirmations to you by an Agreed 
+Communication Method, or through any other electronic means as we 
+deem fit. 
+ 
+(b) 
+It is your responsibility to ensure that the details of your Agreed 
+Communication Method are correct and the Agreed Communication 
+Method is operational and available for receipt of all communications and 
+to notify us of any changes to the details of your Agreed Communication 
+Method as soon as practicable after the change is made. 
+ 
+(c) 
+In some cases, our communications may only be posted on the Website 
+or App. 
+ 
+26.2 
+Delivery 
+(a) 
+Communications take effect from the time they are received or taken to 
+be received under clause 26.2(b) (whichever happens first) unless a later 
+time is specified in the communication. 
+ 
+(b) 
+Communications are taken to be received: 
+ 
+(i) 
+if sent by email: 
+ 
+when we receive an automated message confirming delivery; or 
+ 
+4 hours after the time sent (as recorded on the device from which we 
+sent the email) unless we receive a delivery failure receipt; 
+ 
+(ii) 
+if delivered via other electronic means, 24 hours after we send it; 
+and 
+ 
+(iii) 
+if posted on the Website or App, at the time of posting. 
+ 
+(c) 
+Your notices and communications are effective when we actually receive 
+them in legible form. If that occurs after 5:00pm in the place of receipt or 
+on a non-Business Day, the relevant notice or communication is taken to 
+be received at 9.00am in that place on the next Business Day and takes 
+effect from that time unless a later time is specified. 
+ 
+26.3 
+Digital signatures 
+Instructions and communications digitally signed and supported by a digital 
+certificate have the same validity, admissibility and enforceability as if signed in 
+59 
+ 
+writing. Any notice or communication that is digitally signed must comply with 
+any Applicable Law. 
+ 
+26.4 
+Electronic contracts 
+You acknowledge and agree that you are satisfied that electronically executed 
+contracts are enforceable despite the legal risks associated with them. You 
+agree not to dispute the contents of any notice or communication sent by us 
+using electronic equipment. 
+ 
+26.5 
+Client constitutes more than one person 
+If an Account is established for more than one person in accordance with the 
+Agreement, notices and communications (including notices of any variation to the 
+Agreement and any statements (including any consolidated statements)) sent to 
+the email notified to us as the email for receipt of notices and other 
+communications in connection with the Agreement are taken to be given to all 
+persons. 
+ 
+26.6 
+Recording of communications 
+Subject to any Applicable Law, you agree that we may, without further disclosure 
+to, or consent from, you: 
+ 
+(a) 
+record and monitor our correspondence with you or an Authorised 
+Person (and you confirm you are authorised to provide consent on behalf 
+of the Authorised Person); 
+ 
+(b) 
+use the recorded conversations, transcripts, messages or other records 
+of correspondence for its internal compliance purposes, in any dispute in 
+connection with the Agreement and in any other manner not prohibited 
+by Applicable Law; and 
+ 
+(c) 
+disclose such conversations, transcripts, messages or other records of 
+correspondence to any applicable regulatory authority, enforcement 
+body or agency, including tax authorities or as otherwise required by 
+Applicable Law. 
+ 
+26.7 
+Records 
+(a) 
+All records shown on or provided in connection with the Accounts or 
+services are for your information only. These records are not binding on 
+us or any other person. 
+ 
+(b) 
+Notwithstanding anything to the contrary contained in the Agreement, in 
+any record should there be any inconsistency between: 
+ 
+(i) 
+the information (including any document but not any advice) 
+available on or via the Website or App, the internet or other 
+electronic medium; and 
+ 
+(ii) 
+the information in our records, 
+ 
+the information in our records will prevail unless there is a manifest error. 
+ 
+(c) 
+We may issue a further record if any previous one contained any errors 
+or omissions, in which case that further record will supersede any 
+previous one in all respects (unless it states otherwise). 
+ 
+26.8 
+Governing law 
+(a) 
+Unless otherwise specified, the Agreement is governed by the law in 
+force in Hong Kong. 
+ 
+(i) 
+Notwithstanding, if you are a Canadian resident, the Agreement 
+is governed by the laws of Canada.
+60 
+ 
+(b) 
+To the extent permitted by Applicable Law, the Agreement prevails to the 
+extent that it is inconsistent with Applicable Law. Any present or future 
+law which operates to vary the obligations of Crypto.com in connection 
+with the Agreement with the result that Crypto.com’s rights, powers or 
+remedies are adversely affected (including by way of delay or 
+postponement) is excluded except to the extent that its exclusion is 
+prohibited or rendered ineffective by Applicable Law. 
+ 
+26.9 
+Submission to arbitration 
+(a) 
+Unless otherwise specified, any dispute, controversy, difference or claim 
+arising out of or relating to the Agreement, including the existence, 
+validity, interpretation, performance, breach or termination thereof or any 
+dispute regarding non-contractual obligations arising out of or relating to 
+the Agreement will be referred to and finally resolved by arbitration 
+administered by HKIAC under the HKIAC Administered Arbitration Rules 
+in force when the Notice of Arbitration is submitted. 
+ 
+(b) 
+You and we agree that: 
+ 
+(i) 
+the law of this clause is Hong Kong law; 
+ 
+(ii) 
+the seat of arbitration will be Hong Kong; 
+ 
+(iii) 
+unless you and we agree otherwise, the number of arbitrators 
+will be 1 and that arbitrator must have relevant legal and 
+technological expertise; 
+ 
+(iv) 
+if you and we do not agree on the arbitrator to be appointed 
+within 15 Business Days of the dispute proceeding to arbitration, 
+the arbitrator is to be appointed by HKIAC; and 
+ 
+(v) 
+the arbitration proceedings will be conducted in English. 
+ 
+(c) 
+Notwithstanding any other provision of the Agreement, you agree that we 
+have the right to apply for injunctive remedies (or an equivalent type of 
+urgent legal relief) in any jurisdiction. 
+ 
+(d) 
+Notwithstanding anything contained in this section, if you are a resident 
+of Canada, any dispute, controversy or claim arising out of, in connection 
+with, or relating to this Agreement, including, but not limited to the 
+formation, execution, validity, application, interpretation, performance, 
+breach, termination or enforcement, of this Agreement shall be submitted 
+to final and binding arbitration. The arbitration shall be conducted under 
+the arbitration laws of the Province of British Columbia and pursuant to 
+the ADR Institute of Canada’s Arbitration Rules (the “Rules”) in force at 
+the time the Dispute is submitted to arbitration. Unless otherwise agreed 
+in writing, there will be one (1) arbitrator, appointed in accordance with 
+the Rules.  The place of the arbitration will be British Columbia.  The 
+language of the arbitration will be English, except when prohibited by 
+Applicable Law.  The law of the arbitration will be the laws of the 
+province or territory in Canada where you live or where most recently 
+lived and the laws of Canada. All interim awards, partial final awards and 
+final awards of the arbitrators will be final and binding upon the parties 
+regarding all matters submitted to arbitration, with no rights of appeal, 
+even on questions of law. Any party may have recognised and enforced 
+any interim awards, partial final awards and awards rendered by the 
+arbitrators in any court having jurisdiction. 
+ 
+26.10 Serving documents 
+Without preventing any other method of service, any document in an action may 
+be served on: 
+ 
+(a) 
+us by being delivered or left at the address details stated on the front 
+61 
+ 
+page of these Exchange Terms and Conditions; and 
+ 
+(b) 
+you by being delivered at the address last notified to us. 
+62 
+ 
+Annex I Risk disclosure statement 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+Transaction and Exchange risks 
+1.1 
+Risks of Virtual Asset trading 
+The prices of Virtual Assets fluctuate, sometimes dramatically. The price of a 
+Virtual Asset may move up or down, and may become valueless. 
+ 
+It is as likely that losses will be incurred rather than profit made as a result of 
+buying and selling Virtual Assets. 
+ 
+1.2 
+Nature of Virtual Assets 
+The Virtual Assets are not legal tender. They may not be backed by physical 
+assets, and are not backed or guaranteed by a government. They may not have 
+intrinsic value. Some of the Virtual Assets may not circulate freely or widely, and 
+may not be listed on any secondary markets. 
+ 
+Virtual Assets are generally a high-risk asset class. They may or may not be 
+Securities. You should exercise caution in relation to the trading of Virtual 
+Assets, and Virtual Assets themselves. 
+ 
+Transactions involving Virtual Assets are irrevocable. Lost or stolen Virtual 
+Assets may be irretrievable. Once a transaction has been verified and recorded 
+on a blockchain, loss or stolen Virtual Assets generally will not be reversible. 
+IMPORTANT 
+Trading in Virtual Assets and using the Exchange involve risks, some of which 
+are set out below. These risks, and additional risks arising either now or in the 
+future, could result in the loss, failure or destruction of your assets, inability to 
+receive any benefits available to you, other losses and termination of the 
+Exchange. 
+You must consider carefully whether the risks set out below, as well as all other 
+applicable risks, are acceptable to you prior to any Order. 
+You must seek professional advice regarding your particular situation before 
+trading in Virtual Assets or using the Exchange. You must also check the latest 
+terms applicable as they may change from time to time. 
+THE RISK OF LOSS IN TRANSACTIONS INVOLVING VIRTUAL ASSETS CAN BE 
+SUBSTANTIAL. YOU SHOULD THEREFORE CAREFULLY CONSIDER WHETHER 
+SUCH TRANSACTIONS ARE SUITABLE FOR YOU IN LIGHT OF YOUR 
+INVESTMENT OBJECTIVES, FINANCIAL CIRCUMSTANCES, YOUR TOLERANCE 
+TO RISKS AND YOUR INVESTMENT EXPERIENCE. YOU SHOULD BE CAPABLE 
+OF BEARING A FULL LOSS OF THE AMOUNTS INVESTED AS A RESULT OF OR 
+IN CONNECTION WITH ANY ORDER AND ANY ADDITIONAL LOSS OVER AND 
+ABOVE THE INITIAL AMOUNTS INVESTED THAT MAY BECOME DUE AND 
+OWING BY YOU. IN CONSIDERING WHETHER TO TRADE OR INVEST, YOU 
+SHOULD INFORM YOURSELF AND BE AWARE OF THE RISKS GENERALLY, 
+AND IN PARTICULAR SHOULD NOTE THE FOLLOWING SPECIFIC RISK 
+FACTORS WHICH MAY APPLY TO ANY GIVEN ORDER. 
+63 
+ 
+1.3 
+Reliance on distributed ledger technology 
+Virtual Assets rely on various types of distributed ledger technology. Some of 
+this technology is open source software that is built upon experimental 
+technology, namely blockchain. Risks arising from this reliance include the 
+existence of technical flaws in the technology, targeting by malicious persons, 
+majority-mining, consensus-based or other mining attacks, changes in the 
+consensus protocol or algorithms, decreased community or miner support, rapid 
+fluctuations in value of relevant Virtual Assets, the existence or development of 
+competing networks, platforms and assets, flaws in the scripting language, 
+disputes between developers, miners and/or users and regulatory action. 
+ 
+1.4 
+Virtual Assets may be complex products 
+Virtual Assets may be complex products by virtue that the terms, features and/or 
+risk are not readily understood due to the complex structure, novelty and reliance 
+on technological features. 
+ 
+1.5 
+Volatility of Virtual Assets 
+The value of the Virtual Assets may fluctuate significantly over a short period of 
+time. The volatile and unpredictable fluctuations in price may result in significant 
+losses over of short period of time. 
+ 
+Any Virtual Asset may decrease in value or lose all of its value due to various 
+factors including discovery of wrongful conduct, market manipulation, change to 
+the nature or properties of the Virtual Asset, governmental or regulatory activity, 
+legislative changes, suspension or cessation of support for a Virtual Assets or 
+other exchanges or service providers, public opinion, or other factors outside of 
+our control. Technical advancements, as well as broader economic and political 
+factors, may cause the value of Virtual Assets to change significantly over a short 
+period of time. 
+ 
+1.6 
+Market, liquidity and conversion risk 
+Where an Order is denominated in particular Virtual Assets other than your 
+primary reference asset, or where you convert Assets following the Execution of 
+an Order, there is a risk that if the exchange markets move against you, then 
+upon maturity or any earlier dealing the net proceeds may be significantly less 
+than the initial amount in your primary reference asset, and any income or gains 
+may be entirely negated. 
+ 
+The value of a particular Virtual Asset may decline, or be completely and 
+permanent lost, should the market for that Virtual Asset disappear. There is no 
+assurance that a market for a particular Virtual Asset will continue to do so in the 
+future. This is because the value of an Asset may be derived, among other 
+things, from the continued willingness of market participants to exchange that 
+Virtual Asset. 
+ 
+There is the possibility for you to experience losses due to the inability to sell or 
+convert assets into a preferred alternative asset immediately or in instances 
+where conversion is possible but at a loss. Such liquidity risk in an asset may be 
+caused by the absence of buyers, limited buy/sell activity or underdeveloped 
+secondary markets. 
+ 
+There is no assurance that a person who accepts a Virtual Asset as payment, will 
+continue to do in the future. 
+ 
+You may also suffer loss as a result of depreciation of the value of the Virtual 
+Asset paid as a result of controls imposed by a Government Agency. 
+Repayment or payment of amounts due to you may be delayed or prevented by 
+exchange controls or other actions imposed by governmental or regulatory 
+bodies over Virtual Asset that they control or regulate. 
+64 
+ 
+1.7 
+Not a deposit 
+Without limiting clause 4.2(d), any Eligible Virtual Assets held by us are not held 
+as “deposits”, nor are they intended to be held as any other regulated product or 
+service under Applicable Law. 
+ 
+1.8 
+Risks associated with statutory protection schemes 
+You should be aware that in comparison to other assets, including Fiat 
+Currencies and trading: 
+ 
+(a) 
+any Order in respect of Virtual Assets may not subject to a right to claim 
+under any investor compensation fund established by any Government 
+Agency; and 
+ 
+(b) 
+any Virtual Assets held in an Account may not be protected deposits, 
+and may not be protected by any deposit protection scheme in any 
+jurisdiction. 
+ 
+This means that Virtual Assets may have a reduced level or type of protection 
+compared to Fiat Currencies, as well as other products and asset classes. 
+ 
+1.9 
+Commissions and fees 
+(a) 
+Before conducting any Order, you should obtain details of all 
+commissions, fees and Costs for which you will be liable. 
+ 
+(b) 
+If any of the fees and Costs are not clear to you, you should request the 
+fee and Costs that will be applicable in specific monetary terms before 
+entering into an Order. 
+ 
+1.10 
+Risks of assets subject to other overseas laws 
+Virtual Assets received or held by us may be are subject to other applicable laws 
+and regulations of the relevant overseas jurisdictions. 
+ 
+1.11 
+Risks relating to Authorised Persons 
+There are substantial risks in allowing another person to trade or operate your 
+Account or any other account you have with us, and it is possible that 
+Instructions could be given by persons who are note properly authorised. You 
+accept all of the risks of such an operation and irrevocable release us from all 
+liabilities arising out of or in connection with such Instructions. 
+ 
+1.12 
+Suspension of the Exchange and Network Events 
+It may be difficult or impossible to liquidate a position in the Virtual Assets under 
+certain circumstances. Certain Network Events may occur rapidly and affect the 
+ability to conduct transactions on the Exchange. Information relating to these 
+Network Events may be difficult to ascertain ahead of time and may be subject to 
+limited oversight by any third-party who is capable of intervening to stabilise the 
+network. 
+ 
+2 
+Cybersecurity and technology-related risks 
+2.1 
+Loss of private key is permanent and irreversible 
+You alone are responsible for securing your private key in respect of any 
+address. 
+ 
+Losing control of your private key will permanently and irreversibly deny you 
+access to your Virtual Assets. Neither we nor any other person will be able to 
+retrieve or protect your Virtual Asset. Once lost, you will not be able to transfer 
+65 
+ 
+your Virtual Asset to any other address or wallet. You will not be able to realise 
+any value or utility that the Virtual Asset may hold now or in future. 
+ 
+2.2 
+Transactions irreversible 
+The nature of Virtual Asset transfers is that they are irreversible. This means 
+accidental or fraudulent transactions in respect of Virtual Assets may not be 
+recoverable. 
+ 
+2.3 
+Forks and attacks 
+Virtual Assets may be subject to Forks or attacks on the security, integrity or 
+operation of the networks, including Network Events. Such events may affect the 
+features, functions, operation, use or other properties of any Virtual Asset, 
+network or platform. 
+ 
+The events may also severely impact the price or value of any Virtual Assets, or 
+even result in the shutdown of the network or platform associated with the Virtual 
+Asset. Such events may be beyond the control of Crypto.com, or to the extent 
+Crypto.com has any ability to impact such event, Crypto.com’s decision or 
+actions may not be in your interests. 
+ 
+2.4 
+Cyber-attacks and fraudulent activity 
+The technologic reliance of the Exchange on the Internet exposes you to an 
+increased risk of fraud or cyber-attack. Virtual Assets, an Account, a service, an 
+Agreed Communication Method or a Trading Tool may be targeted by malicious 
+persons who may attempt to steal Virtual Assets, or otherwise intervene in the 
+Order or any of the Exchange. 
+ 
+This includes (but is not limited to) interventions by way of: 
+ 
+(a) 
+distributed denial of service; 
+ 
+(b) 
+sybil attacks; 
+ 
+(c) 
+phishing; 
+ 
+(d) 
+social engineering; 
+ 
+(e) 
+hacking; 
+ 
+(f) 
+smurfing; 
+ 
+(g) 
+malware; 
+ 
+(h) 
+double spending; 
+ 
+(i) 
+majority-mining, consensus-based or other mining attacks; 
+ 
+(j) 
+misinformation campaigns; 
+ 
+(k) 
+Forks; and 
+ 
+(l) 
+spoofing. 
+ 
+Virtual Assets, Accounts, Agreed Communication Methods, Trading Tools or the 
+Exchange may also be vulnerable to exploitation of vulnerabilities in smart 
+contracts and other code, as well as to human error. 
+ 
+A limited amount of your Virtual Assets may be stored in hot wallets (ie online 
+environments which provide an interface with the internet), which can be prone to 
+66 
+ 
+hacking or cyber-attacks. Cyber-attacks resulting in the hacking of virtual asset 
+trading platforms and thefts of virtual assets are common. Victims may have 
+difficulty recovering losses from hackers or trading platforms. This could result in 
+significant loss and/or other impacts that may materially affect your interests. 
+ 
+The above events may affect the features, functions, operation, use, access or 
+other properties of the Virtual Assets, your Account, an Agreed Communication 
+Method or the Exchange. 
+ 
+2.5 
+Targeting by malicious persons 
+Malicious entities may target you in an attempt to steal any asset that you may 
+hold, or to claim any asset that you may have purchased. This may involve 
+unauthorised access to your Account, your private keys, your addresses, your 
+passwords, your email or social media accounts, your log-in details or access 
+method for the Account, as well as unauthorised access to your computer, 
+smartphone and any other devices that you may use. 
+ 
+You alone are responsible for protecting yourself against such actions. 
+ 
+2.6 
+Cryptographic advancements 
+Developments in cryptographic technologies and techniques, including (but not 
+limited to) the advancement of artificial intelligence and/or quantum computing, 
+pose security risks to all cryptography-based systems including the Virtual 
+Assets, the Account, Agreed Communication Methods or the Exchange. 
+ 
+Applying these technologies and techniques to the Virtual Assets, an Account, 
+Agreed Communication Method or the Exchange may result in theft, loss, 
+disappearance, destruction, devaluation or other compromises of the Virtual 
+Assets, an Account, Agreed Communications Methods, the Exchange or your 
+data (as applicable). 
+ 
+2.7 
+Reliance on the internet and other technologies 
+Virtual Assets and the Exchange rely heavily on the internet and other 
+technologies (including the Agreed Communication Methods). However, the 
+public nature of the internet means that either parts of the internet or the entire 
+internet may be unreliable or unavailable at any given time. Further, interruption, 
+delay, corruption or loss of data, the loss of confidentiality in the transmission of 
+data, or the transmission of malware may occur when transmitting data via the 
+internet and/or other technologies. The result of the above may be that your 
+Order is not executed according to your instructions, at the desired time, or not at 
+all. 
+ 
+No authentication, verification or computer security technology is completely 
+secure or safe. 
+ 
+The internet or other electronic media (including without limitation electronic 
+devices, services of third-party telecom service providers such as mobile phones 
+or other handheld trading devices or interactive voice response systems) are an 
+inherently unreliable form of communication, and such unreliability may be 
+beyond Crypto.com’s control. 
+ 
+Any information (including any document) transmitted, or communication or 
+transactions made, over the internet or through other electronic media (including 
+electronic devices, services of third party telecommunication service providers 
+such as mobile phones or other handheld trading devices or interactive voice 
+response systems) may be subject to interruption, transmission blackout, 
+delayed transmission due to data volume, internet traffic, market volatility or 
+incorrect data transmission (including incorrect price quotation) or stoppage of 
+price data feed due to the public nature of the internet or other electronic media. 
+67 
+ 
+2.8 
+Risks relating to timing 
+An Order is binding upon completion of the steps described in these Exchange 
+Terms and Conditions. Following this, the Order will not be reversed unless 
+otherwise provided in this Agreement. There is a risk that the final binding Order 
+does not occur at the same time as Instructions are provided. 
+ 
+You may suffer loss due to the fact that an Order is not carried out at the desired 
+time. In particular, contingent orders, such as “stop-loss” or “stop-limit” orders, 
+may not limit your losses to the intended amounts, since market conditions may 
+make it impossible to execute such Orders. 
+ 
+2.9 
+Unauthorised access 
+Unauthorised third parties may access your Account and submit Orders without 
+your knowledge or authorisation, whether by obtaining control over another 
+device or account used by you, or by other methods. 
+ 
+2.10 
+Exchange materials may not be up to date 
+Crypto.com is not obliged to provide any adaptations, enhancements and/or 
+modifications to the Exchange Materials. This means, for example in relation to 
+the App, that you may have an out of date version of the App, and new features 
+may not be incorporated to the version of the App you use. It is your 
+responsibility to ensure you update and download applicable updates and 
+versions. 
+ 
+2.11 
+Use of Jailbroken devices 
+The use of the App on a Jailbroken device may compromise security and lead to 
+fraudulent transaction as well as an Event of Default. You may suffer loss as 
+well as a termination of this Agreement. 
+ 
+3 
+General risk statements 
+3.1 
+Jurisdiction-related risks 
+Residents, Tax residents or persons having a relevant connection with 
+jurisdictions other than Available Jurisdictions are prohibited from using the 
+Exchange and from submitting Orders. Changes in your place of domicile or 
+Applicable Law may result in you violating any legal or regulatory requirements of 
+your applicable jurisdiction. 
+ 
+You are responsible for ensuring that any Order is, and remains lawful despite 
+changes to Applicable Law, your residence and circumstances. 
+ 
+3.2 
+Product-related risks 
+Crypto.com Group Members may have issued certain Virtual Assets, whereas 
+other Virtual Assets are issued by third parties. 
+ 
+In any event, you must read the applicable product terms, product information 
+and risk disclosures carefully before entering into an Order. 
+ 
+No product term or product information has been subject to regulatory approval, 
+unless expressly stated otherwise. You should exercise caution in respect of any 
+such offer. 
+ 
+For any Virtual Asset products that have been authorised by a regulator, 
+authorisation does not imply any official recommendation or endorsement of the 
+product by the regulator, nor does it guarantee the commercial merits of a 
+product or its performance. 
+68 
+ 
+You should seek independent professional advice before making any investment 
+decision. 
+ 
+3.3 
+Tax treatment and accounting 
+Some Virtual Assets and Orders may be subject to the tax laws and regulations 
+in an applicable jurisdiction. The tax treatment and accounting of Virtual Assets 
+(and any ancillary benefits) is a largely untested area of law and practice that is 
+subject to changes. Tax treatment of Virtual Assets may vary amongst 
+jurisdictions. We may receive queries, notices, requests or summons from tax 
+authorities and as a result may be required to furnish certain information about 
+the Order. 
+ 
+Among the accounting profession, there are no agreed standards and practices 
+for how an auditor can perform assurance procedures to obtain sufficient audit 
+evidence for the existence and ownership of the Virtual Assets, and ascertain the 
+reasonableness of the valuations. 
+ 
+If you are unsure about the tax implications of your Orders, you should seek 
+independent professional advice before carrying out an Order. 
+ 
+3.4 
+Inflation Risk 
+Virtual Assets may, either because of the inherent design of the Virtual Asset or 
+through Network Events, not be a fixed supply of assets. Where additional 
+Virtual Assets are created, the asset’s price may decline due to inflationary 
+effects of adding additional Virtual Assets to the total assets available. 
+ 
+3.5 
+Concentration risk 
+At any point in time, one or more persons may directly or indirectly control 
+significant portions of the total supply of any particular Virtual Asset. Acting 
+individually or in concert, these holders may have significant influence, and may 
+be able to influence or cause Network Events which may have a detrimental 
+effect on price, value or functionality of the Virtual Assets. Network Participants 
+may make decisions that are not in your best interest as a holder of Virtual 
+Assets. 
+ 
+3.6 
+Country risks 
+If a transaction is made in any Virtual Asset issued by a party subject to foreign 
+laws or transactions made on markets in other jurisdictions, including markets 
+formally linked to a domestic market, recovery of the sums invested and any 
+profits or gains may be reduced, delayed or prevented by exchange controls, 
+debt moratorium or other actions imposed by the government or other official 
+bodies. Before you submit an Order, you should satisfy yourself about any rules 
+or laws relevant to that particular Order. 
+ 
+Your local regulatory authority will be unable to compel the enforcement of the 
+rules of regulatory authorities or markets in other jurisdictions where your 
+transactions have been effected. You should obtain independent advice about 
+the different types of redress available in both your home jurisdiction and other 
+relevant jurisdictions before you start to trade. If your country of residence 
+imposes restrictions on Virtual Assets, we may be required to discontinue your 
+access to the Account, and may not be permitted to transfer Virtual Assets back 
+to you or permit you to transfer Virtual Assets from the Account to yourself or 
+others, until such time as the regulatory environment permits us to do so. 
+ 
+3.7 
+Regulatory uncertainty 
+All Virtual Asset are potentially exposed to legal and regulatory risks. The legal 
+and regulatory treatment of some of the Virtual Assets may change. Regulation 
+of Virtual Assets is unsettled and rapidly changing. Legal and regulatory 
+69 
+ 
+treatment varies according to the jurisdiction. The effect of regulatory and legal 
+risk is that any Virtual Asset may decrease in value or lose all of its value due to 
+legal or regulatory change. This may affect the value or potential profit of a 
+Virtual Asset Order. 
+ 
+We may cancel or modify your Order, restrict or suspend your use of the 
+Exchange or your Account to comply with Applicable Law or for other reasons as 
+specified in the Agreement. 
+ 
+We recommend you obtain independent legal, tax and financial advice and that 
+you continue to monitor the legal and regulatory position in respect of the Virtual 
+Assets and your Orders. 
+ 
+3.8 
+Conflicts of interest 
+We or other virtual asset trading platform operators may be acting as agents as 
+well as principals for you. We or other service providers may facilitate the initial 
+distribution of Virtual Assets (such as, initial coin offerings), facilitate secondary 
+market trading, or both, as in a traditional exchange, alternative trading system or 
+securities broker. If these operations are not under the purview of any regulator, 
+it would be difficult to detect, monitor and manage conflicts of interest. 
+ 
+3.9 
+Authorised Persons 
+Providing access to your Account to any other person involves risk. You must 
+take all necessary steps to assure yourself that any Authorised Person is 
+appropriate. You must also adopt such controls as you see fit to monitor the 
+activities of such persons in relation to your Account to ensure they remain 
+appropriate to act in that capacity. 
+70 
+ 
+Annex II Sub-Account Terms and Conditions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THIS IS AN IMPORTANT DOCUMENT. 
+PLEASE READ IT CAREFULLY AND KEEP IT FOR FUTURE 
+REFERENCE.  
+This document contains important information which applies to your dealing with 
+us in relation to the use of Sub-Accounts on the Exchange, if applicable. You 
+should read this document carefully and keep it for future reference. 
+This document and other terms that apply to your activities may change from time to time. 
+You should check our website for the latest terms and additional information before you 
+enter into any new transaction. 
+71 
+ 
+ 
+ 
+ 
+1 
+Introduction 
+1.1 
+About this Addendum 
+(a) 
+This Addendum sets out the terms and conditions that apply to Sub- 
+Accounts and related services. 
+ 
+(b) 
+The Exchange Terms and Conditions apply to this Addendum. 
+ 
+(c) 
+The Sub-Account FAQs apply to this Addendum. The Sub-Account 
+FAQs may be amended or varied by us from time to time through an 
+Agreed Communication Method. The updated Sub-Account FAQs will 
+apply from when they are published. Please ensure you always check 
+the latest published version. 
+ 
+(d) 
+The Addendum and the Sub-Account FAQs form part of the Agreement. 
+ 
+1.2 
+Additional definitions 
+In this Addendum, the following terms have the following meanings, unless the 
+contrary intention appears. Other terms have the meaning given to them in the 
+Exchange Terms and Conditions. 
+ 
+Addendum means this “Addendum – Sub-Account Terms and Conditions”. 
+ 
+Applicable Fees means any fees relating to Sub-Accounts, as set out in the 
+Sub-Account FAQs. 
+ 
+Exchange Terms and Conditions means the document described as such and 
+published by Crypto.com. 
+ 
+Master Account means your primary account accessible by you under the 
+Exchange Terms and Conditions. 
+ 
+Sub-Account means any additional and subsidiary account to the Master 
+Account approved by Crypto.com under this Addendum. 
+ 
+Sub-account FAQs means the applicable Sub-Account FAQs published on the 
+Website or App by Crypto.com. 
+ 
+2 
+Priority and references to Accounts 
+2.1 
+Priority 
+Subject to the application of any mandatory provisions of any Applicable Law, if 
+there is any inconsistency between: 
+ 
+(a) 
+this Addendum and the Exchange Terms and Conditions and any 
+specific terms applicable to a particular service that forms part of the 
+Agreement, or to a particular jurisdiction, these specific terms prevail; 
+ 
+(b) 
+this Addendum and the Sub-Account FAQs, this Addendum prevails; or 
+ 
+(c) 
+this Addendum and any other addenda governing specific products or 
+services provided by Crypto.com, this Addendum prevails. 
+72 
+ 
+2.2 
+References to “Account” 
+If Crypto.com has agreed to make Sub-Accounts available to you under this 
+Addendum, references to “Account” in the Exchange Terms and Conditions 
+should be construed to mean the Master Account and each Sub-Account, unless 
+expressly stated otherwise in this Addendum or in writing by Crypto.com. 
+ 
+3 
+Sub-Accounts 
+3.1 
+Application 
+(a) 
+Crypto.com may make Sub-Accounts available to you: 
+ 
+(i) 
+in accordance with the Agreement; and 
+ 
+(ii) 
+at our discretion, and only if: 
+ 
+(A) 
+we have approved your Application and granted you a 
+Master Account; 
+ 
+(B) 
+you have given us a separate application to create a 
+Sub-Account and any other document, information or 
+consent that we require; 
+ 
+(C) 
+we have obtained any other information about you that 
+we consider necessary; and 
+ 
+(D) 
+an Event of Default has not occurred and is, in 
+Crypto.com’s view, not likely to occur; and 
+ 
+(iii) 
+subject to any further conditions relating to Sub-Accounts 
+specified in the Sub-Account FAQs. 
+ 
+(b) 
+Different eligibility criteria may apply between applicants. We may 
+refuse your Application for any reason. Unless required by Applicable 
+Law, we do not need to give reasons for refusing or accepting an 
+Application. 
+ 
+(c) 
+If you are a resident of a particular Available Jurisdiction, or have a 
+relevant connection to a particular jurisdiction, additional terms and 
+conditions may apply as notified by us at any time. 
+ 
+(d) 
+A reference to “terms and conditions” in forms, statements, brochures 
+and other documents we provide is a reference to the relevant terms 
+contained in the Agreement. 
+ 
+4 
+Establishing and using Sub-Accounts 
+4.1 
+Establishing Sub-Accounts 
+(a) 
+If we approve your application: 
+ 
+(i) 
+we will open one or more Sub-Account(s) in your name; 
+ 
+(ii) 
+we may grant to you a non-exclusive, non-transferable personal 
+right to use your Sub-Account(s) to trade Virtual Assets, in 
+addition to the Master Account; and 
+ 
+(iii) 
+you may only use the Exchange, the Master Account, Sub- 
+Account(s), an Agreed Communication Method and Exchange 
+Materials for your own needs. 
+73 
+ 
+(b) 
+You may only hold one Master Account. 
+ 
+(c) 
+The number of Sub-Accounts you may hold is subject to Crypto.com’s 
+sole discretion, and is described on the Sub-Account FAQs. 
+ 
+(d) 
+We have the sole discretion as to the opening, operation and closure of 
+a Sub-Account or wallet(s) that forms part of your Sub-Account. Without 
+limiting the terms of the Agreement, we may, at any time, without liability: 
+ 
+(i) 
+vary, suspend or close a Sub-Account; 
+ 
+(ii) 
+specify or vary the scope and extent of a Sub-Account and the 
+Exchange; 
+ 
+(iii) 
+prescribe the specific products, services and/or Virtual Assets 
+supported in respect of a Sub-Account; 
+ 
+(iv) 
+set or vary any limit regarding a Sub-Account; or 
+ 
+(v) 
+restrict or impose conditions or limits on a Sub-Account. 
+ 
+(e) 
+All Sub-Accounts are established and maintained by us for the sole 
+purpose of providing the Exchange and recording relevant Virtual Asset 
+movements. In no circumstances should a Sub-Account be interpreted 
+as a banking or custody service, or a stored value facility, of any kind. 
+ 
+4.2 
+Sub-Account operations 
+(a) 
+Without limiting our other rights or obligations under the Agreement, and 
+subject to Applicable Law: 
+ 
+(i) 
+we will record, in your Sub-Account, any amounts of Virtual 
+Assets received by us from you in connection with the 
+Exchange; 
+ 
+(ii) 
+we may deduct from your Sub-Account and pay, whether to us 
+or otherwise: 
+ 
+(A) 
+any Applicable Fees and Costs; 
+ 
+(B) 
+any payments required in respect of an Executed Order; 
+ 
+(iii) 
+transfer Virtual Assets in accordance with clause 4.3. 
+ 
+(b) 
+We may make payments from your Sub-Account without any express 
+instructions from you, and you authorise us to make such payments in 
+accordance with the Agreement. 
+ 
+4.3 
+Transfers 
+(a) 
+You may transfer Virtual Assets: 
+ 
+(i) 
+within any wallets that are associated with a specific Sub- 
+Account; and 
+ 
+(ii) 
+between different Sub-Accounts, and between a Sub-Account 
+and the Master Account, through Spot Wallets associated with 
+Sub-Accounts and the Master Account, as applicable. 
+ 
+(b) 
+You may only request us to transfer Virtual Assets recorded in your Spot 
+Wallet to an external digital address, through your Master Account in 
+accordance with the Exchange Terms and Conditions. 
+74 
+ 
+4.4 
+Sub-Account access and additional restrictions 
+(a) 
+You may access and view the Master Account and all applicable Sub- 
+Accounts. 
+ 
+(b) 
+Crypto.com may impose restrictions on the visibility of, and access to, 
+Sub-Accounts, including those described in clause 4.5 and in respect of 
+Authorised Persons. 
+ 
+4.5 
+Additional terms for certain corporate users 
+(a) 
+In addition to issuing a Master Account user name and password, we 
+may in our sole discretion, issue you with Sub-Account user name and 
+password, or other appropriate log-in details or access method for your 
+Sub-Account. 
+ 
+(b) 
+An Authorised Person who has access and visibility to a Sub-Account 
+with separate user name and password described in clause 4.5(a) 
+cannot view the Master Account or any other Sub-Account, unless 
+specifically authorised by you. 
+ 
+(c) 
+You are responsible for ensuring that any Authorised Person keeps the 
+applicable log-in details or access method confidential so that the 
+applicable Sub-Account cannot be accessed or used by an 
+unauthorised person. 
+ 
+(d) 
+You, and any Authorised Person, must comply with any specifications 
+that we make in relation to the use of the Exchange and an Agreed 
+Communication Method. This includes with respect to any 
+authentication and other security procedures. 
+ 
+4.6 
+Set-off: Sub-Accounts 
+Sub-Account do not affect any set-off or other rights that we have under the 
+Agreement. In addition: 
+ 
+(a) 
+if a deficit or liability arises on one or more Sub-Accounts, Crypto.com 
+reserves the right in its sole discretion, to take any action to offset that 
+deficit, in part of in full, against one or more Sub-Accounts or the Master 
+Account with a positive balance; and 
+ 
+(b) 
+you acknowledge and agree that Crypto.com may not issue you a notice 
+when it exercises its rights under this this clause 4.6. 
+ 
+4.7 
+Applicable Fees 
+You agree to pay the Applicable Fees for the use of Sub-Accounts, in addition to 
+any other amounts payable under the Agreement. 
+ 
+5 
+Representations and warranties 
+Without limitation to the representations warranties in the Exchange Terms and 
+Conditions, you represent and warrant that: 
+(a) 
+each and every Sub-Account is opened and operated for you on your 
+own behalf, and not for any third party as agent or otherwise; and 
+ 
+(b) 
+you may not under any circumstances allow any other person, other than 
+an Authorised Person, to use a Sub-Account. 
+75 
+ 
+ 
+6 
+Closing a Sub-Account 
+6.1 
+Maintenance of a Master Account 
+You must maintain the Master Account at all material times under the 
+Agreement. If you terminate Master Account for any reasons, the Agreement, 
+this Addendum and all Sub-Accounts will be terminated and closed without prior 
+notice. 
+6.2 
+Closure by either party 
+Either you or we may terminate a Sub-Account, by giving the other party at least 
+seven days’ notice. 
+ 
+6.3 
+Closure by Crypto.com 
+Without prejudice to the generality of Exchange Terms and Conditions, 
+Crypto.com may close all or any of the Sub-Accounts immediately without notice 
+to the Customer if: 
+ 
+(a) 
+there is any change of Applicable Law which prohibits or renders illegal 
+the maintenance or operation of such Sub-Accounts; or 
+ 
+(b) 
+Crypto.com’s records show a zero balance on any of such Sub-Accounts 
+for a period of three continuous years or for such shorter period as 
+Crypto.com may reasonably prescribe in writing. 
+ 
+6.4 
+Consequences of closure 
+(a) 
+If Crypto.com closes a Sub-Account pursuant to this clause 6, it may 
+close out any and all positions and Orders Crypto.com considers, as is 
+required to close the Sub-Account. 
+ 
+(b) 
+Upon termination, any remaining balances within the Sub-Account will be 
+transferred to the Spot Wallet associated with the Master Account. 
+ 
+(c) 
+You agree that you will not hold Crypto.com liable for any Loss arising 
+from action taken under clause 6.4(a). 
+ 
+7 
+Indemnity 
+In addition to our general rights of indemnity under the Agreement, you agree to 
+indemnify us and each other Crypto.com Group Member, and indemnified party 
+(as defined in the Exchange Terms and Conditions) against, and must pay the 
+indemnified party on demand for, any Loss the indemnified party may sustain or 
+incur in relation to, in connect with or arising from, any Sub-Account, including 
+without limitation: 
+ 
+(a) 
+any claim that you are not are not the principal or sole owner of the 
+Master Account and Sub-Account; or 
+ 
+(b) 
+you were not responsible for the actions carried in respect of any Sub- 
+Account. 
+ 
+8 
+Miscellaneous 
+8.1 
+Statements 
+Crypto.com may, in its sole discretion, make available to you statements on a 
+consolidated basis or on a per Sub-Account basis. 
+76 
+ 
+8.2 
+Calculation of benefits, fees and rebates 
+Treatment and calculation of specific benefits, interest, and rebates payable at a 
+Sub-Account level are as described on the Sub-Account FAQs, and otherwise 
+treated in accordance with the Agreement. 
+ 
+9 
+Risk disclosure statement 
+In addition to any other risks disclosed by us that are relevant to your use of the 
+Exchange and the Services, there are specific risks associated with the operation 
+of Sub-Accounts. 
+ 
+Without limitation, when operating multiple Sub-Accounts, you are responsible 
+and liable for any and all trades or transactions entered into with respect to such 
+Sub-Accounts, irrespective of whether such Orders are placed directly by you. It 
+is your sole responsibility to ensure that any and all trades are Executed 
+correctly. 
+77 
+ 
+Annex III USD Deposits and USDC Withdrawals 
+ 
+ 
+The following terms and conditions only apply to you if this functionality has been made available to you 
+by Crypto.com. 
+ 
+ 
+1 
+Deposit USD to Spot Wallet 
+ 
+ 
+(a) 
+You may deposit USD to your Spot Wallet by instructing a bank transfer 
+(cash and/or third party deposits are not accepted) ("USD Deposit") 
+from an active bank account located in the jurisdiction where you are 
+registered as a user of the Exchange (“Verified Bank Account”), by 
+following the instructions and providing the relevant information set out in 
+the Exchange, or by referring to the FAQ page on the Website 
+accessible at the following link: 
+https://help.crypto.com/en/articles/5271006-exchange-usd-bank-transfer. 
+ 
+(b) 
+Our USD Deposit service is provided by our licensed third-party payment 
+partner (“Payment Service Partner”). By sending us a USD Deposit 
+instruction through the Exchange, you agree and authorise our Payment 
+Service Partner to handle and process your USD Deposit instructions. 
+ 
+(c) 
+You shall only make a USD Deposit if you are the registered beneficial 
+owner of both the bank account you instruct the transfer from and your 
+Exchange account. If you are the registered beneficial owner of both the 
+bank account you use with us and your Account, but if the registered 
+account names are inconsistent or we are unable to verify your bank 
+account for whatever reason, we may require you to provide additional 
+proof prior to the completion of the USD Deposit and such process will 
+cause delay to the USD Deposit. 
+ 
+(d) 
+We do not charge any fees for USD Deposits, however, USD Deposits 
+are subject to prescribed limits as referenced in the “Fees & Limits” 
+section on the Exchange and/or the Website. Any fees chargeable by 
+your bank and/or their intermediary banks relating to the USD Deposit, 
+including but not limited to any administration or currency conversion 
+fees, intermediary banks’ processing fees and your bank’s processing 
+fees ("USD Deposit Fees") shall be borne by you entirely. 
+ 
+(e) 
+Upon confirmation by our Payment Services Partners that your USD 
+Deposit instruction has been effected and upon receipt and successful 
+identification of the respective deposit, we will credit the corresponding 
+value of the funds in USDC at a 1:1 ratio less any USD Deposit Fees to 
+your Spot Wallet. You should allow between 3 to 6 business days for the 
+funds to reach your Spot Wallet. 
+ 
+(f) 
+All USD Deposits are not reversible or refundable, unless we determine, 
+at our absolute discretion that it is in our interest to do so. In addition, we 
+may, at our absolute discretion, reverse, cancel, void or refuse to 
+process any USD Deposit instructions. 
+ 
+(g) 
+Without prejudicing our rights to claim further damages from you, you 
+shall immediately indemnify us for any loss and damage and expenses 
+arising from any mistaken, erroneous or fraudulent USD Deposit 
+instructions (which may include but are not limited to, transactions made 
+from unrecognised bank accounts or with missing or incorrect unique 
+codes, or transfers exceeding our prescribed limits) given by you or sent 
+from your account (collectively "Erroneous USD Deposit 
+78 
+ 
+Instruction(s)"). The erroneous or fraudulent nature of your instruction 
+shall be determined by us based on reasonable evidence. You further 
+agree that if any fund is required to be returned to its origin due to any 
+Erroneous USD Deposit Instructions: (i) you will be subject to an 
+administration fee of USD 10 per return; (ii) any other fees incurred from 
+such return shall be borne by you entirely; and (iii) funds will only be 
+remitted to the bank account from which such funds were originally 
+received. 
+ 
+2 
+Withdraw USDC from Spot Wallet 
+ 
+ 
+(a) 
+You may withdraw USDC by instructing a bank transfer ("USDC 
+Withdrawal") from your Spot Wallet to your Verified Bank Account, 
+meaning the same bank account from which you have previously made a 
+successful deposit of USD under Clause 1(a) above, by following the 
+available instructions and providing the relevant information as 
+requested in the Exchange, or by referring to the FAQ page on the 
+Website accessible at the following link: 
+https://help.crypto.com/en/articles/5271006-exchange-usd-bank-transfer. 
+ 
+(b) 
+Our USDC Withdrawal service is provided by the Payment Service 
+Partner. By sending us a USDC Withdrawal instruction through the 
+Exchange, you agree and authorise our Payment Service Partner to 
+handle and process your USDC Withdrawal instructions and transfer 
+your withdrawal funds to your Verified Bank Account. 
+ 
+(c) 
+We do not charge any fees for USDC Withdrawals, however, USDC 
+Withdrawals are subject to prescribed limits as referenced in the “Fees & 
+Limits” section on the Exchange and/or the Website. Any fees 
+chargeable by the your bank and any intermediary banks relating to the 
+USDC Withdrawal, including but not limited to any administration or 
+currency conversion fees, intermediary banks’ processing fees and your 
+bank’s processing fees (“USDC Withdrawal Fees”) shall be borne by 
+you entirely. 
+ 
+(d) 
+Upon confirmation by the Payment Services Partner that your USDC 
+Withdrawal instruction has been accepted and your withdrawal has been 
+executed, we will credit the corresponding value of the funds in USD at a 
+1:1 ratio less any USDC Withdrawal Fees to your Verified Bank Account. 
+You should allow between 3 to 6 business days for the funds to reach 
+your Verified Bank Account. 
+ 
+(e) 
+All USDC Withdrawals are not reversible or refundable, unless we 
+determine, at our absolute discretion that it is in our interest to do so. In 
+addition, we may, at our absolute discretion, reverse, cancel, void or 
+refuse to process any USDC Withdrawals. 
+ 
+(f) 
+Without prejudicing our rights to claim further damages from you, you 
+shall immediately indemnify us for any loss and damage and expenses 
+arising from any mistaken, erroneous or fraudulent USDC Withdrawal 
+instructions (which may include but are not limited to, transactions 
+pertinent to unauthorised or fraudulent transfers previously effected 
+within the Exchange, or transfers made to a closed or blocked bank 
+account) given by you or sent from your account (collectively 
+"Erroneous USDC Withdrawal Instruction(s)"). The erroneous or 
+fraudulent nature of your instruction shall be determined by us based on 
+reasonable evidence. You further agree that if any USDC Withdrawal is 
+required to be reversed due to any Erroneous USDC Withdrawal 
+Instructions: (i) you will be subject to an administration fee of USD 50 per 
+79 
+ 
+reversal; and (ii) any other fees incurred from such reversal shall be 
+borne by you entirely. 
+ 
+ 
+ 

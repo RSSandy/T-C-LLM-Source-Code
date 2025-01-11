@@ -1,0 +1,1251 @@
+General Terms of Use and Contracting
+ 
+Last updated on: 17 January 2022
+These general terms of use and legal information (hereinafter, the “General Terms”) apply to the website of
+Glovoapp23, S.L. (hereinafter, “Glovo”), whose domain is  https://glovoapp.com, and to its related mobile
+application, as well as to all its related sites or sites linked from https://glovoapp.com by Glovo, as well as its
+affiliated companies and associates, as set forth in Annex I, including Glovo’s websites worldwide (hereinafter
+and collectively, the “Site”). The site belongs to Glovo. By using the site, you accept and expressly agree to these
+terms of use. If you do not agree, please refrain from using it.
+Glovo hereby makes the Glovo website and mobile application (hereinafter, jointly, the “Platform”) available to
+users (hereinafter, the “User” or “Users”).
+In accordance with the provisions of the applicable legislation, the following identification details of the site owner
+are provided below:
+Company name: Glovoapp23, S.L.
+Registered address: C/ Pallars 190, 08005 Barcelona.
+Commercial Register registration details: Protocol 2014/1249, Volume: 44467, Folio: 76, Sheet: 456858,
+Entry: 1.
+Tax Identification Number (NIF): B66362906
+1. Object
+Glovo is a technology company whose main activity is the development and management of a technology
+platform through which certain local stores in a number of territories can offer their products and/or services by
+means of a mobile or web application on the platform (hereinafter, the “APP”) and, in an ancillary manner, where
+applicable and if so requested through the APP by users of the APP and consumers of the said local stores, act
+as an intermediary in the planned or immediate delivery of the products.
+Glovo has developed a Platform through which a variety of merchants, with which Glovo can have in place a
+commercial agreement for the use of the platform, offer a selection of products and/or services. Users can
+request the purchase and/or collection of products and services from such merchants in person by means of a
+mandate given by them to a third party when placing an order through the Platform. In such cases, Glovo acts as
+a mere intermediary and is therefore unable to assume, and does not assume, any responsibility for the quality of
+the products or for the proper provision of the services offered directly by the merchants or by such third parties.
+In addition, Glovo is a multi-category Technology Platform for intermediation in the contracting of “on demand”
+services by distance electronic means. Its aim is to make it easier for any persons requiring help with their
+errands, services, purchases in person and/or collection of products from local merchants (hereinafter, “Users”) to
+carry out their errands by delegating to such third parties, who are willing to voluntarily carry out the mandate
+given to them by Users (hereinafter, the “Mandataries”).
+Mandataries are thus a network of self-employed professionals who work with Glovo. When they wish to provide
+their services, they log onto the Glovo Platform and undertake to carry out within a certain amount of time the
+service entrusted to them by the User by means of the above-mentioned mandate. As a result, Glovo cannot be
+responsible for delivery times, as they will depend on the local stores’ own successful operations, the preparation
+of orders, the Mandataries themselves, and the information furnished by Users when placing orders or their
+availability and response at the time of delivery. In relation to this, the delivery times stated on the Site are
+provided for indicative purposes only.
+Glovo hereby confirms that it has obtained all necessary licences for the pursuit of its commercial activities in the
+countries in which it operates.
+Throughout these General Terms of Use, both Users and Mandataries will be referred to as Users of the
+Platform.
+2. Terms of Use
+By accessing the Platform and voluntarily creating a profile, all Users acknowledge and expressly and
+unambiguously agree to these General Terms of Use and Contracting as well as to the Privacy Policy and the
+Cookie Policy.
+3. User Access and Registration
+In order to be a User of the Platform, it is essential that you meet the following requirements:
+Users must be at least 18 years of age.
+Users must truthfully complete the mandatory fields of the registration form requesting personal details
+such as the User’s name, e-mail address, telephone number and bank card number.
+Users must agree to these Terms of Use and Contracting.
+Users must agree to the Privacy and Data Protection Policy.
+Users must agree to the Cookie Policy.
+The User warrants that all the information regarding his/her identity and capacity provided to Glovo in the
+registration forms for the Platform is true, accurate and complete. In addition, Users undertake to keep their
+details up to date.
+If a User provides any false, inaccurate or incomplete information or if Glovo considers that there are well
+founded reasons to doubt the truthfulness, accuracy or integrity of such information, Glovo may deny that User
+current or future access to, and use of, the Platform or any of its contents and/or services.
+When registering on the Platform, Users must choose a username and password. Both the username and the
+password are strictly confidential, personal and non-transferable. In order to increase the security of accounts,
+Glovo recommends that Users do not use the same login credentials as on other platforms. If a User uses the
+same login credentials as on other platforms, Glovo will be unable to guarantee the security of the account or
+ensure that the User is the only person logging into his/her profile.
+Users undertake not to disclose the details of their account or allow access thereto to third parties. Users shall be
+solely responsible for any use of such details or of the services of the Site that may be made by third parties,
+including the statements and/or contents entered on the Platform, or for any other action carried out under their
+username and/or password.
+Users are the sole owners of the content entered by them on the Platform. Furthermore, by registering on the
+Platform and agreeing to these Terms, the User grants Glovo, in relation to the content that he/she may provide,
+a worldwide, irrevocable, and transferable licence, free of charge, with the right to sub-license, use, copy, modify,
+create derivative works, distribute, publicise and exploit it in any way that may be deemed appropriate by Glovo,
+with or without any further communication to the User and without having to pay any amounts for such uses.
+Glovo cannot guarantee the identity of registered Users, and it will therefore not be liable for the use by
+unregistered third parties of a registered User’s identity. Users undertake to inform Glovo immediately, using the
+communication channels made available by Glovo, if their credentials are stolen, disclosed or lost.
+              3.1 Profile
+In order to complete their registration on the Platform, Users must provide certain details, such as: username, e-
+mail address, telephone number and bank card details, among others. Once they have completed the registration
+process, all Users will be able to access, complete and edit their profile as they deem appropriate. Glovo does
+not store users’ payment data, which shall be processed and stored by the payment service provider as
+described in these Terms and in the Privacy Policy.
+              3.2. Credit Card Theft or Appropriation
+Since Glovo cannot guarantee the identity of registered Users, Users are under an obligation to inform Glovo if
+they have evidence that the credit card associated with their Glovo profile has been stolen and/or is being
+fraudulently used by a third party. Therefore, since Glovo and its payment platform are proactive in the protection
+of Users through the use of appropriate security measures, if a User fails to inform Glovo of the missing card,
+Glovo will not be liable for any fraudulent use thereof that may be made by third parties on the User’s account.
+Glovo suggests that Users report any theft, robbery or suspected misuse of their credit card to the police.
+If necessary, Glovo undertakes to assist Users and cooperate with the competent authorities as may be
+necessary to provide reliable evidence of the wrongly applied charge. In the event of fraud, Glovo reserves the
+right to take any appropriate action if it has been detrimentally affected by the misuse of the Site.
+4. Operation of the Service. Terms of the Mandate.
+When a User who is registered as a User needs help with an errand, he/she must go to the online platform or the
+relevant Glovo application and request the service using the said electronic methods. The basic courier service
+involves the collection and subsequent delivery of a product to and from the addresses established by the User,
+provided that they are within the territory in which Glovo operates. Similarly, a User may ask a Mandatary to
+purchase products in person on his/her behalf and to collect them from, and deliver them to, the addresses
+specified. The Mandatary undertakes under a mandate to purchase the products ordered by the User on the
+latter’s behalf and according to his/her indications and specifications.
+Users are solely responsible for providing the correct addresses for delivery and collection on the Platform, and
+they therefore release Glovo and the Mandatary from any liability for negligence or error in the collection or
+delivery of the order as a result of providing incorrect addresses for collection and delivery. As a result of the
+foregoing, the cost resulting from providing an incorrect address for collection and delivery on the Platform shall
+be borne by the User.
+Users must provide all the information, in as much detail as possible, about the service to which the assignment
+relates and, if applicable, in relation to the product that they are asking the Mandatary to buy in a physical shop
+on their behalf. To do this, they may provide any comments they may deem useful in the “comments” section as
+well as, where appropriate, share a photograph with the Mandatary to identify the order. Users will be in constant
+contact with the Mandatary and may communicate with him/her at any time to ensure that he/she carries out the
+mandate according to the Users’ own instructions.
+In order to facilitate direct communication with the Mandatary and in the event of any incidents in the processing
+of the order and/or in order to inform of any changes thereto, GLOVO makes available to Users an internal chat
+system allowing direct and immediate contact between the User and the Mandatary while the order is being
+carried out. The chat session will be deactivated as soon as the User has received the product or the order is
+cancelled for any of the reasons envisaged. If a User wishes to contact the Mandatary or Glovo after the order
+has been completed, he/she must use the contact form available on the Platform and contact the User assistance
+service.
+The User releases Glovo and the Mandatary from any liability for negligence or error in the indications given by
+the User for the purchase of the product ordered for purchase in a physical store on his/her behalf. As a result,
+the User shall bear the cost arising from providing incorrect indications on the Platform regarding the products
+(such as an incorrect address or product).
+When placing an “Anything” order, Users may set an approximate price if the price of the product and/or service
+does not appear on the platform. In such case, the service or product may be purchased by the Mandatary in
+person based on the User’s estimate and never for more than 30% above the said estimate. If the price is higher,
+the Mandatary shall contact the User to inform him/her of this situation, and it will be the latter who makes the
+final decision on whether or not to proceed with the purchase in person at the store. Glovo may provide an
+approximate price estimate, merely for the purpose of helping the User, and such estimate shall not be binding as
+the final price payable by the User in any event.
+If the price of the product/service does appear on the Platform, the prices appearing on the Platform may be
+indicative as provided in Clause 7 of these General Terms and Conditions of Use of the Platform.
+If the product and/or service is not available, the Mandatary must call the User to set out the available options. If
+the User does not accept any of the options set out by the Mandatary and is therefore not interested in the
+alternative options, he/she must accept the cancellation policy set forth in these General Terms of Use (Section
+Nine). If the User does not answer the phone, the Mandatary shall wait 5 minutes before leaving.
+Users accept that according to the services contracted through the GLOVO platform, they can receive the
+invoices corresponding to the delivery, courier or management services, by the Mandataries.
+If the User is not at the place agreed for delivery, the Mandatary shall retain the product for 24 hours, or for 5
+minutes in the case of perishable products. In addition, the User must bear 100% of the cost of the basic courier
+service, as well as the price of the product if one has been purchased or contracted through the Mandatary at the
+User’s request, and will have to pay for another service in order to receive the products that were not delivered.
+The Mandatary will in no event be liable for the deterioration or expiry of the product to which the assignment
+related.
+Once the assignment has been completed, if the request included the in-person purchase of a product, the
+Mandatary shall give the User the paper receipt for such product and/or provide it by e-mail. If the object of the
+assignment is the mere delivery of a product, the Mandatary shall deliver it to the User at the exact time and
+place indicated by the latter. All this without prejudice to the electronic receipt for the service that will be received
+by the User at the e-mail address associated with his/her account.
+At that moment, the User, who is the recipient of the service identified by the user in the order, or any third party
+authorised by him/her, must where appropriate ratify the mandate given by signing on the Mandatary’s device.
+Glovo is unable to verify the authenticity of the User’s signature. If the User receives confirmation that the order
+has been carried out without having ratified the mandate either personally or through a recipient authorised by
+him/her, he/she must inform Glovo immediately so that appropriate steps can be taken by the Platform. Glovo
+reserves the right to check any communications made by the User for verification and monitoring purposes.
+FOOD / PACKAGED PRODUCTS: Glovo recommends that, when ordering food products under a mandate,
+Users ask the Mandatary and/or the establishment offering the products, using the methods available on the
+Platform, for information on the content and composition of the food products ordered.
+Furthermore, Glovo is not responsible for ensuring that food orders are delivered to Users in properly closed
+bags, which should ideally be labelled or sealed. 
+5. Returning Non-Perishable Products
+If a User wishes to return a non-perishable product or make a claim about the provision of a service, without
+prejudice to Glovo’s ability as an intermediary to take over the handling thereof, the party with ultimate liability will
+always be the merchant at which the purchase was made. If the User obtains a refund for the purchase price, the
+merchant will decide how to make the refund (cash, credit card, store voucher, etc.) regardless of whether it is
+Glovo who pays the refund on the local merchant’s behalf. Therefore, the return of a non-perishable product
+purchased by the Mandatary pursuant to a mandate conferred by the User shall be subject to the merchant’s
+returns policy in any event.
+As certain establishments may not have premises open to the public, Users will be unable to access them for the
+purpose of processing any claims or returns. In such cases, they must contact Glovo’s User assistance service
+for the necessary help and support using the channels available on the Platform.
+If a User wishes to process the return of a non-perishable product because it did not match the order made
+through the platform, he/she must provide a photograph of the total order together with a list of the incorrect or
+undelivered products, as well as other proof of the inadequacy of the product requested.
+The User must check the non-perishable products delivered by the Mandatary at the delivery address before
+signing and, where appropriate, ratifying, the mandate. By means of the said signature, the User confirms and
+ratifies the mandate, the purchase in person or the service carried out on his/her behalf. In addition, the User
+states that a third party may ratify the mandate on his/her behalf, for example if the User is not at the final
+delivery address or has designated a third party for collection and signature where appropriate. The User (and/or
+the said third party) is thus responsible for checking that the service provided is adequate as well as, where
+applicable, for collecting enough evidence to prove that it was not.
+In any event, the decision regarding whether a return is appropriate will lie with the merchant in each case. The
+User must therefore inform Glovo through the methods provided by Glovo for that purpose if a dispute arises.
+6. Prices of the Services and Billing
+Users can register for the Platform, and use it, free of charge, although this is subject to review by Glovo at any
+time. Users may have to pay for certain services on the Platform as provided in these General Terms and
+Conditions of Use.
+The use of the Platform by Mandataries and merchants may have an associated cost based on the country from
+which they wish to use the Platform to provide services.
+The User only has to pay for each service requested through the Platform for his/her use thereof to order
+products, and to communicate through the Platform, as well as for the courier or errand services provided by third
+parties.
+In the event of rain or bad weather conditions, the User will have to pay an additional fee for the courier or errand
+service provided by third parties in such weather conditions.
+In addition, for services that include the purchase of a product, the User must pay the price of such product. By
+registering through the Platform and providing the required bank details, Users expressly authorise Glovo to
+issue receipts for payment of the services requested, including the price and delivery of the products ordered.
+The total price of each service may be composed of a variable percentage based on the number of kilometres
+travelled and the time taken by the Mandatary, as well as, where applicable in cases in which a User requests the
+physical purchase of a product or service, the price established by each merchant. Glovo reserves the right to
+change the price based on the distance travelled and/or the time slot in which the service is performed. In
+accordance with these terms, the User will be entitled to know the approximate fee for the service before
+contracting it and paying for it, unless the User has not specified the address for collection. The fee for the
+delivery service may vary in cases of force majeure beyond Glovo’s control that entail an increase in such fee.
+The fee may include tips for the Mandatary and/or the local store, whose amount shall be solely and entirely at
+the User’s discretion.
+Glovo reserves the right to change the prices on the Platform at any time. Such changes shall take effect
+immediately after publication. The User expressly authorises Glovo to send him/her by electronic means, to the
+e-mail address provided by the User during the registration process, receipts for the services contracted and/or
+the bills generated. If an invoice is required, the User must enter the relevant tax data on the platform before
+placing the order.
+If a service is cancelled by the User once the preparation of the order by the local merchant has been confirmed
+and the User has been informed, Glovo will be entitled to charge the User the fee applicable in each case.
+Similarly, if the User has asked the Mandatary to purchase a product on his/her behalf and the User cancels the
+order after the purchase has been made, the latter shall bear the cost of the delivery services provided by the
+Mandatary as well as the full price of the product. All this without prejudice to the User’s ability to request a new
+service in order to return the products purchased or to have them delivered at a different address. In the case of
+non-perishable products, the User may exercise his/her right of withdrawal vis-à-vis the merchant that sold
+him/her the products. If the User wishes to exercise this right through Glovo, he/she must request the service
+again.
+              6.1. Payment Platforms
+Payment for products and/or services offered on the Platform, sold in person at restaurants and/or stores and
+delivered to Users in a deferred manner is temporarily made to Glovo, who then sends it to the restaurants and/or
+stores with which it has a commercial agreement in place. The associated restaurants and/or establishments
+authorise Glovo to accept payment on their behalf. Payment of the price of any product (such as food, drink, a
+gift, etc.) properly made to Glovo will therefore discharge the User’s obligation to pay the said price to the
+associated restaurants and/or establishments.
+Similarly, the User’s payment releases him/her from any obligation vis-à-vis the Mandatary, as full payment from
+the User discharges any obligation that the User may have vis-à-vis restaurants and/or stores and/or
+Mandataries.
+Payment by Users for products and/or services is received at Glovo’s accounts through an Electronic Money
+Institution. Electronic Money Institutions are authorised to provide, directly or indirectly, regulated payment
+services in all the territories in which Glovo operates and are in compliance with the current legislation applicable
+to payment services for Platforms such as Glovo*.
+*If such institutions are not authorised, Glovo will accept no liability for such lack of authorisation or licence, and
+sole and exclusive liability shall lie with the Electronic Money Institutions.
+Using the payment provider contracted by it for this purpose and for the sole purpose of verifying the means of
+payment provided, Glovo reserves the right, as a fraud prevention measure, to request a payment pre-
+authorisation for the products ordered through the platform. Such pre-authorisation shall in no event involve
+payment of the full amount of the order, as this will be done solely and exclusively after the products have been
+made available to the User, or for the reasons set forth in these terms and conditions.
+In order to provide Users with greater support, Glovo shall be their first point of contact and shall accept liability
+for payments made on the Platform. Such liability includes refunds, returns, cancellations and early-stage dispute
+resolution, and it is without prejudice to any actions that may be taken by Glovo vis-à-vis local merchants as the
+sole physical sellers of the products ordered by Users.
+In accordance with the foregoing, in the event of a dispute, Glovo shall provide the first line of support and shall
+reimburse the User if this is deemed appropriate.
+If a User has any issues with the progress of his/her order, he/she may contact Glovo’s User assistance service
+through the methods made available to Users on the Platform.
+7. Price of the Products and/or Services Appearing on the Platform
+All the prices stated on the Platform are inclusive of any taxes that may be applicable based on the territory from
+which the User operates and shall in any event be denominated in the currency in force in the territory from which
+the User operates.
+In accordance with Clause 6 above, the prices applicable to each service shall be as published on the Platform,
+subject to the specific characteristics set forth above, and applied automatically at the last stage of the
+contracting process.
+However, the prices of the products sold in restaurants and/or stores shown on the Glovo Platform may be
+indicative only. In any event, they correspond to the products sold in restaurants and/or stores, and they are set
+solely by them. The User may contact the Mandatary to confirm the final price of the products ordered.
+The User assumes that, in any case, the price of some products may change in real time based on the
+establishment that sells them and on the available stock. The User may contact Glovo for any information about
+the order placed.
+In accordance with the foregoing, the User grants the Mandatary, by means of the purchase and delivery request
+made through the Platform, a mandate to purchase the products in person, on his/her behalf, at the price set by
+the merchants. The User may be in direct contact with the Mandatary while the order is being carried out.
+8. Promotional Codes and/or Other Offers or Discounts
+Glovo may unilaterally provide at any time credits for use within the Platform or free shipping to certain Users.
+The User acknowledges and accepts that credits and free shipping must be used within six (6) months from the
+date on which the credit or free shipping was made available to the User on the Platform.
+Promotional codes and/or other offers or discounts offered on the Platform must be correctly entered in the
+application before placing the order. Otherwise, they will not take effect and the User will be unable to enjoy
+them. 
+Whenever a cancellation is requested by Glovo in accordance with Section 9 below, the User shall ensure that
+the promotional code and/or other offer or discount is valid for future use. When the cancellation is at the User’s
+request, Section 9 below will apply.
+Glovo reserves the right to unilaterally cancel promotional codes and/or other offers or discounts offered if it
+becomes aware of a fraudulent use thereof (such as, among others, a promotional code being redeemed by
+someone who is not its legitimate recipient, the mass communication of codes or the sale of codes or discounts),
+at the end of the above-mentioned period. Furthermore, it reserves the right to apply sanctions to Users for the
+amount for which Glovo has been defrauded as a result of such use.
+Glovo will accept no liability if, due to an event of force majeure or other events beyond its control or whose need
+is justified, it is forced to cancel, shorten, extend or amend the conditions of promotions.
+In particular, Glovo will accept no liability if the website is not available at any time during promotions or for a
+malfunction in the automated promotion system.
+9. Right of Withdrawal and Cancellation of Orders
+In accordance with the nature of the service offered by Glovo, the User is aware that, once a Mandatary has
+voluntarily accepted an order, the execution of the purchase mandate is considered to have started, and the User
+may therefore no longer be entitled to withdraw the service request free of charge.
+Without prejudice to the foregoing, the cost of cancellation may depend on the following factors;
+- If the restaurant or establishment has already accepted the order and started preparing it, the User will be
+charged the price of the products. The User will be informed of the restaurant’s acceptance through the Platform
+and/or by e-mail at the e-mail address registered by the User. 
+- If the User cancels the order once the Mandatary has accepted it for processing, the User will be charged the
+cancellation fee. The User will be informed of the Mandatary’s acceptance through the Platform. The User can
+see the cost of cancellation on the Platform. If the order is cancelled by Glovo, the agents will contact the User to
+inform the latter of the cost of cancellation if there is one.
+If the restaurant or establishment and the Mandatary have accepted the order for processing, the User will be
+charged both the price of the products and the cancellation fee.
+The total cost of cancellation will appear on the User’s screen on pressing the “Cancel” button on the Platform.
+The User will be shown the charge to be applied, based on the factors described above, in advance.
+In the case of certain cities, it may not be possible to view the cost of cancellation directly on the Platform. In
+such cases, the applicable costs of cancellation will be those set forth in Annex II hereof.
+In the case of non-food or non-perishable products, if the Mandatary has already purchased the product ordered
+at the time of cancellation, the User may ask the Mandatary to return it. To that end, the User must pay the
+products’ full purchase price and delivery costs, as well as the cost of the return service. If the Mandatary has
+been able to return the product, its value will be refunded to the User who, as mentioned above, must pay the
+cost of the two collection and delivery services as well as the return service. The return shall in any event be
+subject to the merchant’s return policies, and the User therefore states that he/she is aware that, in the case of
+perishable products (e.g. food), the product may not be returned and Glovo will therefore be entitled to charge
+him/her for both the product already purchased by the Mandatary under his/her mandate and for the cost of the
+delivery service incurred.
+Notwithstanding the foregoing, in the specific case of orders placed on the Platform through the McDonald’s
+product drop-down menu, the User must deal directly with Glovo.
+If the User has given an incorrect delivery address for the products, he/she may enter a new address at any time
+provided that it is within the same city as the original order and this is a city in which Glovo provides its
+intermediation service. In such case, the User will be ordering a new service and agrees to be charged the
+appropriate amounts for the new delivery. If the address is in a different city from the one originally specified, the
+address may not be modified for delivery in a new city, and the order will be cancelled, with the User bearing the
+resulting costs as provided in this clause.
+Glovo reserves the right to cancel an order without having to provide a just cause.  In the event of cancellation
+without just cause at Glovo’s instance, the User shall be entitled to a refund of the amount paid.
+Glovo has official claim forms available to Users, in the official languages of the countries in which Glovo
+operates, in relation to the service offered by it. Users may request the above-mentioned claim forms through
+Glovo’s User assistance service, and the option to access them will be sent automatically. The User’s e-mail
+must specify the exact location from which the request is being made, which must be the same as the place
+where the service is to be carried out. In the event of doubt, the claim should be made from the latter place.    
+10. Special Terms of the Product Purchase Service through Glovo
+The User has the option of requesting through the Platform the purchase by a Mandatary, in person, of a
+selection of products and/or services offered by establishments with which Glovo may or may not have a
+commercial agreement in place. Using a drop-down menu within the Platform, the User can choose from among
+a number of options that may indicate the characteristics and price of the product or service as well as,
+sometimes, even a photograph thereof, for indicative purposes only.
+If a User wants to know the composition and nutritional information of the products available on the Platform,
+he/she must contact each establishment directly to obtain full information about the products.
+Once the User has selected one of the options, he/she can also complete the order by using the free-text space
+provided in order to include more detailed information or instructions for the Mandatary who is to carry it out.
+By using the “Anything” Button, the User states his/her wish to order the purchase in person of certain products,
+and the Mandatary will be a mere agent acting on the User’s behalf. The User may specify the products to be
+included in the order by using the free-text box to include more detailed information or instructions for the
+Mandatary who is to carry it out. As a result of the foregoing, the User shall be solely responsible, and it would be
+the User who, if the situation arose, would be liable for any incident arising from the nature of the products (such
+as a sanction, civil and/or criminal liability, financial liability, etc.). In relation to this, Users should be aware that
+Glovo actively collaborates with the authorities of each country to combat, among other crimes, fraud, drug
+trafficking, money laundering, terrorism and identity theft. The User is therefore aware that Glovo may disclose
+his/her data to public authorities on their request in order to prevent and avoid the commission of these or other
+criminal offences.
+The User is aware, and accepts, that the descriptions and, where applicable, the prices or photographs of the
+products and/or services available on the Platform, are provided based on the information and documents
+supplied by the establishments, and that Glovo is therefore unable to provide any guarantees against any
+possible inaccuracies in such descriptions, prices and/or photographs.
+Furthermore, the User accepts that all the products appearing on the Glovo platform are subject to availability
+and, in this regard, accepts the possibility that, while carrying out the order, the product and/or service may be
+found not to be available at the establishment. In addition, the price of the product is subject to slight variations
+due to modifications at the point of sale. Glovo reserves the right to proceed with the purchase in the case of
+price variations of up to 30%. If the variation is greater than the said 30%, the Mandatary shall contact the User to
+inform him/her of the situation.
+Glovo reserves the right to withdraw any product from its platform, as well as to modify the contents of its
+information sheet at any time, without thereby incurring any liability of any kind.
+                 10.1 Deliveries
+Glovo provides Users with a delivery service for products purchased by a Mandatary in person in certain cities.
+Such an order can be carried out whenever the following conditions are met at the time of payment:
+The service must be operative during the chosen time slot.
+The goods to be delivered must be in one of the cities, and within the available area, in which Glovo
+operates.
+The destination must be located in the same city as the product.
+The product(s) ordered cannot exceed the following size: 40 cm x 40 cm x 30 cm*
+The maximum weight of a single order will be approximately 9 kg*
+*The above-mentioned size and weight will not apply in the case of vehicles capable of accommodating such
+volumes.
+                 10.2. Price and Payment Method
+The price of the product and/or service shall be as stated by the establishment on the Platform. However, the
+User knows that the price of some of the products may vary in real time due to stock availability at the
+establishments appearing on the platform, and that the User will in any event always be told the final cost before
+payment.
+From the moment when the Mandatary is 1000 metres away from the order collection point and until its delivery,
+the User may contact the Mandatary who will be acting on the User’s behalf in the purchase of products and
+services. Any change or variation shall therefore be reported by the Mandatary for the User’s approval before
+carrying out the mandate. If the User wishes to make any comments regarding the order, he/she will always be
+able to directly contact the Mandatary who is carrying out the mandate.
+Similarly, at the payment gateway stage, the User will be informed of the final price and approximate time of
+delivery in accordance with the terms of Glovo’s courier service set forth above.
+ The User may pay for the products and/or services in cash or by credit card. The cash payment option may be
+unavailable in some of the countries in which Glovo operates. When making the order, the User will be informed
+of the various payment options available in the territory from which the service is being requested. In order to pay
+with a credit card, the User must provide the card details through the platform as a payment method associated
+with his/her account. Glovo does not store card numbers on its servers and can only view the last four digits of
+the card. The full information shall be stored on the servers of the payment service provider that makes the
+payments on Glovo’s behalf. Users paying by credit card will incur no additional charges for choosing this
+payment method. All this in accordance with the terms of the payment platform set forth in Clause 6.1.
+In the case of cash payments, the User must pay the price at the time of delivery of the product and/or on
+completion of the assignment at the place of delivery. The User may not refuse to pay the delivery fee and/or the
+price of the product ordered. The User can only refuse to pay the service fee if he/she has made a complaint and
+has received a response from Glovo that is favourable to the User by the time of the delivery.
+If payment for the service can for any reason not be taken from the User, the User’s account shall be blocked
+until the situation has been rectified and the debt has been settled.
+              10.3. Home Delivery of Free Samples and Other Commercial Actions
+Glovo reserves the right to enter into commercial agreements with Stores, Department Stores, Entrepreneurs,
+Professionals (e.g. mass market food companies, laboratories, Department Stores, large and small consumer
+brands, etc.) to send promotional communications, including the addition of free samples to the order delivered to
+the User’s home.
+11. Special Terms of the “SuperGlovo” Service
+Glovo makes available to Users, on the Platform, a category where they can choose from a range of products
+that can generally be found, among other places, in supermarkets, department stores and/or personal care
+establishments so that the Mandatary who agrees to carry out the order can deliver them at the address provided
+by the user.
+After selecting their preferred products, Users may request, using the mechanisms available on the Platform,
+information on the products’ allergens, intolerances, composition and/or nutritional information, which shall be
+provided through the contact chat service or the User’s e-mail address registered on the Platform. Glovo may
+also make available to those Users who request it information links where they can find and review such
+information. “SuperGlovo” orders shall be governed by the provisions of Clause 10.1 above.
+Unless otherwise specifically provided in this section, the General Terms of Use shall apply to the “SuperGlovo”
+Service.
+12. Special Terms of the B2B Glovo Business Platform Service
+GLOVO has a platform for sending and delivering products available to businesses and professionals. This
+section shall apply to the specifications of the services offered by GLOVO on the
+website https://business.glovoapp.com/. The General Terms of Use and Contracting shall apply to everything not
+covered by this section.
+            12.1. Object
+The User may log into the Glovo Business Service using his/her username and password registered on the
+Platform for the purpose of requesting the collection and delivery of the desired products from one or more
+collection points and to one or more delivery points, and their transport will be carried out directly by the
+Mandataries.
+The services requested by the User on the Glovo Business Platform will not entail the purchase of Products but
+merely intermediation services in the delivery of the desired products from the collection address to the delivery
+address.
+            12.2 Type of Service
+When using the Glovo Business Platform, Users will be able to choose between the following types of service:
+1. "One-way order": Products are collected from a single place and delivered to a single delivery address.
+2. “Return order": Products are collected from a single place, taken to a second address and then returned to
+their point of origin (the first address).
+"Multiple pick-up order": There are several collection addresses and a single delivery address.
+1. “Multiple drop-off order": There is a single collection address and several delivery addresses.
+Each Order may have a free-text box for each order so that Users can include any relevant comments about their
+Orders for clarification to the Mandatary.
+Once the order has been placed, the Mandatary will go to the collection point(s) established by the User in order
+to collect the Order(s) together with their Confirmation on the Platform. To collect an Order, the Mandatary must
+present the Order Confirmation on the Platform. Finally, the Mandatary must deliver the Order to the designated
+delivery address(es).
+Users may cancel an Order free of charge until it has been accepted by a Mandatary. However, if a User cancels
+an Order that has been accepted by a Mandatary, the User will have to pay 100% of the price for cancelling an
+order in progress.
+If the Mandatary arrives at the delivery address and the intended recipient of the Order does not appear within 10
+(ten) minutes of waiting and communication attempts, the Mandatary must return the Order to the initial collection
+address and Glovo will be entitled to charge the User for the additional expenses incurred in connection with the
+new service carried out.
+These additional costs shall be calculated based on a variable cost that will depend on the number of kilometres
+travelled to the point of delivery and a fixed cost corresponding to the return of the order to the address of origin.
+If a User has any problems while placing an Order, he/she must contact GLOVO’s support service.
+The Glovo Business Platform will be available on the days and at the times when the platform is active.
+The size of packages that can be carried by Mandataries may in certain circumstances be subject to restrictions.
+Products must be located in the cities in which Glovo operates, and their collection and delivery points must be
+located in the same city and areas served by Glovo.
+               12.3. Fee for the Services
+The Price of each Order will consist of a variable fee (plus any indirect taxes that may be applicable by law)
+based on the distance travelled (km) (hereinafter the “Fee”).
+GLOVO reserves the right to modify prices based on the distance involved and/or the time of day when the Order
+is carried out.
+In accordance with these terms, Users will be entitled to know the approximate Fee that they will have to pay for
+their Order before they place it. The Fee may vary if there are events of force majeure beyond Glovo’s control
+that result in an increase in the Fee payable. Glovo shall also pay the Mandatary’s Fee on the User’s behalf. The
+Fee may also be increased if a User provides subsequent information to the Mandatary, such as a change of
+collection and/or delivery address(es) or the addition of addresses to the initial order.
+Payment for the service rendered may be made by the following methods, to be freely chosen by the User:
+Credit card: Users may pay for each Order individually using a credit card in the same manner and under
+the same terms as provided in the General Terms of Use and Contracting.
+ 
+Monthly payments / direct debit: GLOVO will collect the total amount incurred by the User in each calendar
+month by direct debit based on the information provided by the User.
+If the direct debit is cancelled and the relevant payment can therefore not be taken, the amount owed by the User
+will be charged to his/her associated credit card her on the same day on which GLOVO is notified of the direct
+debit failure. In such case, the User must bear the costs arising from the direct debit failure (e.g. bank charges).
+13. Purchases of Alcohol
+Users who place an order that includes the purchase and/or delivery of alcoholic drinks through the platform must
+be of legal age. This means that they must be at least the age stipulated by the local legislation applicable in the
+territory in which the User is placing the order. When placing an order that includes alcoholic drinks, the User
+confirms that he/she is at least the age stipulated by the local legislation applicable in the territory in which the
+User is placing the order. Glovo reserves the right to refuse the order for the purchase and/or delivery of alcohol
+to any person who is unable to prove that they are at least the age stipulated by the local legislation applicable in
+the territory in which the User is placing the order.
+This clause will apply in exactly the same way to any other similar product and/or service ordered by a User
+through the Platform that is reserved for over-18s under the current legislation.
+Similarly, in those cases and cities in which the sale and/or delivery of alcoholic drinks is restricted during a
+particular time slot, it is the User’s responsibility to place orders only during the times allowed under the
+applicable legislation. Glovo reserves the right to refuse the order for the purchase and/or delivery of alcohol
+outside the permitted times.
+14. Products from Pharmacies
+In accordance with the current legislation, Glovo does not sell or advertise medicines for human use through the
+Platform. Mandataries act as agents of those Users who order, through the Platform, non-prescription drugs for
+human use for collection.
+In any event, Glovo guarantees to Users the availability of a pharmacist’s advice before ordering their medication.
+For this purpose, Glovo has included a SPECIAL REQUEST box so that, in the event of doubt, the User can
+consult the pharmacist who is to dispense the product(s) through the Platform, all this in order to ensure that the
+Pharmacist can dispense the correct product.
+In any event, Glovo will accept no responsibility for Users’ use of the products ordered in the Pharmacy section or
+be liable for the amounts and/or condition of the products dispensed at pharmacies.
+ In addition, the Platform may provide the pharmacy that dispenses the medicine ordered by the User with the
+latter’s username and phone number so that it can answer the User’s questions. This disclosure of data will in
+any event be subject to the User’s express and unambiguous authorisation in accordance with the applicable
+data protection legislation.
+Glovo makes available to all Glovo Users on the Platform the medicines’ official data sheets published by the
+Spanish Agency for Medicines and Medical Devices (Agencia Española de Medicamentos y Productos
+Sanitarios) of the Ministry of Health, Social Policy and Equality (Ministerio de Sanidad, Política Social e
+Igualdad).
+15. Policy on the Delivery of Restricted Items
+Non-Exhaustive List of Examples:
+ 
+ 
+Alcohol and Tobacco Products
+Deliveries of alcohol and tobacco products may be
+limited or restricted in certain countries and/or
+cities in which the Platform operates.
+Animals and Regulated Species
+Animal parts or fluids; banned seeds, harmful
+plants; regulated plants or other organisms
+(including their by-products) which are
+endangered or whose trade is regulated by law as
+applicable in any case.
+Child pornography
+Pornographic material involving children or
+content that may be perceived as erotic
+paedophilia.
+Copyright on Software and Media
+Unauthorised copies of books, music, films and
+other protected or licensed materials, including
+properly referenced copies; and unauthorised
+copies of software, video games and other
+protected or licensed materials, including from
+OEMs or other products that cause unsolicited
+messages to be sent.
+Counterfeits and unauthorised products
+Copies or imitations of designer products or other
+goods; items belonging to celebrities that would
+usually require authentication; false autographs;
+foreign currency; stamps; tickets; or other
+unauthorised goods.
+Devices or tools for overcoming security
+measures
+Modems, chips or other devices for dismantling
+technical protection measures as well as on digital
+devices, including for unlocking iPhones.
+Drugs
+Controlled substances, narcotics, illegal drugs and
+their paraphernalia, including psychoactive and
+vegetable drugs such as psychedelic mushrooms,
+as well as materials promoting their use; or legal
+substances such as plants and herbs presented in
+a form that suggests they should be ingested,
+inhaled, extracted or used in any other way that
+may result in the same use as an illegal
+substance, drug or component or that claims to
+have unproven health benefits.
+Gambling and Betting
+Lottery tickets, bets, online betting site
+memberships/registrations, and related content.
+Permitted promotion of physical casinos.
+Products Sold in Pharmacies
+Deliveries of pharmaceutical products may be
+limited or restricted in certain countries and/or
+cities in which the Platform operates.  Prescription
+drugs may not be ordered/delivered. OTC (over-
+the-counter) medicines, ancillary medical devices,
+as well as any other products for hygiene, nutrition
+or similar for human use sold in pharmacies are
+subject to the mandate given by the User to the
+Mandatary and to what the pharmacist may deem
+appropriate.
+Materials for hacking and cracking
+Manuals, guides, information or equipment that
+infringes the law by damaging or fraudulently
+facilitating access to software, servers, websites
+or other protected property.
+Human Body
+Organs or other body parts; body fluids; stem
+cells; embryos.
+Stolen or illegal goods
+Materials, products or information that promotes
+illegal goods or facilitates illegal acts; goods not
+belonging to a person or which a person has no
+right to sell; goods produced in violation of third-
+party rights; goods infringing import, export or
+labelling restrictions; motor vehicles that are
+subject to transfer restrictions. You (the Glovo
+User) are solely and fully responsible for checking
+that all items are genuine and legal.
+Illegal telecommunications equipment
+Devices aimed at obtaining satellite signals
+without payment, illegal products for modifying
+mobile phones and other equipment.
+Offensive goods
+Goods, literature, products or other materials that:
+•       Are defamatory of any person or group of
+people based on their race, ethnic origin or
+country of origin, religion, gender or any other
+factor.
+•       Are defamatory of any person or group of
+people who are protected from defamation by the
+applicable law (e.g. the royal family in some
+jurisdictions).
+•       Praise or incite the commission of violence.
+•       Promote intolerance or hatred.
+•       Promote or support membership of terrorist
+groups or other organisations that are prohibited
+by law.
+•       Are contrary to public morals.
+Offensive goods related to a criminal offence
+Photographs of, or objects from, a crime scene,
+such as personal belongings, associated with
+criminals or criminal acts.
+ 
+ 
+Culturally protected artefacts
+Materials covered by the 1970 UNESCO
+Convention on the Means of Prohibiting and
+Preventing the Illicit Import, Export and Transfer of
+Ownership of Cultural Property or other goods
+whose sale, export or transfer is restricted by law;
+Artefacts, cave formations (stalactites and
+stalagmites);
+Pyrotechnic devices and dangerous substances
+requiring special permission
+Pyrotechnic items and related goods in markets in
+which their supply is regulated, as well as
+substances such as petrol or propane.
+Traffic-related devices
+Radars, number plate covers, illegal traffic-
+modification devices and related products.
+Weapons
+Firearms, ammunition and other items including,
+without limitation, firearms, knives that are either
+undetectable or easy to conceal, martial arts
+weapons, silencers, ammunition or ammunition
+magazines.
+Money and Foreign Currency
+Foreign currency or currencies insured with
+precious metals, as well as banknotes, coins or
+any other valuable securities.
+Primary and Secondary Schools / Use by
+children
+We reserve the right to refuse orders from users
+who are minors. In addition, we reserve the right
+to refuse orders at any location near a primary or
+secondary school, as well as to ask for sufficient
+proof of age.
+Misuse of the platform / Abuse
+We will not tolerate the use of abusive language or
+abusive attitudes towards our company or
+freelance workers.
+16. Solidarity at Glovo
+Glovo collaborates with various institutions, corporate groups and non-governmental organisations in charitable
+and solidarity projects, donation campaigns and non-profit campaigns in some of the countries in which it
+operates (subject to applicability in each country). GLOVO acts as an intermediary in the organisation of such
+campaigns and projects, based solely on its good faith and its wish to contribute to social initiatives.
+Glovo accepts no liability for the final use or outcome of such campaigns. Neither does it give any security or
+guarantee, or accept any legal liability, or have any control over, how donations are used by the above-mentioned
+establishments.
+17. Geolocation
+Glovo may collect, use and share exact location data, including the real-time geographic location of the User’s
+computer or mobile device, provided that this is authorised by the User. The said location data may be collected
+and used by Glovo to show Users the location of the point of origin and/or destination of an assignment. In this
+regard, Users expressly consent to their geolocation data being shared with other Users and Suppliers in order to
+successfully carry out the assignment requested at any given time. Users may choose to disable Geolocation on
+their devices as provided in the Data Privacy Policy.
+The User shall be responsible for entering the correct addresses for collection and delivery. In this regard, Glovo
+will accept no liability for errors or omissions in the provision of such addresses by the User.
+18. The User’s Obligations
+Users are fully responsible for the proper use of, and access to, their profile and other Platform contents in
+accordance with the current legislation, be it national or international, of the Country from which they are using
+the Platform, as well as with the principles of good faith, morals, generally accepted customs and public order.
+Specifically, they undertake to diligently comply with these General Terms of Use.
+Users are responsible for correctly entering their individual usernames and passwords, which are non-
+transferable and must be sufficiently complex, and for not using the same username and password as on other
+platforms, all this in order to protect their account from fraudulent use by third parties not belonging to the
+Platform.
+Users shall refrain from using their profile and other Platform contents for illegal purposes or with illegal results
+that harm third-party rights and interests or that may in any way damage, disable, affect or impair the Platform
+and its contents and services. In addition, they are prohibited from hindering other Users’ normal use or
+enjoyment of the Platform.
+Glovo may not be deemed to have editorial responsibility, and it expressly states that it does not identify with any
+opinions that may be issued by Users of the Platform, whose consequences shall be the sole responsibility of
+their issuers.
+Any persons who breach the above obligations shall be liable for any loss or damage caused by them. Glovo will
+accept no liability for any consequences, loss or damage that may arise from such illegal use or access by third
+parties.
+In general, Users undertake, by way of example without limitation:
+To refrain from altering or modifying the Platform, in full or in part, by bypassing, disabling or in any other
+way tampering with, its functions or services;
+To refrain from infringing industrial and intellectual property rights or the personal data protection
+legislation;
+To refrain from using the Platform to insult, defame, intimidate or harass other Users or attack their image;
+- To refrain from accessing other Users’ e-mail accounts;
+To refrain from introducing computer viruses, corrupted files or any other software that may cause damage
+or alterations to Glovo’s or third parties’ contents or systems;
+To refrain from sending mass and/or recurring e-mails to a number of people, or from sending third parties’
+e-mail addresses without their consent;
+To refrain from advertising goods or services without Glovo’s prior consent.
+Any User may report another User if he/she believes that the latter is in breach of these General Terms of Use.
+Similarly, any User may inform Glovo of any abuse or infringement of these terms through the Contact Form.
+Glovo will check such reports as soon as possible and will take any steps that it may deem appropriate, reserving
+the right to remove and/or suspend any User from the Platform for breach of these General Terms of Use.
+Furthermore, Glovo reserves the right to remove and/or suspend any message with illegal or offensive content
+without the need for a prior warning or subsequent notification.
+19. De-registration by Users
+Users may de-register from the Platform using the Contact Form on the Platform.
+20. Glovo’s Responsibility
+Users are responsible for having in place the necessary services and equipment to browse the Internet and
+access the Platform. Users can report any incidents or problems accessing the Platform to Glovo using the
+contact channels made available to Users, and Glovo will analyse the incident and instruct the User on how to
+resolve it as quickly as possible.
+Glovo does not control, and is not responsible for, the contents uploaded by Users through the Platform, and
+Users are solely responsible for the lawfulness of such contents.
+Glovo will not be liable for any service interruptions, connection errors, unavailability of, or faults in, the Internet
+access service, or Internet interruptions or for any other matters beyond its control.
+Glovo accepts no liability for any security errors that may arise or for any damage that may be caused to the
+User’s computer system (hardware and software), or to the files or documents stored therein, as a result of:
+The presence of a virus in the User’s computer system or mobile handset used to connect to the Platform’s
+contents and services;
+A malfunction of the browser;
+The use of outdated versions thereof.
+21. Liability for Contents
+Glovo does not control (and is under no obligation to control) how Users use the Platform. It therefore does not
+guarantee that Users use the Platform in accordance with these General Terms of Use or in a diligent and/or
+prudent manner. Glovo does not check (and is under no obligation to check) the identity of Users or the
+truthfulness, current validity, completeness and/or authenticity of the data supplied by them.
+Glovo will not check the products sent or delivered through orders on the Platform. Both the User and the
+Mandatary therefore release Glovo from any liability that might arise from the availability and/or transport of
+products requiring specific permissions or licences, or of products forbidden by any applicable legislation, as
+described (by way of example without limitation) in Clause 15 above. If Glovo becomes aware that the User
+and/or the Mandatary is/are using the Platform to transport prohibited products, Glovo may launch an internal
+investigation to ascertain the facts, take any legal action that may be necessary and/or block the User or
+Mandatary in question until any potential investigation has been completed. The measures available to Glovo
+include providing the authorities with data and information on the Users and Mandataries.
+Glovo rejects any liability for damages of any kind that may arise from Users’ illegal use of the Platform or due to
+the information supplied by Users to other Users about themselves being untrue, no longer valid, incomplete
+and/or false and, in particular and without limitation, for any loss or damage of any kind that may arise due to a
+User impersonating a third party in any kind of communication made through the Platform.  In particular, Glovo
+accepts no responsibility for the use of the Platform or for any orders that may be made by a third party from the
+User’s account.
+Notwithstanding the foregoing, Glovo reserves the right to fully or partly restrict certain Users’ access to the
+Platform, as well as to cancel, suspend, block or remove certain types of content, by means of suitable
+technological tools, if it becomes aware, or there are signs, that the activity or the information stored is illegal or
+harmful to a third party’s rights or property. In this regard, Glovo may establish any filters that may be necessary
+to prevent the service from being used to upload unlawful or harmful content to the Internet. By making content
+available through the Platform, Users assign to Glovo all exploitation rights arising from the contents thus
+supplied.
+22. No Warranty in Assignments or Payments
+Glovo gives no warranties regarding the authenticity, accuracy, novelty, reliability, lawfulness or non-infringement
+of third-party rights by Mandataries. In this regard, Users state that they understand that GLOVO is a technology
+platform whose main activity is intermediation; in other words, it puts Users and Mandataries in contact with each
+other; and that it therefore accepts no liability arising from the information provided by Mandataries or for any loss
+or damage that may potentially be suffered by them due to a breach of these General Terms of Use. When an
+order is placed on the Platform and accepted by the Mandatary, a direct relationship is established between the
+User and the Mandatary. Glovo is not a party to this relationship and merely provides the Platform to enable the
+Parties to communicate and place as many orders as may be necessary. Glovo will therefore never be liable for
+the availability of Mandataries or for their adequate and satisfactory performance of assignments.
+Glovo makes no assertions or confirmation regarding any Mandataries or their identity or background information.
+Notwithstanding the foregoing, Glovo may potentially carry out additional checks and put into motion procedures
+designed to help check or verify the identity of Mandataries. In this regard, when a User achieves Mandatary
+status, this simply indicates that the said User has completed the relevant registration process and has accepted
+these General Terms of Use and any other specific terms that may apply to him/her. Such status implies neither
+certification nor endorsement by Glovo as to such User’s reliability, suitability and/or safety.
+Glovo therefore recommends that Users always use common sense and remain alert when delegating an
+assignment to a particular Mandatary.
+By becoming members of the Platform, Users accept that any claims they wish to bring for legal liability arising
+from actions or omissions of other Users of the Platform or third parties shall be restricted to such Users or third
+parties, and that no actions for liability may be taken against Glovo.
+23. Updates and Changes to the Platform
+Glovo reserves the right to amend these General Terms of Use, the Privacy Policy and the Cookie Policy at any
+time and without prior notice. Users must carefully read these General Terms when accessing the Platform. In
+any event, acceptance of the General Terms is an essential step to be taken before accessing the services and
+contents available through the Glovo Platform.
+In addition, Glovo reserves the right to update, amend or delete the information contained on its Platform, at any
+time and without the need for prior notice, with regard to its layout, presentation and access conditions, without
+thereby accepting any liability in relation thereto. Glovo does not guarantee the absence of errors or interruptions
+when accessing the Platform or its content, or that it will always be up to date. Notwithstanding the foregoing,
+Glovo shall, save in the event of circumstances making this difficult or impossible, take all steps to correct such
+errors, restore communication and update contents as soon as it becomes aware of the errors or disconnection
+or of the contents being out of date.
+24. Intellectual Property
+Glovo is the owner or licensee of all intellectual and industrial property rights included on the Platform as well as
+of the contents that can be accessed through it. The intellectual property rights of the Platform, as well as the
+text, images, graphic design, navigation structure, information and contents included therein, are the property of
+Glovo, who has the exclusive right to exercise the exploitation rights therein in any manner, in particular the rights
+of reproduction, distribution, publication and transformation, in accordance with the Spanish legislation on
+intellectual and industrial property rights.
+In spite of the foregoing, Glovo may not be the owner or licence holder of content such as names or images,
+among others, of companies with which Glovo does not have a business relationship. In such cases, Glovo
+acquires the content from publicly available sources, and Glovo shall in no event be deemed to be related to any
+right belonging to Glovo.
+Authorising a User to access the Platform does not imply the waiver, transfer, licensing or full or partial
+assignment by Glovo of any intellectual or industrial property rights. Deleting, bypassing or in any way tampering
+with the contents of the Glovo Platform are all prohibited. In addition, modifying, copying, reusing, exploiting,
+reproducing, publicising, making second or subsequent publications of, uploading files, sending by post,
+transmitting, using, processing or distributing in any way all or some of the contents included in the Glovo
+Platform for public or commercial purposes are also prohibited, save with Glovo’s express written authorisation
+or, where applicable, that of the owner of the rights concerned.
+Any User who shares any content of any kind through the Platform asserts that he/she has the necessary rights
+to do so, releasing Glovo from any liability regarding the content and lawfulness of the information supplied. By
+providing content through the Platform, Users assign to Glovo, free of charge and to the maximum extent
+permitted by the current legislation, the exploitation rights on the intellectual or industrial property arising from
+such content.
+25. Severability
+If any of the clauses of these General Terms are found to be voidable or void by operation of law, such clause(s)
+shall be deemed not to have been included. Such declaration of nullity will not cause the other clauses to be void,
+and these shall remain valid and effective between the Parties.
+26. Applicable Law
+The relationship between Glovo and the User shall be governed and construed in accordance with the General
+Terms, whose construction, validity and enforcement shall be governed by Spanish law; and any disputes shall
+be submitted to the Courts of Barcelona unless the User requests that they be submitted to the courts applicable
+to his/her home address.
+27. Alternative Dispute Resolution
+Any disputes or disagreements arising outside the European Union shall be submitted to the Spanish Court of
+Arbitration of the Chamber of Commerce.
+ 
+ Specific Terms and Conditions of “GLOVOPRIME”
+These terms and conditions shall apply to those Users who request a GLOVOPRIME subscription. These Terms
+and Conditions do not replace the application’s “General Terms of Use and Contracting”; in any event, they
+supplement them and may be modified and extended by Glovo at any time.
+1. What is GLOVOPRIME?
+GLOVOPRIME is a service provided by the Glovo Platform under which, in exchange for a fixed monthly fee,
+Users of the platform can enjoy unlimited deliveries of all those products ordered by them from delivery people,
+provided that the GLOVOPRIME logo expressly appears on the Platform of the store in which they are offered, at
+no additional cost to the above-mentioned fixed monthly fee.
+GLOVOPRIME will not apply to any stores or services that do not have the GLOVOPRIME logo at the time of
+placing the order. The GLOVOPRIME service may be used provided that the provisions of these Terms and
+Conditions are complied with.
+       2. Registration Process
+In order to register for the GLOVOPRIME service, you must have a current active Glovo account, be of full legal
+age and ask to register for GLOVOPRIME through the “My Account” section of your personal Glovo User profile.
+The GLOVOPRIME service is activated through the following process:
+After accessing the sections entitled “my account” and “GLOVOPRIME”, you must select the “Register and
+pay” section and pay the above monthly fee.
+The payment date will be the GLOVOPRIME subscription start date (hereinafter “the Activation Date”), and
+the subscription will be valid for a one-month period. On the Activation Date, Users who have registered for
+this service will receive an e-mail with confirmation of their registration at the address provided by them in
+their GLOVO account.
+After the Activation Date, you may use the GLOVOPRIME service for 30 calendar days, for a one-month
+period.
+ 
+Users will find all the information relating to their GLOVOPRIME subscription in the “My Account” section
+of the application. Here, they can check the remaining time of their Free Trial Period, where applicable, as
+well as, among other things, cancel their GLOVOPRIME subscription or update their payment method in
+accordance with Clause 10 hereof.
+ 
+        3. Subscription Period
+3.1. The GLOVOPRIME subscription period shall have a duration of one month up to the day immediately before
+the equivalent date on the following month (hereinafter, the “Subscription Period”), starting on the Activation Date
+and renewed every month unless the User cancels the subscription. Thus, if the Activation Date is 10 October,
+the Subscription Period will be renewed on 10 November.
+3.2. By accepting these terms and conditions, Users acknowledge that the GLOVOPRIME subscription will be
+RENEWED  AUTOMATICALLY AND THE APPLICABLE SUBSCRIPTION FEE WILL BE AUTOMATICALLY
+CHARGED to the account designated by them.
+3.3. If you do not want the subscription to be renewed automatically and you therefore wish to cancel the
+GLOVOPRIME service, you may exercise the right of withdrawal at any time, as stipulated in the following
+clause, provided that you inform Glovo at least two business days prior to the renewal date. If you fail to comply
+with this notification requirement, you will have to pay the subscription fee for the following month.
+         4. Right of Withdrawal
+4.1. If you wish to exercise the right of withdrawal during the GLOVOPRIME Subscription Period, you must
+access your account profile and select “unsubscribe”.
+4.2. The account will be deactivated at the end of the Subscription Period. This means that you can continue to
+use your GLOVOPRIME account, after completing the “unsubscribe” process until the day immediately preceding
+the equivalent date of the Activation or Renewal Date on the following month.
+4.3. In order to avoid being charged the fee, you must exercise the right of withdrawal at least two (2) business
+days before the subscription renewal date.
+4.4.  Payments are not refundable, and neither refunds nor credits will be given for unused or partly used
+membership periods during a one-month period. Neither will we grant refunds or credits for partial monthly
+subscription periods.
+4.5. If you have unsubscribed from the service but wish to continue with it, you may re-register to renew your
+GLOVOPRIME subscription in accordance with these terms and conditions.
+          5. Service Fees
+5.1. The GLOVOPRIME fee shall be the amount set forth in the commercial offer or in the “My Account” section,
+unless the User has been granted a free GLOVOPRIME trial period pursuant to Section 10 “Free Trial Period”
+hereof.
+5.2. The GLOVOPRIME fees stated are inclusive of any indirect taxes that may apply.
+5.3. The fee shall be charged automatically on a monthly basis on the Activation Date, to the account designated
+by each User on the Activation Date, for a one-month period.
+5.4. Users may use GLOVOPRIME even in territories in which the product/order is paid for in cash, without this
+affecting the service in any way.
+5.5. Glovo reserves the right to change the fees at any time after informing its subscribers. Once such notification
+has been given, Glovo may charge the new rates.
+         6. Specific Terms of the Service
+The following specific terms shall apply to the GLOVOPRIME service:
+The GLOVOPRIME service shall only apply to purchases carried out in person by means of a delivery
+person / courier, at establishments with which Glovo has a commercial agreement, for amounts of over
+€10.00 for restaurant orders, or over €20.00 for supermarket orders, or their equivalents in the legal
+currency of the country in which the service was activated.
+GLOVOPRIME may only be activated in some of the countries in which GLOVO operates.
+The GLOVOPRIME subscription fee will only apply in the country from which the GLOVOPRIME
+subscription was activated. In other words, if the subscription was activated in Spain and the User is
+travelling in Italy, the GLOVOPRIME subscription fee will apply solely and exclusively in Spain, and not in
+Italy.
+It will only be available for individuals and for private, non-commercial use.
+Under no circumstances may the subscription be shared with, or assigned to, any persons other than its
+holder, and companies and the “B2B” service are expressly excluded from the service.
+         7. General Terms of Service
+7.1. The flat monthly fee covers only the price of collection and delivery, not the price of any products that may be
+ordered by Users.
+7.2. Glovo may amend these terms and conditions of GLOVOPRIME unilaterally and at any time by giving prior
+notice to the subscribers of the GLOVOPRIME service. Such amendments shall apply to those private individuals
+who are active on the Platform as well as, where applicable, to first-time users thereof.
+7.3. GLOVOPRIME subscriptions are for exclusive and non-transferable use by their duly identified Users, and
+their use may under no circumstances be transferred to third parties. 
+7.4. Glovo reserves the right to cancel the accounts of GLOVOPRIME subscribers, as well as to deactivate the
+service, after giving prior notice to its subscribers.
+7.5. It is expressly stated for the record that, with the exception of the special terms and conditions set forth
+herein, the General Terms and Conditions of the Glovo Platform shall always apply in addition to, and in relation
+to any matters not modified by, these special terms and conditions.
+          8. Fraud and Freezing of Accounts
+Should Glovo detect any signs of misuse or inappropriate and/or fraudulent use of the GLOVOPRIME account, it
+may automatically and without prior notice deactivate the subscription, as well as, in addition and at any time, the
+User’s account, reserving the right to take any legal action based on the seriousness of the circumstances under
+consideration. In addition, GLOVO reserves the right to cancel the service and subscriptions at its sole discretion
+by giving prior notice to Users.
+          9. User Assistance Service
+Glovo will make available to all Users an appropriate Contact Form for any incidents relating to the
+GLOVOPRIME service.
+          10. Free Trial Period
+10.1. Glovo may at its discretion provide the GLOVOPRIME service free of charge for as long as it deems
+necessary.
+10.2. At the end of the Free Trial Period, Users will in any case be automatically required to pay the fee and to
+comply with the same terms and conditions as those applicable to all other GLOVOPRIME Users.
+10.3. If the GLOVOPRIME subscription is cancelled, either by accident or for any other reason, before the end of
+the relevant Free Trial Period, the free trial offer shall be deemed to have been completed and a new free trial
+period will not be offered in any event.
+10.4. Glovo reserves the right to randomly choose the Users to whom it offers the Free Trial Period or, where
+applicable, other promotions related to the service.
+           11. Applicable Law
+The relationship between Glovo and each GLOVOPRIME subscriber shall be governed by, and construed in
+accordance with, these Terms and Conditions, whose construction, validity and enforcement shall be governed
+by Spanish law; and any disputes shall be submitted to the Courts of Barcelona unless the User requests the
+involvement of the courts applicable to his/her home address. 
+Specific Terms and Conditions of “PICK-UP” and “IN-STORE” ORDERS
+Users have the option of ordering, through the PICK-UP and/or IN-STORE option(s), a selection of products
+and/or services offered by certain establishments with which Glovo has a commercial agreement in place.
+The PICK-UP and IN-STORE services enable Users to physically collect orders from food establishments
+themselves.
+These services will only be available through those establishments for which this option has been enabled and in
+the countries selected by Glovo. Furthermore, such services will only be available to private individuals, and only
+for their own private use. They may in no event be offered for commercial use.
+Without prejudice to the additional application of the General Terms and Conditions of the Glovo Platform to all
+matters not expressly envisaged in this section, the PICK-UP and IN-STORE services may only be used if the
+specific provisions set forth in this section are fulfilled.
+Glovo shall make the Contact Form that can be found on the Platform available to all Users for any incidents
+relating to the PICK-UP and/or IN-STORE service.
+Glovo may amend these Terms and Conditions for PICK-UP and IN-STORE orders unilaterally at any time by
+giving prior notice to Users of the Glovo Platform. Furthermore, GLOVO may enable further features relating to
+the PICK-UP and/or IN-STORE service, in which case it will inform Users and add the new features to these
+terms and conditions.
+Once the changes have been published, they will apply to all those Users who use the Platform.
+IN-STORE Orders
+Where so enabled for IN-STORE orders in the application, Users may place orders directly from those
+restaurants that have chosen to include this option and pick them up in-store at that moment.
+How does the IN-STORE service work?
+1. To use the IN-STORE service, Users must scan the QR code that will be displayed in a publicly visible
+area of each establishment’s premises.
+2. Once the QR code has been scanned, it will link to the menu of the restaurant where the User is located,
+so that he or she can place the order. The User will be able to select the items from the desired restaurant
+or store and confirm the purchase through the IN-STORE option.
+3. If the QR code cannot be scanned due to any kind of error or defect, the User can check whether the order
+can be placed by searching for the restaurant on their device directly from the Glovo Platform.
+4. Once the order has been confirmed in accordance with the payment method enabled for this purpose, it
+may only be cancelled through the Platform before the restaurant or establishment has agreed to prepare
+it. If a User later wishes to change an order or the restaurant delays in its preparation, he/she must contact
+the managers of the restaurant in question directly.
+5. Once the order has been confirmed, the order number will appear on the screen of the User’s device, and
+this must be shown to the staff of the establishment when collecting it.
+6. The price of orders placed through the IN-STORE option will not include the additional delivery cost.
+7. Promotional codes may not be used for orders placed using the IN-STORE service.
+PICK-UP Orders
+Where so enabled for PICK-UP orders in the application, Users may place orders directly from the Platform at
+those establishments that have chosen to include this option and pick them up in-store within the times stated.
+1. In order to be able to use the PICK-UP service, Users must select this option on the Platform for the
+establishments for which it is available, together with the products that they wish to buy at those
+establishments, and confirm the order on the Platform itself.
+2. Once the order has been confirmed in accordance with the payment method enabled for this purpose, it
+may only be cancelled through the Platform before the restaurant or establishment has accepted and
+started to prepare it. If a User later wishes to change an order or the restaurant delays in its preparation,
+he/she must contact the managers of the restaurant in question directly.
+3. Once the order has been confirmed, the order number will appear on the screen of the User’s device, and
+this must be shown to the staff of the establishment when collecting it.
+4. The price of orders placed through the PICK-UP option will not include the additional delivery cost.
+ 
+TERMS AND CONDITIONS OF THE FOOD RESCUE SERVICE
+These terms and conditions shall apply to those Users who place a FOOD RESCUE order using the Glovo
+application. These Terms and Conditions do not replace the application’s “General Terms of Use and
+Contracting”; in any event, they supplement them and may be modified and extended by Glovo at any time. The
+General Terms and Conditions of Use and Contracting shall apply to everything not expressly provided for in
+these specific Terms and Conditions of the FOOD RESCUE service.
+What is FOOD RESCUE?
+FOOD RESCUE is a service provided on the Glovo Platform under which Users can place orders on the excess
+food and other products of the food establishments appearing on the Glovo Platform.
+Users acknowledge that Glovo has launched this project with the name “FOOD RESCUE” with the main aim of
+reducing food waste. Specifically, the project involves making an option available to Users on the Glovo Platform
+under which they may order from the establishments indicated on the Platform, at reduced prices, food pack(s)
+that could not be sold during the day and whose exact content will not be disclosed to Users at the time of
+ordering (hereinafter, “food pack(s)", “Products” or “Mystery Box”).
+By placing a FOOD RESCUE order, Users accept these Terms and Conditions.
+Service
+Glovo will merely facilitate the conclusion of a contract between the User and the Establishment. It has no
+responsibility whatsoever for the content of the food pack or for the fulfilment of the contract between the
+Establishment and the User.
+The User may order the products of the establishments appearing on the Glovo Platform through the said
+Platform.
+Glovo is not responsible for the fulfilment of the contractual obligations to the User with regard to the Products,
+including the manufacture, sale, purchase, storage, preparation, production, processing, labelling, quality,
+ingredients, allergens or treatment of the Products, or for compliance with the applicable law, unless Glovo is
+expressly mentioned as the manufacturer or seller of the Product on the Platform.
+Users will be able to find on the Platform, at reduced prices, food pack(s) that could not be sold during the day
+and whose exact content will not be disclosed to Users at the time of ordering.  Responsibility for providing
+information on the Products and ensuring that such information is objectively accurate and up to date shall lie
+with the Establishments. Glovo accepts no liability for the information provided by the Establishments or,
+therefore, for the content of the Products or the availability of the information relating thereto.
+Glovo accepts no liability for any adverse reactions that may be suffered by Users as a result of the Products for
+any reason whatsoever, including their consumption against the indications on the label or the information
+provided directly by the Establishment. The Establishment is the party that manufactures, sells, stores, prepares,
+produces, processes, labels, packages and treats the Products, and Glovo therefore accepts no liability for any
+damage or adverse reaction that may be caused by such products.
+Order Collection
+Users may choose between two options when making a FOOD RESCUE order:
+Collection from the establishment. In such cases, Users must physically collect their FOOD RESCUE order from
+the Establishment indicated on the Glovo Platform. This enables Users to physically collect orders from food
+establishments themselves.
+Home delivery. In such cases, Users will receive their order, which will be collected by a Mandatary from the
+specified Establishment, at the delivery address provided by the Users on the Glovo Platform.
+ 
+ 
+ ANNEX I - DETAILS OF GLOVO’S AFFILIATED COMPANIES
+ITALY
+Company name
+Foodinho, S.R.L.
+Tax Identification Number (NIF) or other tax
+number
+09080990964
+Registered address
+Piazza Città di Lombardia n. 1, 20124,
+Milano, Italy
+ 
+PORTUGAL
+Company name
+Glovo Portugal Unipessoal LDA
+Tax Identification
+Number (NIF) or other
+tax number
+61010-R3
+Registered address
+Rua Sousa Martins, nº 15, 5º andar, 1050-217,
+freguesia de Arroios, Lisboa / Portugal
+ 
+*Se o Utilizador quiser efectuar uma reclamação online
+poderá acessar o link
+(https://www.livroreclamacoes.pt/inicio) ou entrar em
+contacto diretamente no Chat do App
+ 
+ROMANIA
+Company name
+GlovoappRo, S.R.L.
+Tax Identification Number (NIF) or other tax
+number
+39053728
+Registered address
+41C Drum intre Tarlale street, 2nd floor,
+room 64, district 3, Bucharest
+ 
+MOROCCO
+Company name
+Glovoapp Morocco sarl
+Tax Identification Number (NIF) or other tax
+number
+26046117
+Registered address
+Rue Soumaya Résidence Shehrazade 3,
+5ème étage, n° 22 Palmiers 20340 -
+Casablanca.
+ 
+GEORGIA
+Company name
+Glovoapp Georgia Llc
+Tax Identification Number (NIF) or other tax
+number
+402099475
+Registered address
+129a Aghmashenebeli Ave, Tbilisi 0102,
+Georgia
+ 
+ 
+UKRAINE
+Company name
+Glovoapp Ukraine LLC
+Tax Identification Number (NIF) or other tax
+number
+42555522
+Registered address
+44 street Bogdan Khmelnitskyi,
+Shevchenkivskyi district, Kyiv, 01030
+ 
+CROATIA
+Company name
+GlovoApp Technology d.o.o.
+Tax Identification Number
+48879371584
+Registered address
+Ulica Baruna Trenka, 10 000, Zagreb,
+Croatia
+ 
+KAZAKHSTAN
+Company name
+Glovoapp Kazhastan LLP
+Tax Identification Number (NIF) or other tax
+number
+1-90640018883
+Registered address
+ 
+Contact
+139 Luganskogo street, room 303
+050051/A05B8C7, Almaty, Medeu District.
+liveops.comms@glovoapp.com
+87272643068
+ 
+SERBIA
+Company name
+GlovoApp Technology d.o.o. Beograd
+Tax Identification Number (NIF) or other tax
+number
+111507569
+Registered address
+Ruzveltova 48, 11000 Beograd, Srbija, ulaz
+iz Stjepana Ljubiše
+ 
+KYRGYZSTAN
+Company name
+“GLOVO KG” LLC
+Tax Identification Number (NIF) or other tax
+number
+02109202010145
+Registered address
+Erkindik 64B, office 18, Bishkek, Kyrgyzstan
+ 
+UGANDA
+Company name
+Glovo Uganda Limited
+Tax Identification Number (NIF) or other tax
+number
+1017265563
+Registered address
+26 Kyadondo Road, Nakasero, Kampala P
+O Box 1520
+ 
+MOLDOVA
+Company name
+ GlovoAppMOL SRL
+Tax Identification Number (NIF) or other tax
+number
+1020600034411
+Registered address
+Vlaicu Pircalab St 77- Chișinău 2012,
+Moldova
+ 
+COTE D’IVOIRE
+Company name
+Glovoapp Cote D´ivoire sarl
+Tax Identification Number (NIF) or other tax
+number
+53703324719
+Registered address
+Cocody Ambassades - Rue Viviane, 08 BP
+2815 Abidjan 08, Côte d’Ivoire
+ 
+KENYA
+Company name
+Glovapp Kenya, Llc
+Tax Identification Number (NIF) or other tax
+number
+P051739866F
+Registered address
+The Mirage, Tower 3, 1st Floor, Suite 1,
+Nairobi
+ 
+POLAND
+Company name
+Partner Polska Sp. z o.o. spółka z
+ograniczoną odpo-wiedzialnością
+Tax Identification Number (NIF) or other tax
+number
+7252012779
+Registered address
+Piotrkowska 276, 90-361 Łódź, Poland
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANNEX II - AVERAGE COST OF CANCELLATION BY COUNTRY (IN LOCAL
+CURRENCY)
+ 
+Ivory Coast
+1000
+Spain
+3.59
+Georgia
+30
+Croatia
+8.90
+Italy
+3.56
+Kenya
+1.5
+Kyrgyzstan
+90
+Kazakhstan
+2087.83
+Morocco
+51.53
+Moldova
+15
+Poland
+504.68
+Portugal
+3.60
+Romania
+5
+Serbia
+150
+Ukraine
+300
+Uganda
+10,000

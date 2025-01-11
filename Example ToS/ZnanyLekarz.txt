@@ -1,0 +1,734 @@
+Regulamin
+Regulamin świadczenia usług drogą elektroniczną przez ZnanyLekarz.pl
+Regulamin stosowany od dnia 23.09.2019 r.
+Więcej informacji na temat Serwisu znajdziesz tutaj: https://znanylekarz.zendesk.com/hc/pl
+§1. Postanowienia ogólne
+1. Definicje:
+a. Usługodawca lub ZnanyLekarz – ZnanyLekarz Sp. z o.o. z siedzibą w Warszawie (01-217) przy ul. Kolejowej 5/7, wpisana do
+Rejestru Przedsiębiorców Krajowego Rejestru Sądowego prowadzonego przez Sąd Rejonowy dla m. st. Warszawy XII Wydział
+Gospodarczy KRS, pod numerem KRS 0000347997, NIP 7010224868, REGON 142276657
+b. Serwis – serwis internetowy prowadzony przez Usługodawcę pod adresem: https://www.znanylekarz.pl.
+c. Regulamin – niniejszy regulamin świadczenia usług drogą elektroniczną przez Usługodawcę.
+d. Użytkownik – osoba fizyczna, posiadająca pełną zdolność do czynności prawnych, która (i) dokonała Rejestracji w Serwisie, lub
+(ii) dokonała rejestracji w Serwisie z wykorzystaniem serwisu Facebook, lub (iii) dokonała rezerwacji terminu u Profesjonalisty
+za pomocą Kalendarza Wizyt, lub (iv) skorzystała z funkcjonalności zadawania pytań Profesjonalistom.
+e. Profesjonalista – korzystający z serwisu, będący lekarzem, lekarzem dentystą, psychologiem, rehabilitantem, położną,
+dietetykiem, terapeutą, a także weterynarzem lub inną osobą niewymienioną powyżej wykonującą czynności w zakresie
+świadczeń zdrowotnych, świadczącą usługi zdrowotne, medyczne lub paramedyczne.
+f. Placówka – miejsce wykonywania czynności w zakresie świadczeń zdrowotnych, usług zdrowotnych, medycznych lub
+paramedycznych.
+g. Właściciel – korzystający z serwisu, który jest osobą upoważnioną do zarządzania informacjami o Placówce. Uprawnienia te są
+weryfikowane przez Usługodawcę.
+h. Profil – zbiór informacji na temat Profesjonalisty umieszczony w Serwisie w postaci podstrony Serwisu posiadającej unikalny
+adres URL.
+i. Rejestracja – proces utworzenia Konta.
+j. Konto – wpis w bazie danych Serwisu, dotyczący Użytkowników lub Profesjonalistów, z którego wynika możliwość dostępu do
+określonych Usług.
+k. Usługa – usługa świadczona drogą elektroniczną polegająca na wysyłaniu i odbieraniu danych za pomocą publicznych
+systemów teleinformatycznych na indywidualne żądanie usługobiorcy – Użytkownika, bez jednoczesnej fizycznej obecności
+stron.
+l. Kalendarz Wizyt – program komputerowy będący narzędziem do zarządzania grafikiem pracy Profesjonalisty, umożliwiający
+Użytkownikowi dokonanie rezerwacji terminu u Profesjonalisty przez Internet oraz samodzielne dodawanie terminów
+dostępnych do zarezerwowania przez Profesjonalistę.
+2. Usługodawca świadczy Usługi na podstawie niniejszego Regulaminu.
+§2. Rodzaje i zakres Usług
+1. Usługodawca świadczy między innymi następujące Usługi:
+a. umożliwia Użytkownikom publikowanie informacji i opinii o Profesjonalistach skatalogowanych według województw, miast i
+kategorii;
+b. udostępnia wyszukiwarkę Profesjonalistów i Placówek;
+c. powiadamia o nowych informacjach i opiniach;
+d. umożliwia Użytkownikom zadawanie pytań zweryfikowanym Profesjonalistom;
+e. umożliwia zweryfikowanym Profesjonalistom podawanie i korygowanie informacji o sobie, odnoszenie się do opinii
+Użytkowników oraz odpowiadanie na zadane pytania;
+f. umożliwia rezerwację terminu u Profesjonalistów i w Placówkach, które udostępniły taką możliwość.
+2. ZnanyLekarz świadczy usługi polegające na informowaniu Użytkowników
+Internetu o praktyce zawodowej Profesjonalistów poprzez
+umieszczanie
+informacji o takiej praktyce w Internecie. Na życzenie Profesjonalistów
+ZnanyLekarz umieszcza również informacje o
+praktyce zawodowej
+Profesjonalistów na mapach internetowych oraz tworzy konta dla Profesjonalistów do zarządzania informacjami
+umieszczonymi na mapach. Na mapach internetowych umieszczony zostanie odnośnik (link) do Profilu Profesjonalisty w
+Serwisie.
+3. W celu świadczenia usług, o których mowa w ust. 2 ZnanyLekarz może
+nawiązywać z podmiotami trzecimi stosunki umowne, które są
+niezbędne dla
+świadczenia tych usług. W szczególności Usługodawca może zawierać umowy,
+których celem będzie:
+a. zapewnienie wysokiej pozycji w wynikach wyszukiwania wyszukiwarek
+internetowych,
+b. oznaczenie miejsca wykonywania praktyki zawodowej Profesjonalistów na
+mapach internetowych.
+4. Informacje i opinie o Profesjonalistach i Placówkach publikowane są w formie rankingów, w których miejsce na liście zależy m.in. od
+otrzymanych opinii.
+5. Pozycja Profesjonalisty w wynikach wyszukiwania w Serwisie może zależeć w szczególności od takich czynników jak dostępność
+terminów w Kalendarzu Wizyt, poziom lub jakości uzupełnienia Profilu oraz zawarta z Usługodawcą odpłatna umowa.
+6. Dostęp do większości usług Serwisu jest bezpłatny, w szczególności nie są pobierane opłaty za rejestrację oraz publikowanie
+podstawowych informacji o Profesjonalistach i Placówkach. Usługodawca nie pobiera opłat za opinie i komentarze zamieszczane w
+Serwisie.
+7. Usługodawca zastrzega sobie prawo do wprowadzenia opłat od dowolnych usług świadczonych w ramach Serwisu i jednocześnie
+zobowiązuje się poinformować o zmianach z odpowiednim wyprzedzeniem.
+§3. Warunki świadczenia usług
+1. W celu korzystania z Usług należy spełnić poniższe warunki techniczne:
+a. posiadać dostęp do sieci Internet,
+b. posiadać przeglądarkę internetową (jedną z następujących): Firefox, Chrome, Safari, IE, Opera, zaktualizowaną do najnowszej
+wersji.
+2. Każdy korzystający z Internetu może zapoznawać się z informacjami i opiniami o Profesjonalistach oraz korzystać z wyszukiwarki.
+3. Każdy Użytkownik może zarezerwować termin u Profesjonalisty za pomocą Kalendarza Wizyt, pod warunkiem zweryfikowania numeru
+telefonu komórkowego oraz adresu e-mail. W niektórych przypadkach rezerwacja terminu u Profesjonalisty może wymagać podania nr
+PESEL. Podanie nr PESEL jest uzasadnione koniecznością identyfikacji Użytkownika przez Profesjonalistę lub Placówkę.
+4. Zarezerwowanie wizyty u Profesjonalisty jest możliwe wyłącznie w przypadku wyrażenia przez Użytkownika wyraźnej zgody na
+przetwarzanie przez Usługodawcę danych osobowych Użytkownika o stanie zdrowia (art. 9 ust. 2 lit. a Rozporządzenia 679/2016, tzw.
+RODO) oraz udostępnienia tych danych wybranemu Profesjonaliście. Usługodawca informuje, że brak wyrażenia zgody na
+przetwarzanie danych osobowych Użytkownika o stanie zdrowia uniemożliwi zarezerwowanie wizyty. W trakcie umawiania
+wizyty
+przez Serwis Użytkownik
+może zdecydować się na wypełnienie ankiety dotyczącej jego stanu zdrowia.
+Wyniki tej ankiety zostaną
+przekazane do wybranego przez Użytkownika
+Profesjonalisty, u którego Użytkownik umawia wizytę. Przekazanie takich danych ma
+pomóc Profesjonaliście w przygotowaniu się do wizyty.
+5. Użytkownik może również:
+a. wystawiać opinie o Profesjonalistach;
+b. dodawać i poprawiać informacje o Placówkach;
+c. zadawać pytania zweryfikowanym Profesjonalistom;
+d. zgłaszać nadużycia.
+6. Zadanie pytania zweryfikowanemu Profesjonaliście jest możliwe wyłącznie w przypadku wyrażenia przez Użytkownika wyraźnej zgody
+na przetwarzanie przez Usługodawcę danych osobowych Użytkownika o stanie zdrowia (art. 9 ust. 2 lit. a Rozporządzenia 679/2016,
+tzw. RODO) oraz udostępnienia tych danych wybranemu Profesjonaliście. Usługodawca informuje, że brak wyrażenia zgody na
+przetwarzanie danych osobowych Użytkownika o stanie zdrowia uniemożliwi zadanie pytania.
+7. Usługodawca zastrzega sobie prawo do czasowego zawieszenia świadczenia Usług w związku z modernizacją lub przebudową
+Serwisu albo z pracami konserwatorskimi systemu teleinformatycznego. Usługodawca dołoży starań, aby przerwy w świadczeniu
+Usług nie były uciążliwe dla Użytkowników.
+8. Usługodawca nie odpowiada za przerwy w świadczeniu Usług wynikające z przyczyn od niego niezależnych, w szczególności
+stanowiących siłę wyższą (pożary, powodzie, klęski żywiołowe lub meteorologiczne itp.).
+9. Usługodawca nie ponosi odpowiedzialności względem Profesjonalisty lub Placówki za fakt niestawienia się przez Użytkownika w
+umówionym terminie, zarezerwowanym za pośrednictwem Kalendarza Wizyt. Usługodawca nie odpowiada wobec Użytkownika za
+brak możliwości zrealizowania zarezerwowanego za pomocą Kalendarza Wizyt terminu z przyczyn leżących po stronie Profesjonalisty
+lub Placówki. W przypadku konieczności odwołania wizyty zainteresowane strony obowiązane są odwołać rezerwację
+za
+pośrednictwem Serwisu.
+10. Profesjonalista ma możliwość zablokowania wybranym przez siebie Użytkownikom rezerwacji terminów wizyt za pomocą Kalendarza
+Wizyt. Usługodawca nie odpowiada za niedogodności jakie mogą wystąpić w związku z tym dla Użytkowników.
+§4. Dodawanie opinii i informacji o Profesjonalistach i Placówkach; zadawanie pytań Profesjonalistom
+1. Opinie opatrywane są podpisem (nickiem) Użytkownika.
+2. Opinie i informacje o Profesjonalistach mogą dotyczyć wyłącznie działalności zawodowej Profesjonalisty.
+3. Opinie i informacje o Profesjonalistach mogą opierać się jedynie na osobistych doświadczeniach Użytkownika dotyczących danego
+Profesjonalisty (doświadczenia na linii Lekarz-Pacjent) i muszą one dotyczyć konsultacji medycznej lub wizyty, która miała miejsce.
+Nie jest dopuszczalne umieszczanie opinii wspólnych przez kilka osób, opinii dotyczących szeroko rozumianych spraw odnoszących
+się do kompetencji ZUS, w tym dotyczących orzekania o statusie osoby niepełnosprawnej oraz
+związanych z
+działalnością
+Profesjonalistów jako biegłych sądowych lub prokuratorskich. Opinie i informacje nie mogą opierać się na relacjach osób trzecich, w
+tym małżonków, członków rodziny itp. Wyjątek stanowi opisywanie leczenia dzieci, osób w podeszłym wieku, osób niezdolnych do
+samodzielnego wystawienia opinii oraz leczenia zwierząt.
+4. Jeden Użytkownik może zamieścić tylko jedną opinię na Profilu jednego Profesjonalisty. Opinia może dotyczyć kilku zdarzeń
+medycznych (wizyt, badań, zabiegów). Wielokrotne umieszczanie opinii przez tego samego Użytkownika jest zakazane, a system
+Usługodawcy blokuje możliwość dodawania kolejnych opinii. Użytkownik może jednak edytować poprzednio umieszczoną opinię.
+5. Niedozwolone jest zamieszczanie w opiniach treści reklamowych, marketingowych lub odnoszących się do tzw. lokowania produktu.
+Niedozwolone jest również umieszczanie w opiniach linków do stron internetowych.
+6. Niedozwolone jest umieszczanie opinii przez Profesjonalistów na własnych Profilach oraz jakiekolwiek próby manipulacji opiniami,
+informacjami i ocenami.
+7. Niedozwolone jest umieszczanie opinii i komentarzy, które nie są zgodne z prawdą.
+8. Informacje, opinie i komentarze nie mogą naruszać prawa, dóbr osobistych, ani zasad współżycia społecznego. W szczególności
+niedozwolone jest używanie w opiniach wyrażeń wulgarnych, niecenzuralnych i obraźliwych, stosowanie przezwisk, odnoszenie się do
+sfery prywatnej i rodzinnej, oskarżanie o popełnienie przestępstwa, wzywanie do stosowania przemocy lub do nienawiści rasowej,
+wyznaniowej, etnicznej itp. Niedozwolone jest również dodawanie opinii, które mogą zostać uznane za
+pomówienie lub które
+kwestionują treści umieszczone przez Profesjonalistę w Serwisie lub kwestionują kwalifikacje zawodowe Profesjonalisty.
+9. Osoby zatrudnione lub współpracujące z tą samą Placówką nie mogą nawzajem dodawać opinii o innych osobach zatrudnionych lub
+współpracujących z tą Placówką. Profesjonaliści o tej samej specjalizacji nie mogą wzajemnie dodawać o sobie opinii.
+10. Użytkownik zamieszczając opinię w Serwisie oświadcza, że wystawiona przez niego opinia lub komentarz jest prawdziwy i zgodny z
+rzeczywistym stanem rzeczy.
+11. Usługodawca ma prawo odmówić opublikowania opinii, komentarzy i informacji, a już opublikowane opinie, komentarze i informacje
+usunąć, jeżeli są sprzeczne z niniejszym Regulaminem lub przepisami prawa. W przypadku usunięcia opinii, komentarzy lub informacji
+Użytkownikowi w stosunku do Usługodawcy nie przysługuje jakiekolwiek roszczenie.
+12. Usługodawca nie ponosi odpowiedzialności za treść informacji, opinii i komentarzy przekazywanych przez Użytkowników lub
+Profesjonalistów.
+13. Usługodawca ma prawo wymagać od Użytkownika zamieszczającego opinię dodatkowej weryfikacji np. za pomocą konta w serwisie
+Facebook.
+14. Powyższe zasady stosuje się odpowiednio do pytań zadawanych zweryfikowanym Profesjonalistom.
+15. Zadając pytania Profesjonaliście, Użytkownik udziela Usługodawcy niewyłącznej, nieograniczonej w czasie, nieodpłatnej licencji na
+korzystanie z treści pytania lub jej części na terytorium całego świata, na polach eksploatacji takich jak: zwielokrotnianie techniką
+analogową i cyfrową, wprowadzanie do pamięci komputera, wprowadzanie do sieci komputerowej lub multimedialnej, wprowadzanie
+do obrotu, najem, dzierżawa, publiczne udostępnianie w miejscu i czasie wybranym przez
+Usługodawcę,
+wyświetlanie, nadawanie,
+reemitowanie, odtwarzanie, umieszczanie pytania w bazach danych, wykorzystania pytania w celu promocji Usługodawcy i
+publicznego prezentowania pytania w Serwisie. Usunięcie Konta przez Użytkownika nie ma wpływu na obowiązywanie powyższej
+licencji.
+16. Zadając Profesjonaliście pytanie prywatne, Użytkownik zezwala Usługodawcy na zanonimizowanie i moderację pytania oraz na jego
+umieszczenie i publiczne prezentowanie w Serwisie. Ust. 15 stosuje się.
+§5. Profile Profesjonalistów, zweryfikowane Profile
+1. Utworzenie Profilu nowego Profesjonalisty wymaga podania co najmniej podstawowych informacji o nim.
+2. Podstawowe informacje o Profesjonaliście obejmują: tytuł zawodowy, imię i nazwisko, województwo, miejscowość wykonywania
+czynności w zakresie świadczeń zdrowotnych lub innych wskazanych w §1 pkt. 1 lit. e i kategorię Profesjonalisty, a także dane
+adresowe i kontaktowe miejsca przyjmowania pacjentów. Usługodawca zastrzega sobie wyłączne prawo do wprowadzania i
+edytowania informacji w zakresie numeru telefonu oraz innych danych kontaktowych Profesjonalisty. Samodzielnie
+zamieszczanie
+tego typu informacji na Profilach może skutkować usunięciem tych informacji oraz blokadą pola, na którym taką informację
+zamieszczono. Dostęp do zablokowanego pola Profilu odbywa się wówczas za pośrednictwem Usługodawcy.
+3. Jeden Profesjonalista może mieć wyłącznie jeden Profil. Niedozwolone jest utworzenie Profilu wspólnego dla kilku Profesjonalistów.
+Profile powtarzające się będą usuwane.
+4. W polach Profilu oznaczonych odpowiednim komentarzem nie można umieszczać innych informacji niż wynikające z tego
+komentarza. Dla uniknięcia wątpliwości w polu oznaczonym komentarzem “imię i nazwisko” można wpisać wyłącznie imię i nazwisko
+danego Profesjonalisty. Zasada ta stosuje się odpowiednio do innych pól.
+5. Każdy Profesjonalista może utworzyć swój Profil lub potwierdzić informacje zawarte na Profilu utworzonym uprzednio w Serwisie. W
+tym celu niezbędne jest dokonanie rejestracji w Serwisie.
+6. Profil utworzony lub potwierdzony przez Profesjonalistę oznaczony jest, jako „Profil zweryfikowany”.
+7. Na Profilu zweryfikowanym Profesjonalista otrzymuje dodatkowe uprawnienia, a w szczególności może:
+a. edytować informacje o sobie;
+b. dodać swoje zdjęcie;
+c. odpowiadać na opinie wystawione przez Użytkowników w formie komentarzy;
+d. odpowiadać na zadane przez Użytkowników pytania;
+e. przeglądać statystyki Profilu,
+f. kontaktować się z Użytkownikami.
+8. Profesjonalista może zamieszczać jedynie swoje zdjęcie, umożliwiające jego rozpoznanie. Zamieszczając zdjęcie w Serwisie,
+Profesjonalista wyraża zgodę na rozpowszechnianie i publiczne udostępnianie swojego wizerunku. Usunięcie Konta nie ma wpływu na
+powyższą zgodę. Zabrania się zamieszczania zdjęć innych osób, a także wszelkiego rodzaju utworów graficznych (np. logotypów).
+Zezwala się, ze względu na cechy formatu cyfrowego, na retusz fotografii, pod warunkiem, że będzie on
+polegał na
+zastosowaniu
+korekty globalnej, która polepsza jakość (np. nasycenie, kontrast). Nie zezwala się natomiast na stosowanie zabiegów selektywnych w
+celu dodawania lub odejmowania elementów, łączenia kilku fotografii lub zmiany jej oryginalnej kompozycji. Zabronione jest również
+zamieszczanie zdjęć o zabarwieniu pornograficznym lub nielicujących z profesjonalnym charakterem Serwisu.
+9. Zdjęcie niespełniające powyższych kryteriów może zostać usunięte przez Usługodawcę bez ostrzeżenia i konieczności
+powiadomienia Profesjonalisty.
+10. Zamieszczając zdjęcie w Serwisie, Profesjonalista udziela Usługodawcy niewyłącznej, nieograniczonej w czasie, nieodpłatnej licencji
+na korzystanie ze zdjęcia na terytorium całego świata, na polach eksploatacji takich jak: zwielokrotnianie techniką analogową i
+cyfrową, wprowadzanie do pamięci komputera, wprowadzanie do sieci komputerowej lub multimedialnej, wprowadzanie do obrotu,
+najem, dzierżawa, publiczne udostępnianie w miejscu i czasie wybranym przez Usługodawcę,
+wyświetlanie,
+nadawanie, reemitowanie,
+odtwarzanie, umieszczanie zdjęcia w bazach danych, wykorzystania zdjęcia w celu promocji Usługodawcy i prezentacji zdjęcia w
+Serwisie. Usunięcie Konta przez Profesjonalistę nie ma wpływu na obowiązywanie powyższej licencji.
+11. Usługodawca ma prawo odmówić opublikowania informacji na temat Profesjonalisty, w tym zdjęcia, a opublikowane usunąć, jeżeli
+zostanie stwierdzona ich nieprawdziwość.
+12. Zamieszczając w Serwisie odpowiedź na pytanie, Profesjonalista udziela Usługodawcy niewyłącznej, nieograniczonej w czasie,
+nieodpłatnej licencji na korzystanie z treści pytaniaodpowiedzi lub jegojej części na terytorium całego świata, na polach eksploatacji
+takich jak: zwielokrotnianie techniką analogową i cyfrową, wprowadzanie do pamięci komputera, wprowadzanie do sieci
+komputerowej lub multimedialnej, wprowadzanie do obrotu, najem, dzierżawa, publiczne udostępnianie w
+miejscu i
+czasie wybranym
+przez Usługodawcę, wyświetlanie, nadawanie, reemitowanie, odtwarzanie, umieszczanie odpowiedzi w bazach danych, wykorzystania
+odpowiedzi w celu promocji Usługodawcy i prezentacji odpowiedzi w Serwisie. Usunięcie Konta przez Profesjonalistę nie ma wpływu
+na obowiązywanie powyższej licencji.
+13. Odpowiadając na pytanie prywatne, Profesjonalista zezwala Usługodawcy na zanonimizowanie i moderację odpowiedzi oraz na jej
+umieszczenie i publiczne prezentowanie w Serwisie. Ust. 12 stosuje się.
+§6. Profile Placówek, zweryfikowane Profile
+1. Utworzenie Profilu nowej Placówki wymaga podania co najmniej podstawowych informacji o niej.
+2. Podstawowe informacje o Placówce obejmują: nazwę placówki medycznej, kategorię, województwo, miejscowość, a także dane
+adresowe i kontaktowe. Usługodawca zastrzega sobie wyłączne prawo do wprowadzania i edytowania informacji w zakresie numeru
+telefonu oraz innych danych kontaktowych Placówki.
+3. Każda Placówka może posiadać tylko jeden Profil. Niedozwolone jest utworzenie Profilu wspólnego dla kilku Placówek. Profile
+powtarzające się będą usuwane.
+4. Profil Placówki może dotyczyć tylko jednej fizycznej lokalizacji Placówki. Jeżeli Placówka ma kilka fizycznych lokalizacji, to każda z
+tych lokalizacji powinna zostać objęta osobnym Profilem.
+5. Właściciel może utworzyć Profil Placówki lub potwierdzić informacje zawarte na już istniejącym Profilu Placówki. W tym celu
+niezbędne jest dokonanie rejestracji w Serwisie.
+6. Profil utworzony lub potwierdzony przez Właściciela oznaczony jest, jako „Profil zweryfikowany”.
+7. Na Profilu zweryfikowanym Placówki Właściciel otrzymuje dodatkowe uprawnienia, a w szczególności może:
+a. edytować informacje o Placówce;
+b. dodać logotyp Placówki;
+c. przeglądać statystyki Profilu.
+8. Właściciel może zamieszczać w ramach Profilu Placówki jedynie logotyp Placówki. Właściciel wyraża zgodę na rozpowszechnianie i
+publiczne udostępnianie tego logotypu zamieszczonego przez siebie w Serwisie. W przypadku, gdy na logotyp Placówki udzielono
+prawa ochronnego na znak towarowy, Właściciel wyraża zgodę na korzystanie z tego logotypu w zakresie niezbędnym do świadczenia
+Usług przez Usługodawcę.
+9. Zabronione jest zamieszczanie logotypów nielicujących z charakterem Serwisu. Logotypy niespełniające powyższego kryterium mogą
+zostać usunięte przez Usługodawcę bez ostrzeżenia i konieczności powiadomienia Właściciela o tym fakcie.
+10. Usługodawca ma prawo odmówić opublikowania informacji na temat Placówki, a opublikowane informacje usunąć, jeżeli zostanie
+stwierdzona ich nieprawdziwość.
+§7. Warunki zawierania i rozwiązywania umów o świadczenie Usług. Rejestracja i logowanie.
+1. Zawarcie umowy o świadczenie Usług następuje poprzez (i) rejestrację w Serwisie, lub (ii) rejestrację w Serwisie za pomocą serwisu
+Facebook, lub (iii) zarezerwowanie terminu u Profesjonalisty za pomocą Kalendarza Wizyt, lub (iv) zadanie pytania zweryfikowanemu
+Profesjonaliście.
+2. Zawarcie umowy o świadczenie Usług wiąże się z wyrażeniem zgody na wszystkie warunki niniejszego Regulaminu bez konieczności
+składania w tym celu dodatkowych oświadczeń. Użytkownik zobowiązuje się do przestrzegania Regulaminu.
+3. Zawierając umowę o świadczenie Usług Użytkownik, Profesjonalista lub Właściciel: potwierdza autentyczność podanych przez siebie
+danych.
+4. Zawierając umowę o świadczenie Usług Użytkownik, Profesjonalista lub Właściciel przyjmuje do wiadomości, że jego dane osobowe
+będą publicznie prezentowane w Internecie.
+5. Umowa o świadczenie Usług zostaje zawarta na czas nieokreślony.
+6. W celu Rejestracji Użytkownik lub Profesjonalista wypełnia formularz zamieszczony na stronie https://www.znanylekarz.pl/rejestracja.
+Rejestracja jest również możliwa w procesie rezerwacji terminu u Profesjonalisty za pomocą Kalendarza Wizyt.
+7. Rejestracja i logowanie odbywa się za pomocą funkcjonalności udostępnionych przez Usługodawcę.
+8. W przypadku cofnięcia zgody na którykolwiek z warunków Regulaminu Użytkownik zobowiązany jest do natychmiastowego usunięcia
+swojego Konta lub zawiadomienia Usługodawcy o cofnięciu zgody.
+9. Użytkownikowi będącemu konsumentem w rozumieniu właściwych przepisów, przysługuje prawo do odstąpienia od umowy, w
+terminie 14 dni od dnia jej zawarcia, bez podania przyczyny. Odstąpienie od umowy następuje przez złożenie oświadczenia o
+odstąpieniu od umowy. Oświadczenie o odstąpieniu należy przesłać drogą elektroniczną na adreskontakt@znanylekarz.pl. Do
+zachowania terminu do odstąpienia od umowy wystarczy wysłanie oświadczenia
+przed jego
+upływem
+10. Usługodawca zapewnia Użytkownikom i Profesjonalistom dostęp do własnych danych osobowych oraz umożliwia ich poprawianie i
+uzupełnianie.
+11. Utworzenie nowego Profilu lub przejęcie przez Profesjonalistę istniejącego Profilu wymaga wypełnienia formularza. Profesjonalista
+może zostać poproszony o weryfikację posiadanych uprawnień do wykonywania zawodu lub posiadanych kwalifikacji zawodowych.
+Szczegółowe wymagania w zakresie dostępne są tutaj. Przesyłane przez Profesjonalistę informacje służą wyłącznie potwierdzeniu
+jego prawa do wykonywania zawodu. Brak przekazania powyższych informacji skutkuje brakiem możliwości utworzenia lub przejęcia
+Profilu.
+12. Użytkownik będący Właścicielem potwierdza swoje uprawnienia do administrowania Profilem Placówki. W takim przypadku
+Usługodawca rejestruje Użytkownika jako Właściciela.
+13. W przypadku pojawienia się uzasadnionych wątpliwości co do autentyczności wprowadzonych przez Użytkownika danych,
+Usługodawca może zażądać przedstawienia stosownych dokumentów potwierdzających te dane.
+14. Niedopuszczalne jest posiadanie przez jednego Użytkownika więcej niż jednego Konta.
+15. Zabrania się udostępniania swojego Konta osobom trzecim.
+16. Zabrania się korzystania z Kont należących do osób trzecich.
+17. Użytkownik może rozwiązać umowę o świadczenie Usług poprzez skasowanie swojego Konta.
+18. Profesjonalista może rozwiązać umowę o świadczenie Usług poprzez skasowanie swojego Konta
+19. Profesjonalista może rozwiązać umowę o świadczenie Usług poprzez skasowanie swojego Konta, z tym że okres wypowiedzenia
+umowy wynosi 1 rok ze skutkiem na koniec roku kalendarzowego.
+20. Usługodawca zastrzega sobie prawo do rozwiązania umowy o świadczenie Usług poprzez skasowanie Konta, jeżeli działanie
+Użytkownika lub Profesjonalisty jest niezgodne z prawem, Regulaminem lub godzi w wizerunek Serwisu. Wypowiedzenie ma skutek
+natychmiastowyUst. 19 stosuje się.
+§8. Odpowiedzialność
+1. Użytkownik i Profesjonalista są odpowiedzialni za bezpieczeństwo i zachowanie poufności swojego hasła do Profilu lub Konta.
+Usługodawca nie ponosi odpowiedzialności za nieuprawniony dostęp do Profilu lub Konta na skutek uzyskania dostępu do hasła przez
+osoby trzecie. W przypadku podejrzenia możliwości ujawnienia hasła osobom trzecim, Użytkownik i Profesjonalista zobowiązuje się
+niezwłocznie zmienić hasło lub skontaktować się w tym celu z Usługodawcą.
+2. Usługodawca nie ponosi odpowiedzialności za treść i formę materiałów i informacji umieszczonych w Serwisie przez Użytkownika,
+Placówkę lub Profesjonalistę. Usługodawca nie odpowiada za roszczenia Użytkowników, Placówek Profesjonalistów oraz osób
+trzecich, których prawa i uzasadnione interesy zostały naruszone poprzez te materiały. Użytkownik przyjmuje do wiadomości i zgadza
+się, że Usługodawca nie jest zobowiązany do sprawdzenia lub weryfikacji materiałów lub informacji
+zamieszczanych przez
+Użytkowników.
+3. Użytkownik, Placówka lub Profesjonalista ponoszą pełną odpowiedzialność za złamanie prawa bądź szkodę wywołaną ich działaniami
+w Serwisie, w szczególności podaniem nieprawdziwych danych, ujawnieniem tajemnicy zawodowej, innej informacji poufnej lub
+tajemnicy przedsiębiorstwa, naruszeniem dóbr osobistych lub praw autorskich oraz praw pokrewnych.
+4. Usługodawca wyraźnie zastrzega, iż korzystanie z Serwisu i udostępnianych przez niego Usług odbywa się na wyłączne ryzyko
+Użytkownika lub Profesjonalisty. Wszelkie umieszczone w Serwisie informacje i materiały, a także dostarczane za pośrednictwem
+Serwisu usługi nie są objęte gwarancją co do ich wartości, przydatności, zupełności, kompletności czy użyteczności.
+5. Usługodawca nie odpowiada za wady fizyczne i prawne oferowanych Usług bezpłatnych oraz za należytą jakość towarów i usług
+bezpłatnych. Usługodawca nie odpowiada także za skutki niewykonania lub nienależytego wykonania zaciągniętych przez
+kogokolwiek, za pośrednictwem Serwisu, zobowiązań oraz zdolności tych osób do zaciągania zobowiązań.
+6. Odpowiedzialność Usługodawcy za należytą jakość towarów i usług odpłatnych określają przepisy szczególne, stanowiące podstawę
+świadczeń odpłatnych.
+7. Usługodawca nie udziela żadnej gwarancji prawidłowego działania Serwisu w całości albo w części.
+8. W przypadku otrzymania przez Usługodawcę urzędowego zawiadomienia lub uzyskania wiarygodnej wiadomości o bezprawnym
+charakterze przechowywanych danych dostarczonych przez Użytkownika lub Profesjonalistę i uniemożliwienia dostępu do tych
+danych, Usługodawca nie ponosi odpowiedzialności względem tego Użytkownika lub Profesjonalisty za szkodę powstałą w wyniku
+uniemożliwienia dostępu do tych danych.
+9. W stosunku do podmiotów innych niż konsumenci, Usługodawca odpowiada wyłącznie za szkody spowodowane z wyłącznej winy
+umyślnej Usługodawcy. Wyłączona jest odpowiedzialność Usługodawcy za utracone korzyści.
+10. ZnanyLekarz, w związku z usługami określonymi w §2 ust. 2 nie gwarantuje Profesjonalistom określonej pozycji w wynikach
+wyszukiwania wyszukiwarek internetowych lub umieszczenia informacji o ich praktyce zawodowej na mapach internetowych, jak
+również nie zobowiązuje się, że wszyscy Profesjonaliści zostaną ujęci w wynikach wyszukiwania wyszukiwarek internetowych lub że
+informacja o ich praktykach zawodowej będzie umieszczona na mapach internetowych.
+11. ZnanyLekarz nie odpowiada za prawidłowość danych w wynikach wyszukiwania wyszukiwarek internetowych lub map internetowych.
+12. ZnanyLekarz wskazuje, że wyniki ankiety wypełnianej przez Użytkownika w trakcie umawiania wizyty u wybranego Profesjonalisty nie
+zawierają diagnozy medycznej, a w konsekwencji jej prowadzenie nie może być kwalifikowana jako wykonywanie przez ZnanyLekarz
+świadczeń zdrowotnych. Ankieta oraz jej wynik mają za zadanie jedynie pomóc Profesjonaliście w przygotowaniu się do wizyty. Wynik
+ankiety ma jedynie charakter statystyczny, oparty o ogólnodostępne źródła wiedzy.
+§9. Tryb zgłaszania zastrzeżeń i postępowania reklamacyjnego
+1. Usługodawca dołoży wszelkich starań w celu zapewnienia prawidłowego działania Serwisu oraz udzieli pomocy w rozwiązywaniu
+problemów związanych z jego funkcjonowaniem.
+2. Zastrzeżenia co do rzetelności opinii zawartych w Serwisie zgłasza się bezpośrednio przy danej opinii za pomocą przycisku "zgłoś
+nadużycie". Zgłoszenie zostanie rozpatrzone przez Usługodawcę w terminie 14 dni roboczych.
+3. Pozostałe zastrzeżenia, a także uwagi, sugestie i błędy strony można zgłaszać, pisząc na adres e-mail: kontakt@znanylekarz.pl.
+4. Odpowiedzi na zgłoszenia będą udzielane na adres poczty elektronicznej Użytkownika lub Profesjonalisty.
+5. Zakłócenia w funkcjonowaniu Serwisu, problemy i uwagi związane ze świadczonymi usługami w ramach Serwisu mogą być
+reklamowane przez Użytkownika, Placówkę lub Profesjonalistę w terminie 21 dni od daty zdarzenia, poprzez zgłoszenie na adres:
+kontakt@znanylekarz.pl.
+6. Reklamacja rozpatrywana jest w terminie 21 dni od dnia jej wniesienia. Jeżeli termin ten nie będzie mógł być dotrzymany,
+Usługodawca powiadomi przed jego upływem o przyczynach opóźnienia i wyznaczy kolejny termin.
+7. Usługodawca zastrzega sobie prawo do pozostawienia reklamacji bez rozpoznania, jeżeli wynikać ona będzie z nieznajomości
+niniejszego Regulaminu, jego załączników lub przepisów prawa. Reklamacje zawierające treści wulgarne lub obraźliwe wobec
+Usługodawcy nie będą rozpatrywane.
+§10. Postanowienia końcowe
+1. Usługodawca zastrzega sobie prawo do jednostronnej zmiany Regulaminu w ważnych przypadkach, w szczególności w przypadku
+zmiany funkcjonalności Serwisu, zmiany profilu działalności Usługodawcy lub zmiany przepisów prawa.
+2. O dokonanej zmianie Regulaminu Usługodawca poinformuje Użytkownika drogą poczty elektronicznej na wskazany adres e-mail lub w
+drodze korespondencji wewnętrznej kierowanej do Użytkownika przez mechanizm informatyczny na Konto Użytkownika, na 14 dni
+przed ich wejściem w życie.
+3. Użytkownik i Profesjonalista ponoszą odpowiedzialność za podanie adresu poczty elektronicznej, do którego nie posiadają dostępu, w
+szczególności adresu nieprawidłowego lub należącego do innego podmiotu, oraz wynikające z tego faktu skutki w postaci
+nieotrzymania powiadomienia określonego w ust. 2.
+4. Prawem właściwym dla niniejszego Regulaminu oraz dla umowy o świadczenie Usług jest prawo polskie.
+5. W sprawach nieuregulowanych w Regulaminie stosuje się przepisy ustawy o świadczeniu usług drogą elektroniczną, ustawy o prawie
+autorskim i prawach pokrewnych oraz Kodeksu cywilnego.
+6. Właściwym do rozstrzygania sporów wynikających ze świadczenia Usług, w przypadku sporów z Użytkownikami niebędącymi
+konsumentami jest sąd właściwy dla siedziby Usługodawcy. Użytkownik będący konsumentem ma możliwość skorzystania z
+pozasądowego sposobu rozpatrywania sporów przed Stałym Polubownym Sądem Konsumenckim przy Mazowieckim Wojewódzkim
+Inspektorze Inspekcji Handlowej w Warszawie. Informacje o sposobie dostępu do ww. trybu i procedur rozstrzygania sporów znajdują
+się
+pod
+następującym adresem: www.uokik.gov.pl oraz pod adresem: https://konsument.gov.pl/. Użytkownik będący konsumentem
+ma również możliwość skorzystania z unijnej platformy internetowej ODR, dostępnej pod adresem:
+http://ec.europa.eu/consumers/odr/.
+§11. Postanowienia dodatkowe
+W sytuacji, gdy Profesjonalista lub Placówka (dla potrzeb niniejszych postanowień dodatkowych nazywanego “Usługobiorcą”) zawarła przed
+12.07.2020 r. ze ZnanyLekarz sp. z o.o. umowę o świadczenie Usług Pakiet Premium (dla potrzeb niniejszych postanowień dodatkowych
+określanej jako “Umowa”):
+1. ZnanyLekarz wskazuje, że jedną z cech Usługi Pakiet Premium jest umieszczenie Profili w wynikach wyszukiwania w Serwisie danej
+specjalizacji/kategorii na zasadach określonych w zakładce „Ranking” (lub analogicznej) dostępnej w Serwisie. ZnanyLekarz
+informuje, a Usługobiorca przyjmuje do wiadomości i akceptuje fakt, że w tym samym czasie u różnych Użytkowników Serwisu Profil
+danego Profesjonalisty może mieć różną pozycję w wynikach wyszukiwania. ZnanyLekarz nie gwarantuje określonego miejsca Profilu
+w wynikach wyszukiwania. Miejsce w wynikach wyszukiwania może różnić się w zależności od stopnia uzupełnienia Profilu, ocen i
+opinii o danym Profesjonaliście, zainteresowania Użytkowników danym Profesjonalistą, korzystaniem z Usług Pakiet Premium, liczby i
+charakteru opinii Użytkowników na temat danego Profesjonalisty.
+2. W celu promocji Serwisu oraz w celu zapewnienia możliwie wysokich wyników wyszukiwania Serwisu i poszczególnych
+Profesjonalistów w wyszukiwarkach internetowych, ZnanyLekarz może wykorzystywać płatne reklamy oferowane przez wyszukiwarki
+internetowe, takie jak Google lub inne podobne oraz inne analogiczne mechanizmy, w tym mechanizmy social media. ZnanyLekarz
+może również wykorzystywać usługę Google My Business, która pozwala umieścić informacje o Profesjonalistach i Usługobiorcach
+na mapach i wynikach wyszukiwania Google. ZnanyLekarz może również nawiązywać współpracę z innymi podmiotami działającymi
+w zakresie wyszukiwarek internetowych czy social mediów.
+3. W przypadku gdy inni klienci ZnanyLekarz zawarli ze ZnanyLekarz dodatkowe umowy o pozycjonowanie Profili w Serwisie (tzw. usługi
+“First Class” lub “Premium Plus”), Profile tych klientów będą wyżej w wynikach wyszukiwania w Serwisie niż Profile przypisane do
+Usługobiorcy, który nie zawarł takiej umowy.
+4. Po zakończeniu Umowy Usługobiorca ma możliwość wyeksportowania danych i informacji o pacjentach, które Usługobiorca
+wprowadził do Kalendarza Wizyt oraz danych i informacji o Użytkownikach, którzy za pośrednictwem Serwisu zarezerwowali termin
+wizyty u Usługobiorcy. Z wnioskiem o wyeksportowanie danych i informacji można zwrócić się do 3 miesięcy od dnia zakończenia
+Umowy.
+5. W celu wyeksportowania danych i informacji, należy zwrócić się do Usługobiorcy i przejść procedurę weryfikacji niezbędną do
+potwierdzenia tożsamości Usługobiorcy. Dane i informacje zostaną Usługobiorcy przekazane w formie elektronicznej.
+6. ZnanyLekarz wskazuje Centrum Mediacji Izby Adwokackiej w Warszawie (Al. Ujazdowskie 49, 00-563 Warszawa
+centrum.mediacji@ora-warszawa.com.pl) jako centrum mediacji, które zapewnia co najmniej dwóch mediatorów, z pomocą których
+ZnanyLekarz jest gotowy podjąć próbę osiągnięcia porozumienia z Usługobiorcą co do pozasądowego rozstrzygnięcia sporów
+powstałych między ZnanyLekarz a w związku z Umową, w tym reklamacji, których nie udało się rozstrzygnąć w ramach wewnętrznego
+systemu reklamacyjnego. W przypadku skierowania sprawy do mediacji Usługobiorca zobowiązany jest do pokrycia rozsądnej części
+kosztów postępowania ustalanej przez mediatora.
+7. Próby osiągnięcia porozumienia w drodze mediacji co do rozstrzygnięcia sporu nie mają wpływu na prawa ZnanyLekarz i Usługobiorcy
+do wszczęcia postępowania sądowego w dowolnym momencie przed rozpoczęciem procesu mediacji, w trakcie jego trwania lub po
+jego zakończeniu.
+Regulamin świadczenia usług drogą elektroniczną przez ZnanyLekarz.pl
+Regulamin stosowany do dnia 22.09.2019.
+Więcej informacji na temat Serwisu znajdziesz tutaj: https://znanylekarz.zendesk.com/hc/pl
+§1. Postanowienia ogólne
+1. Definicje:
+a. Usługodawca lub ZnanyLekarz – ZnanyLekarz Sp. z o.o. z siedzibą w Warszawie (01-217) przy ul. Kolejowej 5/7, wpisana do
+Rejestru Przedsiębiorców Krajowego Rejestru Sądowego prowadzonego przez Sąd Rejonowy dla m. st. Warszawy XII Wydział
+Gospodarczy KRS, pod numerem KRS 0000347997, NIP 7010224868, REGON 142276657
+b. Serwis – serwis internetowy prowadzony przez Usługodawcę pod adresem: https://www.znanylekarz.pl.
+c. Regulamin – niniejszy regulamin świadczenia usług drogą elektroniczną przez Usługodawcę.
+d. Użytkownik – osoba fizyczna, posiadająca pełną zdolność do czynności prawnych, która (i) dokonała Rejestracji w Serwisie, lub
+(ii) dokonała rejestracji w Serwisie z wykorzystaniem serwisu Facebook, bądź Google lub (iii) dokonała rezerwacji terminu u
+Profesjonalisty za pomocą Kalendarza Wizyt, lub (iv) skorzystała z funkcjonalności zadawania pytań Profesjonalistom, (v)
+dodała opinię o Profesjonaliście z wykorzystaniem numeru telefonu.
+e. Profesjonalista – korzystający z serwisu, będący lekarzem, lekarzem dentystą, psychologiem, rehabilitantem, położną,
+dietetykiem, terapeutą, a także weterynarzem lub inną osobą niewymienioną powyżej wykonującą czynności w zakresie
+świadczeń zdrowotnych, świadczącą usługi zdrowotne, medyczne lub paramedyczne.
+f. Placówka – miejsce wykonywania czynności w zakresie świadczeń zdrowotnych, usług zdrowotnych, medycznych lub
+paramedycznych.
+g. Właściciel – korzystający z serwisu, który jest osobą upoważnioną do zarządzania informacjami o Placówce. Uprawnienia te są
+weryfikowane przez Usługodawcę.
+h. Profil – zbiór informacji na temat Profesjonalisty umieszczony w Serwisie w postaci podstrony Serwisu posiadającej unikalny
+adres URL.
+i. Rejestracja – proces utworzenia Konta.
+j. Konto – wpis w bazie danych Serwisu, dotyczący Użytkowników lub Profesjonalistów, z którego wynika możliwość dostępu do
+określonych Usług.
+k. Usługa – usługa świadczona drogą elektroniczną polegająca na wysyłaniu i odbieraniu danych za pomocą publicznych
+systemów teleinformatycznych na indywidualne żądanie usługobiorcy – Użytkownika, bez jednoczesnej fizycznej obecności
+stron.
+l. Kalendarz Wizyt – program komputerowy będący narzędziem do zarządzania grafikiem pracy Profesjonalisty, umożliwiający
+Użytkownikowi dokonanie rezerwacji terminu u Profesjonalisty przez Internet oraz samodzielne dodawanie terminów
+dostępnych do zarezerwowania przez Profesjonalistę.
+2. Usługodawca świadczy Usługi na podstawie niniejszego Regulaminu.
+§2. Rodzaje i zakres Usług
+1. Usługodawca świadczy między innymi następujące Usługi:
+a. umożliwia Użytkownikom publikowanie informacji i opinii o Profesjonalistach skatalogowanych według województw, miast i
+kategorii;
+b. udostępnia wyszukiwarkę Profesjonalistów i Placówek;
+c. powiadamia o nowych informacjach i opiniach;
+d. umożliwia Użytkownikom zadawanie pytań zweryfikowanym Profesjonalistom;
+e. umożliwia zweryfikowanym Profesjonalistom podawanie i korygowanie informacji o sobie, odnoszenie się do opinii
+Użytkowników oraz odpowiadanie na zadane pytania;
+f. umożliwia rezerwację terminu u Profesjonalistów i w Placówkach, które udostępniły taką możliwość.
+2. ZnanyLekarz świadczy usługi polegające na informowaniu Użytkowników Internetu o praktyce zawodowej Profesjonalistów poprzez
+umieszczanie informacji o takiej praktyce w Internecie. Na życzenie Profesjonalistów ZnanyLekarz umieszcza również informacje o
+praktyce zawodowej Profesjonalistów na mapach internetowych oraz tworzy konta dla Profesjonalistów do zarządzania informacjami
+umieszczonymi na mapach. Na mapach internetowych umieszczony zostanie odnośnik (link) do
+Profilu Profesjonalisty w Serwisie.
+3. W celu świadczenia usług, o których mowa w ust. 2 ZnanyLekarz może nawiązywać z podmiotami trzecimi stosunki umowne, które są
+niezbędne dla świadczenia tych usług. W szczególności Usługodawca może zawierać umowy, których celem będzie:
+a. zapewnienie wysokiej pozycji w wynikach wyszukiwania wyszukiwarek internetowych,
+b. oznaczenie miejsca wykonywania praktyki zawodowej Profesjonalistów na mapach internetowych.
+4. Informacje i opinie o Profesjonalistach i Placówkach publikowane są w formie rankingów, w których miejsce na liście zależy m.in. od
+otrzymanych opinii.
+5. Pozycja Profesjonalisty w wynikach wyszukiwania w Serwisie może zależeć w szczególności od takich czynników jak dostępność
+terminów w Kalendarzu Wizyt, poziom lub jakości uzupełnienia Profilu oraz zawarta z Usługodawcą odpłatna umowa.
+6. Dostęp do większości usług Serwisu jest bezpłatny, w szczególności nie są pobierane opłaty za rejestrację oraz publikowanie
+podstawowych informacji o Profesjonalistach i Placówkach. Usługodawca nie pobiera opłat za opinie i komentarze zamieszczane w
+Serwisie.
+7. Usługodawca zastrzega sobie prawo do wprowadzenia opłat od dowolnych usług świadczonych w ramach Serwisu i jednocześnie
+zobowiązuje się poinformować o zmianach z odpowiednim wyprzedzeniem.
+§3. Warunki świadczenia usług
+1. W celu korzystania z Usług należy spełnić poniższe warunki techniczne:
+a. posiadać dostęp do sieci Internet,
+b. posiadać przeglądarkę internetową (jedną z następujących): Firefox, Chrome, Safari, IE, Opera, zaktualizowaną do najnowszej
+wersji.
+2. Każdy korzystający z Internetu może zapoznawać się z informacjami i opiniami o Profesjonalistach oraz korzystać z wyszukiwarki.
+3. Każdy Użytkownik może zarezerwować termin u Profesjonalisty za pomocą Kalendarza Wizyt, pod warunkiem zweryfikowania numeru
+telefonu komórkowego oraz adresu e-mail. W niektórych przypadkach rezerwacja terminu u Profesjonalisty może wymagać podania nr
+PESEL. Podanie nr PESEL jest uzasadnione koniecznością identyfikacji Użytkownika przez Profesjonalistę lub Placówkę.
+4. Zarezerwowanie wizyty u Profesjonalisty jest możliwe wyłącznie w przypadku wyrażenia przez Użytkownika wyraźnej zgody na
+przetwarzanie przez Usługodawcę danych osobowych Użytkownika o stanie zdrowia (art. 9 ust. 2 lit. a Rozporządzenia 679/2016, tzw.
+RODO) oraz udostępnienia tych danych wybranemu Profesjonaliście. Usługodawca informuje, że brak wyrażenia zgody na
+przetwarzanie danych osobowych Użytkownika o stanie zdrowia uniemożliwi zarezerwowanie wizyty. W
+trakcie umawiania wizyty
+przez Serwis Użytkownik może zdecydować się na wypełnienie ankiety dotyczącej jego stanu zdrowia. Wyniki tej ankiety zostaną
+przekazane do wybranego przez Użytkownika Profesjonalisty, u którego Użytkownik umawia wizytę. Przekazanie takich danych ma
+pomóc Profesjonaliście w przygotowaniu się do wizyty.
+5. Użytkownik może również:
+a. wystawiać opinie o Profesjonalistach;
+b. dodawać i poprawiać informacje o Placówkach;
+c. zadawać pytania zweryfikowanym Profesjonalistom;
+d. zgłaszać nadużycia.
+6. Zadanie pytania zweryfikowanemu Profesjonaliście jest możliwe wyłącznie w przypadku wyrażenia przez Użytkownika wyraźnej zgody
+na przetwarzanie przez Usługodawcę danych osobowych Użytkownika o stanie zdrowia (art. 9 ust. 2 lit. a Rozporządzenia 679/2016,
+tzw. RODO) oraz udostępnienia tych danych wybranemu Profesjonaliście. Usługodawca informuje, że brak wyrażenia zgody na
+przetwarzanie danych osobowych Użytkownika o stanie zdrowia uniemożliwi zadanie pytania.
+7. Usługodawca zastrzega sobie prawo do czasowego zawieszenia świadczenia Usług w związku z modernizacją lub przebudową
+Serwisu albo z pracami konserwatorskimi systemu teleinformatycznego. Usługodawca dołoży starań, aby przerwy w świadczeniu
+Usług nie były uciążliwe dla Użytkowników.
+8. Usługodawca nie odpowiada za przerwy w świadczeniu Usług wynikające z przyczyn od niego niezależnych, w szczególności
+stanowiących siłę wyższą (pożary, powodzie, klęski żywiołowe lub meteorologiczne itp.).
+9. Usługodawca nie ponosi odpowiedzialności względem Profesjonalisty lub Placówki za fakt niestawienia się przez Użytkownika w
+umówionym terminie, zarezerwowanym za pośrednictwem Kalendarza Wizyt. Usługodawca nie odpowiada wobec Użytkownika za
+brak możliwości zrealizowania zarezerwowanego za pomocą Kalendarza Wizyt terminu z przyczyn leżących po stronie Profesjonalisty
+lub Placówki. W przypadku konieczności odwołania wizyty zainteresowane strony obowiązane są odwołać
+rezerwację za
+pośrednictwem Serwisu.
+10. Profesjonalista ma możliwość zablokowania wybranym przez siebie Użytkownikom rezerwacji terminów wizyt za pomocą Kalendarza
+Wizyt. Usługodawca nie odpowiada za niedogodności jakie mogą wystąpić w związku z tym dla Użytkowników.
+§4. Dodawanie opinii i informacji o Profesjonalistach i Placówkach; zadawanie pytań Profesjonalistom
+1. Opinie opatrywane są podpisem (nickiem) Użytkownika.
+2. Opinie i informacje o Profesjonalistach mogą dotyczyć wyłącznie działalności zawodowej Profesjonalisty.
+3. Opinie i informacje o Profesjonalistach mogą opierać się jedynie na osobistych doświadczeniach Użytkownika dotyczących danego
+Profesjonalisty (doświadczenia na linii Lekarz-Pacjent) i muszą one dotyczyć konsultacji medycznej lub wizyty, która miała miejsce.
+Nie jest dopuszczalne umieszczanie opinii wspólnych przez kilka osób, opinii dotyczących szeroko rozumianych spraw odnoszących
+się do kompetencji ZUS, w tym dotyczących orzekania o statusie osoby
+niepełnosprawnej oraz związanych z działalnością
+Profesjonalistów jako biegłych sądowych lub prokuratorskich. Opinie i informacje nie mogą opierać się na relacjach osób trzecich, w
+tym małżonków, członków rodziny itp. Wyjątek stanowi opisywanie leczenia dzieci, osób w podeszłym wieku, osób niezdolnych do
+samodzielnego wystawienia opinii oraz leczenia zwierząt.
+4. Jeden Użytkownik może zamieścić tylko jedną opinię na Profilu jednego Profesjonalisty. Opinia może dotyczyć kilku zdarzeń
+medycznych (wizyt, badań, zabiegów). Wielokrotne umieszczanie opinii przez tego samego Użytkownika jest zakazane, a system
+Usługodawcy blokuje możliwość dodawania kolejnych opinii. Użytkownik może jednak edytować poprzednio umieszczoną opinię.
+5. Niedozwolone jest zamieszczanie w opiniach treści reklamowych, marketingowych lub odnoszących się do tzw. lokowania produktu.
+Niedozwolone jest również umieszczanie w opiniach linków do stron internetowych.
+6. Niedozwolone jest umieszczanie opinii przez Profesjonalistów na własnych Profilach oraz jakiekolwiek próby manipulacji opiniami,
+informacjami i ocenami.
+7. Niedozwolone jest umieszczanie opinii i komentarzy, które nie są zgodne z prawdą.
+8. Informacje, opinie i komentarze nie mogą naruszać prawa, dóbr osobistych, ani zasad współżycia społecznego. W szczególności
+niedozwolone jest używanie w opiniach wyrażeń wulgarnych, niecenzuralnych i obraźliwych, stosowanie przezwisk, odnoszenie się do
+sfery prywatnej i rodzinnej, oskarżanie o popełnienie przestępstwa, wzywanie do stosowania przemocy lub do nienawiści rasowej,
+wyznaniowej, etnicznej itp. Niedozwolone jest również dodawanie opinii, które mogą zostać
+uznane za pomówienie lub które
+kwestionują treści umieszczone przez Profesjonalistę w Serwisie lub kwestionują kwalifikacje zawodowe Profesjonalisty.
+9. Osoby zatrudnione lub współpracujące z tą samą Placówką nie mogą nawzajem dodawać opinii o innych osobach zatrudnionych lub
+współpracujących z tą Placówką. Profesjonaliści o tej samej specjalizacji nie mogą wzajemnie dodawać o sobie opinii.
+10. Użytkownik zamieszczając opinię w Serwisie oświadcza, że wystawiona przez niego opinia lub komentarz jest prawdziwy i zgodny z
+rzeczywistym stanem rzeczy.
+11. Usługodawca ma prawo odmówić opublikowania opinii, komentarzy i informacji, a już opublikowane opinie, komentarze i informacje
+usunąć, jeżeli są sprzeczne z niniejszym Regulaminem lub przepisami prawa. W przypadku usunięcia opinii, komentarzy lub informacji
+Użytkownikowi w stosunku do Usługodawcy nie przysługuje jakiekolwiek roszczenie.
+12. Usługodawca nie ponosi odpowiedzialności za treść informacji, opinii i komentarzy przekazywanych przez Użytkowników lub
+Profesjonalistów.
+13. Usługodawca ma prawo wymagać od Użytkownika zamieszczającego opinię dodatkowej weryfikacji np. za pomocą konta w serwisie
+Facebook lub Google bądź z wykorzystaniem numeru telefonu.
+14. Powyższe zasady stosuje się odpowiednio do pytań zadawanych zweryfikowanym Profesjonalistom.
+15. Zadając pytania Profesjonaliście, Użytkownik udziela Usługodawcy niewyłącznej, nieograniczonej w czasie, nieodpłatnej licencji na
+korzystanie z treści pytania lub jej części na terytorium całego świata, na polach eksploatacji takich jak: zwielokrotnianie techniką
+analogową i cyfrową, wprowadzanie do pamięci komputera, wprowadzanie do sieci komputerowej lub multimedialnej, wprowadzanie
+do obrotu, najem, dzierżawa, publiczne udostępnianie w miejscu i czasie wybranym
+przez Usługodawcę, wyświetlanie, nadawanie,
+reemitowanie, odtwarzanie, umieszczanie pytania w bazach danych, wykorzystania pytania w celu promocji Usługodawcy i
+publicznego prezentowania pytania w Serwisie. Usunięcie Konta przez Użytkownika nie ma wpływu na obowiązywanie powyższej
+licencji.
+16. Zadając Profesjonaliście pytanie prywatne, Użytkownik zezwala Usługodawcy na zanonimizowanie i moderację pytania oraz na jego
+umieszczenie i publiczne prezentowanie w Serwisie. Ust. 15 stosuje się.
+§5. Profile Profesjonalistów, zweryfikowane Profile
+1. Utworzenie Profilu nowego Profesjonalisty wymaga podania co najmniej podstawowych informacji o nim.
+2. Podstawowe informacje o Profesjonaliście obejmują: tytuł zawodowy, imię i nazwisko, województwo, miejscowość wykonywania
+czynności w zakresie świadczeń zdrowotnych lub innych wskazanych w §1 pkt. 1 lit. e i kategorię Profesjonalisty, a także dane
+adresowe i kontaktowe miejsca przyjmowania pacjentów. Usługodawca zastrzega sobie wyłączne prawo do wprowadzania i
+edytowania informacji w zakresie numeru telefonu oraz innych danych kontaktowych Profesjonalisty.
+Samodzielnie zamieszczanie
+tego typu informacji na Profilach może skutkować usunięciem tych informacji oraz blokadą pola, na którym taką informację
+zamieszczono. Dostęp do zablokowanego pola Profilu odbywa się wówczas za pośrednictwem Usługodawcy.
+3. Jeden Profesjonalista może mieć wyłącznie jeden Profil. Niedozwolone jest utworzenie Profilu wspólnego dla kilku Profesjonalistów.
+Profile powtarzające się będą usuwane.
+4. W polach Profilu oznaczonych odpowiednim komentarzem nie można umieszczać innych informacji niż wynikające z tego
+komentarza. Dla uniknięcia wątpliwości w polu oznaczonym komentarzem “imię i nazwisko” można wpisać wyłącznie imię i nazwisko
+danego Profesjonalisty. Zasada ta stosuje się odpowiednio do innych pól.
+5. Każdy Profesjonalista może utworzyć swój Profil lub potwierdzić informacje zawarte na Profilu utworzonym uprzednio w Serwisie. W
+tym celu niezbędne jest dokonanie rejestracji w Serwisie.
+6. Profil utworzony lub potwierdzony przez Profesjonalistę oznaczony jest, jako „Profil zweryfikowany”.
+7. Na Profilu zweryfikowanym Profesjonalista otrzymuje dodatkowe uprawnienia, a w szczególności może:
+a. edytować informacje o sobie;
+b. dodać swoje zdjęcie;
+c. odpowiadać na opinie wystawione przez Użytkowników w formie komentarzy;
+d. odpowiadać na zadane przez Użytkowników pytania;
+e. przeglądać statystyki Profilu,
+f. kontaktować się z Użytkownikami.
+8. Profesjonalista może zamieszczać jedynie swoje zdjęcie, umożliwiające jego rozpoznanie. Zamieszczając zdjęcie w Serwisie,
+Profesjonalista wyraża zgodę na rozpowszechnianie i publiczne udostępnianie swojego wizerunku. Usunięcie Konta nie ma wpływu na
+powyższą zgodę. Zabrania się zamieszczania zdjęć innych osób, a także wszelkiego rodzaju utworów graficznych (np. logotypów).
+Zezwala się, ze względu na cechy formatu cyfrowego, na retusz fotografii, pod warunkiem, że
+będzie on polegał na zastosowaniu
+korekty globalnej, która polepsza jakość (np. nasycenie, kontrast). Nie zezwala się natomiast na stosowanie zabiegów selektywnych w
+celu dodawania lub odejmowania elementów, łączenia kilku fotografii lub zmiany jej oryginalnej kompozycji. Zabronione jest również
+zamieszczanie zdjęć o zabarwieniu pornograficznym lub nielicujących z profesjonalnym charakterem Serwisu.
+9. Zdjęcie niespełniające powyższych kryteriów może zostać usunięte przez Usługodawcę bez ostrzeżenia i konieczności
+powiadomienia Profesjonalisty.
+10. Zamieszczając zdjęcie w Serwisie, Profesjonalista udziela Usługodawcy niewyłącznej, nieograniczonej w czasie, nieodpłatnej licencji
+na korzystanie ze zdjęcia na terytorium całego świata, na polach eksploatacji takich jak: zwielokrotnianie techniką analogową i
+cyfrową, wprowadzanie do pamięci komputera, wprowadzanie do sieci komputerowej lub multimedialnej, wprowadzanie do obrotu,
+najem, dzierżawa, publiczne udostępnianie w miejscu i czasie wybranym przez
+Usługodawcę, wyświetlanie, nadawanie, reemitowanie,
+odtwarzanie, umieszczanie zdjęcia w bazach danych, wykorzystania zdjęcia w celu promocji Usługodawcy i prezentacji zdjęcia w
+Serwisie. Usunięcie Konta przez Profesjonalistę nie ma wpływu na obowiązywanie powyższej licencji.
+11. Usługodawca ma prawo odmówić opublikowania informacji na temat Profesjonalisty, w tym zdjęcia, a opublikowane usunąć, jeżeli
+zostanie stwierdzona ich nieprawdziwość.
+12. Zamieszczając w Serwisie odpowiedź na pytanie, Profesjonalista udziela Usługodawcy niewyłącznej, nieograniczonej w czasie,
+nieodpłatnej licencji na korzystanie z treści pytania, odpowiedzi lub jego części na terytorium całego świata, na polach eksploatacji
+takich jak: zwielokrotnianie techniką analogową i cyfrową, wprowadzanie do pamięci komputera, wprowadzanie do sieci
+komputerowej lub multimedialnej, wprowadzanie do obrotu, najem, dzierżawa, publiczne
+udostępnianie w miejscu i czasie wybranym
+przez Usługodawcę, wyświetlanie, nadawanie, reemitowanie, odtwarzanie, umieszczanie odpowiedzi w bazach danych, wykorzystania
+odpowiedzi w celu promocji Usługodawcy i prezentacji odpowiedzi w Serwisie. Usunięcie Konta przez Profesjonalistę nie ma wpływu
+na obowiązywanie powyższej licencji.
+13. Odpowiadając na pytanie prywatne, Profesjonalista zezwala Usługodawcy na zanonimizowanie i moderację odpowiedzi oraz na jej
+umieszczenie i publiczne prezentowanie w Serwisie. Ust. 12 stosuje się.
+§6. Profile Placówek, zweryfikowane Profile
+1. Utworzenie Profilu nowej Placówki wymaga podania co najmniej podstawowych informacji o niej.
+2. Podstawowe informacje o Placówce obejmują: nazwę placówki medycznej, kategorię, województwo, miejscowość, a także dane
+adresowe i kontaktowe. Usługodawca zastrzega sobie wyłączne prawo do wprowadzania i edytowania informacji w zakresie numeru
+telefonu oraz innych danych kontaktowych Placówki.
+3. Każda Placówka może posiadać tylko jeden Profil. Niedozwolone jest utworzenie Profilu wspólnego dla kilku Placówek. Profile
+powtarzające się będą usuwane.
+4. Profil Placówki może dotyczyć tylko jednej fizycznej lokalizacji Placówki. Jeżeli Placówka ma kilka fizycznych lokalizacji, to każda z
+tych lokalizacji powinna zostać objęta osobnym Profilem.
+5. Właściciel może utworzyć Profil Placówki lub potwierdzić informacje zawarte na już istniejącym Profilu Placówki. W tym celu
+niezbędne jest dokonanie rejestracji w Serwisie.
+6. Profil utworzony lub potwierdzony przez Właściciela oznaczony jest, jako „Profil zweryfikowany”.
+7. Na Profilu zweryfikowanym Placówki Właściciel otrzymuje dodatkowe uprawnienia, a w szczególności może:
+a. edytować informacje o Placówce;
+b. dodać logotyp Placówki;
+c. przeglądać statystyki Profilu.
+8. Właściciel może zamieszczać w ramach Profilu Placówki jedynie logotyp Placówki. Właściciel wyraża zgodę na rozpowszechnianie i
+publiczne udostępnianie tego logotypu zamieszczonego przez siebie w Serwisie. W przypadku, gdy na logotyp Placówki udzielono
+prawa ochronnego na znak towarowy, Właściciel wyraża zgodę na korzystanie z tego logotypu w zakresie niezbędnym do świadczenia
+Usług przez Usługodawcę.
+9. Zabronione jest zamieszczanie logotypów nielicujących z charakterem Serwisu. Logotypy niespełniające powyższego kryterium mogą
+zostać usunięte przez Usługodawcę bez ostrzeżenia i konieczności powiadomienia Właściciela o tym fakcie.
+10. Usługodawca ma prawo odmówić opublikowania informacji na temat Placówki, a opublikowane informacje usunąć, jeżeli zostanie
+stwierdzona ich nieprawdziwość.
+§7. Warunki zawierania i rozwiązywania umów o świadczenie Usług. Rejestracja i logowanie.
+1. Zawarcie umowy o świadczenie Usług następuje poprzez (i) rejestrację w Serwisie, lub (ii) rejestrację w Serwisie za pomocą serwisu
+Facebook lub Google, lub (iii) zarezerwowanie terminu u Profesjonalisty za pomocą Kalendarza Wizyt, lub (iv) zadanie pytania
+zweryfikowanemu Profesjonaliście.
+2. Zawarcie umowy o świadczenie Usług wiąże się z wyrażeniem zgody na wszystkie warunki niniejszego Regulaminu bez konieczności
+składania w tym celu dodatkowych oświadczeń. Użytkownik zobowiązuje się do przestrzegania Regulaminu.
+3. Zawierając umowę o świadczenie Usług Użytkownik, Profesjonalista lub Właściciel: potwierdza autentyczność podanych przez siebie
+danych.
+4. Zawierając umowę o świadczenie Usług Użytkownik, Profesjonalista lub Właściciel przyjmuje do wiadomości, że jego dane osobowe
+będą publicznie prezentowane w Internecie.
+5. Umowa o świadczenie Usług zostaje zawarta na czas nieokreślony.
+6. W celu Rejestracji Użytkownik lub Profesjonalista wypełnia formularz zamieszczony na stronie https://l.znanylekarz.pl/. Możliwa jest
+również Rejestracja za pomocą serwisu Facebook lub Google. Rejestracja jest również możliwa w procesie rezerwacji terminu u
+Profesjonalisty za pomocą Kalendarza Wizyt.
+7. Rejestracja i logowanie odbywa się za pomocą funkcjonalności udostępnionych przez Usługodawcę.
+8. W przypadku cofnięcia zgody na którykolwiek z warunków Regulaminu Użytkownik zobowiązany jest do natychmiastowego usunięcia
+swojego Konta lub zawiadomienia Usługodawcy o cofnięciu zgody.
+9. Użytkownikowi będącemu konsumentem w rozumieniu właściwych przepisów, przysługuje prawo do odstąpienia od umowy, w
+terminie 14 dni od dnia jej zawarcia, bez podania przyczyny. Odstąpienie od umowy następuje przez złożenie oświadczenia o
+odstąpieniu od umowy. Oświadczenie o odstąpieniu należy przesłać drogą elektroniczną na adres kontakt@znanylekarz.pl. Do
+zachowania terminu do odstąpienia od umowy wystarczy
+wysłanie oświadczenia przed jego upływem
+10. Usługodawca zapewnia Użytkownikom i Profesjonalistom dostęp do własnych danych osobowych oraz umożliwia ich poprawianie i
+uzupełnianie.
+11. Utworzenie nowego Profilu lub przejęcie przez Profesjonalistę istniejącego Profilu wymaga wypełnienia formularza. Profesjonalista
+może zostać poproszony o weryfikację posiadanych uprawnień do wykonywania zawodu lub posiadanych kwalifikacji zawodowych.
+Przesyłane przez Profesjonalistę informacje służą wyłącznie potwierdzeniu jego prawa do wykonywania zawodu. Brak przekazania
+powyższych informacji skutkuje brakiem możliwości utworzenia lub przejęcia Profilu.
+12. Użytkownik będący Właścicielem potwierdza swoje uprawnienia do administrowania Profilem Placówki. W takim przypadku
+Usługodawca rejestruje Użytkownika jako Właściciela.
+13. W przypadku pojawienia się uzasadnionych wątpliwości co do autentyczności wprowadzonych przez Użytkownika danych,
+Usługodawca może zażądać przedstawienia stosownych dokumentów potwierdzających te dane.
+14. Niedopuszczalne jest posiadanie przez jednego Użytkownika więcej niż jednego Konta.
+15. Zabrania się udostępniania swojego Konta osobom trzecim.
+16. Zabrania się korzystania z Kont należących do osób trzecich.
+17. Użytkownik może rozwiązać umowę o świadczenie Usług poprzez skasowanie swojego Konta.
+18. Profesjonalista może rozwiązać umowę o świadczenie Usług poprzez skasowanie swojego Konta
+19. Profesjonalista może rozwiązać umowę o świadczenie Usług poprzez skasowanie swojego Konta, z tym że okres wypowiedzenia
+umowy wynosi 1 rok ze skutkiem na koniec roku kalendarzowego.
+20. Usługodawca zastrzega sobie prawo do rozwiązania umowy o świadczenie Usług poprzez skasowanie Konta, jeżeli działanie
+Użytkownika lub Profesjonalisty jest niezgodne z prawem, Regulaminem lub godzi w wizerunek Serwisu. Wypowiedzenie ma skutek
+natychmiastowy. Ust. 19 stosuje się.
+§8. Odpowiedzialność
+1. Użytkownik i Profesjonalista są odpowiedzialni za bezpieczeństwo i zachowanie poufności swojego hasła do Profilu lub Konta.
+Usługodawca nie ponosi odpowiedzialności za nieuprawniony dostęp do Profilu lub Konta na skutek uzyskania dostępu do hasła przez
+osoby trzecie. W przypadku podejrzenia możliwości ujawnienia hasła osobom trzecim, Użytkownik i Profesjonalista zobowiązuje się
+niezwłocznie zmienić hasło lub skontaktować się w tym celu z Usługodawcą.
+2. Usługodawca nie ponosi odpowiedzialności za treść i formę materiałów i informacji umieszczonych w Serwisie przez Użytkownika,
+Placówkę lub Profesjonalistę. Usługodawca nie odpowiada za roszczenia Użytkowników, Placówek Profesjonalistów oraz osób
+trzecich, których prawa i uzasadnione interesy zostały naruszone poprzez te materiały. Użytkownik przyjmuje do wiadomości i zgadza
+się, że Usługodawca nie jest zobowiązany do sprawdzenia lub weryfikacji materiałów lub
+informacji zamieszczanych przez
+Użytkowników.
+3. Użytkownik, Placówka lub Profesjonalista ponoszą pełną odpowiedzialność za złamanie prawa bądź szkodę wywołaną ich działaniami
+w Serwisie, w szczególności podaniem nieprawdziwych danych, ujawnieniem tajemnicy zawodowej, innej informacji poufnej lub
+tajemnicy przedsiębiorstwa, naruszeniem dóbr osobistych lub praw autorskich oraz praw pokrewnych.
+4. Usługodawca wyraźnie zastrzega, iż korzystanie z Serwisu i udostępnianych przez niego Usług odbywa się na wyłączne ryzyko
+Użytkownika lub Profesjonalisty. Wszelkie umieszczone w Serwisie informacje i materiały, a także dostarczane za pośrednictwem
+Serwisu usługi nie są objęte gwarancją co do ich wartości, przydatności, zupełności, kompletności czy użyteczności.
+5. Usługodawca nie odpowiada za wady fizyczne i prawne oferowanych Usług bezpłatnych oraz za należytą jakość towarów i usług
+bezpłatnych. Usługodawca nie odpowiada także za skutki niewykonania lub nienależytego wykonania zaciągniętych przez
+kogokolwiek, za pośrednictwem Serwisu, zobowiązań oraz zdolności tych osób do zaciągania zobowiązań.
+6. Odpowiedzialność Usługodawcy za należytą jakość towarów i usług odpłatnych określają przepisy szczególne, stanowiące podstawę
+świadczeń odpłatnych.
+7. Usługodawca nie udziela żadnej gwarancji prawidłowego działania Serwisu w całości albo w części.
+8. W przypadku otrzymania przez Usługodawcę urzędowego zawiadomienia lub uzyskania wiarygodnej wiadomości o bezprawnym
+charakterze przechowywanych danych dostarczonych przez Użytkownika lub Profesjonalistę i uniemożliwienia dostępu do tych
+danych, Usługodawca nie ponosi odpowiedzialności względem tego Użytkownika lub Profesjonalisty za szkodę powstałą w wyniku
+uniemożliwienia dostępu do tych danych.
+9. W stosunku do podmiotów innych niż konsumenci, Usługodawca odpowiada wyłącznie za szkody spowodowane z wyłącznej winy
+umyślnej Usługodawcy. Wyłączona jest odpowiedzialność Usługodawcy za utracone korzyści.
+10. ZnanyLekarz, w związku z usługami określonymi w §2 ust. 2 nie gwarantuje Profesjonalistom określonej pozycji w wynikach
+wyszukiwania wyszukiwarek internetowych lub umieszczenia informacji o ich praktyce zawodowej na mapach internetowych, jak
+również nie zobowiązuje się, że wszyscy Profesjonaliści zostaną ujęci w wynikach wyszukiwania wyszukiwarek internetowych lub że
+informacja o ich praktykach zawodowej będzie umieszczona na mapach internetowych.
+11. ZnanyLekarz nie odpowiada za prawidłowość danych w wynikach wyszukiwania wyszukiwarek internetowych lub map internetowych.
+12. ZnanyLekarz wskazuje, że wyniki ankiety wypełnianej przez Użytkownika w trakcie umawiania wizyty u wybranego Profesjonalisty nie
+zawierają diagnozy medycznej, a w konsekwencji jej prowadzenie nie może być kwalifikowana jako wykonywanie przez ZnanyLekarz
+świadczeń zdrowotnych. Ankieta oraz jej wynik mają za zadanie jedynie pomóc Profesjonaliście w przygotowaniu się do wizyty. Wynik
+ankiety ma jedynie charakter statystyczny, oparty o ogólnodostępne źródła wiedzy.
+§9. Tryb zgłaszania zastrzeżeń i postępowania reklamacyjnego
+1. Usługodawca dołoży wszelkich starań w celu zapewnienia prawidłowego działania Serwisu oraz udzieli pomocy w rozwiązywaniu
+problemów związanych z jego funkcjonowaniem.
+2. Zastrzeżenia co do rzetelności opinii zawartych w Serwisie zgłasza się bezpośrednio przy danej opinii za pomocą przycisku "zgłoś
+nadużycie". Zgłoszenie zostanie rozpatrzone przez Usługodawcę w terminie 14 dni roboczych.
+3. Pozostałe zastrzeżenia, a także uwagi, sugestie i błędy strony można zgłaszać, pisząc na adres e-mail: kontakt@znanylekarz.pl.
+4. Odpowiedzi na zgłoszenia będą udzielane na adres poczty elektronicznej Użytkownika lub Profesjonalisty.
+5. Zakłócenia w funkcjonowaniu Serwisu, problemy i uwagi związane ze świadczonymi usługami w ramach Serwisu mogą być
+reklamowane przez Użytkownika, Placówkę lub Profesjonalistę w terminie 21 dni od daty zdarzenia, poprzez zgłoszenie na
+adres: kontakt@znanylekarz.pl.
+6. Reklamacja rozpatrywana jest w terminie 21 dni od dnia jej wniesienia. Jeżeli termin ten nie będzie mógł być dotrzymany,
+Usługodawca powiadomi przed jego upływem o przyczynach opóźnienia i wyznaczy kolejny termin.
+7. Usługodawca zastrzega sobie prawo do pozostawienia reklamacji bez rozpoznania, jeżeli wynikać ona będzie z nieznajomości
+niniejszego Regulaminu, jego załączników lub przepisów prawa. Reklamacje zawierające treści wulgarne lub obraźliwe wobec
+Usługodawcy nie będą rozpatrywane.
+§10. Postanowienia końcowe
+1. Usługodawca zastrzega sobie prawo do jednostronnej zmiany Regulaminu w ważnych przypadkach, w szczególności w przypadku
+zmiany funkcjonalności Serwisu, zmiany profilu działalności Usługodawcy lub zmiany przepisów prawa.
+2. O dokonanej zmianie Regulaminu Usługodawca poinformuje Użytkownika drogą poczty elektronicznej na wskazany adres e-mail lub w
+drodze korespondencji wewnętrznej kierowanej do Użytkownika przez mechanizm informatyczny na Konto Użytkownika, na 14 dni
+przed ich wejściem w życie.
+3. Użytkownik i Profesjonalista ponoszą odpowiedzialność za podanie adresu poczty elektronicznej, do którego nie posiadają dostępu, w
+szczególności adresu nieprawidłowego lub należącego do innego podmiotu, oraz wynikające z tego faktu skutki w postaci
+nieotrzymania powiadomienia określonego w ust. 2.
+4. Prawem właściwym dla niniejszego Regulaminu oraz dla umowy o świadczenie Usług jest prawo polskie.
+5. W sprawach nieuregulowanych w Regulaminie stosuje się przepisy ustawy o świadczeniu usług drogą elektroniczną, ustawy o prawie
+autorskim i prawach pokrewnych oraz Kodeksu cywilnego.
+6. Właściwym do rozstrzygania sporów wynikających ze świadczenia Usług, w przypadku sporów z Użytkownikami niebędącymi
+konsumentami jest sąd właściwy dla siedziby Usługodawcy. Użytkownik będący konsumentem ma możliwość skorzystania z
+pozasądowego sposobu rozpatrywania sporów przed Stałym Polubownym Sądem Konsumenckim przy Mazowieckim Wojewódzkim
+Inspektorze Inspekcji Handlowej w Warszawie. Informacje o sposobie dostępu do ww. trybu i procedur rozstrzygania sporów
+znajdują
+się pod następującym adresem: 
+www.uokik.gov.pl oraz pod adresem: https://konsument.gov.pl/. Użytkownik będący konsumentem
+ma również możliwość skorzystania z unijnej platformy internetowej ODR, dostępnej pod adresem: 
+http://ec.europa.eu/consumers/odr/.
+DOTACJE NA INNOWACJE

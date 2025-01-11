@@ -1,0 +1,570 @@
+The following Square Enix Terms of Service (“Terms of Service”) explain the conditions
+that apply when you use our various games, software, products, services, websites,
+accounts, applications, online stores, features, content, and activities (the “Services,” and
+each a “Service”). These Terms of Service govern your use of any Service that posts or
+links to these Terms of Service or is owned, controlled, or published by or for: Square
+Enix, Inc.; Square Enix LLC; Square Enix Limited; Crystal Dynamics, Inc.; Eidos
+Interactive Corp.; or their subsidiaries (“Square Enix,” or “we,” “our,” or “us”). In addition
+to these Terms of Service, separate guidelines, rules, or terms of service or sale
+(“Additional Terms”) may apply to your use of a particular Service. Where applicable,
+these Additional Terms will be made available to you before you start using any Service
+for which they are relevant. To the extent there is a conflict between these Terms of
+Service and any Additional Terms, the Additional Terms will control unless expressly
+stated otherwise. Certain Services we offer are not governed by these Terms of Service,
+but rather by separate terms of service and other policies that shall be notified to you
+when you access or use such Services. In the absence of any notification that such
+alternative terms apply, these Terms of Service shall govern.
+Before using the Services, you must read and accept these Terms of Service and any
+Additional Terms, and you acknowledge that you have read and understand the Square
+Enix Privacy Notice. If you do not agree to these Terms of Service or any Additional
+Terms, please uninstall and discontinue use of the Services.
+MANY TYPES OF DISPUTES THAT MAY ARISE IN CONNECTION WITH YOUR
+ACCESS TO OR USE OF THE SERVICES MAY BE SUBJECT TO MANDATORY
+ARBITRATION. PLEASE READ THE ARBITRATION PROVISIONS IN SECTION 14 OF
+THESE TERMS OF SERVICE CAREFULLY BEFORE USING OUR SERVICES.
+1. Region
+These Terms of Service are a contract between you and the Square Enix affiliate for your
+geographical region identified below (“Region”):
+For the “American Region,” Square Enix means Square Enix, Inc., 999 N. Pacific
+Coast Highway, 3rd Floor, El Segundo, CA 90245, United States. You are in the
+American Region if you are in: North America; South America; Central America;
+American Samoa; Guam; the United States Minor Outlying Islands; or the Caribbean.
+For the “EMEA-Asia Region,” Square Enix means Square Enix Limited (Co. No.
+01804186), 240 Blackfriars Road, London, SE1 8NW United Kingdom. You are in the
+EMEA-Asia Region if you are in Europe, the Middle East, Africa, Asia, or any other
+territory not identified in this Section 1.
+Notwithstanding the foregoing, you may not use the Services if you are located in a
+territory in which use of the Services is prohibited by applicable law or these Terms of
+Service.
+2. Limited License
+Square Enix and its licensors own and reserve all rights, title, and interest in the Services
+and the associated intellectual property in the Services, including audio-visual elements
+and other copyrightable materials (such as the “look and feel” of the Services);
+trademarks, logos, trade names, service marks, and trade identities of Square Enix and
+our licensors; patentable subject matter; and any other forms of intellectual property.
+Subject to your continuing compliance with these Terms of Service, Square Enix grants
+you a limited, non-exclusive, cancellable, non-assignable, non-sublicensable, and non-
+transferable license to use the Services for your personal, non-commercial use. Square
+Enix may immediately suspend or terminate the availability of some or all of the Services
+for any reason, in Square Enix’s sole discretion, without advance notice or liability.
+3. Use Restrictions
+In order to use the Services, you must not do any of the following: (i) violate any
+applicable law or regulation; (ii) use the Services for commercial or political purposes; (iii)
+copy, scrape, reproduce, redisplay, reverse engineer, decompile, hack, or modify the
+Services, including any server or network used to provide the Services (except to the
+extent enforcement of the foregoing is prohibited by applicable law); (iv) access or attempt
+to access an Account (defined below) that does not belong to you; (v) interfere with
+another user’s use of the Services; (vi) cheat or create an unfair advantage in the
+Services or any other Square Enix games or services; (vii) create, develop, modify,
+distribute, use, promote, advertise, sell, commercialise, or otherwise exploit any
+unauthorised software, service, tool, or scheme to cheat or create an advantage in any
+offline, online, or multiplayer modes of the Services or any Square Enix games or
+services; (viii) interfere with any security feature of the Services; (ix) use an unauthorised
+server to emulate or access the Services; (x) intercept, mine, or collect information from
+the Services or its users without authorisation; (xi) violate the intellectual property rights or
+other rights of Square Enix or others; or (xii) remove any trademark, copyright, or other
+intellectual property notice. We may immediately suspend or terminate your access to the
+Services if you violate any of these restrictions, or if you otherwise violate these Terms of
+Service.
+4. Use of the Services by Children
+The Services are not directed to children under the age of thirteen (13), and Square Enix
+will not knowingly collect personal information from anyone under the age of thirteen (13)
+(or other applicable minimum age in your place of residence) without obtaining verifiable
+explicit parental consent as may be required by law. Children over the age of thirteen (13)
+(or other applicable minimum age in your place of residence) but under the age of
+eighteen (or other applicable age of majority in your place of residence) must obtain
+consent from their parent or guardian before using the Services. Where applicable,
+interactive video games (“Games,” and each a “Game”) offered through the Services
+carry a voluntary or mandatory age rating identified on the packaging and in online
+information. You agree not to play, or to allow others to play, a particular Game if doing so
+would violate the applicable minimum age rating in your jurisdiction. Parents and
+guardians of children under the age of eighteen (or the applicable age of majority in your
+place of residence) should read these Terms of Service carefully before allowing children
+to use the Services.
+5. Account Registration
+Some features of the Services may require you to register an account with Square Enix
+(“Account”). You are responsible for maintaining the security of your Account and for all
+activity that occurs on your Account. When registering an Account, you agree to the
+following: (i) you will not use a username or email address that impersonates or
+personally identifies another person or entity; (ii) you will provide and maintain accurate
+information; and (iii) you will not sell your Account to a third party or let any other person
+use your Account. Square Enix may suspend or terminate your Account at any time and
+for any reason, including if Square Enix believes you have violated these Terms of
+Service. Notwithstanding the foregoing, if you live in France then Square Enix will provide
+you at least thirty (30) days’ notice before terminating your Account.
+If you have registered an Account and wish to terminate it, please contact the applicable
+customer support center for your Region as provided below in Section 11. Upon
+termination of your Account for any reason, Square Enix reserves the right to delete the
+Account permanently.
+6. Virtual Credits
+Square Enix may allow you to use “Virtual Credits” to redeem certain digital items and
+online services. Virtual Credits may have different names, such as, “Crysta®,” “coins,”
+“points,” or “gold.” Virtual Credits are not currency or property and have no monetary
+value. Square Enix retains all ownership of Virtual Credits and has the absolute right to
+manage and change Virtual Credits and all licenses for digital items and services
+redeemed using Virtual Credits. Your use of Virtual Credits is subject to a personal, non-
+commercial, non-exclusive, non-assignable, non-sublicensable, non-transferable,
+cancelable license. Except where explicitly authorized by Square Enix, exchanging,
+seeking to exchange, or facilitating the exchanging of Virtual Credits or other virtual items
+for money or any other form of property is strictly forbidden and considered a breach of
+these Terms of Service.
+Where permitted by Square Enix, you may add Virtual Credits to an Account by using the
+applicable payment methods for the platform you are using to access the Services.
+Square Enix reserves the right to adjust the price for Virtual Credits at any time, in its sole
+discretion, without notice or reimbursement. You are responsible for the payment of any
+taxes or other charges relating to the purchase or redemption of Virtual Credits. Except as
+where may be required by law, you have no right to receive a refund for unused Virtual
+Credits.
+Unless you live in the European Union, or have acquired or use the Services in a country
+located in the European Union, you agree not to bring a lawsuit against Square Enix or
+our affiliates, service providers, or licensors arising out of or related to your use of Virtual
+Credits, including any claim based on a theory that you own Virtual Credits or any related
+digital items or service; any modifications in the amount of Virtual Credits necessary to
+obtain a virtual item or service; or the removal of access to any virtual item or service,
+including as a result of Account termination.
+7. Purchases from Square Enix
+Purchases made through the Square Enix Online Store are not governed by these Terms
+of Service, but rather by the Terms and Conditions of Sale and other policies posted on
+the website applicable to your Region (currently https://store.na.square-enix-
+games.com/ for the American Region and https://store.eu.square-enix-games.com/ for the
+EMEA-Asia Region). If you made a purchase on the Square Enix Online Store and have
+questions about the terms and conditions applicable to your purchase, including whether
+you have the right to cancel an order or request a refund, please visit the appropriate
+Square Enix Online Store website for your Region for more information.
+To the extent not governed by the aforementioned Terms and Conditions of Sale and
+other policies posted on the Square Enix Online Store website, or by other Additional
+Terms, and without affecting your rights as a consumer under local law, the following
+terms shall apply to purchases you make directly from Square Enix. If you place an order
+with Square Enix, we may, solely in our discretion, reject your order or limit the quantity of
+products you may purchase. We may also require additional information from you before
+accepting your order. If we accept your order, we will email you a confirmation notice
+providing relevant details on the purchase and a binding contract will form between you
+and us. If we are unable to accept your order because a product is not available, we may
+notify you when it becomes available again (subject to your consent).
+For purchases made by customers resident outside of the EU:
+Physical products are at your risk from the time of delivery, and download products are at
+your risk from the time the download completes. Subject to your local law, you may not
+cancel an order for a physical product after you receive an order confirmation, and may
+not cancel a digital product after you start downloading the product.
+For purchases made by customers resident in the EU:
+These are the terms and conditions on which Square Enix provides products to you,
+whether these are goods or digital content.
+Orders for goods: After placing an order for goods, you will have a period of fourteen (14)
+days after the date that you receive the goods to cancel your order without giving any
+reason. This right will be lost if the goods are sealed audio or sealed video recordings or
+sealed computer software and these goods are unsealed after you receive them.
+Orders for digital content: After placing an order for digital content, you will have a period
+of fourteen (14) days from the date on which your order was placed to cancel your order
+without giving any reason. This right shall be lost if you have begun downloading or
+streaming the digital content. If we delivered the digital content to you immediately, and
+you agreed to this when placing your order, you will not be able to cancel.
+If you wish to exercise your cancellation right, you can contact Square Enix
+at http://support.eu.square-enix.com to send us the model cancellation form below.
+- To Square Enix Limited, 240 Blackfriars Road, London, SE1 8NW United Kingdom: - I
+hereby give notice that I withdraw from my contract for the following:
+[INSERT ORDER ID AND NAME OF PRODUCT] - Ordered on [INSERT DATE] / received
+on [INSERT DATE]
+- Name of consumer
+- Address of consumer
+- Date - Account ID
+- Email address associated with purchase/Account
+You must send your communication within the applicable fourteen (14) day period for your
+cancellation to be effective. We will refund the applicable method you used for payment
+within fourteen (14) days of being notified of your wish to cancel in respect of digital
+content, or within fourteen (14) days from receipt of the returned products in respect of
+goods.
+Where you have purchased a recurring subscription to one of our Services, you agree that
+Square Enix will process recurring payments automatically. Your subscription will continue
+to renew until you cancel your subscription. Unless stated otherwise, prices do not include
+delivery charges and certain other applicable fees, which will be disclosed to you before
+you place your order. Depending on the destination, products may be subject to additional
+import duties, taxes, or levies, and you are responsible for the payment of all such
+charges. If you purchase a download product, you are responsible for any costs
+associated with downloading and accessing the product.
+NOTHING IN THESE TERMS OF SERVICE AFFECTS YOUR RIGHTS AS A
+CONSUMER UNDER LOCAL LAW, INCLUDING YOUR RIGHT IN CERTAIN
+JURISDICTIONS TO CANCEL AN ORDER OR RECEIVE A REFUND FOR A PRODUCT
+THAT IS DEFECTIVE OR NOT AS DESCRIBED TO YOU. Where applicable, we will
+provide you with details regarding your statutory cancellation rights, and an explanation of
+how to exercise them, in the order confirmation.
+8. User-Generated Content
+Square Enix may offer you the opportunity to upload, transmit, or otherwise make
+available on the Services content you have created (“User-Generated Content”). Subject
+to your local law, you grant Square Enix the unrestricted, worldwide, irrevocable,
+perpetual, and cost-free right to use, copy, modify, distribute, disclose, sell, sublicense,
+display, publicly perform, publish, broadcast, translate, make derivative works of, promote,
+and otherwise exploit your User-Generated Content without any compensation, notice, or
+attribution to you, and to allow other third parties to do the same. To the maximum extent
+permitted by your local law, you waive any moral rights you have in User-Generated
+Content.
+You are solely liable for your User-Generated Content and submit it at your own risk.
+When you submit User-Generated Content, you agree that: (a) you are the sole author
+and owner of the rights to the User-Generated Content and are able to grant such rights
+without creating any obligation or liability to Square Enix or any third party; (b) the User-
+Generated Content does not infringe any intellectual property right or other right (including
+rights of privacy or publicity) of any third party; (c) the User-Generated Content will not
+cause injury or harm to Square Enix or any third party; and (d) the User-Generated
+Content does not violate these Terms of Service.
+Square Enix may—but does not have an obligation to—delete, remove, edit, or refuse to
+post User-Generated Content in our sole discretion. We do not accept any liability for
+removing, or not removing, any User-Generated Content.
+9. Procedure for Alleging Copyright
+Infringement under the DMCA
+If you believe that any content available on the Services violates a copyright, you may
+notify Square Enix as set forth in the U.S. Digital Millennium Copyright Act of 1998. To do
+so, please send us a notice that includes the following information:
+a legend or subject line that says “DMCA Copyright Infringement Notice”;
+a description of the copyrighted work that you claim has been infringed or, if multiple
+copyrighted works are covered by a single notification, a list of such works;
+a description of where the material that you claim is infringing or is the subject of
+infringing activity is located that is reasonably sufficient to permit us to locate the
+material;
+your name, address, telephone number, and email address;
+a statement by you that you have a good-faith belief that use of the material in the
+manner complained of is not authorized by the copyright owner, its agent, or the law;
+a statement by you, made under penalty of perjury, that all the information in your
+notice is accurate and that you are the copyright owner (or, if you are not the
+copyright owner, that you are authorized to act on behalf of the owner); and
+your electronic or physical signature.
+All DMCA notices must be sent to:
+Square Enix
+Attn: Legal Department
+999 N. Pacific Coast Highway., 3rd Floor
+El Segundo, CA 90245, United States
+Email: DMCA@us.square-enix.com.
+If we receive a notice of copyright infringement that complies with the notice requirements
+in this Section 9, we will respond in accordance with our requirements under the U.S.
+Digital Millennium Copyright Act of 1998 (or other laws, if applicable). Please note that we
+may share any information you provide in your notice with the allegedly infringing party.
+You may be liable if you knowingly misrepresent that material or activity is infringing.
+10. Community Guidelines
+You must comply with the following guidelines (“Community Guidelines”) when using our
+online communities, uploading content on the Services (including User-Generated
+Content), or interacting with other users on the Services:
+You must treat other people with respect. Cursing, harassing, stalking, threatening,
+and making insulting comments or personal attacks about other people is prohibited.
+You must not use the Services to encourage hateful or illegal conduct, including
+crimes against humanity, acts of terrorism, exploitation of children, acts of violence
+against women or any other person or group, attacks against another’s human
+dignity, or hatred of others based on their race, religion, national origin, gender, sex,
+sexual preferences, or disabilities.
+You must not use the Services to distribute any content that is obscene,
+pornographic, defamatory, hateful, or illegal, or that violates the intellectual property
+rights or other rights of any person or entity.
+Respect others’ privacy. You may not reveal another person’s name, address, phone
+number, email address, date of birth, social security number, credit card number,
+medical information, financial information, likeness, or any other information that can
+be used to identify another person.
+Do not impersonate another person or entity, misrepresent your identity or affiliation
+with another person or entity, or otherwise make statements that are false, fraudulent,
+or deceptive.
+If you discover any content or behaviour that violates this section or these Terms of
+Service, or is otherwise illegal or infringing, please report it to us by contacting the
+customer service center designated for your Region in Section 11. Please note that we
+have the right, but not the obligation, to monitor the Services, and we accept no liability for
+content or behaviour you encounter on the Services.
+11. Customer Service Requests
+For questions and other customer service requests, please contact the relevant customer
+service center below:
+For the American Region: http://support.na.square-enix.com.
+For the EMEA-Asia Region (other than China; Japan; Mongolia; Republic of Korea;
+Taiwan; Laos; Thailand; Hong Kong; Vietnam; the Philippines; Brunei; Malaysia;
+Singapore; Indonesia; Cambodia; or Macao) and for English language questions and
+customer service requests from outside the American
+Region: http://support.eu.square-enix.com.
+For China; Japan; Mongolia; Republic of Korea; Taiwan; Laos; Thailand; Hong Kong;
+Vietnam; the Philippines; Brunei; Malaysia; Singapore; Indonesia; Cambodia; or
+Macao (aside from English language queries): http://support.jp.square-enix.com.
+12. Dealings with Third Parties
+A.     Third-Party Software and Services. The Services may give you the option to
+access third-party websites, software, services, advertisements, or other third-party
+materials. We do not endorse or control such third-party materials and we are not
+responsible for your interactions with them. When accessing any third-party materials, you
+should carefully read any applicable terms of service and privacy policies.
+B.     Apple. If you are accessing or using an application that is operated or published by
+Square Enix and posts or links to these Terms of Service through an Apple device running
+iOS (“iOS App”), the following Additional Terms are applicable to you and are
+incorporated into these Terms of Service by this reference:
+(i) You acknowledge that these Terms of Service are concluded between you and Square
+Enix only, and that Square Enix, and not Apple, is responsible for providing the Services
+and any content thereof. (ii) You may only access an iOS App through Apple-branded
+products that you own or control and as permitted by the usage rules set forth in the App
+Store Terms of Service (currently available
+at http://www.apple.com/legal/itunes/uk/terms.html); provided that an iOS App may be
+accessed and used by other accounts associated with you via Family Sharing or volume
+purchasing. (iii) You acknowledge that Apple has no obligation to furnish any maintenance
+or support services to you with respect to any iOS App. To the extent that any
+maintenance or support is required under applicable law, Square Enix, and not Apple, is
+obligated to provide such maintenance and support. (iv) In the event a warranty obligation
+is not disclaimed under these Terms of Service or Additional Terms and/or cannot be
+disclaimed under applicable law, Square Enix, and not Apple, is responsible for providing
+such warranty. If an iOS App fails to conform to an applicable warranty, you may notify
+Apple, and Apple will refund the purchase price for the iOS App. To the maximum extent
+permitted by applicable law, Apple will have no other warranty obligation whatsoever with
+respect to an iOS App. (v) Notwithstanding anything to the contrary herein, you
+acknowledge that, solely as between Apple and Square Enix, Square Enix is responsible
+for addressing any claims you may have relating to the Services, including: (a) product
+liability claims; (b) any claim that the Services fail to conform to any applicable legal or
+regulatory requirement; and (c) claims arising under consumer protection, privacy or
+similar legislation. (vi) If the Services are alleged to infringe a third party's intellectual
+property rights, Square Enix, and not Apple, is responsible for the investigation, defense,
+settlement, and discharge of any such intellectual property infringement claims. (vii) You
+agree to comply with any third-party terms applicable to your use of an iOS App. (viii) You
+acknowledge and agree that Apple, and Apple’s subsidiaries, are third-party beneficiaries
+of these Terms of Service and that Apple has the right to enforce this Section 12(B)
+against you as a third-party beneficiary thereof.
+C.     Microsoft. If you are accessing or using the Services through a Microsoft video
+game platform or service (e.g., Xbox One, Xbox Live) the following Additional Terms are
+applicable to you and are incorporated into these Terms of Service by this reference:
+(i) To the maximum extent allowed by applicable law, Microsoft and its affiliates: (a) have
+no warranty obligations whatsoever with respect to the Services; and (b) have no liability
+to you for any claims or damages relating to the Services. (ii) Microsoft and its affiliates
+have no obligation to provide you with any support for the Services or with any other
+additional services. (iii) Nothing in these Terms of Service is intended to: (a) prevent or
+limit your access to any software product intended for use on a Microsoft video game
+platform, including with respect to any related updates or digital content; or (b) govern or
+change in any way your relationship with Microsoft under Microsoft’s applicable
+agreements with you, including the Xbox Live terms of use.
+D.     Sony. If you are accessing or using the Services through a PlayStation®4 or
+PlayStation®5 console, the following Additional Terms are applicable to you and are
+incorporated into these Terms of Service by this reference:
+(i) You acknowledge that these Terms of Service are a contract between you and Square
+Enix, and not an agreement between you and Sony Interactive Entertainment, Inc. or any
+of its affiliate companies (collectively “Sony”). Square Enix, and not Sony, is responsible
+for the Services. (ii) You are granted a limited license to use the Services only on a
+system that you own or control or that delivers the Services to you via
+PlayStation™Network. (iii) Sony is considered a third-party beneficiary of Square Enix
+under these Terms of Service. (iv) For users in Brazil, Canada, Mexico, or the United
+States, the following additional terms apply:
+Purchase and use of items are subject to the Network Terms of Service and User
+Agreement. This online service has been sublicensed to you by Sony Interactive
+Entertainment America. (v) For users in Australia, Austria, Belgium, Croatia, the Czech
+Republic, Denmark, Finland, France, Germany, Greece, India, Ireland, Israel, Italy,
+Kuwait, Luxembourg, the Netherlands, New Zealand, Norway, Poland, Portugal, Russia,
+Saudi Arabia, Slovenia, South Africa, Spain, Sweden, Switzerland, Turkey, the United
+Arab Emirates, the United Kingdom, or Ukraine, the following additional terms apply:
+Any content purchased in an in-game store will be purchased from Sony Interactive
+Entertainment Network Europe Limited (“SIENE”) and be subject to PlayStation™Network
+Terms of Service and User Agreement which is available on the PlayStation™Store.
+Please check usage rights for each purchase as these may differ from item to item.
+Unless otherwise shown, content available in any in-game store has the same age rating
+as the game.
+13. Wireless Features
+The Services may allow you to access certain features via your wireless device, such as
+the ability to upload content to the Services, receive messages from the Services, or
+download applications. Please note that your carrier may charge messaging, data, and
+other fees to use such wireless features, and may also prohibit you from using certain
+features of the Services.
+14. Binding Arbitration and Waiver of
+Class Actions
+Unless you live in the European Union and/or are using the Services in the European
+Union, or except where otherwise prohibited by your local law, the following Section 14
+shall apply to any controversy, allegation, or claim between you and Square Enix that
+arises out of or relates to the Terms of Use or your use of the Services (collectively, a
+“Dispute”). If you are located in the European Union, you may submit a Dispute for online
+resolution to the European Commission Online Dispute Resolution platform, information
+on which is currently available at the following link: https://ec.europa.eu/info/live-work-
+travel-eu/consumers/resolve-your-consumer-complaint_en.
+In the event of a Dispute, the aggrieved party shall send the other party a written notice
+that includes the name, address, and contact information of the party giving notice, as well
+as a description of the Dispute and a proposed resolution. To notify Square Enix of a
+Dispute, please send a notice to the physical mailing address for your Region as set forth
+above in Section 1, with attention to the “Legal Department.” For a period of sixty (60)
+days following a party’s receipt of notice of a Dispute, Square Enix and you shall attempt
+to resolve the Dispute informally. If you and Square Enix cannot resolve the Dispute within
+sixty (60) days, then the aggrieved party may initiate binding arbitration as the sole means
+to resolve the Dispute. WITH ARBITRATION THERE IS NO JUDGE OR JURY, THE
+ARBITRATION IS SUBJECT TO CERTAIN CONFIDENTIALITY RULES, AND JUDICIAL
+REVIEW OF THE ARBITRATION OUTCOME IS LIMITED. Any arbitration proceeding
+shall be conducted by JAMS before one neutral arbitrator pursuant to JAMS’ Streamlined
+Arbitration Rules and Procedures and subject to the applicable law and venue for your
+region as set forth in Section 18(B) of these Terms of Service. The JAMS consumer
+arbitration minimum standards will apply if you are a “consumer” as defined by JAMS,
+which includes the right to an in-person hearing in your hometown area. Where permitted
+by the arbitrator, Square Enix agrees that you may appear at an arbitration proceeding by
+telephone. Discovery will be permitted pursuant to the applicable arbitration rules. All
+parties to the arbitration will have the right, at their own expense, to be represented by an
+attorney or other advocate of their choosing. You and Square Enix will pay the arbitration
+fees and other costs in accordance with the applicable arbitration rules. If applicable
+arbitration rules or laws require Square Enix to pay a greater portion of such fees and
+costs in order for this Section 14 to be enforceable, then Square Enix may pay such fees
+and costs and proceed to arbitration.
+The arbitrator’s decision must consist of a written statement stating the disposition of each
+claim of the Dispute and must provide a statement of the essential findings and
+conclusions on which the award (if any) is based. Judgment on the arbitration decision
+and award (if any) may be entered in or by any court that has jurisdiction over the parties.
+This Section 14 does not preclude either party from seeking remedies in small claims
+court for Disputes within the scope of such court’s jurisdiction.
+This Section 14 does not apply to any legal action taken by Square Enix to seek an
+injunction or other equitable relief in connection with any actual or potential loss, cost, or
+damage relating to the Services. Nor does this Section 14 apply to any controversy,
+allegation, or claim regarding the processing of personal information transmitted to
+Square Enix in the United States from the European Union, European Economic Area, or
+Switzerland (for any inquiry or complaint concerning any such transfer of personal
+information, please follow the procedures provided in the Square Enix Privacy Notice).
+DISPUTES WILL BE ARBITRATED ONLY ON AN INDIVIDUAL BASIS AND WILL NOT
+BE CONSOLIDATED WITH ANY OTHER ARBITRATION OR OTHER PROCEEDING
+THAT INVOLVES ANY CLAIM OR CONTROVERSY OF ANY OTHER PARTY. In the
+event this class action waiver is held to be illegal or unenforceable then our agreement to
+arbitrate will not apply and the Dispute must be brought exclusively in court on an
+individual basis.
+If the arbitration provisions of this Section 14 are found to be unenforceable for any
+reason, you agree that the venue for any Dispute between you and us shall be the
+applicable court in Section 18(B) (based on your Region).
+15. Disclaimer of Representations and
+Warranties
+YOUR USE OF THE SERVICES IS AT YOUR SOLE RISK. SQUARE ENIX DISCLAIMS
+AND MAKES NO REPRESENTATIONS OR WARRANTIES AS TO THE SERVICES,
+INCLUDING WHETHER THE SERVICES: ARE FREE FROM VIRUSES OR OTHER
+MALICIOUS CONTENT; WILL INTEROPERATE OR BE COMPATIBLE WITH ANY
+THIRD-PARTY HARDWARE OR SOFTWARE; WILL BE ERROR FREE,
+UNINTERRUPTED OR AVAILABLE AT ALL TIMES; WILL MEET YOUR
+REQUIREMENTS; OR ARE LAWFUL IN ANY PARTICULAR JURISDICTION. TO THE
+MAXIMUM EXTENT PERMITTED BY LAW, SQUARE ENIX DISCLAIMS ALL EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+SOME JURISDICTIONS LIMIT OR DO NOT ALLOW THE DISCLAIMER OF IMPLIED OR
+OTHER WARRANTIES, IN WHICH CASE THE FOREGOING DISCLAIMERS MAY NOT
+APPLY TO YOU. IF YOU LIVE IN, HAVE BOUGHT, OR USE THE SERVICES IN A
+JURISDICTION THAT PROVIDES STATUTORY OR OTHER GUARANTEES UNDER
+APPLICABLE LAW, NOTHING IN THIS AGREEMENT IS INTENDED TO LIMIT THOSE
+RIGHTS.
+16. Limitations of Liability
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, SQUARE ENIX AND
+ITS EMPLOYEES, DIRECTORS, OFFICERS, MANAGERS, SHAREHOLDERS,
+AGENTS, VENDORS, LICENSORS, LICENSEES, CONTRACTORS,
+REPRESENTATIVES, SUCCESSORS, AND ASSIGNS (THE “SQUARE ENIX PARTIES”)
+ARE NOT RESPONSIBLE OR LIABLE FOR ANY LOSSES OR DAMAGES OF ANY
+KIND, INCLUDING DIRECT, INDIRECT, ECONOMIC, EXEMPLARY, SPECIAL,
+PUNITIVE, INCIDENTAL, OR CONSEQUENTIAL LOSSES OR DAMAGES THAT ARE
+THE RESULT OF OR RELATED TO: (I) YOUR USE OF OR INABILITY TO USE THE
+SERVICES OR THE PERFORMANCE OF THE SERVICES; (II) GAMES, PRODUCTS,
+CONTENT, USER-GENERATED CONTENT, OR ANY OTHER FUNCTIONS,
+FEATURES, ELEMENTS, OR INFORMATION ON, REFERENCED AT, OR LINKED OR
+MADE ACCESSIBLE THROUGH THE SERVICES; (III) ANY ACTION TAKEN IN
+CONNECTION WITH AN INVESTIGATION BY THE SQUARE ENIX PARTIES OR LAW
+ENFORCEMENT AUTHORITIES REGARDING YOUR ACCESS TO OR USE OF THE
+SERVICES; (IV) ANY ACTION TAKEN IN CONNECTION WITH COPYRIGHT OR
+OTHER INTELLECTUAL PROPERTY OWNERS OR OTHER RIGHTS OWNERS; (V)
+ANY ERRORS OR OMISSIONS IN THE SERVICES’ TECHNICAL OPERATION; (VI)
+ANY DAMAGE TO YOUR OR ANOTHER PERSON’S DEVICE, HARDWARE,
+SOFTWARE, OR OTHER EQUIPMENT OR TECHNOLOGY, INCLUDING DAMAGE
+FROM ANY SECURITY BREACH, VIRUS, BUG, TAMPERING, FRAUD, ERROR,
+OMISSION, INTERRUPTION, DEFECT, DELAY IN OPERATION OR TRANSMISSION,
+COMPUTER LINE, NETWORK FAILURE, OR ANY TECHNICAL OR OTHER
+MALFUNCTION; OR (VII) YOUR INABILITY OR FAILURE TO COMPLY WITH THESE
+TERMS OF SERVICE FOR ANY REASON. TO THE FULLEST EXTENT PERMITTED BY
+APPLICABLE LAW, IN NO EVENT WILL THE SQUARE ENIX PARTIES’ TOTAL
+LIABILITY TO YOU, FOR ALL POSSIBLE DAMAGES, LOSSES, AND CAUSES OF
+ACTION, EXCEED AN AMOUNT EQUAL TO THE AMOUNT YOU HAVE PAID SQUARE
+ENIX OVER THE PRECEDING TWELVE (12) MONTHS. NOTHING IN THESE TERMS
+AFFECTS YOUR LEGAL RIGHTS IN YOUR PLACE OF RESIDENCE. IN THE EVENT
+OF A CONFLICT BETWEEN YOUR RIGHTS UNDER APPLICABLE LOCAL LAW AND
+THESE TERMS OF SERVICE, YOUR RIGHTS UNDER APPLICABLE LOCAL LAW WILL
+PREVAIL.
+If you are located in the European Union, or in another jurisdiction that does not allow the
+exclusion or limitation of incidental or consequential damages of the sort that are
+described in this Section 16, then such exclusions and limitations may not apply to you.
+Nothing in these Terms of Service in any way limits our liability to you for: (i) death or
+personal injury caused by our negligence; (ii) fraud or fraudulent misrepresentation; (iii)
+breach of any term implied by applicable law (including the Consumer Rights Act 2015 in
+the United Kingdom) that may not be limited or excluded; or (iv) any other liability that, by
+law, may not be limited or excluded. Subject to this, in no event shall we be liable to you
+for any business losses, and any liability we do have for losses you suffer arising from any
+contract shall not, in respect of any twelve-month period as calculated from the date of
+that contract, exceed the charges payable by you for the relevant Service in that twelve-
+month period or include any losses that were reasonably foreseeable. Losses are
+considered foreseeable where they could have been contemplated by you and us at the
+time we accepted your order.
+17. Waiver of Injunctive and Other
+Equitable Relief
+IF YOU CLAIM TO HAVE INCURRED ANY LOSSES, DAMAGES, OR INJURIES, THEY
+WILL NOT BE IRREPARABLE OR SUFFICIENT TO ENTITLE YOU TO AN INJUNCTION
+OR OTHER EQUITABLE RELIEF. THIS MEANS THAT, IN CONNECTION WITH YOUR
+CLAIM, YOU AGREE THAT YOU WILL NOT SEEK ANY COURT OR OTHER ACTION
+THAT MAY INTERFERE WITH OR PREVENT THE DEVELOPMENT OR EXPLOITATION
+OF ANY PRODUCT, GAME, SERVICE, OR OTHER INTELLECTUAL PROPERTY
+OWNED, LICENSED, USED, OR CONTROLLED BY SQUARE ENIX.
+18. Additional Provisions
+A.     Updates to Terms of Service. Square Enix reserves the right to modify these
+Terms of Service at any time, including by posting updated terms on the Services (subject
+to applicable law). By continuing to use the Services after any such update you consent to
+the changes to the Terms of Service. You may also be asked to affirmatively consent to
+updates to these Terms of Service, and may be prevented from continuing to use the
+Services if you decline to accept such an update.
+B.     Applicable Law and Venue. Except as stated otherwise, these Terms of Service will
+be governed by and resolved in accordance with the following:
+If you are in the American Region, these Terms of Service will be governed by the
+laws of the State of California, United States, subject to the exclusive jurisdiction of
+the state and federal courts located in Los Angeles, California, United States.
+If you are in the EMEA-Asia Region, these Terms of Service will be governed by
+English law, except that if you live in a country of the European Union other than
+England (which, for the purpose of this paragraph, includes Scotland and Northern
+Ireland) there may be certain mandatory applicable laws of your country that apply for
+your benefit and protection in addition to or instead of certain provisions of English
+law. You agree that any dispute between you and us regarding these terms or any
+contract will only be dealt with by the English courts, except that if you live in a
+country of the European Union you can choose to bring legal proceedings either in
+your country or in England. If you live in the European Union and we bring legal
+proceedings against you, we must do so in your country. The European Online
+Dispute Resolution platform, currently available at http://ec.europa.eu/consumers/odr,
+provides information about alternative dispute resolution which may be of interest to
+you.
+C.     Indemnity. You agree to defend, indemnify, reimburse, and hold harmless the
+Square Enix Parties from and against any and all claims, demands, losses, liabilities, or
+expenses (including attorneys’ fees) incurred in connection with your User-Generated
+Content, use of the Services, violation of these Terms of Service, or violation of any
+person or entity’s intellectual property rights or other rights. We retain the exclusive right
+to assume the defense and control of any matter that is otherwise subject to
+indemnification by you under this paragraph, and you agree to cooperate with Square
+Enix in asserting any available defenses.
+D.     Export Controls. You will not export, re-export, or otherwise download or transfer
+the Services to any country, jurisdiction, or person if doing so would violate the export
+control laws of the United States or another country. You are responsible for complying
+with all applicable trade regulations, laws, and export controls. Without limiting the
+foregoing, you represent and warrant that: (i) you are not located in a country that is
+subject to a U.S. Government embargo, or that has been designated by the U.S.
+Government as a “terrorist supporting” country; and (ii) you are not listed on any U.S.
+Government list of prohibited or restricted parties.
+E.     Severability. If any provision of these Terms of Service is found to be invalid,
+unlawful, void, or unenforceable, then that provision will be deemed severable and its
+invalidity will not affect the validity or enforceability of the remainder of these Terms of
+Service.
+F.     Interpretation. To the extent permitted by applicable law, you waive any rights under
+applicable statutory or common law that may permit a contract to be construed against its
+drafter. Wherever the word “including” is used in these Terms of Service it is deemed to
+mean “including, without limitation.”
+G.     Cooperation with Law Enforcement. Subject to applicable law, Square Enix
+reserves the right to involve and cooperate with law enforcement authorities in
+investigating any matters at any time without notice to you and with or without the receipt
+of a formal subpoena, search warrant, or other legal process. You acknowledge and agree
+that Square Enix may provide your electronic communications and data, including emails
+and chat logs, to such law enforcement authorities without any liability to you or any third
+party, unless prohibited by law.
+H.     Survival. In the event these Terms of Service are terminated then any terms that by
+their nature apply after such termination shall survive, including the rights and licenses
+you grant to Square Enix, indemnities, releases, disclaimers, limitations of liability, and
+provisions regarding jurisdiction, choice of law, no class action (if applicable in your
+country), and mandatory arbitration (if applicable in your country).
+I.     Assignment. Square Enix may assign its rights and obligations under these Terms of
+Service, in whole or in part, to any person or entity at any time without notice to you. You
+may not assign these Terms of Service without our prior written consent.
+J.     No Waiver. No failure or delay by you or Square Enix in exercising any rights,
+powers, or remedies will operate as a waiver, and no waiver of any term of these Terms of
+Service will be effective unless in writing and signed by the party against whom the waiver
+is sought to be enforced.
+K.     Entire Agreement. These Terms of Service, together with the Privacy Notice,
+Additional Terms, and any other terms of use relevant to your use of the Services,
+constitute the entire understanding and agreement between the parties with respect to
+your use of the Services and supersede any and all prior or contemporaneous oral or
+written communications.
+L.     Third-Party Rights. Except as expressly indicated herein, these Terms of Service
+are not intended to confer any rights or remedies on any person other than the parties to
+these Terms of Service, except that any Square Enix Party may enforce any right or
+remedy expressly conferred on such Square Enix Party under these Terms of Service.
+M.     Plugin Licenses / Content Protection. The Services may incorporate certain third-
+party plug-ins and/or content protection technology, which are governed by the open
+source licenses and other provisions ascribed to them. A list of third-party plug-ins and/or
+content protection technology used by the Services can be found at the following URL as
+at the date below: https://square-enix-games.com/en_GB/documents/plugin-licenses-
+content-protection

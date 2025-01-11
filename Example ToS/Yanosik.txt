@@ -1,0 +1,315 @@
+Regulamin świadczenia usługi Yanosik
+§ 1 Postanowienia ogólne
+1. Niniejszy regulamin określa zakres i warunki wykonywania przez Neptis usługi dostępu do systemu Yanosik.
+2. Niniejszy regulamin został wydany na podstawie ustawy o świadczeniu usług drogą elektroniczną.
+3. Neptis świadczy Usługi drogą elektroniczną zgodnie z Regulaminem.
+4. Użytkownik zobowiązany jest do przestrzegania postanowień Regulaminu.
+§ 2 Definicje
+Użyte w niniejszym regulaminie określenia posiadają następujące znaczenie:
+NEPTIS – Neptis SA z siedzibą przy ulicy Perkuna 25 w Poznaniu, wpisana do Rejestru Przedsiębiorców Krajowego Rejestru Sądowego, prowadzonego przez
+Sąd Rejonowy Poznań – Nowe Miasto i Wilda w Poznaniu, VIII Wydział Gospodarczy Krajowego Rejestru Sądowego, pod numerem KRS: 0000447152, NIP:
+9721187720, Regon 300942514, o kapitale zakładowym w wysokości 100.000,00 złotych.
+Użytkownik  - osoba fizyczna, osoba prawna lub inna jednostka organizacyjna niebędąca osobą prawną, której ustawa przyznaje zdolność prawną,
+prowadząca we własnym imieniu działalność gospodarczą lub zawodową, która zakupiła Terminal Yanosik.
+Terminal – urządzenie Yanosik z odbiornikiem GPS oraz preinstalowaną kartą SIM podłączone przez Użytkownika do źródła zasilania (zapalniczki
+samochodowej) znajdującego się na wyposażeniu pojazdu.
+Usługa – pakiet transmisji danych umożliwiający dostęp do systemu Yanosik na terenie Polski
+System Yanosik – teleinformatyczny system wymiany informacji drogowej pomiędzy Użytkownikami oparty na technologiach GPS i GPRS.
+Aktywacja usługi – przesłanie przez Użytkownika do Neptis wiadomości tekstowej SMS zawierającą numer urządzenia oraz adres e-mail Użytkownika wg
+schematu i na numer wskazany na opakowaniu Terminala.
+Okres ważności – przedział czasowy na jaki została wykupiona usługa.
+Numer Terminala – unikalny numer Terminala zamieszczony w formie naklejki z kodem kreskowym na urządzeniu oraz opakowaniu.
+Newsletter usługa dostarczania przez
+NEPTIS na wyraźną zgodę Użytkownika bezpłatnych , cyklicznych informacji na temat oferty NEPTIS, na adres poczty elektronicznej podany przez
+Użytkownika.
+Regulamin - niniejszy regulamin.
+§3 Poufność danych
+1. Neptis zgodnie z obowiązującymi przepisami prawa zachowuje należytą staranność, w zakresie przestrzegania tajemnicy dotyczącej w szczególności
+poufności informacji przekazywanych podczas korzystania z usług oraz danych dotyczących Użytkowników, a także informacji o świadczonych na rzecz
+Użytkowników usługach, jeżeli nie są jawne z zasady lub ich ujawnienie nie jest niezbędne dla prawidłowego świadczenia usług, których dotyczą.
+2. Informacje objęte tajemnicą mogą być przetwarzane przez Neptis jeżeli stanowi to przedmiot usługi świadczonej Użytkownikom, jest niezbędne dla jej
+prawidłowego wykonania lub nadzoru nad prawidłowym działaniem systemu teleinformatycznego Neptis.
+3. Neptis zachowuje należytą staranność, w zakresie uzasadnionym względami technicznymi lub ekonomicznymi, przy zabezpieczaniu urządzeń
+teleinformatycznych, sieci teleinformatycznych oraz zbiorów danych przed ujawnieniem danych poufnych w rozumieniu niniejszego paragrafu.
+4. W ramach świadczonych usług Neptis jest uprawniony do pobierania, gromadzenia i dysponowania, w tym udostępniania, danych zebranych z urządzeń w
+oparciu o system teleinformatyczny Neptis, zgodnie z dodatkowymi funkcjami urządzeń GPS nie stanowiącymi treści usługi z zastrzeżeniem iż w ramach
+powyższych czynności nie będzie następowała identyfikacja podmiotu generującego dane.
+5. Neptis zastrzega sobie prawo do wykorzystywania danych opisanych w pkt 4. powyżej przy zachowaniu identyfikacji podmiotu generującego dane na
+potrzeby kontaktów pomiędzy Neptis a Użytkownikiem oraz w celu realizacji przez Neptis zleceń i świadczenia usług.
+§4 Usługa Yanosik
+1. Poprzez Usługę Yanosik w myśl niniejszego Regulaminu rozumie się umożliwienie Użytkownikom wymiany informacji drogowych w czasie rzeczywistym z
+innymi Użytkownikami systemu Yanosik za pomocą Terminala.
+2. Neptis może modyfikować zakres oferowanych usług bez konieczności zmiany Regulaminu, przy czym zakres ten nie może być węższy niż powyżej.
+§5 Warunki techniczne i ewentualne zagrożenia
+1. Do prawidłowego funkcjonowania Usługi Yanosik i współpracy z systemem teleinformatycznym Neptis wymagane są:
+a. posiadanie sprawnego Terminala Yanosik
+b. pojazd wyposażony w sprawne gniazdo zapalniczki samochodowej o napięciu 12 V.
+2. Neptis zastrzega, że korzystanie z usług może wiązać się ze szczególnymi zagrożeniami, które określone zostały w Załączniku numer 1. do Regulaminu,
+który zawiera jednocześnie informacje o funkcji i celu oprogramowania dodatkowego lub danych nie stanowiących treści Usługi.
+§6 Aktywacja i dostęp do Usługi
+Pierwsze 10 km przejechanych z Terminalem nie wymaga jego aktywacji.
+Po przekroczeniu dystansu 10 km należy aktywować usługę poprzez wysłanie wiadomości SMS wg wytycznych na opakowaniu. W przeciwnym wypadku
+urządzenie utraci funkcjonalność co będzie potwierdzone stosownym komunikatem na Terminalu.
+Aktywacja usługi poprzez SMS umożliwia korzystanie z pełnej funkcjonalności Terminala oraz uruchamia pakiet transmisji danych.
+Opłata za usługę musi zostać uregulowana w ciągu 30 dni liczonych od daty aktywacji Usługi poprzez SMS. W przeciwnym wypadku Terminal utraci
+funkcjonalność.
+Aktywacja urzadzenia, jak i przedłużenie transmisji musi odbywać się na terenie Polski.
+Datą uruchomienia pakietu transmisji danych jest data aktywacji usługi za pomocą SMS.
+Zakup usługi w okresie późniejszym niż termin wskazany w pkt. 4 nie powoduje zmiany daty aktywacji SMS.
+Użytkownik uzyskuje dostęp do Usługi po :
+aktywacji urządzenia za pomocą wiadomości tekstowej SMS, która jest jednoznaczna z akceptacją niniejszego Regulaminu,
+podłączeniu Terminala do źródła zasilania.
+Neptis uruchamia usługę niezwłocznie za wyjątkiem aktywacji SMS zawierającej niepoprawny format danych – inny niż wskazany na opakowaniu.
+Właścicielem kart SIM wbudowanych w urządzeniach jest Neptis S.A
+§7 Prace konserwacyjne
+1. Neptis zastrzega sobie prawo do prowadzenia prac konserwacyjnych systemu teleinformatycznego mogących powodować czasowe utrudnienia lub
+uniemożliwienie korzystania z usług przez Użytkowników.
+2. Terminy wskazanych powyżej prac konserwacyjnych oraz przewidywany czas ich trwania będą publikowane na stronie www.Yanosik.pl przed rozpoczęciem
+prac.
+3. W szczególnych przypadkach mających wpływ na bezpieczeństwo lub stabilność systemu teleinformatycznego Neptis zastrzega sobie prawo do czasowego
+zaprzestania lub ograniczenia świadczenia usług, bez wcześniejszego powiadomienia, celem przywrócenia bezpieczeństwa i stabilności systemu
+teleinformatycznego.
+§ 8 Zawarcie Umowy
+Złożenie zamówienia oraz dokonanie płatności oznacza przyjęcie oferty zawarcia umowy złożonej przez Neptis. Przyjęcie oferty jest równoznaczne z
+zaakceptowaniem Regulaminu.
+§ 9 Czas trwania Umowy
+Umowa o świadczenie usługi Yanosik zawierana jest na czas określony zgodny z okresem na jaki dokonana została płatność i liczony jest od dnia rozpoczęcia
+świadczenia usługi przez Neptis.
+§ 10 Rozwiązanie Umowy
+1. Neptis ma prawo rozwiązać Umowę i zaprzestać świadczenia Usługi bez obowiązku zwrotu całości lub części opłaty w następujących przypadkach:
+a. stwierdzenia naruszenia przez Użytkownika postanowień Regulaminu, Umowy, bądź przepisów prawa,
+b. wykorzystywania przez Użytkownika Usługi niezgodnie z jej przeznaczeniem,
+c. Użytkownik wykorzystuje usługę niezgodnie z przepisami prawa.
+2. Użytkownik ma prawo do rozwiązania Umowy bez zachowania terminu wypowiedzenia w przypadku rażącego nieprzestrzegania przez Neptis warunków
+Umowy.
+3. Z dniem rozwiązania Umowy Neptis zaprzestaje świadczenia na rzecz Użytkownika Usług objętych rozwiązaną Umową.
+4. W przypadku rozwiązania Umowy z winy Użytkownika nie podlegają zwrotowi poniesione opłaty.
+5. Aktywacja abonamento to natychmiastowe wykonanie umowy o świadczenie usług i przyjmuję do wiadomości, że utracę przysługujące mi prawo do
+odstąpienia od umowy z chwilą pełnego wykonania umowy o świadczenie usług.
+§ 11 Wygaśnięcie Umowy
+1. Umowa wygasa wskutek upływu czasu na jaki została zawarta, chyba że Użytkownik dokona płatności na kolejny okres.
+2. O terminie zakończenia ważności pakietu Neptis poinformuje Użytkownika z 7-dniowym wyprzedzeniem.
+§ 12 Opłaty, zasady ich naliczania, rachunki.
+1. Opłata za Usługę pobierana jest z góry na okres adekwatny do aktualnej oferty dostępnej na www.yanosik.pl
+2. Zmiany dotyczące opłat za usługi będą obowiązywać  aktualnych Użytkowników po upływie ich okresu ważności. Pozostałe zmiany obowiązują od dnia
+wejścia ich w życie.
+3. Zmiany cen usług nie stanowią zmiany warunków Umowy i nie wymagają jej wypowiedzenia, ani zmiany.
+4. Zakup produktu możliwy będzie m.in. przy pomocy karty płatniczej Visa, Visa Electron MasterCard, MasterCard Eletronic oraz Maestro.
+5. W przypadku dokonania zwrotu towaru dla zamówienia opłaconego kartą płatniczą, Klient otrzyma środki na rachunek karty płatniczej użytej do opłacenia
+zamówienia.
+§ 13 Odpowiedzialność Neptis
+1. Neptis nie ponosi odpowiedzialności:
+a. w przypadku nie zapewnienia przez Użytkownika pojazdu wyposażonego w poprawnie funkcjonujące źródło zasilania
+b. wobec Użytkownika za szkody powstałe w związku z niewykonaniem bądź nienależytym wykonaniem niniejszej Umowy, wyłącznie na zasadzie winy
+umyślnej,
+c. za brak dostępu do Usług wynikający z przyczyn od niego niezależnych,
+d. za szkody wynikłe z niewykonania lub nienależytego wykonania Usługi będących następstwem w szczególności:
+i. siły wyższej rozumianej jako zdarzenie nadzwyczajne, zewnętrzne, któremu nie można było zapobiec,
+ii. nieprawidłowego lub niepełnego funkcjonowania systemów zewnętrznych z którymi współpracuje system a mianowicie miedzy innymi GPS, GPRS
+(transmisja danych z wykorzystaniem sieci telefonii komórkowych),
+iii. utratę przez Użytkownika danych spowodowanych działaniem czynników zewnętrznych (np. awaria sprzętu, oprogramowania, itd.) lub też innymi
+okolicznościami niezależnymi od Usługodawcy (działanie osób trzecich),
+iv. prowadzonych stosownie do postanowień niniejszego Regulaminu prac konserwacyjnych,
+v. korzystania przez Użytkowników z usług w sposób sprzeczny z Regulaminem lub przepisami prawa,
+vi. braku ciągłości dostarczania Usług, będące następstwem okoliczności, za które Neptis nie ponosi odpowiedzialności,
+vii. innych okoliczności, za które w myśl przepisów kodeksu cywilnego zobowiązany do świadczenia nie ponosi odpowiedzialności.
+e. wobec osób trzecich, którym Użytkownik udostępnił korzystanie z usługi Yanosik,
+f. za szkody powstałe w związku z udostępnieniem bądź korzystaniem z usług przez osoby trzecie, w szczególności z tytułu wykorzystania danych przez
+osoby nieuprawnione lub w celu niezgodnym z przeznaczeniem systemu.
+2. Odpowiedzialność Neptis dotyczy jedynie szkody rzeczywistej, a nie obejmuje utraconych przez Użytkownika korzyści i ograniczona jest do wysokości
+poniesionej wpłaty.
+3. W przypadku niewywiązania się bądź nienależytego wywiązania się z postanowień Umowy, z wyłączeniem sytuacji, za które Neptis nie ponosi
+odpowiedzialności, na pisemny wniosek Użytkownika Neptis może przyznać odszkodowanie.
+§ 14 Odstąpienie od Umowy
+1. Użytkownik będący konsumentem w rozumieniu art. 221 ustawy kodeks cywilny przy zakupie przez Internet, może bez podania jakiejkolwiek przyczyny
+odstąpić od Umowy w terminie 14 dni od daty otrzymania Usługi.
+2. W przypadku odstąpienia przez Użytkownika od Umowy, musi on poinformować o tym Neptis poprzez złożenie jednoznacznego oświadczenia o odstąpieniu.
+3. Użytkownik może złożyć oświadczenie o odstąpieniu od Umowy w formie wypełnionego formularza odstąpienia od Umowy (Załącznik nr 2) lub
+jakiegokolwiek innego oświadczenia, według swojego wyboru.
+4. Do zachowania terminu do odstąpienia od umowy wystarczy wysłanie oświadczenia o odstąpieniu od umowy przed upływem terminów określonych w
+Regulaminie.
+5. Jeżeli Użytkownik odstąpi od umowy, Neptis zwróci mu wszystkie otrzymane od niego płatności.
+6. Użytkownik otrzyma od Neptis zwrot płatności niezwłocznie, a w każdym przypadku nie później niż w terminie 14 dni roboczych od dnia, w którym Neptis
+otrzymał oświadczenie Użytkownika o odstąpieniu od umowy, przy użyciu takich samych sposobów płatności, jakie zostały przez Użytkownika użyte w
+pierwotnej transakcji. W przypadku, gdy z przyczyn niezależnych od Neptis ustalenie numeru rachunku bankowego, na który ma zostać dokonany zwrot
+płatności, nie jest możliwe, Neptis niezwłocznie skontaktuje się z Użytkownikiem za pomocą poczty elektronicznej lub telefonicznie w celu ustalenia numeru
+rachunku bankowego do zwrotu płatności. W takim wypadku bieg 14-dniowego terminu rozpoczyna się w dniu, w którym Użytkownik dokonał wskazania
+takiego numeru rachunku bankowego.
+§ 15 Reklamacje
+1. Użytkownik jest uprawniony do składania reklamacji w sprawach dotyczących usług.
+2. Reklamacje dotyczące usług świadczonych na podstawie niniejszego Regulaminu należy zgłaszać w formie pisemnej listem skierowanym do Działu
+Reklamacji na następujący adres Neptis S.A., Dział Reklamacji ul. Perkuna 25, 61-615 Poznań lub na adres mailowy serwis@yanosik.pl.
+3. Za dzień wniesienia reklamacji przyjmuje się dzień wpływu do Neptis listu zawierającego zgłoszenie reklamacyjne.
+4. Prawidłowo złożona reklamacja powinna zawierać co najmniej następujące dane:
+a. oznaczenie Użytkownika,
+b. numer seryjny Terminala
+c. określenie przedmiotu reklamacji,
+d. przytoczenie okoliczności uzasadniających reklamacje,
+e. oczekiwany przez Użytkownika sposób rekompensaty.
+5. Reklamacje nie zawierające powyższych danych nie będą rozpatrywane.
+6. Zgłoszona reklamacja zostanie rozpatrzona w terminie 14 dni od daty jej wniesienia.
+7. O rozpatrzeniu reklamacji Dział Reklamacji poinformuje Użytkownika w piśmie zawierającym stanowisko Neptis w sprawie uznania bądź nieuznania
+reklamacji, uzasadnienie faktyczne oraz prawne, a także pouczenie o trybie odwoławczym. Jeżeli Neptis nie ustosunkuje się do reklamacji złożonej przez
+Użytkownika będącego konsumentem w terminie 14 dni od dnia jej otrzymania, uznaje się, że Neptis uznał reklamację za uzasadnioną.
+8. Jeżeli Neptis uzna reklamację za uzasadnioną, Użytkownik może wybrać pomiędzy przedłużeniem terminu ważności usługi o czas w jakim z winy Neptis nie
+była świadczona lub zażądać zwrotu za każdy dzień, zgodnie z zasadą pro rata temporis.
+9. W przypadku zwrotu niewykorzystanej części transmisji danych kwota podlegająca zwrotowi zostanie zwrócona na wskazany przez Użytkownika
+rachunek bankowy po uprzednim podpisaniu i dostarczeniu wymaganych prawem dokumentów finansowo-księgowych.
+10. Jeśli jednak Neptis nie dokona czynności wymienionych w pkt. 8 powyżej, a wada Usługi będzie istotna, Użytkownik może odstąpić od Umowy. Prawo
+odstąpienia od Umowy przysługuje Użytkownikowi bez względu na to, czy wada jest istotna, jeśli Usługa była już wymieniana na wolną od wad lub naprawiana,
+albo jeżeli Neptis nie uczynił zadość obowiązkowi wymiany lub usunięcia wady.
+11. Jeżeli reklamacja okaże się zasadna, jej koszty pokrywa Neptis.
+12. W wypadku negatywnego rozpatrzenia reklamacji, Użytkownik ma prawo wnieść pisemne odwołanie do Działu Reklamacji w terminie 14 dni od daty
+doręczenia pisma informującego o negatywnym rozpatrzeniu reklamacji. Wniesienie odwołania nie wpływa na obowiązek zapłacenia kwestionowanej kwoty.
+§ 16 Zmiana Regulaminu
+1. Neptis ma prawo do jednostronnej zmiany Regulaminu. Zmiany Regulaminu wchodzą w życie po upływie 7 dni od daty umieszczenia zmienionego
+Regulaminu w witrynie WWW o następującym adresie www.Yanosik.pl.
+2. Neptis poinformuje Użytkowników o wszelkich zmianach Regulaminu umieszczając odpowiednie informacje na stronie www.yanosik.pl
+3. Zmiany Regulaminu nie uprawniają Użytkowników do wypowiedzenia Umowy.
+§ 17 Poufność i dane osobowe
+1. Administratorem Danych Osobowych jest Neptis S.A., ul. Perkuna 25, 61-615 Poznań, który przetwarza dane osobowe zgodnie z przepisami prawa, w tym w
+szczególności z przepisami Rozporządzenia Parlamentu Europejskiego i Rady 2016/679 z dnia 27 kwietnia 2016 r., ustawy z dnia 10 maja 2018 r. o ochronie
+danych osobowych (Dz.U. z 2018 r. poz. 1000 ze zm.) oraz ustawy z dnia 18 lipca 2002 roku o świadczeniu usług drogą elektroniczną (Dz.U. z 2019 r. poz. 123
+ze zm.).
+2.W momencie akceptacji niniejszego Regulaminu, Użytkownik wyraża zgodę na przetwarzanie jego danych osobowych  przez Neptis S.A. do celów realizacji
+umowy o świadczenie usług Yanosik, zgodnie z warunkami niniejszego Regulaminu.
+3. W przypadku wyrażenia przez Klienta dodatkowej zgody dane osobowe będą przetwarzane przez Neptis S.A. w celu informowania Klienta o nowych
+towarach, promocjach i usługach.
+4. Każdy ma prawo wglądu do swoich danych osobowych, poprawiania ich oraz żądania usunięcia,
+5. Podanie danych osobowych jest dobrowolne, jednak brak zgody na ich przetwarzanie uniemożliwia zrealizowanie umowy o świadczenie usługi Yanosik.
+Klient ponosi odpowiedzialność za podanie nieprawdziwych danych osobowych.
+6. W kwestii ochrony danych osobowych Użytkownik może skontaktować się z Administratorem za pośrednictwem wyznaczonego przez niego Inspektora
+Ochrony Danych Osobowych poprzez wiadomość e-mail wysłaną pod adres odo@neptis.pl.
+§ 18 Newsletter
+1. Administratorem danych jest NEPTIS S.A. z siedzibą przy ul. Perkuna 25, 61-615 Poznań.
+2. Dane osobowe zbierane są w celu świadczenia usługi „Newsletter”, w związku z którą Neptis S.A. pozyskuje od osób zainteresowanych adresy poczty
+elektronicznej.
+3.Każdy posiada prawo dostępu do treści swoich danych oraz możliwości ich poprawiania
+4. Podanie danych osobowych jest dobrowolne, jednak niezbędne do realizacji usługi „Newsletter”.
+§19 Prawo właściwe, rozwiązywanie sporów, nagłówki
+1. Wskazane w niniejszym Regulaminie nagłówki mają wyłącznie charakter pomocniczy i pozostają bez wpływu na wykładnię jego postanowień.
+2. Regulamin oraz Umowy o świadczenie usługi podlegają prawu polskiemu.
+3. W sprawach nieuregulowanych w Regulaminie zastosowanie mają przepisy Kodeksu cywilnego oraz innych bezwzględnie obowiązujących przepisów prawa.
+4. Właściwym do rozstrzygania sporów powstałych na gruncie Regulaminu bądź umów o świadczenie usługi jest sąd powszechny właściwy miejscowo dla
+siedziby Neptis.
+ 
+.................................................................
+ 
+Załącznik nr 1
+
+do Regulamin świadczenia usługi Yanosik z dnia 15.05.2019 r.
+Zagrożenia związane z korzystaniem z usług
+§ 1 Zagrożenia związane z korzystanie z usług drogą elektroniczną
+1. Korzystanie z usług świadczonych drogą elektroniczną niesie za sobą możliwość „zainfekowania” systemu teleinformatycznego przez różnego rodzaju
+oprogramowanie tworzone głównie w celu wyrządzania szkód. Takim oprogramowaniem są m.in.:
+a. konie trojańskie czyli specjalne programy ukryte wewnątrz innych programów, mające na celu umożliwienie uzyskanie dostępu i przejęcie kontroli
+nad komputerem użytkownika. Koń trojański może udawać wygaszacz ekranu, grę lub każde inne pozornie pożyteczne, nieszkodliwe
+oprogramowanie. Nieświadomy użytkownik samodzielnie uruchamia program, najczęściej otrzymany pocztą elektroniczną od nieprzyjaznego mu
+nadawcy. Najlepszą ochroną przed koniami trojańskimi jest ostrożne traktowanie oprogramowania otrzymanego z niepewnych źródeł - nieznanych
+nadawców lub stron WWW. Istnieje oprogramowanie chroniące przed koniami trojańskimi rozpowszechnianymi przy pomocy poczty elektronicznej,
+informujące o zagrożeniach w konkretnych wiadomościach, rozbrajając potencjalnie niebezpieczne załączniki i wskazując sposoby bezpiecznego
+ich otwierania.
+b. wirusy czyli programy, których głównym celem jest powielanie się i rozpowszechnianie. Obecnie do tego celu najczęściej używana jest poczta
+elektroniczna i sieci P2P. W przypadku zainfekowania wirus bez wiedzy użytkownika rozsyła się do osób, których adresy znalazł w książce
+adresowej lub w historii korespondencji. Aby jak najdłużej pozostać ukryty wirus podaje fałszywego nadawcę wiadomości, najczęściej także adres
+znaleziony w programie pocztowym ofiary. Odbiorcy w pierwszej chwili trudno zidentyfikować zarażony komputer. Nie mając pewności co do
+personaliów prawdziwego nadawcy nie należy odpowiadać na takie wiadomości, gdyż dodatkowo potęguje to obciążenie sieci generowane przez
+działalność wirusów. Oprócz rozmnażania się wirusy najczęściej wykazują także typowo destrukcyjne zachowania, na przykład kasują pliki lub
+uszkadzają system na zarażonym komputerze. Wirusy mogą także zarażać inne programy znalezione w systemie doklejając do nich swój kod.
+Najskuteczniejszą metodą zabezpieczenia się przed wirusami jest używanie bezpiecznego programu skonfigurowanego w sposób uniemożliwiający
+działanie wirusów.
+1. By uniknąć w/w zagrożeń, w tym pojawiających się w momencie otwierania e-mail’i, ważne jest, by Użytkownik zaopatrzył swój komputer, który
+wykorzystuje podłączając się do Internetu, w program antywirusowy i stale go aktualizował, instalując jego najnowsze wersje, niezwłocznie po pojawieniu
+się ich na rynku. Usługodawca informuje również, że szczególne zagrożenia związane z korzystaniem z usługi świadczonej drogą elektroniczną, w tym i
+opisywanej w Regulaminie, wiążą się z działalnością tzw. hackerów, zmierzających do włamania się zarówno do systemu Usługodawcy (np. ataki na jego
+witryny), jak i Użytkownika. Użytkownik przyjmuje zatem do wiadomości, że mimo stosowania przez Usługodawcę rozmaitych, nowoczesnych technologii
+„obronnych” nie istnieje perfekcyjne zabezpieczenie chroniące przed opisanymi wyżej niepożądanymi działaniami. 
+ 
+.................................................................
+ 
+Załącznik nr 2.
+
+do Regulamin świadczenia usługi Yanosik z dnia 15.05.2019 r.
+FORMULARZ ODSTĄPIENIA OD UMOWY
+ADRESAT:
+NEPTIS SPÓŁKA AKCYJNA
+UL. PERKUNA 25
+61-615 POZNAŃ
+ 
+UŻYTKOWNIK:
+Imię i nazwisko/nazwa Użytkownika:
+Adres:
+e-mail:
+tel. Kontaktowy:
+OŚWIADCZENIE O ODSTĄPIENIU
+Informuję niniejszym o moim odstąpieniu od umowy usługi Yanosik:
+Numer urządzenia:
+Cena brutto:
+Data zawarcia umowy:
+Zaznacz sposób zwrotu płatności:
+ zwrot płatności przy użyciu takich samych sposobów płatności, jakie zostały użyte w pierwotnej transakcji, albo
+ zwrot płatności na rachunek bankowy prowadzony przez bank:
+…………………………………………………………………………………………………………………
+o numerze:
+…………………………………………………………………………………………………………………
+POUCZENIE
+o prawie odstąpienia od umowy usługi Yanosik
+Mają Państwo prawo odstąpić od umowy w terminie 14 dni bez podania jakiejkolwiek przyczyny.
+Termin odstąpienia od umowy wygasa po upływie 14 dni od dnia zawarcia umowy.
+Aby skorzystać z prawa odstąpienia od umowy, muszą Państwo poinformować nas (Neptis S.A. z siedzibą w Poznaniu (61-615) przy ul. Perkuna 25) o
+swojej decyzji o odstąpieniu od umowy w drodze jednoznacznego oświadczenia. Mogą Państwo skorzystać z niniejszego wzoru formularza odstąpienia.
+Aby zachować termin do odstąpienia od umowy wystarczy, aby wysłali Państwo informację dotyczącą wykonania przysługującego Państwu prawa
+odstąpienia od umowy przed upływem terminu odstąpienia od umowy.
+Nie mogą jednak odstąpić Państwo od umowy, której przedmiotem jest świadczenie usługi drogą elektroniczną, jeżeli spełnione są następujące warunku
+wskazane w Regulaminie:
+wyrazili Państwo zgodę na dostarczanie Państwu usługi przed upływem terminu 14 dni od dnia zawarcia umowy, oraz
+zostali Państwo poinformowani przez Neptis S.A. o utracie przysługującego Państwu prawa do odstąpienia od umowy wskutek wyrażenia zgodny
+dostarczanie usługi, przed udzieleniem takiej zgody.
+W przypadku odstąpienia od umowy, zwracamy Państwu wszystkie otrzymane od Państwa płatności niezwłocznie, a w każdym przypadku nie później niż
+14 dni od dnia, w którym zostaliśmy poinformowani o Państwa decyzji o wykonaniu prawa odstąpienia od umowy lub wskazania przez Państwa numeru
+rachunku bankowego, w przypadkach wskazanych w Regulaminie. Zwrotu płatności dokonamy przy użyciu takich samych sposobów płatności, jakie
+zostały przez Państwa użyte w pierwotnej transakcji, chyba że wyraźnie wybraliście Państwo inne rozwiązanie (zwrot płatności na wskazany rachunek
+bankowy), w każdym przypadku nie poniosą Państwo żadnych opłat w związku z tym zwrotem.
+Zapoznałem(/-am) się z Regulaminem świadczenia usługi Yanosik i zawartymi w nim zasadami dokonywania odstąpienia.
+Imię, Nazwisko i podpis Użytkownika:____________________                Data:______________________
+ 
+ 
+.................................................................
+ 
+Załącznik nr 3.
+do Regulamin świadczenia usługi Yanosik z dnia 15.05.2019 r.
+FORMULARZ REKLAMACJI
+Niniejszym składam reklamację w odniesieniu do usługi Yanosik:
+ADRESAT:
+NEPTIS SPÓŁKA AKCYJNA
+UL. PERKUNA 25
+61-615 POZNAŃ
+UŻYTKOWNIK:
+Imię i nazwisko Użytkownika:
+Adres:
+e-mail:
+tel. Kontaktowy:
+USŁUGA:
+Numer urządzenia:
+Cena brutto:
+Numer seryjny Terminala:
+Data zawarcia umowy:
+Data rozpoczęcia świadczenia usługi:
+Data stwierdzenia wady:
+PRZYCZYNA REKLAMACJI:
+ usługa niekompletna:
+ usługa złej jakości:
+ wada ukryta:
+ wada jawna:
+ Inna (jaka?): ……………………………………………………………………………
+Opis przyczyny reklamacji:
+………………………………………………………………………………………………………………………………………………………………………………………………
+Żądanie w przypadku reklamacji:
+ Wymiana
+ Naprawa
+ Obniżenie rachunku o usługę (jakie?): …………………………………………………………
+ Inne (jakie?): …………………………………………………………………………………………………
+POUCZENIE:  Szczegółowe zasady dokonywania i rozpatrywania reklamacji zawarte są w Regulaminie usługi Yanosik, dostępnego pod adresem
+http://yanosik.pl
+Zapoznałem(/-am) się z Regulaminem świadczenia usługi Yanosik oraz z zawartymi w nim zasadami dokonywania i rozpatrywania reklamacji.
+Imię, Nazwisko i podpis Użytkownika:____________________                Data:______________________

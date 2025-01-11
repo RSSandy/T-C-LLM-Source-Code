@@ -1,0 +1,299 @@
+PayPay Terms of Use of Service
+Part 1 General Guidelines
+The general guidelines apply to all persons who utilise the services of PayPay Corporation
+(hereinafter referred to as “Our Company”).
+Chapter 1 General Provisions
+1. Utilisation of Our Company’s Services
+A person may use Our Company’s services by giving its consent to these Terms of Use.
+2. Warranties, Changes and Subcontracting
+Relating to Services
+Our Company disclaims any warranty that the contents of services provided by Our Company is free
+of any defects and bugs.
+Further, Our Company may, without giving any prior notice to the users, change contents or
+specifications of services, or suspend or discontinue the provision thereof.
+Our Company may subcontract all or part of the services provided by Our Company to any third
+party (including those located in foreign countries); provided, however, that it will be subject to the
+conditions that such third party is bound by the same confidential obligations which Our Company
+has hereunder and implements appropriate measures to protect the Personal Information.
+3. Restriction of Utilisation of Services
+Our Company may make a condition on utilisation of services, such as limiting the range of persons
+who may utilise the services: to the persons who have registered the PayPay account (meaning an
+account for the services which Our Company provides; hereinafter referred to as the “Account”), to
+the persons certain years of age and older, or to the users who meet a certain requirement by
+passing the procedure prescribed by Our Company such as an identity verification.
+Further, Our Company prohibits members of anti-social force (including any person who was such
+member at any point in its past) and their affiliates, persons who are likely to launder money or
+otherwise abuse services, or users who bring troubles on third parties from utilising services.
+4. Registered Information of the Account
+It is the user’s obligation in the case of registering or changing the Account that (1) registering true
+and accurate information, and (2) correcting the registered items by the user itself as necessary so
+as to be updated. If the registered items do not reflect the latest information, Our Company’s
+services may not be available to use.
+Our Company may carry out customer’s identity verification and authentication by using an
+electronic signature certificate stored in My Number card. In such a case, Our Company uses
+certification business information (meaning the certification business information stipulated in
+Article 44 of the Act on the Authentication Services of the Japan Agency for Local Authority
+Information Systems in Connection with Electronic Signatures and Electronic User Certificates (Act
+No. 153 of 2002)) provided by the Japan Agency for Local Authority Information Systems
+(hereinafter referred to as “J-LIS” in order to check validity of an electronic signature certificate.
+Further, in the case of identity verification and authentication using an electronic signature
+certificate stored in My Number card, Our Company may check whether the registered items are the
+latest by using an electronic signature certificate stored in My Number card and issue number of
+the correspondent certificate (i.e. serial number of an electronic certificate for user identification)
+obtained from J-LIS.
+5. Users’ Responsibility Relating to the Account,
+Password, etc.
+With respect to any login via any authentication method for specifying the users which are
+publicised on Our Company’s website or application (including, but not limited to, any authentication
+by confirmation of its correspondence between the registered information and, the combination of
+the Account and password or the code uniquely given to each mobile phone number sent by a
+mobile phone carrier), Our Company deems it the utilisation by such user itself. If any fee or charge
+(regardless of its name such as charge, fee, expenses or others with respect to the utilisation of Our
+Company’s services, and including user’s debt which any third party has outsourced its collection to
+Our Company; hereinafter referred to as the “Charge”) arises from utilisation of services, purchase
+of products, etc., Our Company will claim it to such user.
+6. Compliance Rules on Utilising Services
+Users are prohibited from doing any of the following acts (including any act provoking it or
+preparing for it) with respect to utilisation of Our Company’s services.
+Any act which violates the laws and regulations of Japan or any country or region where the
+user is located at the time of utilisation.
+Any act of posting, publishing, disclosing, providing or transmitting (hereinafter collectively
+referred to as “posting etc.”) of something which: violates the laws and regulations, societal
+norms or public policy; infringes any rights of Our Company or a third party; brings any trouble
+on a third party; or is otherwise inappropriate, such as the following acts etc.
+Act of posting etc. of false information intentionally.
+Act of posting etc. of same comments intentionally at many times.
+Act of posting etc. of enquiries or complaints relating to Our Company’s services, function of
+such services, and accuracy of information provided by such services.
+Act of posting etc. of something containing any information by which an individual can be
+identified such as a photo of principal, name of a third party, email address, address, phone
+number or person under recognisable condition, etc. (including, but not limited to, the cases
+that it is used in a name of the poster or contents of the post).
+Act of posting etc. of something containing any advertisement, commercial message or
+marketing, public offices election campaign, proselytising of certain thought or religion, or
+similar contents.
+Act of posting etc. of something containing contents that grossly provokes or foments
+unruliness, brutality or crime on children or youths, and interferes with their healthy
+development.
+Posting, etc. any indecent information, information harmful for youths, or information relating
+to arranging sexual association with others;
+Act of posting etc. of something in which any oppressiveness or threat against any third
+party is found.
+Act of posting etc. of something containing any discriminatory expression.
+Act of posting etc. of something containing any contents which is or may be against a
+subject or purpose of Our Company’s services.
+Act of posting etc. of something containing any garbled or grotesque contents.
+Act of posting etc. of something containing any contents which intentionally leads someone
+to misunderstand that products or services are superior such as an act of ‘decoy’ etc. 
+Act of posting etc. of something containing any contents which defames competing products
+or services for the purpose of destruction of its confidence.
+Act of posting etc. of program etc. which destroys or obstructs functions of software,
+hardware, etc. under other user’s use.
+Otherwise, act of posting etc. of something which Our Company determines that is
+inappropriate contents or expression for Our Company’s services.
+Any act which destroys or obstructs functions of Our Company’s server or network.
+Any act of unduly accessing to Our Company’s computer such as a server etc., or sending a
+spam email, chain letter, junk email, etc.
+Any act of collecting or storing other user’s Personal Information, Personal Data (as defined in
+the Privacy Policy prescribed by Our Company), etc. without such user’s permission.
+Any act of utilising services for any purpose other than the intrinsic purpose of provision of
+services in the light of intention of provision such as money laundering, cashing purpose, etc.
+Any act of utilising services using other user’s Account.
+Any act of, regardless of its means, acquiring password from any third party, or disclosing or
+providing password to any third party.
+7. Prohibition of Reuse of Our Company’s Services
+Etc.
+In the event that a user utilises Our Company’s services or any data which consists them beyond
+purpose of provision of services, Our Company shall have a right to preclude such acts and demand
+the amount equivalent to the benefit which such user has acquired.
+8. Compensation to Our Company
+In the event that Our Company has borne any cost or paid any compensation in connection with the
+complaint caused by a user’s act, such user shall bear the cost, compensation, etc. which Our
+Company has paid (including attorney fees which Our Company has paid).
+9. Handling of User’s Data and Contents
+Our Company shall not have the obligation to make backups of the data which users have saved to
+servers managed by Our Company, and each user must make backups by itself.
+Any act of, relating to Our Company’s services, directly or indirectly providing benefit to anti-
+social force. 
+Any act of which purpose is fraud. 
+Any act of utilising Our Company’s services by any process other than the process which Our
+Company has approved. 
+Any act of modifying Our Company’s services without permission.
+Any act of: discriminating or defaming Our Company or any third party; impairing honour,
+privacy, etc.; or having a risk thereof.
+Any act which obstructs Our Company’s services or advertisement distributed by Our Company,
+or any services or advertisement provided on Our Company’s website and Our Company’s
+application.
+Any act which infringes or may infringe portrait right, copyright, trademark right or other
+intellectual property right of Our Company or any third party, or any act of impersonating Our
+Company or any third party.
+Any act which relates to criminal act.
+Any act which is likely to impair reputation of Our Company, Our Company’s affiliated company
+or Our Company’s alliance partner.
+Any other act which violates or may violate the laws and regulations, public policy or these
+Terms of Use.
+Our Company shall not have the obligation to make backups of the data which users have saved to
+servers managed by Our Company, and each user must make backups by itself. In the case it is
+necessary for maintenance, improvement, etc. of Our Company’s services, Our Company may
+duplicate the data which users have saved in the servers managed by Our Company to the extent
+necessary for maintenance, improvement, etc. services.
+With respect to any contents which a user has made posting etc. on any service to which
+unspecified or large number of users can access such as electric bulletin board systems, copyright
+thereof will belong to such user or copyright holders of such contents.
+With respect to any contents which a user has made posting etc. on Our Company’s services,
+copyright thereof will belong to such user, and such user must warrant that such contents are such
+user’s own creation and they are not involved with any third party’s copyright or other rights;
+provided, that in the cases that it is exceptionally necessary so such contents contain a third party’s
+copyrighted material etc., it must be assumed and warranted that such user processes necessary
+rights-handling with its own responsibility and at its own expense.
+A user is deemed to grant Our Company a non-compensatory and non-exclusive right of utilisation
+(including duplicating, screening, publicly transmitting, exhibiting, distributing, transferring, lending,
+translating, adapting and publishing) of the contents which such user has made posting etc., inside
+or outside of Japan with no time limit (including right to sublicense).
+Further, such users shall not exercise a moral right of author.
+10. Posting of Advertisement
+Our Company may post advertisements of Our Company or any third party who has requested Our
+Company to post it, on the services or software which Our Company provides.
+11. Deletion of Posting Etc., Cease of Utilisation of
+Services, Deletion of the Account
+Our Company may, in order to properly operate the services which it provides, in the event that it
+falls into any of the following items, implement measures such as deleting any data or contents,
+denying utilisation of all or part of Our Company’s services, deleting any user’s Account, or any
+other measures which Our Company reasonably determines it is necessary and appropriate, without
+any prior notice. 
+Our Company may perform identity verification which Our Company determines it is necessary to
+confirm that a user does not fall into any of the following items, and implement measures such as
+denial of access to all or part of services, cease of utilisation, etc. until completion of such identity
+verification. 
+Further, if any user’s Account is deleted, PayPay Balance, usage history and any and all other rights
+and information of such user recorded in such Account will be erased.
+In the event that such user violates these Terms of Use or any other matters stipulated in any
+terms applied to such user, or Our Company determines that there is a suspicion thereof.
+In the event that delay payment has occurred with respect to any Charge which should be paid
+to Our Company.
+12. Disclaimers
+(A) Usefulness, adequateness, completeness, accuracy, safety, lawfulness, newness, etc. of all
+information provided via Our Company’s services (including any and all information etc.
+existing in a linked website managed and operated by any third party which is displayed on
+Our Company’s services as Our Company’s services, the same applies hereinafter). 
+(B) Any and all matters relating to negotiation or reservation, or offer or execution of contracts
+by users with any third parties, etc. using information provided via Our Company’s services.
+(C) Our Company’s services, and products, services, information, etc. which can be acquired via
+Our Company’s services are suitable for a user’s request or expectations.
+(D) Any failure, error or interference will not occur on provision of Our Company’s services.
+In the event that utilisation of credit cards or bank accounts designated as settlement method
+for the Charge in PayPay Wallet (meaning the service which Our Company provides and by
+which users can register and manage their payment method, the same applies hereinafter) is
+suspended.
+In the event that Our Company determines that the creditworthiness of such user has
+worsened, such as the cases that petition to bankruptcy or civil rehabilitation is made against
+such user, such user made any of them by itself, etc.
+In the event that the Account has been registered or used by any anti-social force, its members
+or affiliates, or in the event that Our Company determines that there is a suspicion thereof.
+In the case of the passage of ten (10) years commencing on the date on which the latest
+change has occurred on a user’s PayPay Balance (meaning what stipulated in these Terms of
+Use, Part 2, Chapter 1, Article 1, item 13); provided, however, that if such user’s Account will be
+deleted for this cause, Our Company will give a notice to such user in advance.
+In the event that such user passed away.
+In the event that such user utilises more than two Accounts in order to unduly acquire the
+benefit given by a campaign etc.
+In the event that Our Company’s service is utilised for any wrongdoing such as money
+laundering etc., or in the event that Our Company determines that there is a suspicion thereof.
+When true and accurate information is not registered, such as when the account registration
+information is not the latest information
+In the event that Our Company determines that it is difficult to sustain the contract between
+Our Company and such user, such as the case that a trust relationship between such user has
+lost, etc.
+Our Company disclaims any warranty on the following items. A user must, when it utilises Our
+Company’s services, evaluate by itself a usefulness etc. of the information or services provided
+via Our Company’s services, and utilise it on its own responsibility.
+(E) Any of email, web contents, etc. which is sent relating to Our Company’s services does not
+contain any harmful materials such as computer virus, etc.
+(A) Any damage which a user suffered due to any act conducted via Our Company’s services
+such as downloading of contents provided by any third party, and accessing to linked
+website which any third party manages and operates, etc.
+(B) Any damage which a user suffered due to any wrongdoings such as an unauthorised
+modification to Our Company’s services, unauthorised access to any data relating to Our
+Company’s services, mixture of computer virus, etc. although Our Company has
+implemented adequate security measures
+(C) Any damage caused by suspension, delay, discontinue, loss of data, etc. of Our Company’s
+server or system or Our Company’s services due to: force majeure such as natural disaster,
+fire, power failure , etc.; system maintenance; or failure, etc. of communication line or
+computer
+(D) Any damage caused by a trouble arose between a user and a third party on utilising services.
+12A. Mini-Application Provided by Merchant
+Stores
+Users may additionally utilise the applications (hereinafter referred to as the “Mini-Application”)
+developed by any third party developer (hereinafter referred to as the “Mini-Application Merchant
+Store”) on PayPay application. The Mini-Application will be directly provided to users by the Mini-
+Application Merchant Store with its name and on its own responsibility, and users will utilise it under
+the contract directly executed with such Mini-Application Merchant Store. Our Company never
+makes any warranty and assumes any responsibility on quality, trustworthiness, adequateness, etc.
+of the Mini-Application. Users must check terms of use of the Mini-Application prescribed by the
+Our Company shall never assumes any and all liability for any and all damage caused from a
+user’s utilisation of Our Company’s services (including, but not limited to, provision of
+information by Our Company or any third party, etc. relating to these) or unavailability of
+utilisation (including, but not limited to, any damage stipulated in each item of this paragraph
+and any and all disadvantage including any damage, emotional distress or other monetary loss
+which users or third parties suffered in accordance with preceding paragraph), except for Our
+Company’s willful misconduct or gross negligence.
+In the event that the contracts for utilisation of Our Company’s services subject to these Terms
+of Use with users fall into the consumer contract stipulated in the Consumer Contract Act, the
+disclaimer in above (2) does not apply; in such a case, Our Company assumes liability to
+compensate damage within the damages ordinarily incurred from it and up to the amount of
+the Charge in the case of paid services (or, in the case of continuing services, equivalent to the
+amount for one (1) month), except for the cases that it is caused by Our Company’s willful
+misconduct or gross negligence.
+With respect to any contents which a user has made posting etc., Our Company does not have
+any responsibility to always monitor such contents or delete certain posted contents.
+Mini-Application Merchant Store, and utilise it on users’ own responsibility. In the event that any
+problem relating to user’s utilisation of the Mini-Application occurs, such user must resolve it
+between such user and the Mini-Application Merchant Store based on the terms of use of the Mini-
+Application prescribed by the Mini-Application Merchant Store.
+Further, Our Company may review contents of the Mini-Application provided by the Mini-Application
+Merchant Store in order to check whether it complies with the policies prescribed by Our Company
+or applicable laws and regulations, as needed; provided, that Our Company does not have any
+obligation to do so.
+Our Company reserves a right to delete or discontinue the Mini-Application which is available on
+PayPay application pursuant to these Terms of Use at Our Company’s discretion without giving any
+notice to users.
+13. Conditions of Use for Individual Services
+Some specific services of Our Company may have conditions of use specific to such service
+together with general guidelines.
+In the event that general guidelines stipulated in these Terms of Use, Part 1 and the conditions of
+use specific to each service including conditions of use for individual services stipulated in these
+Terms of Use, Part 2 differ, the conditions of use specific to such service will prevail over the general
+guidelines with respect to such services as long as it has no special provision.
+14. Revision on Terms of Use
+Our Company may, if it determines that it is necessary, revise these Terms of Use at any time
+without giving any prior notice to users; provided, that if it materially affects the active users, Our
+Company will take a reasonable prior notice period in advance.
+15. Notice or Contact
+If a user desires to contact Our Company, such user must contact via an enquiries page which Our
+Company prepared, or by calling to the phone number or sending email to the email address which
+Our Company specifies.
+16. No Assignment of Rights and Obligations, Etc.
+A user shall not, with respect to all contracts based on these Terms of Use, assign its contractual
+position and all or part of rights and obligations arose from these to any third party, without Our
+Company’s prior written approval.
+17. Governing Law, Jurisdiction
+These Terms of Use are governed by the laws of Japan with respect to its execution, validity and
+construction. 
+The Tokyo District Court has exclusive jurisdiction for the first-instance over any dispute that arises
+between Our Company and users caused by or in connection with Our Company’s services
+(including posted contents and advertisements) or software.
+Limitation of Application of Terms of Use
+In the event that any provision in these Terms of Use goes against the related laws and regulations
+which apply to contracts with users based on these Terms of Use, such provision will not apply to
+such contract with users only to such extent; provided, in such a case, it will not affect the validity of
+other provisions in these Terms of Use.
+Established October 1, 2018
+Revised July 29, 2019
+Revised September 30, 2019
+Revised November 28, 2019
+Revised April 15, 2020
+Revised on July 15, 2020
+Revised on October 28, 2020
+Revised on February 15, 2021
+Revised March 31, 2021
+Revised on November 10, 2021 (released on October 27, 2021)

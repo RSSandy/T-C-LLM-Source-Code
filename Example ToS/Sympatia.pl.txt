@@ -1,0 +1,891 @@
+Regulamin serwisu Sympatia.pl
+Niniejszy Regulamin wchodzi w życie z dniem 31 stycznia 2022 roku, a w stosunku do Użytkowników,
+z którymi przed tym dniem zostały zawarte umowy dotyczące korzystania z Usługi, z dniem 14 lutego
+2022 roku.
+§ 1
+Wstęp
+Niniejszy Regulamin (dalej: „Regulamin) określa zasady korzystania z serwisu internetowego Sympatia.pl,
+prowadzonego przez właściciela Serwisu – spółkę Ringier Axel Springer Polska sp. z o.o. z siedzibą w
+Warszawie (02 – 672), ul. Domaniewska 49, zarejestrowana w rejestrze przedsiębiorców Krajowego Rejestru
+Sądowego prowadzonym przez Sąd Rejonowy dla m. st. Warszawy Wydział XIII Gospodarczy Krajowego
+Rejestru Sądowego pod numerem KRS 0000420780, z kapitałem zakładowym w kwocie 106.000 zł, NIP:
+5272677009, REGON: 146127300, e-mail: sympatia@sympatia.pl, (dalej: „Sympatia.pl”).
+Każdy Użytkownik Serwisu Sympatia.pl zobowiązany jest, do przestrzegania postanowień niniejszego
+Regulaminu.
+§ 2
+Definicje
+Wszelkie wyrazy pisane wielką literą, których znaczenie zostało zdefiniowane poniżej, należy rozumieć w
+następujący sposób:
+Regulamin - niniejszy dokument wraz z wszelkimi załącznikami;
+Administrator - podmiot prowadzący Serwis, którym jest Ringier Axel Springer Polska sp. z o.o. z siedzibą
+w Warszawie (02 – 672), ul. Domaniewska 49, zarejestrowana w rejestrze przedsiębiorców Krajowego
+Rejestru Sądowego prowadzonym przez Sąd Rejonowy dla m. st. Warszawy Wydział XIII Gospodarczy
+Krajowego Rejestru Sądowego pod numerem KRS 0000420780, z kapitałem zakładowym w kwocie 106.000
+zł, NIP: 5272677009, REGON: 146127300, e-mail: sympatia@sympatia.pl.
+Serwis - towarzyski serwis internetowy Sympatia.pl znajdujący się w pod adresem
+internetowym http://www.sympatia.pl, www.sympatia.onet.pl, a także innymi adresami internetowymi, pod
+którymi Administrator prowadzi Serwis, stanowiący platformę internetową (treści cyfrowe zawierające
+aplikację o głównych funkcjonalnościach Serwisu) będącą własnością Administratora, na którą składa się
+kompleks usług świadczonych drogą elektroniczną na rzecz Użytkowników, w tym wskazane usługi płatne
+polegające na dostępie do dodatkowych funkcjonalności;
+Skrzynka e-mail - elektroniczna skrzynka pocztowa charakteryzująca się indywidualnym adresem
+internetowym danej osoby (adres e-mail), za pośrednictwem której dana osoba może wysyłać i odbierać
+wiadomości i inne dane w ramach usługi poczty elektronicznej;
+Użytkownik - osoba fizyczna w wieku powyżej 16 lat, która skutecznie założy Konto w Serwisie, poprzez
+podanie adresu e-mail i hasła pozwalającego zalogować się na Konto (rejestracja w Serwisie);
+Abonent - Użytkownik Serwisu posiadający jeden z wykupionych Pakietów Premium;
+Abonament - okres czasu świadczenia usługi płatnej (Pakietu Premium);
+Nick - indywidualna i niepowtarzalna nazwa Użytkownika w Serwisie, jaka została przez niego wybrana na
+etapie rejestracji Konta w Serwisie;
+Konto - dostępne dla danego Użytkownika po zalogowaniu (podaniu adresu e-mail i hasła) miejsce w
+Serwisie, za pośrednictwem którego Użytkownik wprowadza dane i zarządza danymi, dokonuje operacji
+związanych z funkcjonowaniem w Serwisie (np. aktywowanie i dezaktywowanie poszczególnych usług,
+dostęp do narzędzi umożliwiających realizację praw Użytkownika związanych z przetwarzaniem jego
+danych osobowych i inne);
+Profil - zespół informacji, danych i innych elementów prezentujących i opisujących osobę danego
+Użytkownika (w tym danych osobowych wrażliwych tj. specjalne kategorie danych osobowych dotyczące
+seksualności, orientacji seksualnej, stanu zdrowia, przekonań religijnych, światopoglądu) publikowanych
+dobrowolnie i samodzielnie przez Użytkownika (w swoim Profilu) w Serwisie. Profil Użytkownika
+prezentowany jest w przestrzeni sieciowej zlokalizowanej pod indywidualnym adresem Użytkownika w
+Serwisie lub odpowiednią domeną partnera (iframe Serwisu), gdzie publikowane są na łamach Serwisu
+informacje, dane opisujące Użytkownika; za pośrednictwem którego to miejsca inni Użytkownicy lub osoby
+korzystające z Internetu, a nie będące Użytkownikami, mogą zapoznać się z Profilem Użytkownika. Profile
+są publiczne;
+Baza Profili - zbiór danych, informacji i innych treści przekazanych dobrowolnie przez wszystkich
+Użytkowników do Serwisu poprzez opublikowanie, które są gromadzone i przetwarzane w uporządkowany
+sposób w systemie informatycznym przez Administratora po opublikowaniu przez Użytkownika na potrzeby
+świadczenia usług Serwisu;
+Pakiet Darmowy to funkcjonalności w Serwisie dostępne dla wszystkich Użytkowników, którzy dokonali
+rejestracji Konta w Serwisie (zgodnie z § 3 pkt. 3), przez co uzyskują na czas nieokreślony status
+Użytkownika. Pakiet ten pozwala m.in. na: korzystanie z wyszukiwarki (z wyjątkiem wyszukiwania nowych
+Profili), przeglądanie Profili którymi dany Użytkownik jest zainteresowany (dostępność uzależniona od
+ustawionych kryteriów na Profilu lub blokad wprowadzonych przez danych Użytkowników), dodawanie
+wybranych osób do Listy ulubionych, dodawanie wybranych osób do Czarnej Listy, wysyłanie Oczek,
+wysłanie jednej wiadomości na dobę, zabawę w „Bingo!” (pod warunkiem spełnienia warunków zabawy);
+Pakiet Premium to funkcjonalności w Serwisie dostępne dla Użytkowników, którzy po uiszczeniu
+stosownej opłaty, uzyskują na określony okres czasu status Abonenta. Pakiet ten – poza funkcjami Pakietu
+Darmowego i w zależności od wybranego okresu trwania Abonamentu - pozwala dodatkowo m.in. na:
+filtrowanie tylko nowych Profili w wyszukiwarce; wysyłanie dodatkowych wiadomości; możliwość
+podglądu osób, które odwiedziły dany Profil; możliwość podglądu osób, które polubiły dany Profil w
+zabawie w „Bingo!”; możliwość blokowania dostępu do Profilu osobom bez zdjęcia (dostępność uzależniona
+od rodzaju Pakietu Premium); możliwość decydowania, kto odwiedza dany Profil (dostępność uzależniona
+od rodzaju Pakietu Premium), korzystanie z dodatkowej funkcjonalności wideoczatów. Płatne
+funkcjonalności dostępne w zależności od wybranego Pakietu Premium szczegółowo wymienione są w
+Załączniku nr 2 do niniejszego Regulaminu - Tabela opłat i usług serwisu Sympatia.pl.
+Użytkownik Pakietu Premium ma możliwość w okresie ważności Pakietu Premium dokupienia
+Dodatkowych Usług Płatnych szczegółowo zdefiniowanych w Załącznikach nr 1 i 2 - Zasady świadczenia
+usług odpłatnych w serwisie Sympatia.pl oraz Tabela opłat i usług serwisu Sympatia.pl;
+Oczko - graficzna nieedytowalna wiadomość, którą każdy Użytkownik może wysłać do innego
+Użytkownika;
+Lista Zablokowani (dawniej Czarna lista) – funkcjonalność polegająca na możliwości blokady określonego
+Profilu Użytkownika. Użytkownik dodany do listy Zablokowani (Czarnej listy) traci możliwość pisania
+wiadomości, puszczania Oczek, odwiedzania Profilu Użytkownika, który zastosował wobec niego blokadę;
+Pomoc, Kontakt - miejsce w Serwisie, w którym Użytkownik w każdej chwili może dowiedzieć się, w jaki
+sposób należy zrealizować określone działania, aby osiągnąć pożądane cele (zakładki oraz linki Pomoc i
+Kontakt);
+Spam - przesyłanie niezamówionych wiadomości o charakterze reklamowym, komercyjnym lub
+informacyjnym bez zgody Administratora Serwisu;
+Kradzież Konta - bezprawne działania osób trzecich polegające na ingerencji w system komputerowy
+Użytkownika, w szczególności włamanie, przełamanie zabezpieczeń systemu Użytkownika za pomocą
+programów typu malware, pozyskanie niezabezpieczonego przez Użytkownika hasła do Konta Użytkownika;
+Netykieta - zbiór zasad savoir-vivre obowiązujących w Internecie, stworzony, aby pomóc skutecznie i
+przyjemnie komunikować się z innymi;
+Materiały - teksty, opracowania, zdjęcia oraz wszelkie inne treści udostępniane w Serwisie przez
+Użytkownika;
+Messenger – aplikacja, komunikator internetowy o funkcjonalności pozwalającej na przesyłanie pomiędzy
+Użytkownikami wiadomości w postaci tekstu, znaków, grafik, zdjęć, wideoczatów. Użytkownik otrzymujący
+wiadomości, zdjęcia od innego Użytkownika, przechowuje je na serwerze Administratora w ramach
+korzystania z usługi Messengera.
+§ 3
+Informacje podstawowe oraz techniczne warunki korzystania z Serwisu.
+1. Funkcjonalność. Podstawowym przedmiotem Serwisu jest udostępnianie w sieci Internet systemu
+(aplikacja i inne narzędzia informatyczne) prezentacji i wymiany informacji o Użytkownikach,
+prowadzonego i utrzymywanego przez Administratora, w celu umożliwienia w ten sposób nawiązywania
+znajomości pomiędzy Użytkownikami. Za pośrednictwem Serwisu świadczone są lub mogą być świadczone
+w przyszłości, odpłatne i nieodpłatne usługi na rzecz Użytkowników związane z przedmiotem Serwisu.
+2. Interoperacyjność. Do korzystania z usług Serwisu niezbędne jest: posiadanie urządzeń pozwalających na
+korzystanie z zasobów Internetu, skrzynki pocztowej e-mail oraz przeglądarki zasobów internetowych
+(najnowsza wersja dostępna do pobrania na stronie producenta Chrome, Mozilla Firefox, Microsoft
+Edge, Opera lub Safari). Niezbędne jest korzystanie z przeglądarek internetowych z włączoną obsługą
+plików "cookies" i innych podobnych do ciasteczek technologii (np. Local Storage) oraz JavaScript, a także
+najnowszej wersji systemu operacyjnego z rodziny: Microsoft Windows, macOS, Google Android, Apple
+iOS. Niektóre funkcje (w tym funkcje pakietu Premium) jak np. wysyłanie zdjęć czy wideoczaty w
+komunikatorze mogą nie działać lub działać nieprawidłowo na innych przeglądarkach np. Internet Explorer,
+lub nieaktualnych wersjach przeglądarek podanych powyżej. Do korzystania z wideoczatów konieczne jest
+posiadanie urządzenia z zamontowaną lub wbudowaną kamerą i obsługą mikrofonu, a w przypadku
+smartfonów z systemem iOS (iPhone, iPad) konieczne jest korzystanie z przeglądarki Safari, gdyż Apple nie
+wspiera kamery dla innych przeglądarek. Zaleca się przed skorzystaniem z Usługi sprawdzenie, czy
+posiadany przez Użytkownika sprzęt i oprogramowanie spełniają wymogi techniczne określone w
+niniejszym Regulaminie. W razie wątpliwości co do technicznych możliwości korzystania z Usługi przez
+Użytkownika należy zwrócić się do BOK Sympatia.pl.
+3. Rejestracja w Serwisie jest dobrowolna i bezpłatna. Funkcjonalności Serwisu są dostępne dla Pakietu
+Darmowego w momencie, kiedy Użytkownik potwierdzi rejestrację klikając na link przesłany w wiadomości
+e-mail „Potwierdź konto w Sympatii” na adres e-mail wskazany podczas rejestracji Konta, a następnie
+zaloguje się do Konta, co oznacza rozpoczęcie świadczenia usług Serwisu – Pakiet Darmowy przez
+Administratora.
+4. Pakiet Premium lub/i Dodatkowe Usługi Płatne świadczone są tylko i wyłącznie na wyraźne żądanie
+Użytkownika po wniesieniu stosownej opłaty za daną usługę zgodnie z postanowieniami Regulaminu oraz
+Załącznika Nr 1 do Regulaminu zatytułowanego "Zasady i zakres świadczenia usług odpłatnych w serwisie
+Sympatia.pl". Skrócona wersja podstawowych reguł i opłat za usługi znajduje się w Załączniku Nr 2 do
+Regulaminu zatytułowanego "Tabela opłat i usług serwisu Sympatia.pl".
+5. Techniczne warunki korzystania z Serwisu mają znaczenie dla prawidłowości funkcjonowania Serwisu,
+jego prawidłowego wyglądu w przeglądarce internetowej stosowanej przez Użytkownika, a także dla
+bezpieczeństwa danych Użytkownika zapisanych na Koncie w Serwisie. Każdy Użytkownik powinien
+stosować się do poniższych warunków i wytycznych.
+6. Strony internetowe Serwisu działają w oparciu o pliki "Cookies" i inne podobne technologie. Użytkownik
+powinien być świadomy, iż brak obsługi Cookies może uniemożliwić zalogowanie na Konto (Cookies
+uwierzytelniający, inne Cookies techniczne). W Cookies zapisywane są informacje dotyczące aktualnej sesji
+Użytkownika w Serwisie, przez co należy rozumieć okres czasu od chwili zalogowania do Serwisu poprzez
+podanie adresu e-mail i hasła, do czasu wylogowania poprzez specjalną funkcję „Wyloguj” dostępną w
+Serwisie (Cookies utrzymujące sesję). Jeżeli Użytkownik po zalogowaniu się w Serwisie, nie wyloguje się z
+niego, wówczas po upływie 100 minut od dokonania ostatniej czynności w Serwisie, Serwis automatycznie
+wyloguje Użytkownika. Funkcja „Wyloguj” ma istotne znaczenie ze względu bezpieczeństwa Twojego
+korzystania z Serwisu na Twoim urządzeniu. Szczegółowe informacje znajdziesz w Polityce Prywatności.
+§ 4
+Usługi
+1. Za pośrednictwem Serwisu Użytkownicy mają możliwość prezentowania w Profilu swoich danych,
+informacji i innych treści o sobie i od siebie, wraz z wizerunkiem osobistym znajdującym się na
+przekazanych do Serwisu zdjęciach, a także korzystania z innych usług Serwisu pozwalających na
+zawieranie znajomości między Użytkownikami, dzięki specjalnym kanałom komunikacji, przeszukiwaniu
+Bazy Profili według zadanych kryteriów, przeglądaniu Profili Użytkowników, przesyłania wiadomości lub
+zdjęć oraz przechowywania otrzymanych wiadomości lub zdjęć w ramach usługi komunikatora
+internetowego itp.
+2. Przeglądanie zasobów Serwisu (Profili Użytkowników i inne) oraz jego poszczególne usługi, mogą być
+dostępne dla każdego użytkownika Internetu, przy czym zakres tego dostępu dla osób nie będących
+Użytkownikami może być ograniczany przez Administratora. Publicznie dostępne w sieci Internet Profile
+mogą być indeksowane przez wyszukiwarki internetowe i widoczne nadal w wynikach wyszukiwania z ich
+poziomu przez czas wskazany w regulaminach wyszukiwarek.
+3. W przypadku usług świadczonych za pośrednictwem Serwisu przez podmioty trzecie, w ich własnym
+imieniu i na własny rachunek, na mocy porozumień zawartych z Administratorem lub Zaufanymi Partnerami
+Administratora, określenie reguł świadczenia takich usług należy do usługodawcy. Usługodawca taki jest
+podmiotem odpowiedzialnym za świadczone przez niego usługi. Administrator wyraźnie uprzednio
+informuje Użytkownika o usługach podmiotów trzecich w Serwisie np. usługi Operatorów płatności.
+4. Wszystkie odpłatne usługi w Serwisie świadczone są tylko na wyraźne żądanie Użytkownika dokonywane
+poprzez ich aktywację po wpłynięciu środków na konto Administratora lub potwierdzenia wpłaty od
+Operatora płatności na zasadach określonych w Załączniku Nr 1 do Regulaminu zatytułowanym "Zasady i
+zakres świadczenia dodatkowych usług odpłatnych w serwisie Sympatia.pl".
+5. Pełen zakres podstawowych usług Serwisu (Pakiet Darmowy) dostępny jest także bez ograniczeń dla
+Użytkowników Pakietu Premium. Natomiast Dodatkowe Usługi Płatne są płatne oddzielnie i dostępne po
+wpłynięciu środków na konto Administratora lub potwierdzenia wpłaty od Operatora płatności.
+6.1. Warunki odstąpienia opisuje § 9 Regulaminu. Załączniki nr 1 i 2 - Zasady świadczenia usług odpłatnych
+w serwisie Sympatia.pl oraz Tabela opłat i usług serwisu Sympatia.pl – stanowią integralną część niniejszego
+Regulaminu. Usługa płatna świadczona jest przez Administratora na okres czasu wskazany w tej usłudze.
+6.2. Szczegółowe warunki świadczenia usług płatnych przez Administratora, czas określony lub nieokreślony
+świadczenia poszczególnych usług płatnych, oraz zasady zamawiania i wypowiadania usług płatnych przez
+Użytkownika opisane są szczegółowo w Załącznikach 1 i 2 do niniejszego Regulaminu - Zasady świadczenia
+usług odpłatnych w serwisie Sympatia.pl oraz Tabela opłat i usług serwisu Sympatia.pl – Załączniki te
+stanowią integralną część niniejszego Regulaminu.
+7. Zakres dostępu lub zakres i sposób świadczenia poszczególnych usług Serwisu - może być z ważnych
+przyczyn, za które uznaje się:
+a) zmiany w obowiązujących przepisach mających wpływ na funkcjonowanie Serwisu, które uniemożliwiają
+lub istotnie utrudniają funkcjonowanie Serwisu na dotychczasowych zasadach,
+b) realizację obowiązków wynikających z prawomocnego orzeczenia sądu lub prawomocnej decyzji
+administracyjnej,
+c) brak uzyskania przez Administratora licencji na korzystanie z treści koniecznych do zapewnienia
+funkcjonowania Serwisu,
+d) wzrost kosztów działalności związanej z udostępnianiem Serwisu (stawki podatków, stawki wynagrodzeń,
+koszty usług IT, opłaty licencyjne, ceny energii i innych mediów)
+e) istotną zmianę trendów, w tym trendów technicznych na rynku serwisów o tematyce takiej jak Serwis,
+zmieniany (rozszerzany lub ograniczany) przez Administratora, co dotyczy również możliwości dodawania
+lub usuwania poszczególnych usług. Powyższe może być uzależnione od wymogu spełnienia przez
+Użytkowników dodatkowych warunków, zgodnie z postanowieniami szczególnymi zawartymi w odrębnych
+regulaminach odpowiednich usług. Administrator będzie informował Użytkowników z odpowiednim
+wyprzedzeniem na łamach Serwisu) o każdej zmianie zakresu usług i jej przyczynach. Powyższe zmiany nie
+będą naruszać praw nabytych Użytkowników.
+§ 5
+Uczestnictwo w Serwisie
+1. Serwis Sympatia.pl został stworzony w celu umożliwienia Użytkownikom zawierania znajomości,
+utrzymywania kontaktów towarzyskich, sympatii, za pomocą rozwiązań technologicznych, spełniających
+najwyższe wymagania i potrzeby. Użytkownicy Serwisu mają możliwość zawarcia nowych znajomości,
+utrzymywania kontaktów towarzyskich, przyjacielskich, bliskich, porozumiewania się za pomocą
+funkcjonalności Serwisu zróżnicowanymi w zależności od wyboru Pakietu Darmowego lub Pakietu Premium
+czy określonych Dodatkowych usług płatnych. Sympatia.pl nie gwarantuje sukcesu w nawiązaniu
+znajomości. Użytkownik samodzielnie ponosi odpowiedzialność za nawiązanie lub nienawiązanie przez
+Użytkownika w okresie trwania umowy relacji z innym Użytkownikiem, Użytkownikami.
+2. Uczestnikiem Serwisu może być każda osoba fizyczna w wieku powyżej 16 lat, która po zaakceptowaniu
+postanowień Regulaminu, zrealizuje procedurę rejestracji w Serwisie zakończoną skutecznym założeniem
+Konta.
+3. Do tego, aby założyć Konto i być Użytkownikiem Serwisu oraz korzystać z jego zasobów niezbędne jest
+spełnienie wymagań technicznych określonych w § 3 pkt. 2 oraz posiadanie dowolnej, aktywnej Skrzynki e-
+mail.
+4. Procedura rejestracji i aktywacji Konta przebiega stopniowo za pośrednictwem Skrzynki e-mail i stron
+Serwisu, do czego konieczne są również działania Użytkownika opisane na każdym etapie procedury
+rejestracji, a także w Pomocy.
+5. Osoba, która nie dokona ostatecznej aktywacji Konta w okresie 3 dni od otrzymania wiadomości e-mail z
+informacjami o kolejnych krokach do skutecznego założenia Konta, może zostać pozbawiona możliwości
+skutecznego założenia Konta, a co za tym idzie Profilu Użytkownika o danym Nicku zarezerwowanym
+czasowo dla tej osoby w Serwisie.
+6. Jedna osoba może mieć tylko jedno Konto w Serwisie. Niedozwolone jest cedowanie lub udostępnianie
+Konta innym osobom, bez wyraźnej zgody Administratora.
+1. Dane osobowe:
+Administratorem danych osobowych Użytkownika:
+(1) podanych w procesie rejestracji Konta lub edycji Konta, których podanie jest dobrowolne aczkolwiek
+niezbędne do realizacji umowy (założenie Konta i świadczenie usług Serwisu), przetwarzanych w celu
+realizacji usług Serwisu, zgodnie z Regulaminem;
+(2) opublikowanych dobrowolnie, samodzielnie przez Użytkownika w publicznie dostępnym w sieci Internet
+Profilu, w postaci zdjęcia z wizerunkiem Użytkownika, informacji o osobie Użytkownika, w tym danych
+wrażliwych (specjalne kategorie danych osobowych), dotyczących stanu zdrowia (nałogi - papierosy),
+orientacji seksualnej, seksualności, wyznania, religii, poglądów politycznych, przetwarzanych w celu
+realizacji usług Serwisu, zgodnie z Regulaminem;
+jest Ringier Axel Springer Polska sp. z o.o. z siedzibą w Warszawie (02 – 672), ul. Domaniewska 49.
+(3) dane z Konta Użytkownika oraz zebrane informacje z aktywności Użytkownika w serwisie Sympatia.pl
+mogą być wykorzystane do prezentowania Użytkownikowi przez Administratora reklam produktów i usług
+Administratora lub Zaufanych Partnerów Administratora, dopasowanych do zainteresowań Użytkownika.
+Podstawą prawną przetwarzania danych w zakresie opisanym w niniejszym punkcie (3) jest uzasadniony
+interes Administratora, zaś Użytkownikowi przysługuje możliwość zgłoszenia sprzeciwu wobec takiego
+przetwarzania danych.
+Prawa Użytkownika: Użytkownikowi przysługuje prawo dostępu do danych, prawo sprostowania danych,
+prawo ograniczenia przetwarzania, prawo usunięcia danych, wyrażenie sprzeciwu wobec przetwarzania, a
+także prawo złożenia skargi do organu nadzorczego ochrony danych osobowych - PUODO. W zakresie, w
+jakim ww. dane są przetwarzane w celu realizacji umowy (Regulamin) lub są przetwarzane na podstawie
+zgody – przysługuje Ci także prawo do przenoszenia danych.
+W celu realizacji praw zaloguj się do Serwisu i przejdź do zakładki Ustawienia - „Moje prawa”.
+Podstawą przetwarzania przez Administratora Twoich danych osobowych podanych przy założeniu lub
+edycji Konta – pkt (1) powyżej - jest realizacja umowy (Regulamin), natomiast danych wrażliwych
+opublikowanych przez Użytkownika w Profilu – pkt (2) powyżej - jest ich upublicznienie przez
+Użytkownika (funkcja „Publikuję”). Publikowanie danych wrażliwych jest całkowicie dobrowolne.
+Twoje dane przetwarzane będą do czasu istnienia podstawy do ich przetwarzania tj.:
+- w przypadku udzielenia zgody do momentu jej cofnięcia, ograniczenia lub innych działań z Twojej strony
+ograniczających tę zgodę;
+- w przypadku niezbędności danych do wykonania umowy, przez czas jej wykonywania i do momentu
+upływu przedawnienia roszczeń z tej umowy (3 lata lub 6 lat);
+- w przypadku, gdy podstawą przetwarzania danych jest uzasadniony interes Administratora, do czasu
+zgłoszenia przez Ciebie skutecznego sprzeciwu.
+Niezbędne informacje pozostałe:
+- komu udostępniamy dane osobowe Użytkownika;
+- o wyznaczeniu Inspektora Danych Osobowych oraz kontakt do niego;
+- o przetwarzaniu poza obszarem EOG;
+znajdziesz w Polityce Prywatności
+7. Poprzez zrealizowanie procedury rejestracji w Serwisie skutkującej założeniem Konta, Użytkownik
+oświadcza, iż:
+a) zapoznał się i zaakceptował treść Regulaminu;
+b) wszelkie dane osobowe, wizerunek na zdjęciach i inne informacje składające się na Profil (w tym dane
+wrażliwe tj. specjalne kategorie danych osobowych np. dotyczące seksualności, orientacji seksualnej,
+poglądów religijnych lub politycznych, światopoglądu Użytkownika czy dane o stanie zdrowia, dane
+dotyczące nałogów) przekazuje do Serwisu w sposób dobrowolny i publikuje je samodzielnie, co oznacza, iż
+dostęp do tych danych będzie miał lub może mieć nieograniczony krąg Użytkowników Internetu. Powyższe
+nie dotyczy następujących danych:
+i. adres e-mail;
+ii. hasło do Konta;
+iii. kody aktywacyjne lub innego typu poufne dane dostępowe;
+c) przyjmuje do wiadomości, iż Administrator będzie przetwarzał
+dane osobowe podane przy założeniu Konta, jak i późniejszej edycji tych danych w celu realizacji umowy
+zawartej z Użytkownikiem, której treść stanowi niniejszy Regulamin;
+d) Użytkownik jest świadomy, iż jego dane opublikowane przez Użytkownika samodzielnie, dobrowolnie w
+publicznie dostępnym Profilu, w tym wizerunek na opublikowanych zdjęciach i inne informacje składające
+się na Profil - w tym dane wrażliwe, tj. specjalne kategorie danych osobowych np. dotyczące seksualności,
+orientacji seksualnej, poglądów religijnych lub politycznych, światopoglądu Użytkownika czy dane o stanie
+zdrowia, dane dotyczące nałogów – będą przetwarzane w Bazie Profili przez Administratora w celu realizacji
+usług Serwisu, zgodnie z Regulaminem. W przypadku korzystania przez Użytkownika z wideoczatów
+Administrator będzie też w celu realizacji tej usługi przetwarzać dane obejmujące wizerunek Użytkownika
+udostępniany w ramach wideoczatu;
+e) Użytkownik jest świadomy, iż dane osobowe z Konta mogą być przetwarzane w celu marketingowym
+Administratora (w oparciu o uzasadniony interes Administratora) w ramach czego realizowane być może
+prezentowanie Użytkownikowi przez Administratora reklam produktów i usług Administratora lub
+Zaufanych Partnerów Administratora, dopasowanych do zainteresowań Użytkownika, wobec czego
+Użytkownik może wyrazić sprzeciw;
+8. Samodzielnie udostępniając i publikując Materiały w Serwisie, Użytkownik:
+a) oświadcza iż, posiada on uprawnienia lub zgody wymagane przepisami prawa (w szczególności
+majątkowe prawa autorskie oraz prawo do wykorzystania wizerunku) do tego, aby mogły być one
+opublikowane na łamach Serwisu i nie spowoduje to naruszenia jakichkolwiek praw osób trzecich;
+b) wyraża zgodę na oznaczanie opublikowanych przez Użytkownika zdjęć przez Administratora (bez ich
+istotnej modyfikacji);
+c) oświadcza, że udziela Administratorowi bezterminowej i nieodpłatnej licencji na korzystanie, utrwalanie i
+zwielokrotnianie udostępnionych przez Użytkownika Materiałów dowolną techniką, w celach
+autopromocyjnych, informacyjnych, statystycznych oraz publikacji w takich mediach jak Internet, prasa;
+d) zobowiązuje się w przypadku skierowania przez podmioty trzecie jakichkolwiek roszczeń do
+Administratora, odnośnie naruszania jakichkolwiek praw do opublikowanych Materiałów, w szczególności
+wizerunku osobistego osób trzecich, złożyć pisemne oświadczenie odpowiedniej treści, które uwolni
+Administratora od jakiejkolwiek odpowiedzialności w tym zakresie, a także, w razie konieczności, wstąpić
+do sprawy w miejsce Administratora lub przystąpić do sprawy po jego stronie jako interwenient uboczny,
+zwracając przy tym Administratorowi na jego pierwsze żądanie wszelkie poniesione przez Administratora
+wydatki związane z postępowaniem sądowym, w tym w szczególności wydatki poniesione na opłacenie
+zastępstwa procesowego, doradztwa prawnego oraz zasądzonych odszkodowań.
+9. Informacje przekazywane przez Użytkownika do Serwisu podczas procedury rejestracji lub edycji Profilu,
+mogą być moderowane przez Administratora, co oznacza, iż Administrator może odmówić opublikowania
+ich na łamach Serwisu, a tym samym zablokować Konto i Profil Użytkownika, jeżeli podawane treści lub
+informacje będą niedozwolone ze względu na polskie lub międzynarodowe przepisy prawa, treść
+Regulaminu oraz dobre obyczaje lub moralność.
+10. Mając na względzie prawidłowość funkcjonowania Serwisu, a także jego techniczne uwarunkowania,
+Administrator zastrzega sobie prawo odmówienia zgody na publikację zdjęć z możliwością zablokowania
+Profilu Użytkownika, jeżeli zdjęcie będzie większe niż 5 MB, lub jeżeli zdjęcie będzie słabej jakości
+(widoczne piksele, rozmycie) lub nie będzie spełniać niezbędnych warunków technicznych Serwisu – tj.
+będzie zapisane w pliku innym niż .jpg, .bmp, png.
+11. Niezależnie od ilości przekazywanych do Serwisu zdjęć - zdjęcie główne musi przedstawiać aktualny
+wizerunek osobisty Użytkownika, czyli taki, który pozwala rozpoznać Użytkownika w aktualnej czasowo
+rzeczywistości (np. zdjęcie 25-letniego Użytkownika przedstawiające go w dzieciństwie - jest dozwolone do
+publikacji na łamach Serwisu w galerii Użytkownika, ale wówczas nie może ono być zdjęciem głównym).
+Fotografia główna musi prezentować Użytkownika wyraźnie, pozwalając na jego identyfikację w
+rzeczywistości (musi to być twarz z widocznymi rysami lub sylwetka z widocznymi rysami twarzy). Zdjęcie
+główne nie może być modyfikowane w taki sposób, aby przedstawiało karykaturę, zawierało nakładki
+graficzne itp. prowadzące do nieczytelności wizerunku Użytkownika. Zdjęcie główne musi przedstawiać
+wyłącznie Użytkownika. Nie jest możliwa publikacja zdjęć głównych przedstawiających klika osób, np.
+Użytkownik z dziećmi. Administrator ma prawo odmówić publikacji zdjęcia głównego niezgodnego z
+Regulaminem bądź nałożenia blokady za umieszczenie zdjęcia niezgodnego z Regulaminem.
+12. Użytkownik może sam zawiesić Konto, co spowoduje czasowe dezaktywowanie jego Profilu w Serwisie
+(będzie on niewidoczny, a innym Użytkownikom starającym się go otworzyć ukaże się stosowna informacja,
+iż Użytkownik o danym Nicku zawiesił swoje Konto), Nick Użytkownika będzie nierozpoznawalny, a
+Użytkownik w tym czasie straci możliwość korzystania lub realizowania usług Serwisu związanych z jego
+przedmiotem (np. niedostępne będzie korzystanie z systemu poczty wewnętrznej, nie będzie można
+przeglądać Profili Użytkowników itp.), co nie dotyczy funkcjonalności samego Konta lub usług nie
+związanych bezpośrednio z nawiązywaniem lub wymianą informacji między Użytkownikami. Zawieszenie
+Konta nie powoduje zawieszenia biegu terminów pakietu Premium oraz opłaconych usług dodatkowych.
+Użytkownik może odwiesić Konto w każdym czasie. Jeżeli Użytkownik nie loguje się do zawieszonego
+Konta, to Konto zostanie automatycznie usunięte zgodnie z § 6 pkt 2b.
+13. Wypowiedzenie – usunięcie konta. Użytkownik może w każdej chwili, bez podania przyczyny, usunąć
+swoje Konto z Serwisu według wskazówek wskazanych w Pomocy. Wraz z usunięciem Konta usunięty
+zostanie z Serwisu Profil Użytkownika z wszystkimi danymi (w tym jego Nick, zdjęcia główne i galeryjne)
+na stałe i bezpowrotnie. Trwale zostaną usunięte też wszystkie wiadomości odebrane i wysłane z Konta
+Użytkownika, ale Użytkownik musi mieć świadomość, że historia Jego rozmów wciąż może być zachowana
+w historii Kont Jego rozmówców. Zgłoszenie przez Użytkownika wniosku o usunięcie danych osobowych
+podawanych w formularzu rejestracyjnym Konta (w celu świadczenia usługi), powoduje iż dalsze
+świadczenie usługi jest niemożliwe z przyczyn technicznych i w związku z tym równoważne z usunięciem
+Konta tego Użytkownika.
+Szczegółowa instrukcja usunięcia Konta znajduje się w tematach Pomocy.
+14. Mając na uwadze dobro Użytkowników, a także w celu zapewnienia najwyższej jakości Serwisu,
+niedozwolone jest wykorzystywanie Serwisu, jego funkcjonalności lub poszczególnych usług do innych
+celów niż to wynika z charakteru i przedmiotu Serwisu, a w szczególności niedozwolone jest:
+a) rozpowszechnianie i przekazywanie treści pornograficznych;
+b) uprawianie działalności komercyjnej, reklamowej, promocyjnej;
+c) rozsyłanie spamu i niezamówionej informacji handlowej;
+d) podejmowanie jakichkolwiek działań, poprzez które osoba lub podmiot je realizujący stara się wpływać na
+Użytkowników, działać na ich szkodę, szkodę Administratora lub innych podmiotów trzecich;
+e) publikowanie na łamach Serwisu oraz przekazywanie w ramach wideoczatów lub innej formy dodatkowej
+komunikacji między Użytkownikami treści naruszających polskie lub międzynarodowe przepisy prawa,
+dobre obyczaje lub normy moralne, naruszające dobra osobiste innych osób, popierające radykalne postawy
+społeczne lub głoszące takie poglądy (wszelkiego rodzaju dyskryminacja rasowa, etniczna, ze względu na
+płeć, wyznanie itp.).
+15. Zgłoszenia stron naruszających niniejszy Regulamin można dokonać pod adres e-mail:
+legalizacja@sympatia.pl.
+16. Ze względu na charakter Serwisu, niedozwolone jest podawanie przez Użytkownika w treściach ogólnie
+dostępnych w Serwisie (np. na Profilu), informacji w jakiejkolwiek formie wskazujących sposób
+bezpośredniej komunikacji z Użytkownikiem (numer telefonu, adres e-mail, dane kontaktowe komunikatora
+internetowego itp.), co oznacza również zakaz podawania adresów do jakichkolwiek stron internetowych -
+bez wyraźnej zgody Administratora. Niedozwolone jest także informowanie w ramach Serwisu (np. w
+Profilu) o fakcie korzystania lub niekorzystania przez danego Użytkownika z poszczególnych usług Serwisu,
+a także o posiadaniu Pakietu Premium – takie informacje zamieszcza jedynie w sposób zautomatyzowany
+system informatyczny Serwisu.
+17. Administrator nie ingeruje w korespondencje prowadzane pomiędzy Użytkownikami. Do blokowania
+niechcianych wiadomości służy lista Zablokowani (dawniej Czarna Lista). Naruszenie dóbr osobistych
+Użytkownicy Serwisu mogą zgłaszać i dochodzić w oparciu o procedury przewidziane w obowiązujących
+przepisach, w tym w szczególności na drodze postępowania cywilnego.
+§ 6
+Blokada i usunięcie konta
+1. W przypadku gdy Użytkownik narusza postanowienia Regulaminu, Administrator może zablokować
+Konto lub poszczególne usługi Serwisu (np. Profil) wraz z podaniem na łamach Serwisu stosownej
+informacji w tym zakresie dostępnej dla wszystkich Użytkowników. Administrator odblokuje Konto lub inne
+zablokowane usługi, po zrealizowaniu przez Użytkownika działań skutkujących usunięciem naruszeń.
+Nałożenie blokady na Konto nie powoduje zawieszenia biegu terminów pakietu Premium oraz opłaconych
+usług dodatkowych.
+2. Konto może ponadto zostać usunięte przez Administratora, po uprzednim, dodatkowym poinformowaniu
+Użytkownika, co spowoduje bezpowrotne usunięcie Konta i Profilu z Bazy Profili, jeżeli:
+a) Użytkownik stale lub rażąco narusza postanowienia Regulaminu, a w szczególności korzysta z Serwisu w
+sposób sprzeczny z jego przeznaczeniem opisanym w § 5 ust. 1;
+b) Użytkownik nie zalogował się ani razu do Serwisu przez okres 12 miesięcy od ostatniego zalogowania,
+pomimo otrzymania przypomnienia o konieczności zalogowania się do Serwisu;
+c) Użytkownik posiada więcej niż jedno Konto - w takim przypadku usunięte mogą zostać wszystkie Konta
+Użytkownika;
+d) Użytkownik nie zaakceptuje zmian wprowadzanych przez Administratora w Regulaminie;
+e) Użytkownik w okresie 3 miesięcy od zablokowania Konta lub innych poszczególnych usług Serwisu przez
+Administratora, nie dokona działań niezbędnych do usunięcia przyczyn stanowiących podstawę
+zablokowania;
+f) Użytkownik ingeruje w struktury Serwisu, do których taki Użytkownik nie ma udzielonego dostępu.
+§ 7
+Reklamacje
+1. Zakłócenia w funkcjonowaniu Serwisu oraz reklamacje dotyczące usługi świadczonej w Serwisie należy
+zgłaszać Administratorowi zgodnie z pkt 2 poniżej, o ile nic innego nie postanowiono w odrębnych
+regulaminach świadczenia danej usługi, z którą reklamacja jest związana.
+2. Reklamacje należy składać drogą elektroniczną na adres: reklamacje@sympatia.pl lub listownie na adres
+korespondencyjny: Ringier Axel Springer Polska sp. z o.o., al. 29 Listopada 20, 31-401 Kraków z dopiskiem:
+Sympatia.
+3. Zgłoszenia reklamacyjne będą na bieżąco rozpatrywane przez zespół obsługi Serwisu w terminie 14 dni od
+dnia otrzymania reklamacji.
+4. Administrator zastrzega sobie prawo do wydłużenia terminu podanego w pkt 3 o nie więcej niż 10 dni - w
+przypadku, gdy rozpoznanie reklamacji wymaga wiadomości specjalnych lub napotka przeszkody z przyczyn
+niezależnych od Administratora (awarie sprzętu, sieci internetowej itp.). Administrator ponadto zastrzega, że
+rozpatrzenie reklamacji może wymagać uzyskania od Użytkownika dodatkowych wyjaśnień - czas
+udzielania wyjaśnień przez Użytkownika każdorazowo przedłuża okres rozpoznania reklamacji.
+5. Reklamacje kierowane do Administratora, a dotyczące usług świadczonych przez podmioty trzecie za
+pośrednictwem Serwisu będą przekazywane przez Administratora niezwłocznie właściwemu podmiotowi
+trzeciemu, który jest odpowiedzialny za daną usługę.
+6. Administrator zastrzega sobie prawo do ingerencji w strukturę techniczną Konta Użytkownika, w celu
+zdiagnozowania nieprawidłowości w funkcjonowaniu usług Serwisu, a także może dokonywać zmian i w
+każdy inny sposób oddziaływać na stronę techniczną Konta, w celu jego modyfikacji lub przywrócenia
+prawidłowego działania samego Konta lub Serwisu.
+7. Odpowiedź na reklamację zostanie przesłana do Użytkownika w ciągu 7 dni od daty rozpatrzenia
+reklamacji na adres e-mail lub adres pocztowy podany przez Użytkownika w reklamacji, nie później jednak
+niż w terminie na odpowiedź na reklamację określonym w obowiązujących przepisach.
+8. Spory pomiędzy Administratorem a konsumentem dotyczące Usługi Pakiet Premium lub Dodatkowych
+Usług Płatnych (dostarczania treści cyfrowych) mogą być zakończone polubownie w drodze postępowania
+przed sądem polubownym na zasadach określonych w regulaminie tego sądu, np. przed stałymi
+polubownymi sądami konsumenckimi przy wojewódzkich inspektorach inspekcji handlowej, o których
+mowa w art. 37 ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (tj. Dz. U. z 2009r. Nr 151, poz.
+1219), na zasadach określonych w rozporządzeniu Ministra Sprawiedliwości z dnia 25 września 2001 r. w
+sprawie określenia regulaminu organizacji i działania stałych polubownych sądów konsumenckich (Dz.U. z
+2001 r. Nr 113, poz. 1214).
+Użytkownik będący konsumentem ma możliwość skorzystania z pozasądowego sposobu rozstrzygania
+sporów przed Stałym Polubownym Sądem Konsumenckim przy Wojewódzkim Inspektorze Inspekcji
+Handlowej w Krakowie:
+http://www.krakow.wiih.gov.pl/Content/Page/sad_konsumencki
+Informacje o procedurze oraz wykaz podmiotów uprawnionych do rozstrzygania sporów konsumenckich
+znajdują się pod następującym adresem:
+https://www.uokik.gov.pl/pozasadowe_rozwiazywanie_sporow_konsumenckich.php
+Użytkownik będący konsumentem ma również możliwość skorzystania z unijnej platformy internetowej,
+dostępnej pod adresem internetowym:
+https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=PL
+Administrator Serwisu wyraża zgodę na udział w postępowaniu w sprawie pozasądowego rozwiązywania
+sporów konsumenckich – kontakt pod adresem e-mail Administratora wskazanym w Regulaminie.
+9. Sprawa może być rozpatrywana przez sąd polubowny tylko po zakończeniu postępowania reklamacyjnego
+i w przypadku, jeżeli obie strony sporu wyrażą na to zgodę. W pozostałych wypadkach ewentualne spory
+zostają poddane sądom właściwym zgodnie z obowiązującymi przepisami, w tym postanowieniami
+przepisów Kodeksu postępowania cywilnego.
+§ 8
+Zastrzeżenia, zapewnienia i odpowiedzialność
+1. Użytkownik odpowiada za Materiały przekazywane i publikowane na łamach Serwisu przez Użytkownika,
+za ich prawdziwość, rzetelność oraz autentyczność.
+2. Użytkownik odpowiada za zdarzenia i wydarzenia jakie mogą mieć lub miały miejsce w świecie
+rzeczywistym pomiędzy Użytkownikiem, a innym Użytkownikiem zapoznanym za pośrednictwem Serwisu.
+3. Użytkownik odpowiada za autentyczność informacji i danych podawanych przez Użytkownika w Serwisie
+lub informacji o Użytkowniku udostępnianych innym Użytkownikom - Administrator nie ma możliwości
+zweryfikowania zgodności ww. informacji ze stanem rzeczywistym.
+4. Administrator nie udostępni w żaden inny sposób, niż to wynika z celu Serwisu lub zakresu udzielonych
+przez Użytkowników dobrowolnych zgód, informacji i danych o Użytkownikach podmiotom trzecim, bez
+podstawy prawnej nakazującej Administratorowi takie działanie, bądź zgody Użytkownika. Administrator
+zapewnia o podejmowaniu wszelkich starań, aby informacje, dane Użytkownika były strzeżone właściwie, a
+w szczególności w sposób przewidziany przepisami o ochronie danych osobowych.
+5. Administrator jako właściciel Serwisu dołoży wszelkich starań, aby Serwis oraz wszystkie usługi
+udostępniane za jego pośrednictwem działały w sposób ciągły bez zakłóceń, jednakże Użytkownik jest
+świadomy możliwości wystąpienia zakłóceń niezależnych od Administratora, np. spowodowanych
+zdarzeniem siły wyższej lub niedozwoloną ingerencją Użytkowników lub osób trzecich.
+6. Administrator nie ponosi odpowiedzialności za niezawinione i niezależne od Administratora "Kradzieże
+Kont" dokonywane przez osoby trzecie np. za pomocą oprogramowania malware na sprzęcie Użytkownika
+bądź poprzez ujawnienie hasła do Konta przez Użytkownika osobom trzecim, a także za pobieranie zdjęć z
+Serwisu i umieszczanie ich w innych serwisach internetowych lub wykorzystywanie w inny sposób przez
+osoby trzecie, gdyż Administrator nie ma możliwości zablokowania kopiowania fotografii z Serwisu.
+7. Administrator zastrzega sobie prawo do anonimowej publikacji treści kierowanych przez Użytkowników
+do zespołu obsługi Serwisu, a dotyczących kwestii związanych z funkcjonowaniem Serwisu (FAQ),
+udzielanymi poradami.
+8. Zabronione jest bez zgody Administratora wyrażonej na piśmie: kopiowanie, powielanie lub jakiekolwiek
+inne wykorzystywanie w całości lub we fragmentach informacji, danych lub innych treści i zdjęć z Serwisu,
+za wyjątkiem przypadków dozwolonego użytku wynikających z ustawy o prawie autorskim i prawach
+pokrewnych (Dz.U. 1994 Nr 24 poz. 83).
+9. Administrator zastrzega sobie prawo do oznaczania różnymi metodami i cechami Materiałów
+przekazywanych do Serwisu przez Użytkowników, dla wykazywania ich pochodzenia z Serwisu.
+Administrator zastrzega sobie prawo do usunięcia z Kont Użytkowników archiwalnej (starszej niż 1 miesiąc
+od dnia usunięcia danego Konta) korespondencji pochodzącej z Kont, które zostały usunięte z Serwisu przez
+wykorzystujących je Użytkowników.
+10. Administrator informuje Użytkowników, iż w Serwisie mogą wystąpić przerwy w dostępności powstałe
+w wyniku niezbędnych przeglądów technicznych, zakłóceń w działaniu Internetu lub działania siły wyższej.
+11. Wszelkie uwagi, zapytania, informacje odnośnie Serwisu mogą być kierowane do Administratora pod
+adres e-mail sympatia@sympatia.pl lub pocztą tradycyjną na adres korespondencyjny: Ringier Axel Springer
+Polska sp. z o.o., al. 29 Listopada 20, 31-401 Kraków.
+§ 9
+Prawo do odstąpienia od umowy
+1. Użytkownik ma prawo odstąpić od umowy na Pakiet Darmowy lub na Pakiet Premium w serwisie
+Sympatia.pl bez podania przyczyny.
+2. Termin na odstąpienie od umowy na Pakiet Darmowy lub na Pakiet Premium wynosi 14 dni od dnia
+zawarcia umowy. Umowa zostaje zawarta z chwilą aktywacji Konta w zakresie Pakietu Darmowego, a w
+zakresie Pakietu Premium lub Dodatkowych Usług Płatnych od momentu otrzymania płatności przez
+Administratora, bądź w zakresie SMS Premium, od momentu potwierdzenia płatności przez właściwego
+Operatora. Informacja o otrzymaniu płatności za Pakiet Premium lub Dodatkowe Usługi Płatne przez
+Administratora zostaje wysłana na podany na Koncie adres e-mail Użytkownika, niezwłocznie po
+otrzymaniu tej płatności. Od tej chwili możliwy jest dostęp do płatnych treści cyfrowych.
+3. Aby skorzystać z prawa odstąpienia od umowy, konieczne jest przesłanie jednoznacznej informacji o
+odstąpieniu na dane podane poniżej:
+Ringier Axel Springer Polska sp. z o.o., al. 29 Listopada 20, 31-401 Kraków
+z dopiskiem „Sympatia.pl”
+lub drogą mailową na adres reklamacje@sympatia.pl
+przykładową treść informacji podajemy poniżej:
+Niniejszym informuję o moim odstąpieniu od umowy dostarczania treści cyfrowych Pakiet
+Premium…. [prosimy wpisać rodzaj Pakietu] lub Dodatkowe Usługi Płatne w serwisie Sympatia.pl /
+aplikacji Sympatia.pl [prosimy wpisać rodzaj Dodatkowych Usług Płatnych].
+Data zawarcia umowy:
+Imię i nazwisko konsumenta:
+Adres konsumenta:
+Data:
+Aktualny adres e-mail konsumenta (podany podczas rejestracji lub późniejszej edycji Konta):
+Podpis konsumenta [wymagany tylko w przypadku korespondencji pocztą]
+4. Aby zachować termin do odstąpienia od umowy, wystarczy, aby Użytkownik wysłał informację dotyczącą
+wykonania przysługującego Mu prawa odstąpienia od umowy przed upływem terminu wskazanego powyżej
+(§ 9 pkt 2). Po otrzymaniu tych informacji Sympatia.pl niezwłocznie prześle potwierdzenie otrzymania
+informacji o odstąpieniu od umowy pocztą elektroniczną na adres e-mail widniejący w Koncie.
+5. Skutki odstąpienia od umowy: w przypadku odstąpienia od niniejszej umowy Użytkownik otrzyma zwrot
+należności z tytułu zawartej umowy niezwłocznie, a w każdym przypadku nie później niż 14 dni od dnia, w
+którym Administrator został poinformowany o odstąpieniu od umowy. Zwracana należność zostanie
+proporcjonalnie pomniejszona stosownie do zakresu spełnionego świadczenia Pakietu Premium lub innej
+usługi płatnej (tj. do czasu udostępniania Użytkownikowi usług Pakietu Premium lub odpowiednio innych
+usług płatnych).
+§ 10
+Zmiany Regulaminu
+1. Administrator zastrzega sobie, w zakresie w jakim dopuszczalne jest to zgodnie z obowiązującymi
+przepisami, prawo do dokonywania zmian i modyfikacji Regulaminu w przypadku zaistnienia ważnych
+przyczyn, za które uważa się:
+1.1. konieczność dostosowania Regulaminu do świadczenia usług Serwisu w sytuacji obiektywnie
+uzasadnionej koniecznością zmiany warunków technicznych świadczenia tych usług,
+1.2. zmiany w powszechnie obowiązujących przepisach prawa, które pociągają za sobą konieczność zmiany
+funkcjonowania Serwisu lub zmianę treści Regulaminu,
+1.3. prawomocne orzeczenie sądu lub decyzję organu administracji publicznej, które nakazują zmianę
+Regulaminu w określonej w nich części,
+1.4. konieczność zmiany postanowienia Regulaminu dotkniętego nieważnością, o której mowa w ust. 5
+poniżej,
+1.5. konieczność rozbudowania lub modyfikacji zakresu funkcjonalności Serwisu, tak by odpowiadał on
+obiektywnym wymogom zmieniającego się rynku usług takich jak oferowana w Serwisie lub mógł oferować
+Użytkownikom unikalne funkcjonalności.
+Zmiany będą publikowane na bieżąco w postaci ujednoliconego tekstu Regulaminu na łamach Serwisu.
+Zmiany Regulaminu nie mogą naruszać nabytych uprawnień Użytkowników.
+2. Po ukazaniu się na stronie głównej Serwisu lub w innych miejscach do tego przeznaczonych w Serwisie
+bądź w mailingu wysłanym do Użytkowników informacji o planowanych zmianach w Regulaminie,
+Użytkownik powinien niezwłocznie zapoznać się ze zmianami.
+3. W przypadku niezaakceptowania zmian Regulaminu, Użytkownik powinien powstrzymać się od
+zalogowania do Serwisu i niezwłocznie powiadomić Administratora o takiej decyzji kontaktując się z BOK
+Sympatia.pl na adres e-mail sympatia@sympatia.pl.
+4. Oświadczenie o niezaakceptowaniu zmian w Regulaminie, pociąga za sobą usunięcie Konta Użytkownika.
+W takim wypadku Użytkownik uprawniony będzie do żądania zwrotu niewykorzystanej części wniesionej
+opłaty oraz dochodzenia odszkodowania na zasadach ogólnych.
+5. W przypadku stwierdzenia, że którekolwiek z postanowień Regulaminu jest z jakichkolwiek powodów, w
+części lub w całości, dotknięte sankcją nieważności, Administrator zobowiązuje się do dokonania takich
+zmian jego treści, by nieważność ową usunąć. Nieważność jednego z postanowień Regulaminu nie ma
+wpływu na ważność pozostałych jego postanowień.
+§ 11
+Aplikacja Sympatia
+1. Świadczenie Usługi w Aplikacji odbywa się na zasadach określonych w niniejszym Regulaminie serwisu
+Sympatia.pl (dalej "Regulamin"). Aplikacja umożliwia dostęp do ograniczonych funkcjonalności Serwisu.
+2. Definicje:
+2.1. Aplikacja - oprogramowanie, do którego prawa przysługują Administratorowi, z wykorzystaniem
+którego możliwy jest Dostęp do Usługi w Aplikacji, funkcjonujące na określonym rodzaju Sprzętu.
+Zainstalowanie Aplikacji na Sprzęcie Użytkownika wymaga zaakceptowania przez Użytkownika warunków
+korzystania z Aplikacji wskazanych przy dokonywaniu instalacji.
+2.2. Sprzęt - urządzenia spełniające określone parametry techniczne i posiadające dostęp do Internetu,
+umożliwiające zainstalowanie Aplikacji i korzystanie z Usługi w Aplikacji, w tym urządzenia mobilne
+(smartfony, tablety). Dostęp do Usługi w Aplikacji wymaga posiadania Sprzętu, spełniającego wymogi
+określone w punkcie 4.1 niniejszego paragrafu.
+2.3. Użytkownik Aplikacji – dla Aplikacji na system Android - osoba fizyczna w wieku powyżej 16 lat,
+korzystająca z Aplikacji, a dla Aplikacji na system iOS – osoba fizyczna w wieku od 18 lat (zgodnie z
+wymaganiami polityki Apple);
+2.4. Usługa w Aplikacji (funkcjonalność treści cyfrowych) – dostęp do ograniczonych funkcjonalności
+serwisu Sympatia.pl w Aplikacji, świadczony na zasadach określonych w niniejszym Regulaminie.
+2.5. Dostęp do Usługi w Aplikacji – dostęp do ograniczonych funkcjonalności Serwisu Sympatia.pl
+znajdujących się w Aplikacji, uzyskiwany przez Użytkownika poprzez uruchomienie Aplikacji i zalogowanie
+się, w zakresie ujętym w niniejszym Regulaminie. Dostęp do Usługi w Aplikacji uzyskiwany jest przez
+Użytkownika za pośrednictwem Aplikacji zainstalowanej tylko na określonym Sprzęcie.
+2.6. Dane - wszelkie dane osobowe dostarczane do Administratora przez Użytkowników w trakcie
+korzystania z Aplikacji bądź Usługi w Aplikacji, w szczególności adres e-mail i inne dane przesłane do
+Administratora lub przekazywane telefonicznie. Użytkownicy ponoszą pełną odpowiedzialność za treść
+przekazywanych Danych i zapewniają, że przekazane Dane są zgodne ze stanem faktycznym oraz wyrażają
+osobną zgodę na ich przetwarzanie w związku z realizacją Usługi.
+3. Zasady Dostępu do Usługi w Aplikacji
+3.1. Korzystanie z Usługi w Aplikacji wymaga połączenia z siecią Internet. W przypadku Aplikacji na
+urządzeniach mobilnych, typu smartfon lub tablet, korzystanie z Usługi w Aplikacji może wiązać się z
+uruchomieniem płatnej komórkowej transmisji danych, zgodnie z regulaminem właściwego Operatora
+telefonii komórkowej.
+3.2. W ramach Usługi w Aplikacji, Użytkownik Aplikacji uzyskuje możliwość skorzystania z ograniczonych
+funkcjonalności Serwisu, dla których zakres (w zależności od Pakiet Darmowy lub Pakiet Premium) i czas
+dostępu uwarunkowany jest zasadami opisanymi w Zasady świadczenia usług odpłatnych w serwisie
+Sympatia.pl oraz Tabela opłat i usług serwisu Sympatia.pl – załączniki 1 i 2 Regulaminu.
+3.3. Pakiet Darmowy pozwala na korzystanie z wyszukiwarki (z wyjątkiem wyszukiwania nowych Profili),
+przeglądanie Profili, dodawanie wybranych osób do Listy ulubionych, dodawanie wybranych osób do
+Czarnej Listy, wysyłanie Oczek, wysłanie jednej wiadomości na dobę, zabawę w „Bingo!” (pod warunkiem
+spełnienia warunków zabawy).
+Administrator zastrzega sobie prawo, iż w przypadku aktualizacji nowych wersji Aplikacji w związku z
+koniecznością jej całkowitej lub częściowej przebudowy lub/i przepisaniem kodu Aplikacji wynikającymi ze
+zmieniających się wymagań oraz rekomendacji technicznych, zakres Pakietu Darmowego lub Pakietu
+Premium może ulec zmianie. Użytkownik zostanie poinformowany uprzednio o zmianach. Zmiany nie
+naruszają praw nabytych Użytkownika, a Użytkownik uprawniony jest w opisanym wyżej przypadku do
+wypowiedzenia umowy zawartej w oparciu o Regulamin i uprawniony będzie do żądania zwrotu
+niewykorzystanej części wniesionej opłaty oraz dochodzenia odszkodowania na zasadach ogólnych.
+3.4. Użytkownik Aplikacji może zrezygnować z Usługi w Aplikacji natychmiast bez podawania przyczyny
+(wypowiedzenie) poprzez odinstalowanie Aplikacji ze Sprzętu.
+Odinstalowanie Aplikacji ze Sprzętu nie jest równoznaczne z usunięciem Konta z Serwisu Sympatia.pl. Po
+odinstalowaniu Aplikacji ze Sprzętu usunięcie Konta z Serwisu możliwe jest tylko z poziomu Serwisu, wg
+zasad opisanych w § 5 Uczestnictwo w Serwisie.
+Natomiast skorzystanie z funkcjonalności usuwania Konta w Aplikacji nie jest również równoznaczne z
+odinstalowaniem Aplikacji ze Sprzętu.
+3.5. Dostęp do oferowanych Usług w Aplikacji wymaga wyłącznie posiadania Sprzętu spełniającego
+wymogi określone w § 11 „Aplikacja Sympatia” pkt. 4.1, niniejszego Regulaminu.
+4. Zasady świadczenia Usługi w Aplikacji i interoperacyjność treści cyfrowych
+4.1. Dostęp i korzystanie z Usługi w Aplikacji, z zastrzeżeniem wymogów podanych w § 3 ust. 2 powyżej
+(Interoperacyjność) możliwe jest:
+4.1.1. a) dla Użytkowników Sprzętu z systemem operacyjnym Android, wersja 6.0 i wyższe,
+b) dla Użytkowników Sprzętu z systemem operacyjnym iOS, wersja 13.0 i wyższe.
+4.1.2. Jedynie przy połączeniu z siecią Internet.
+4.2. Użytkownik Aplikacji odpowiada za jakość Sprzętu technicznego, z którego korzysta w celu Dostępu do
+Usług w Aplikacji, w tym za problemy techniczne bądź ograniczenia techniczne występujące na tym
+Sprzęcie (firewalle - blokady, programy antywirusowe i inne), a które mogą utrudniać lub uniemożliwiać
+Użytkownikowi Dostęp do Usług w Aplikacji.
+4.3. Utrwalanie, kopiowanie lub ingerencja Użytkownika w treści i materiały zamieszczone w Aplikacji są
+zabronione.
+5. Administrator informuje, iż podczas korzystania z Aplikacji zapisywane są krótkie informacje tekstowe
+zwane "Cookies". Więcej szczegółów dotyczących wykorzystania „Cookies” znajdują się w treści
+dokumentu Polityka Prywatności.
+6. Reklamacje do Aplikacji
+6.1. Każdemu Użytkownikowi Aplikacji przysługuje prawo do złożenia reklamacji w sprawach związanych z
+funkcjonowaniem Usługi w Aplikacji.
+6.2. Reklamacje do Aplikacji należy składać do Administratora drogą określoną w niniejszym Regulaminie.
+6.3. W przypadku, gdy rozpoznanie reklamacji do Aplikacji wymaga nietypowych, szczególnych działań i
+ustaleń lub spowodowane jest awarią Sprzętu lub sieci internetowej, termin rozpatrzenia reklamacji może
+ulec wydłużeniu. Administrator ponadto zastrzega, że rozpatrzenie reklamacji może wymagać uzyskania od
+Użytkownika Aplikacji dodatkowych wyjaśnień - czas udzielania wyjaśnień przez Użytkownika Aplikacji
+każdorazowo przedłuża okres rozpoznania reklamacji.
+6.4. Odpowiedź na reklamację do Aplikacji zostanie przesłana w formie e-mail lub pisemnej do
+Użytkownika Aplikacji na adres podany przez Użytkownika Aplikacji w reklamacji. W pozostałym zakresie,
+w tym do terminów odpowiedzi na reklamacje stosuje się procedurę opisaną w § 7 Regulaminu.
+7. Metody Płatności w Aplikacji określone zostały w Załączniku nr 1 do Regulaminu „Zasady i zakres
+świadczenia usług odpłatnych w serwisie Sympatia.pl”.
+***
+Załączniki do Regulaminu Serwisu Internetowego Sympatia.pl:
+1. Załącznik Nr 1: Zasady i zakres świadczenia usług odpłatnych w serwisie Sympatia.pl
+2. Załącznik Nr 2: Tabela opłat i usług serwisu Sympatia.pl
+Zasady ochrony prywatności reguluje Polityka prywatności
+Poprzednia wersja regulaminu dostępna TUTAJ.
+***
+Załącznik nr 1 do Regulaminu Serwisu Internetowego Sympatia.pl
+Załącznik nr 1: Zasady i zakres świadczenia usług odpłatnych w serwisie Sympatia.pl
+1. Niniejszy Załącznik nr 1 do Regulaminu Serwisu Internetowego Sympatia.pl, reguluje zasady świadczenia
+poszczególnych usług w serwisie Sympatia.pl, których aktywowanie związane jest z obowiązkiem zapłaty,
+zasady ich aktywowania, oraz wszelkie inne kwestie związane z takimi usługami.
+2. Załącznik nr 1 obecnie reguluje następujące usługi:
+I. Pakiet Premium – zakres usług płatnych dostępnych tylko dla zarejestrowanych Użytkowników serwisu
+Sympatia.pl. Szczegółowy opis zakresu Pakietu Premium i cen znajduje się poniżej w "Tabela opłat i usług
+Serwisu Sympatia.pl". Pakiet Premium to funkcjonalności w Serwisie dostępne dla Użytkowników, którzy po
+uiszczeniu stosownej opłaty, uzyskują na określony okres czasu status Abonenta. Pakiet Premium - poza
+funkcjami Pakietu Darmowego i w zależności od wybranego okresu ważności Abonamentu - pozwala
+dodatkowo m.in. na: filtrowanie tylko nowych Profili w wyszukiwarce; wysyłanie dodatkowych wiadomości;
+możliwość podglądu osób, które odwiedziły dany Profil; możliwość podglądu osób, które polubiły dany
+Profil w zabawie w „Bingo!”, możliwości korzystania z dodatkowej funkcjonalności wideoczatów
+(możliwość wideoczatu zależy od zgody Użytkownika, do którego ma być kierowany wideoczat) oraz innych
+preferencji przyznawanych okresowo Abonentom, takich jak: Profil odwiedzają tylko osoby posiadające
+zdjęcie główne lub/i spełniające wybrane kryteria takie jak płeć, wiek oraz kryteria wartości poszukiwanych
+w Serwisie m.in. takich jak przygoda itp.
+II. Dodatkowe Usługi Płatne - usługa dodatkowa - Poczta otwarta, Profil przymknięty oraz Tylko ze
+zdjęciem. Poczta otwarta jest usługą, której funkcjonalność polega na umożliwieniu Użytkownikom
+otrzymywanie wiadomości od wszystkich Użytkowników Serwisu, niezależnie od posiadanego Pakietu.
+Profil przymknięty jest wspomagającą funkcją gwarantującą możliwość wybrania warunków wieku, płci czy
+też wartości poszukiwanych w Serwisie, jakie mają spełniać osoby odwiedzające dany Profil. Tylko ze
+zdjęciem umożliwia udostępnienie Profilu danej osoby tylko tym Profilom, które posiadają zdjęcie główne.
+3. Administrator, z zachowaniem praw nabytych Użytkownika i w granicach dopuszczalnych przez
+obowiązujące przepisy oraz z uwzględnieniem zapisów poniższych, zastrzega sobie prawo do zmiany cen
+usług płatnych (Pakiet Premium, Dodatkowe Usługi Płatne) znajdujących się w ofercie Serwisu,
+przeprowadzania czasowych akcji promocyjnych i rabatowych, w tym wprowadzania do nich zmian. Zmiany
+takie nie wpływają na uprzednio zakupiony przez Użytkowników dostęp do usług płatnych (Pakiet Premium,
+Dodatkowe Usługi Płatne). Wzrost stawek cen może nastąpić w przypadku wystąpienia ważnych przyczyn
+przez które rozumie się wzrost kosztów działalności związanej z udostępnianiem Serwisu/Aplikacji (stawki
+podatków, stawki wynagrodzeń, koszty usług IT, opłaty licencyjne, ceny energii i innych mediów). Zmiana
+cen wprowadzana będzie z wyprzedzeniem co najmniej jednego okresu rozliczeniowego, nie krótszym
+jednak niż 14 dni. Użytkownik w przypadku wprowadzenia ww. zmian uprawniony jest do rezygnacji z
+usługi płatnej do końca okresu wypowiedzenia.
+4. Wszelkie usługi nie uregulowane w niniejszym Załączniku nr 1 świadczone są na zasadach opisanych na
+łamach Regulaminu Serwisu, a ich świadczenie, będzie miało miejsce nie wcześniej, niż po prawidłowym
+dokonaniu aktywacji usługi. Koszty związane z aktywacją określane są w Załącznik Nr 2 do Regulaminu
+zatytułowanym "Tabela opłat i usług Serwisu Sympatia.pl".
+5. Aktywowanie Pakietów i Dodatkowych Usług Płatnych, dokonywane jest dostępnymi dla danej usługi
+kanałami aktywacji, o ile inaczej nie postanowiono dla konkretnych usług w niniejszym Załączniku nr 1 lub
+Załączniku Nr 2.
+6. Usługa Pakiet Premium z automatycznym pobieraniem płatności.
+Wybierając płatność kartą kredytową lub przez SMS (Direct Billing) Użytkownik ma możliwość wyboru
+automatycznego pobierania płatności za kolejne okresy rozliczeniowe wskazane w rodzajach poszczególnych
+Pakietów (okresy rozliczeniowe mogą być miesięczne, kwartalne i półroczne, a dostępność poszczególnych
+okresów dla automatycznego pobierania płatności zależy od oferty operatora danej płatności) lub płatności
+jednorazowej. Automatyczne pobieranie płatności ma na celu zapewnienie ciągłości w korzystaniu z
+wybranych funkcji Serwisu bez dodatkowych formalności. Okresy rozliczeniowe (Abonamenty) na
+poszczególne Pakiety są wskazane w Załączniku nr 2 "Tabela opłat i usług Serwisu Sympatia.pl". Umowa
+zostaje zawarta na czas nieokreślony z możliwością wypowiedzenia w terminie najpóźniej 5 dni przed
+końcem trwania danego okresu rozliczeniowego ze skutkiem na koniec tego okresu:
+a) Wypowiedzenia umowy (wypisania się z subskrypcji) po dokonaniu płatności kartą kredytową można
+dokonać poprzez kontakt z Biurem Obsługi Klienta Sympatia.pl:
+- mailowo na adres: reklamacje@sympatia.pl
+- listownie na adres korespondencyjny: Ringier Axel Springer Polska sp. z o.o. al. 29 Listopada 20, 31-401
+Kraków z dopiskiem „Sympatia.pl”
+b) Wypowiedzenia umowy (wypisania się z subskrypcji) po dokonaniu płatności poprzez SMS (Direct
+Billing) można dokonać poprzez wysłanie SMS:
+- w przypadku operatorów PLUS, Orange i PLAY: SMS o treści SYMPATIA pod nr 80713 (koszt SMS
+wynosi 0 zł);
+- w przypadku operatora T-Mobile: SMS o treści SYMPATIA pod nr 80711 (koszt SMS wynosi 0 zł);
+c) Po każdorazowym automatycznym pobraniu płatności Użytkownik otrzymuje od Administratora w formie
+e-mail odpowiednie potwierdzenie.
+d) Po zakończeniu Pakietu Premium status Użytkownika zostaje automatycznie przekształcony w Pakiet
+Darmowy (ze związanym z tym ograniczonym zakresem korzystania z usług).
+W przypadku wyboru przez Użytkownika automatycznego pobierania płatności za kolejne okresy
+subskrypcyjne wysokość kolejnych opłat będzie taka, jak przy pierwszej opłacie (tj. będzie uwzględniać
+ewentualny rabat stosowany w momencie pierwszej płatności), niezależnie od stosowanych przez
+Administratora w późniejszym okresie innych rabatów, chyba, że Administrator dodatkowo obejmie tymi
+rabatami także płatności subskrypcyjne.
+W przypadku niemożności zrealizowania odnowienia płatności z uwagi na brak środków na koncie lub
+innym źródle udostępnionym przez Użytkownika (np. abonament pre-paid dla płatności SMS (Direct
+Billing)) Usługa Pakietu Premium nie zostanie odnowiona i wygasa.
+I. Regulamin Usługi "Pakiet Premium"
+1. Organizator
+Ringier Axel Springer Polska sp. z o.o. z siedzibą w Warszawie (02 – 672), ul. Domaniewska 49,
+zarejestrowana w rejestrze przedsiębiorców Krajowego Rejestru Sądowego prowadzonym przez Sąd
+Rejonowy dla m. st. Warszawy Wydział XIII Gospodarczy Krajowego Rejestru Sądowego pod numerem
+KRS 0000420780, z kapitałem zakładowym w kwocie 106.000 zł, NIP: 5272677009, REGON: 146127300,
+e-mail: sympatia@sympatia.pl.
+2. Aktywacja usługi.
+2.1. Korzystać z usługi „Pakiet Premium” może każdy Użytkownik Serwisu.
+2.2. Korzystanie z usługi „Pakiet Premium” następuje każdorazowo po dokonaniu aktywacji na określony
+okres czasu, wskazany w Załączniku nr 2 zatytułowanym "Tabela opłat i usług Serwisu Sympatia.pl".
+2.3. Użytkownik ma prawo do odstąpienia od umowy poprzez zgłoszenie żądania w trybie określonym w § 9
+Regulaminu serwisu Sympatia.pl.
+2.4. Użytkownik ma możliwość dokonania aktywacji za pomocą różnych metod płatności, dostępnych w
+zależności od sposobu korzystania z Serwisu: strona webowa, strona mobilna lub Aplikacja – informacje o
+dostępnych metodach płatności są widoczne dla Użytkownika na określonej platformie, z której korzysta
+(strona webowa, strona mobilna lub Aplikacja):
+a) wysłanie SMS-a Premium pod numer i o treści wskazanej dla danego okresu Abonamentu w "Tabela opłat
+i usług Serwisu Sympatia.pl". Koszt SMS-a Premium wskazany w tabeli "Tabela opłat i usług Serwisu
+Sympatia.pl" stanowi zawsze kwotę brutto. Cena SMS-a Premium zależna jest od wybranej usługi,
+wskazanej w "Tabela opłat i usług Serwisu Sympatia.pl". Aktywacja Pakietu Premium tym sposobem
+dostępna jest tylko z telefonów komórkowych oraz dla wybranych Abonamentów zgodnie z zasadami
+opisanymi w "Tabela opłat i usług Serwisu Sympatia.pl".
+W przypadku płatności SMS, wysłanie błędnej treści na podany numer powoduje naliczenie opłaty przez
+Operatora bez uzyskania dostępu do usługi płatnej.
+b) wniesienie opłaty za aktywację usługi za pośrednictwem przekazu pocztowego lub systemu bankowości
+internetowej (przelew) Partnera Administratora. System bankowości internetowej (przelew) dostępny jest dla
+Użytkowników posiadających odpowiednie internetowe konta bankowe. W przypadku aktywacji jedną z ww.
+metod aktywowanie usługi nastąpi automatycznie po odnotowaniu wpływu z tytułu dokonanej płatności na
+konto Administratora o czym Użytkownik zostanie powiadomiony e-mailem.
+c) wniesienie opłaty za aktywację usługi elektroniczną kartą płatniczą za pośrednictwem systemu Partnera
+Administratora. Ta metoda dostępna jest dla Użytkowników posiadających stosowne karty płatnicze, które
+pozwalają na płacenie za usługi w Internecie. W tym przypadku aktywowanie usługi nastąpi automatycznie
+niezwłocznie po skutecznym dokonaniu płatności, o czym Użytkownik zostanie powiadomiony e-mailem.
+Aktywacja usługi tym sposobem możliwa jest tylko dla wybranych okresów Abonamentu, wskazanych w
+"Tabela opłat i usług Serwisu Sympatia.pl".
+d) wniesienie opłaty za aktywację usługi za pośrednictwem systemu płatności Blik (Operatorem płatności
+jest Partner Administratora).
+e) wniesienie opłaty za aktywację usługi za pośrednictwem SMS (Direct Billing) tj. kanału płatności online
+łączącego cechy usług SMS Premium Rate z płatnościami internetowymi. Polega na:
+- poleceniu dodania obciążenia do rachunku (abonamentu) telefonicznego w przypadku, gdy Użytkownik jest
+stroną umowy z operatorem telefonicznym i rozlicza płatności za korzystanie z usług tego operatora w
+modelu post-paid, lub
+- poleceniu pomniejszenia salda konta w przypadku, gdy Użytkownik jest stroną umowy z operatorem
+telefonicznym i rozlicza płatności za korzystanie z usług tego operatora w modelu pre-paid.
+Opisany w niniejszej lit. e) sposób płatności wykorzystuje saldo rachunku usługi Operatora GSM
+Użytkownika, który współpracuje z Administratorem bezpośrednio (np. T-Mobile, Orange) lub za
+pośrednictwem podmiotu trzeciego (np. Teleaudio). Płatność odbywa się za pomocą telefonów
+komórkowych - użytkownik, wprowadza do formularza swój numer telefonu i otrzymuje wiadomość
+zwrotną (SMS) z numerem PIN, który później wpisuje na odpowiedniej stronie internetowej potwierdzając w
+ten sposób płatność.
+f) In-App-Purchase (zakupy w Aplikacji z poziomu Aplikacji na system operacyjny iOS) – płatność w
+postaci jednorazowej. Realizowana za pośrednictwem sklepu Apple App Store, polegająca na obciążeniu
+karty płatniczej skojarzonej z kontem Apple ID. Cennik jest widoczny w Aplikacji przed zakupem.
+Metody płatności mogą ulegać zmianie na poszczególnych platformach.
+2.5. W przypadku dokonania aktywacji usługi za pomocą SMS Premium lub wniesienia opłat aktywacyjnych
+w większej ilości za kilka różnych lub jednakowych okresów Abonamentu przedłużają one aktywowany lub
+trwający już okres Abonamentu.
+2.6. W przypadku wnoszenia opłaty aktywacyjnej (tj. poza SMS Premium), Użytkownik zobowiązany jest do
+precyzyjnego określenia kwoty wnoszonej tytułem opłaty aktywacyjnej, która musi być zgodna z wysokością
+opłat określonych w "Tabela opłat i usług serwisu Sympatia.pl, z uwzględnieniem ewentualnych rabatów,
+pod rygorami określonymi w punktach następnych niniejszego regulaminu.
+2.7. W przypadku wnoszenia opłaty aktywacyjnej za pośrednictwem przelewu bankowego lub przekazu
+pocztowego Użytkownik zobowiązany jest do precyzyjnego podania numeru konta bankowego (każde
+zamówienie w serwisie Sympatia.pl posiada swój unikalny numer konta) oraz dokładnego określenia kwoty
+wnoszonej tytułem opłaty aktywacyjnej, która musi być zgodna z wysokością opłat określonych w "Tabela
+opłat i usług Serwisu Sympatia.pl" z uwzględnieniem ewentualnych rabatów, pod rygorami określonymi w
+punktach następnych niniejszego regulaminu. Opłata aktywacyjna powinna zostać wniesiona w terminie nie
+późniejszym niż 10 dni od daty złożenia zamówienia usługi „Pakiet Premium” lub „Dodatkowych Usług
+Płatnych”. W przypadku opóźnienia w dotrzymaniu tego terminu Administrator nie gwarantuje uruchomienia
+usługi; w takiej sytuacji Użytkownikowi zwrócone zostaną wpłacone środki po przedstawieniu dokumentów
+potwierdzających dokonaną wpłatę.
+2.8. W przypadku wpłaty środków pieniężnych w wysokości innej niż dokładna stawka jednej ze
+wskazanych w "Tabela opłat i usług Serwisu Sympatia.pl" wysokości opłaty aktywacyjnej z uwzględnieniem
+ewentualnego rabatu usługa nie zostanie aktywowana dla danego Użytkownika automatycznie na okres
+odpowiadający tej stawce opłaty aktywacyjnej wskazanej w "Tabela opłat i usług Serwisu Sympatia.pl".
+2.9. Okres Abonamentu liczony jest z dokładnością do daty i godziny aktywacji, która może być różna, w
+zależności od wybranej metody aktywacji, w przypadku wnoszenia opłat, uzależniona jest także od
+możliwości technicznych systemów pośredniczących w przekazie środków pieniężnych i informacji o
+wniesieniu opłat, przekazywanej przez pośredników Administratorowi.
+3. Zasady szczególne aktywacji usługi „Pakiet Premium” .
+3.1. Zakończenie aktywowanego Pakietu Premium następuje po upływie wskazanego okresu obowiązywania
+tego Pakietu, dla Usługi Pakiet Premium z automatycznym pobieraniem płatności - umowa zostaje zawarta
+na czas nieokreślony z możliwością wypowiedzenia w terminie najpóźniej 5 dni przed końcem trwania
+danego okresu rozliczeniowego ze skutkiem na koniec tego okresu, przy czym szczególne zasady, skutki i
+czas wygaśnięcia poszczególnych usług dostępnych w ramach danego Abonamentu precyzyjnie określone są
+w "Tabeli kosztów i usług Serwisu Sympatia.pl".
+3.2. Przed upływem aktywowanego okresu Abonamentu na czas określony, Użytkownik zostanie
+powiadomiony e-mailem o fakcie zbliżającego się końca tego okresu, tak aby mógł dokonać czynności
+niezbędnych do podtrzymania aktywacji na następny okres, w celu zachowania ciągłości Abonamentu, co ma
+istotne znaczenie dla niektórych usług świadczonych w ramach usługi, gdyż w pewnych przypadkach
+przerwa w świadczeniu niektórych usług może powodować nieodwracalne zmiany w ich zakresie, o czym
+można się dowiedzieć w "Tabela opłat i usług Serwisu Sympatia.pl".
+4. Dostępność regulaminu
+Z regulaminem usługi można się zapoznać w siedzibie Administratora (al. 29 Listopada 20, 31-401 Kraków)
+oraz na stronie internetowej: Regulamin serwisu Sympatia.pl.
+***
+Załącznik nr 2 do Regulaminu Serwisu Internetowego Sympatia.pl
+Załącznik nr 2: Tabela opłat i usług serwisu Sympatia.pl
+I. Usługa "Pakiet Premium"
+Dzięki aktywowaniu usługi Premium, Użytkownik staje się na określony czas jej Abonentem, dla którego
+przewidziany jest szereg wyszczególnionych poniżej usług rozszerzonych Serwisu, zależnych od
+wykupionego Pakietu Premium.
+1. Koszty aktywacji usługi „Pakiet Premium”.
+a) „Pakiet 1 miesiąc” - koszt takiego Abonamentu usługi „Pakiet Premium” wynosi maksymalnie 30,00
+PLN, przy czym Administrator zastrzega sobie prawo do stosowania zniżek i promocji, w tym w
+szczególności stosowania niższych stawek w przypadku wybrania przez Użytkownika określonych form
+płatności
+(wszystkie powyższe ceny brutto zawierają podatek VAT w wysokości 23%.)
+W ramach „Pakietu 1 miesiąc” Użytkownik otrzymuje:
+Abonament na usługę „Pakiet Premium” na okres 30 dni możliwość korzystania z wyszukiwarki (w tym
+wyszukiwanie nowych Profili), przeglądanie Profili osób, którymi dany Użytkownik jest zainteresowany
+(dostępność uzależniona od ustawionych kryteriów na Profilu lub blokad); dodawanie wybranych osób do
+Listy ulubionych; dodawanie wybranych osób do Czarnej listy; wysyłanie Oczek; wysyłanie dodatkowych
+wiadomości; możliwość podglądu osób, które odwiedziły dany Profil; możliwość podglądu osób, które
+polubiły dany Profil w zabawie w „Bingo!”. W przypadku przedłużenia „Pakietu Premium” w trakcie jego
+trwania przy pomocy „Pakietu Premium 1 miesiąc” zakres tego Pakietu Premium obejmuje: Abonament na
+usługę „Pakiet Premium” na okres kolejnych 30 dni (przy czym Administrator zastrzega sobie prawo do
+stosowania promocji w postaci np. wydłużenia tego okresu, w szczególności w przypadku wybrania przez
+Użytkownika określonych form płatności) oraz wszystkie powyższe funkcjonalności.
+b) "Pakiet 3 miesiące" – koszt takiego Abonamentu „Pakiet Premium” wynosi maksymalnie 45,00 PLN, przy
+czym Administrator zastrzega sobie prawo do stosowania zniżek i promocji, w tym w szczególności
+stosowania niższych stawek w przypadku wybrania przez Użytkownika określonych form płatności
+(wszystkie powyższe ceny brutto zawierają podatek VAT w wysokości 23%.)
+W ramach „Pakietu 3 miesiące” Użytkownik otrzymuje:
+Abonament na usługę „Pakiet Premium” na okres 90 dni, możliwość ustawienia opcji blokowania
+wyświetlania swojego profilu osobom bez dodanego zdjęcia na okres 90 dni, a także pozostały zakres funkcji
+z „Pakietu 1 miesiąc”. W przypadku przedłużenia „Pakietu Premium” w trakcie jego trwania przy pomocy
+„Pakietu Premium 3 miesiące” zakres tego Pakietu Premium obejmuje: Abonament na usługę „Pakiet
+Premium ” na okres kolejnych 90 dni (przy czym Administrator zastrzega sobie prawo do stosowania
+promocji w postaci np. wydłużenia tego okresu, w szczególności w przypadku wybrania przez Użytkownika
+określonych form płatności) oraz wszystkie powyższe funkcjonalności.
+c) "Pakiet 6 miesięcy" – koszt takiego Abonamentu „Pakiet Premium ” wynosi maksymalnie 60,00 PLN,
+przy czym Administrator zastrzega sobie prawo do stosowania zniżek i promocji, w tym w szczególności
+stosowania niższych stawek w przypadku wybrania przez Użytkownika określonych form płatności
+(wszystkie powyższe ceny brutto zawierają podatek VAT w wysokości 23%.)
+W ramach „Pakietu Premium 6 miesięcy” Użytkownik otrzymuje:
+Abonament na usługę „Pakiet Premium” na okres 180 dni, możliwość ustawienia opcji blokowania
+wyświetlania swojego profilu osobom bez dodanego zdjęcia na okres 180 dni, możliwość ustawienia opcji
+blokowania wyświetlania swojego Profilu osobom spełniającym szczegółowe kryteria takie jak wiek, płeć
+oraz szczegółowe kryteria wyszukiwania ustawione przez Użytkownika na okres 180 dni, a także pozostały
+zakres funkcji z „Pakietu 1 miesiąc”. W przypadku przedłużenia „Pakietu Premium” w trakcie jego trwania
+przy pomocy „Pakietu Premium 6 miesięcy” zakres tego Pakietu obejmuje: Abonament na usługę „Pakiet
+Premium” na okres kolejnych 180 dni (przy czym Administrator zastrzega sobie prawo do stosowania
+promocji w postaci np. wydłużenia tego okresu, w szczególności w przypadku wybrania przez Użytkownika
+określonych form płatności) oraz wszystkie powyższe funkcjonalności.
+2. Administrator zastrzega sobie prawo rozszerzenia zakresu danego Pakietu Premium o dodatkowe usługi i
+preferencje przyznawane Użytkownikom Pakietu Premium na stałe lub okresowo, o czym będzie można
+dowiedzieć się na stronach Serwisu lub w korespondencji od Administratora.
+II. Dodatkowe Usługi Płatne
+1. Dodatkowe Usługi Płatne dostępne są tylko dla Użytkowników posiadających aktywny Pakiet Premium i
+zakup każdej z Dodatkowych Usług Płatnych można dokonać tylko na łączny okres pozostający do daty
+wygaśnięcia aktualnego Pakietu Premium (tj. tylko na pozostały w dniu zakupu Dodatkowej Usługi Płatnej
+okres funkcjonowania aktualnego Pakietu Premium). Oznacza to, że nie można zakupić wybranej
+Dodatkowej Usługi Płatnej będąc użytkownikiem Pakietu Darmowego lub np. dokonać zakupu Dodatkowej
+Usługi Płatnej tylko na okres 30 dni, w przypadku kiedy Użytkownik posiada pakiet Premium wygasający za
+więcej niż 30 dni.
+Koszt każdej z Dodatkowych Usług Płatnych to 5 zł (cena brutto zawiera podatek VAT w wysokości 23%) za
+każde rozpoczęte 30 dni, liczone do daty wygaśnięcia aktualnego Pakietu Premium (tj. data wygaśnięcia
+Dodatkowej Usługi Płatnej w momencie zakupu jest równoważna z datą wygaśnięcia aktualnego Pakietu
+Premium).
+W przypadku, gdy na skutek wcześniejszego upływu ważności Pakietu Premium Użytkownik nie będzie
+mógł wykorzystać Dodatkowej Usługi Płatnej w całości (tj. w pełnym okresie, na który została zakupiona)
+Użytkownik uprawniony jest do żądania zwrotu proporcjonalnej części wpłaconej opłaty za Dodatkową
+Usługę Płatną. Za zgodą Użytkownika mogą być także stosowane inne metody rozliczenia niewykorzystanej
+płatności, np. przedłużenie Pakietu Premium lub udostępnienie innych usług Administratora.
+2. Płatności za Dodatkowe Usługi Płatne można dokonać wyłącznie przy wykorzystaniu wyraźnie
+wskazanych metod płatności - informacje o dostępnych metodach płatności są widoczne dla Użytkownika na
+określonej platformie, z której korzysta (strona webowa, strona mobilna lub Aplikacje).
+3. Dodatkowe Usługi Płatne obejmują następujące usługi:
+a) Poczta otwarta jest dodatkową usługą umożliwiającą odpisywanie na wiadomości osobom bez aktywnego
+Pakietu Premium.
+b) Profil przymknięty jest wspomagającą funkcją gwarantującą możliwość wybrania warunków wieku, płci
+czy też wartości poszukiwanych w Serwisie, jakie mają spełniać osoby odwiedzające dany Profil (jest ona
+włączona w zakres Pakietu Premium 6 miesięcy).
+c) Tylko ze zdjęciem jest dodatkową usługą, która umożliwia udostępnienie Profilu danej osoby tylko tym
+Profilom, które posiadają zdjęcie główne (jest ona włączona w zakres Pakietu Premium 3 i 6 miesięcy).

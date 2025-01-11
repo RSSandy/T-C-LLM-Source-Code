@@ -1,0 +1,322 @@
+Workouts
+TERMS OF USE
+Last modified: 10 May 2021
+INTRODUCTION
+ 
+Thank you for registering to use Keep products. The following terms, together with any documents expressly
+incorporated herein by reference (collectively, these “Terms” or this “Agreement”), govern your access and use of the
+products and services provided by Keep, Inc., its affiliates, subsidiaries and related entities (hereinafter referred to as
+“Keep,” “we,” or “us”).  In order for you to better use our products and services, please carefully read, fully understand
+these Terms, in particular the terms related to limitations of liabilities.
+ 
+THESE TERMS REQUIRE THE USE OF ARBITRATION TO RESOLVE DISPUTES, RATHER THAN JURY TRIALS.
+ 
+IF YOU DO NOT AGREE TO THESE TERMS, DO NOT DOWNLOAD, INSTALL, ACCESS, OR USE ANY OF OUR
+PRODUCTS AND SERVICES. BY DOWNLOADING, INSTALLING, ACCESSING, OR USING OUR PRODUCTS AND
+SERVICES, YOU (A) ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTAND THIS AGREEMENT; (B)
+REPRESENT THAT YOU ARE OF LEGAL AGE TO ENTER INTO A BINDING AGREEMENT; AND (C) ACCEPT THIS
+AGREEMENT AND AGREE THAT YOU ARE LEGALLY BOUND BY ITS TERMS.
+ 
+ 
+I. SCOPE OF THE TERMS
+1.1  This Agreement is between you and Keep, and all products and services provided by Keep shall be bound by this
+Agreement.
+ 
+1.2  The products and services under this Agreement refer to the products and services provided by Keep via Internet
+and mobile applications, including but not limited to Internet media, Internet value-added services, and interactive
+entertainment (in the form of, but not limited to, online video, pictures, software, technical code, etc.).
+ 
+1.3  All information we collect and use through or in connection with our products and services is subject to our
+Privacy Policy. Additional terms and conditions may also apply to a specific product or service. The Privacy Policy,
+these additional terms and conditions, and all other rules, announcements or notices Keep has published or may
+publish in future are hereby incorporated by this reference to this Agreement. If you do not agree to any of these
+additional terms, you shall immediately discontinue the use of our products and services.
+ 
+1.4  Keep has the right to revise this Agreement (including but not limited to any new terms and amendments to
+existing provisions) at any time in its sole discretion and to announce the changes in the form of an online bulletin
+without providing a notice to you separately. However, when any significant changes are made, we will notify you via
+our mobile applications or other means before the changes become effective. All changes become effective upon
+publication, immediately or at a time specified therein. Your continued use of our products and services following the
+posting of the revised Agreement means that you accept and agree to the changes. If you do not agree to the changes,
+you should immediately stop using our products and services.
+ fi
+1.5  As described in Section 1.3, additional terms and conditions may apply to a specific product or service developed
+or released by Keep (hereinafter referred to as “Individual Product Agreement”). In the event of any conflict between
+the Individual Product Agreement and the other provisions of this Agreement, the Individual Product Agreement shall
+prevail. Your use of the specific product or service means that you accept and agree to the Individual Product
+Agreement.
+ 
+ 
+II. PRODUCT AND SERVICE INTRODUCTION
+2.1  Keep offers a wide range of Internet products and services, including but not limited to training courses and
+products and services related to running, walking, cycling, and other activities. You may use and purchase the
+products and services and Keep has the right to charge a fee for your use.
+ 
+2.2  You understand and agree that interruptions of our online services may occur as normal events that are out of our
+control and that we have no control over the third-party networks or services that we may use to provide you with our
+products and services. We shall not be responsible for any losses or damages resulting from such interruptions.
+ 
+2.3  Some of our products and services are paid services. You will need to submit a payment before you can use or
+continue to use those products and services.
+ 
+2.4  Keep provides online products and services. You are responsible for (i) all costs and expenses related to any
+devices you use to access our products and services, and (ii) any network charges you incur in connection with the use
+of our products and services (such as telephone and internet fees paid for the access to the Internet, and any mobile
+charges for the use of mobile networks).
+ 
+2.5  Replacements, modifications, and upgrades
+2.5.1    In order to enhance your experience and improve the service content, Keep has the right to develop new
+products and services based on your feedback and the information collected through your use.
+2.5.2    Keep may from time to time in its sole discretion develop and provide updates to our products and services,
+which may include upgrades, bug fixes, patches, other error corrections, and/or new features (collectively, including
+related documentation, "Updates"). Updates may also modify or delete in their entirety certain features and
+functionality. You agree that Keep has no obligation to provide any Updates or to continue to provide or enable any
+particular features or functionality.
+2.5.3    You understand and agree that Keep has the right not to notify you of the Updates or any changes to or
+restrictions of any features or functionality.
+2.5.4    When a new version is released, the old version may not be available. You shall promptly download and install
+the latest version and acknowledge and agree that our products and services or portions thereof may not be available
+or properly operate should you fail to do so.
+ 
+2.6  Third-party applications and services
+You may access and use third-party applications (such as camera services) via our products and services. When using
+any such third-party application, you shall comply with this Agreement and any terms and conditions of the third-party
+application. You understand and agree:
+2.6.1    When you use any application and service provided by a third party, the third party may collect and use your
+personal data. You shall decide whether to provide such information to the third party. Keep shall not be responsible
+for any third party’s use or disclosure of your information.
+2.6.2    Keep has the right to audit and manage the applications provided by third parties. Keep has the right to de-
+activate or remove any third-party application from our products and services without notifying you, and shall not be
+responsible for any impact or loss resulting therefrom.
+2.6.3    When using a third-party application, you shall: A. use your own account with the third party (i.e., Facebook,
+Google or Instagram) to login to our products; B. consent to the third-party application’s use of your personal data to
+provide you with the access to our products and services. If you do not agree to the third parties’ privacy practices, do
+not use their applications to login to or access our products and services.
+2.6.4    Any and all disputes arising out of or in connection with your use of third parties’ applications shall be resolved
+by you and the third parties; and in no event shall Keep be responsible for any losses and damages resulting from such
+use.
+ 
+ 
+III. INTELLECTUAL PROPERTY
+3.1  Keep owns all rights to Keep products (including but not limited to intellectual property rights and ownership). All
+copyrights and all other intellectual property rights of Keep, and all information related to Keep, including but not
+limited to: words and their combinations, icons, ornaments, color combinations, interface designs, layout frames,
+relevant data, printed materials, or electronic documents are protected by the copyright, trademark, patent, trade
+secret, and other intellectual property or proprietary rights laws of China and relevant international treaties.
+ 
+3.2  The entire contents, features, and functionality of our products (including but not limited to all information,
+software, text, displays, images, video, and audio, and the design, selection, and arrangement thereof) are owned by
+Keep, except those uploaded by users or explicitly identified as being provided by third parties.
+ 
+3.3  “Keep,” “K,” “Keepup,” “KeepKit,” “Keepland,” and all related names used within the logos, product and service
+names, designs, and slogans relating to or used in connection with Keep’s business operation are trademarks of Keep
+and its licensors. You must not use any of the aforementioned marks without the prior written permission from Keep.
+ 
+3.4  Keep reserves and shall retain its entire right, title, and interest in and to the products and services, including all
+copyrights, trademarks, patents, patent applications and other intellectual property rights therein or relating thereto.
+ Keep does not grant you any intellectual property rights because of this Agreement or by providing the related
+products and services to you. The rights not expressly granted to you herein are reserved by Keep.
+ 
+ 
+IV. PRIVACY POLICY
+4.1  The protection of user personal information is a basic principle of Keep. Keep will collect, use, store, share,
+transfer and otherwise process your personal information in accordance with the provisions of this Agreement, the
+Privacy Policy and applicable data protection laws. If the provisions of this Agreement in relation to the protection of
+personal information are in conflict with the Privacy Policy, or the contents of this Agreement in relation to the
+protection of personal information are not expressly specified, the content of the Privacy Policy shall prevail.
+ 
+4.2  You may need to fill out some necessary information in the process of registering your account or using Keep
+products and services. You may be required to provide information about your true identity if the local laws and
+regulations applying to you require you to do so. If you provide incomplete information, you may not be able to use
+Keep products or services or be limited in the course of use.
+ 
+4.3  Keep will not transfer or disclose your personal information to any unrelated third party unless:
+4.3.1    Relevant laws and regulations or the requirements of the courts and government authorizations require us to do
+so;
+4.3.2    Transfer is performed to complete the merger, division, acquisition or transfer of assets;
+4.3.3    In order to provide you with our services (i.e., transferring data to third party providers we use);
+4.3.4    Other circumstances where Keep determines that it is necessary and does not violate the mandatory provisions
+of applicable data protection laws and regulations.
+ 
+4.4  Keep attaches great importance to the protection of minors’ information. If you are a minor under a certain age
+depending you are located (e.g., in the EU, age below 16 unless a Member State provides by law for a lower age), you
+should obtain the consent of your legal guardian prior to using the Keep service.
+ 
+ 
+V. USER ACCOUNTS, PASSWORD, AND SECURITY
+5.1  Registration Qualification
+You confirm that you shall be a natural person, legal person or other organization with full capacity to register with our
+products and services. If you do not have the aforementioned capacity, you (or your guardian if you are a minor) shall
+be responsible for all the consequences resulting from it, and Keep shall have the right to cancel or permanently freeze
+your account and retain the right to claim damages from you or your guardian. Individuals under age of 16 may only
+use our products and services with the involvement of a parent or legal guardian, under such person’s account and
+otherwise subject to these Terms.
+ 
+5.2  Registration and Account
+To have a full access to our products and services, you may be asked to provide certain registration details or other
+information. It is a condition of your use of our products and services that all the information you provide is correct,
+current, and complete.
+ 
+5.3  Keep reminds you to protect your account and password and do not disclose the account number and password
+to others. You are responsible for keeping your account and password confidential and responsible for all activities that
+occur under your account and password (including but not limited to, information disclosure, information
+dissemination, online Click Approval or submission of various rule agreements, online renewal agreements or purchase
+services, etc.). Keep cannot and will not be liable for any loss you incurred as a result of your failure to comply with the
+provisions of this Agreement. If you find any unauthorized use of your account and password, you must immediately
+notify Keep. You can submit your request via email to oversea-feedback@keep.com. You must understand and agree
+that Keep may take a period of time to act upon your request and Keep will not be liable for any adverse
+consequences that you have incurred before Keep takes any action.
+ 
+5.4  You can use a nickname with the account.  The nickname you use shall not infringe the rights and interests of
+others. If the nickname you use is alleged to infringe upon the rights and interests of others, Keep has the right to
+terminate portions or all of the services. You shall be responsible for any loss and adverse consequences arising from
+it.
+ 
+ 
+VI. USER’S INSTRUCTION
+6.1  You agree to use Keep products and services in compliance with the following provisions:
+6.1.1    You agree to comply with all applicable laws and regulations, Keep’s rules and requirements, and this
+Agreement; you agree not to take any actions contrary to public interests or violate the rights and interests of others.
+6.1.2    Unless otherwise agreed by you and Keep, you shall not make commercial use of any data/information
+acquired from Keep, including but not limited to the use of the information or courses displayed in our products and
+services in any manner, such as reproduction and dissemination, without the prior written consent of Keep.
+6.1.3    You agree not to use any device, software or program to intervene or attempt to intervene in the normal
+operation of Keep or any transactions or activities being carried out on our products and services.
+6.1.4    Except as otherwise required by law, no individual or organization may in any way copy, reprint, quote, link,
+crawl or otherwise use the contents of our products and services, in whole or in part, without express written
+permission by Keep.
+ 
+6.2  You fully understand and agree:
+6.2.1    If you violate the foregoing undertakings and any other terms of this Agreement, you shall be solely responsible
+for all consequences, and shall indemnify and hold harmless Keep from and against any claims, liabilities, damages,
+judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising out of or relating to
+your violation of these Terms.
+ 
+ 
+VII. DISCLAIMER
+7.1  You understand and agree that the use of Keep may encounter force majeure and other risk factors to cause
+interruption or delay. Keep will strive to repair products and services. However, Keep may be exempted for such
+damages caused according to local laws.
+ 
+7.2  Within the scope of law, Keep is not liable for termination of service or obstruction caused by the following
+circumstances:
+7.2.1     Computer virus, Trojan horse or other malicious program and hacker attack;
+7.2.2    User’s computer software, system, hardware and communication lines;
+7.2.3    Improper operation of users;
+7.2.4    Use of the service is in a way without Keep’s authorization;
+7.2.5    Others that we cannot control or reasonably foresee.
+ 
+7.3  You understand and agree that using Keep products and services may encounter network information or the risks
+and damage by other users. Keep is not responsible to the authenticity, applicability, legality of such risks and
+damages. These risks and damages include but are not limited to:
+7.3.1    Information that contains threats or defamation from anonymous or false impersonation;
+7.3.2    Any psychological, physical or financial damage caused because of other user’s misleading.
+ 
+7.4  Keep has the right, but not the obligation, to take actions regarding any unlawful content, product or service
+according to this Agreement. Keep does not guarantee timely response to any violation of this Agreement.
+ 
+7.5  Third parties shall be solely responsible for their products and services made available through our products and
+services.
+ 
+7.6  Disclaimer of Warranties. OUR PRODUCTS AND SERVICES ARE PROVIDED TO END USER "AS IS" AND WITH
+ALL FAULTS AND DEFECTS WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED UNDER
+APPLICABLE LAW, KEEP, ON ITS OWN BEHALF AND ITS LICENSORS AND SERVICE PROVIDERS, EXPRESSLY
+DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, WITH RESPECT TO
+THE PRODUCTS AND SERVICES, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT, AND WARRANTIES THAT MAY ARISE OUT OF COURSE
+OF DEALING, COURSE OF PERFORMANCE, USAGE, OR TRADE PRACTICE. WITHOUT LIMITATION TO THE
+FOREGOING, KEEP PROVIDES NO WARRANTY OR UNDERTAKING, AND MAKES NO REPRESENTATION OF ANY
+KIND THAT THE PRODUCTS AND SERVICES WILL MEET YOUR REQUIREMENTS, ACHIEVE ANY INTENDED
+RESULTS, BE COMPATIBLE, OR WORK WITH ANY OTHER SOFTWARE, APPLICATIONS, SYSTEMS, OR SERVICES,
+OPERATE WITHOUT INTERRUPTION, MEET ANY PERFORMANCE OR RELIABILITY STANDARDS, OR BE ERROR-
+FREE, OR THAT ANY ERRORS OR DEFECTS CAN OR WILL BE CORRECTED.
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF OR LIMITATIONS ON IMPLIED WARRANTIES OR THE
+LIMITATIONS ON THE APPLICABLE STATUTORY RIGHTS OF A CONSUMER, SO SOME OR ALL OF THE ABOVE
+EXCLUSIONS AND LIMITATIONS MAY NOT APPLY TO YOU.
+ 
+7.7  Limitation of Liability. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL KEEP
+OR ANY OF ITS LICENSORS OR SERVICE PROVIDERS, HAVE ANY LIABILITY ARISING FROM OR RELATED TO
+YOUR USE OF OR INABILITY TO USE THE PRODUCTS OR SERVICES FOR:
+a)     PERSONAL INJURY, PROPERTY DAMAGE, LOST PROFITS, COST OF SUBSTITUTE GOODS OR SERVICES,
+LOSS OF DATA, LOSS OF GOODWILL, BUSINESS INTERRUPTION, COMPUTER FAILURE OR MALFUNCTION, OR
+ANY OTHER CONSEQUENTIAL, INCIDENTAL, INDIRECT, EXEMPLARY, SPECIAL, OR PUNITIVE DAMAGES.
+b)     DIRECT DAMAGES IN AMOUNTS THAT IN THE AGGREGATE EXCEED THE AMOUNT ACTUALLY PAID BY YOU
+FOR THE PRODUCTS AND SERVICES.
+THE FOREGOING LIMITATIONS WILL APPLY WHETHER SUCH DAMAGES ARISE OUT OF BREACH OF CONTRACT,
+TORT (INCLUDING NEGLIGENCE), OR OTHERWISE AND REGARDLESS OF WHETHER SUCH DAMAGES WERE
+FORESEEABLE OR COMPANY WAS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME JURISDICTIONS
+DO NOT ALLOW CERTAIN LIMITATIONS OF LIABILITY SO SOME OR ALL OF THE ABOVE LIMITATIONS OF LIABILITY
+MAY NOT APPLY TO YOU.
+ 
+ 
+VIII. SUSPENSION, ALTER OR TERMINATION
+8.1  You should lawfully use products and services; otherwise, Keep has the right to take the following measures:
+8.1.1    Suspend or restrict your right to use our products and services, including but not limited to restricting your
+ability to use certain features or functionality of our products and services;
+8.1.2    Terminate your right to use our products and services.
+ 
+8.2  Keep has the right to suspend, alter, terminate its products or part of its functions in accordance with its
+development plan, and to decide whether or not to provide certain products and services. Keep does not have an
+obligation to notify you about the foregoing information.
+ 
+8.3  Unless stipulated by the local law, you have the responsibility to back up the data stored in Keep. When your
+service is terminated, Keep has the right to permanently delete all relevant data of you from the server, and does not
+have the obligation to return or in any form provide to you, except as otherwise provided by our Privacy Policy.
+ 
+ 
+IX. SUBSCRIPTIONS
+9.1  We Offer In-App Purchases within Keep App with the selection of Monthly subscription (Workouts for All Levels)
+and Yearly Subscription (Get Your Personal Coach).
+ 
+9.2  The subscription costs $9.99 per month or $49.99 per year (The price is for US customers and prices may vary by
+location).
+ 
+9.3  Payment will be processed via iTunes Account / Google Play Account at confirmation of purchase.
+ 
+9.4  The subscriptions are automatically renewed unless turned off at least 24 hours before the end of the current
+period.
+ 
+9.5  Account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of
+the renewal.
+ ff
+9.6  A 3-day Free Trial and 7-day Free Trial may be offered with the Monthly Subscription and Yearly Subscription. If
+you do not cancel the subscription before the end of the Free Trial period, the monthly/Yearly subscription will auto
+renew and you will be charged.
+ 
+9.7  Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account
+Settings after purchase.
+ 
+9.8  Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that
+service.
+ 
+9.9  We reserve the right, at our sole discretion, to modify or adjust current and future pricing models for the use of our
+service, at any time.
+ 
+ 
+X. REFUND POLICY
+10.1  All fees and charges are non-refundable and there are no refunds or credits for partially used periods. The service
+and your rights to use it expire at the end of the paid period of your subscription. The only way to receive a refund for
+such purchases is to contact Apple directly.
+ 
+10.2  Please be noted that automatic renewal of the service might occur for in-app purchases made through App Store
+and Google Play Store. In such case, refunds will not be issued. Users are responsible for cancelling future renewals at
+the relevant APP market.
+ 
+ 
+XI. APPLICABLE LAW AND DISPUTE RESOLUTION
+11.1  This Agreement is signed in Chaoyang, Beijing, People’s Republic of China.
+ 
+11.2  The laws of the PRC mainland region (excluding conflict of laws) shall govern the formation, performance, and
+interpretation of this Agreement and any dispute arising out of or in connection with this Agreement.
+ 
+11.3  If any dispute or dispute arises between you and Keep, you may choose to negotiate with us, or to submit the
+dispute to the Beijing Arbitration Commission located in Beijing. The arbitration shall be final and binding on both
+parties.
+ 
+ 
+XII. OTHERS
+12.1  If any terms in this Agreement are invalid or not enforceable for any reason, it shall not affect the binding force of
+the remaining provisions.
+ 
+12.2  The title of the terms of this Agreement is provided for readability only and shall not be construed as a basis for
+interpreting the terms of this Agreement.

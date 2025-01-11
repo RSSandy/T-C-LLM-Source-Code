@@ -1,0 +1,383 @@
+TERMS OF SERVICE
+See also: Privacy policy
+§1
+General Provisions
+1. Against Gravity Sp. z o.o. headquartered in Warsaw on Bukowińska 26C / 12, 02-703, registered in the City of
+Warsaw Regional Court, 12th Commercial Division of the National Court Register no. KRS 0000199919, share
+capital of 50 000 PLN (fully paid), NIP: 5262757178, REGON: 015682568, e-mail: vod@againstgravity.pl
+(hereinafter referred to as “Against Gravity” or “Service Owner”) provides access to purchasable or free film
+content (in the form of films available on the VOD platform), or the “Service”, particularly by means of
+electronically providing purchasable or free tickets (“E-tickets”) and passes (“E-passes”) granting access to
+films hosted on the vod.mdag.pl platform located at vod.mdag.pl (the “Platform”).
+2. The Service is carried out in accordance with these Terms of Service.
+3. These Terms of Service (“Terms”) specify the legal grounds for accessing the Service on the Platform. Every
+User is obliged to follow these Terms from the moment they take steps to access the Service. The User is any
+person using the Platform, particularly when they obtain Access to the Service on the Platform, whether free of
+charge or by purchasing Access. All Users must be over the legal age and fully able and competent to enter
+into the terms, conditions, and obligations set forth in these Terms.
+4. Prior to commencing to use this Platform the Users are recommended to read these Terms. By commencing to
+use this platform the Users affirm that they have read these Terms and will comply with the provisions set
+herein.
+5. Purchasing and/or downloading a free E-ticket or an E-pass is tantamount to consent to compliance with these
+Terms of Service (hereinafter referred to as “Terms”) setting forth the terms and conditions of free or
+purchasable access to the Platform, including the free download or online sale of E-tickets and E-passes to
+films hosted on the Platform.
+6. Unless the Platform Owner decides otherwise, E-tickets and E-passes may only be purchased or downloaded
+for free by Users logged in to the Platform.
+7. Information about the price, date, and duration of the User’s access to a film is listed on the Platform on the
+Purchase Access web page as well as on the web page of the given film (hereinafter referred to as the “Film
+Subpage”).
+8. The prices on the Platform are varied and listed in Polish zlotys including VAT. The prices of all services
+provided by the Platform become binding at the moment of purchase. The Owner reserves the right to modify
+the prices according to its current offer communicated on the Platform, as well as to introduce temporary
+promotional offerings or discounts and modify them; the above does not apply to access to films already
+purchased by the Users.
+9. The films and other audiovisual material hosted on the Platform may be added, removed, and modified at will
+by Against Gravity while preserving the acquired rights of Users.
+§2
+Registering a User Account
+1. A User Account must be registered in order to commence using the Service and receive access to films and
+other audiovisual material hosted on the Platform.
+2. Registering a User Account is voluntary and free of charge.
+3. Registering a User Account comprises the following steps:
+1. the registration form available on the Platform must be filled out with the User’s first name, surname, e-
+mail address, and password;
+2. the Terms of Service and Privacy Policy must be read and consented to;
+3. the Platform Owner must send a message to the e-mail provided by the User in the registration form in
+order to activate the account;
+4. the User must activate the account by clicking the link contained in the message sent by the Platform
+Owner;
+5. the User becomes a Registered User once the registration process is successfully completed.
+§3
+E-tickets
+1. An E-ticket allows its holder to watch a film within 24 hours of purchasing an E-ticket or downloading a free E-
+ticket; the purchaser or downloader will have access to the given film for 12 hours from the moment of
+confirming the “Play” command in the pop-up on the Film Subpage or from the moment of clicking the “Watch”
+and “Play” buttons associated with the given film on the My Account subpage.
+2. The following conditions must be met in order to purchase an E-ticket through the Platform:
+1. the specific film must be selected on the Platform subject to the provisions of §1 Art. 7 and §3 Art. 3 of
+these Terms;
+2. the User must have created and logged in to their account;
+3. the User must have paid for the E-ticket using an electronic payment method available on the Platform;
+4. the User must have received the confirmation e-mail sent to the address specified by the User.
+3. The number of E-tickets and the availability of individual films on the Platform may be limited; further access to
+the film will be impossible after the limit is reached. Information about limited availability is listed on the Film
+Subpage.
+4. The following conditions must be met in order to download a free E-ticket from the Platform:
+1.  the specific film must be selected on the Platform subject to the provisions of §1 Art. 7 and §3 Art. 3 of
+these Terms;
+2. the User must have created and logged in to their account.
+5. An E-ticket allows its holder to watch a film within 24 hours of purchasing an E-ticket or downloading a free E-
+ticket; the purchaser or downloader will have access to the given film for 12 hours from the moment of
+confirming the “Play” command in the pop-up on the Film Subpage or from the moment of clicking the “Watch”
+and “Play” buttons next to the given film on the My Account subpage.
+§4
+E-passes
+1. The following conditions must be met in order to purchase an E-pass through the Platform:
+1. the type of the E-pass must be selected on the Platform subject to the provisions of §4 Art. 4 and §4 Art.
+8 of these Terms;
+2. the User must have created and logged in to their account;
+3.  the User must have paid for the E-pass using an electronic payment method available on the Platform;
+4. the User must have received the confirmation e-mail sent to the address specified by the User.
+2. In order to purchase an E-pass, the User must consent to the processing of personal data by Against Gravity
+Sp. z o.o. headquartered in Warsaw on Bukowińska 26C / 12, 02-703, registered in the City of Warsaw
+Regional Court, 12th Commercial Division of the National Court Register no. KRS 0000199919, share capital
+of 50 000 PLN (fully paid), NIP: 5262757178, REGON: 015682568, for the purpose of obtaining an E-pass,
+pursuant to the April 27, 2016 Regulation 2016/679 of European Parliament and the Council on the protection
+of natural persons with regard to the processing of personal data and on the free movement of such data and
+repealing Directive 95/46/EC (GDPR). While consent is voluntary, it is required for the purchase of an E-pass.
+3. The Platform Owner is not responsible or liable for any damages resulting from erroneous or falsified data
+entered by the User in the online ordering form or from neglecting to read these Terms.
+4. Various types of E-passes are available for purchase. The Platform Owner specifies that the User may hold a
+maximum of one active E-pass of a given type; holding more than one active E-pass is only possible if the User
+purchased two or more E-passes of different types and the Platform Owner enabled this purchase in the
+System. After an E-pass is exhausted, another E-pass of the specific type may be purchased.
+5. The User may not purchase single E-tickets granting access to specific films while holding an active E-pass
+allowing access to the given films; if the active E-pass does not allow access to the given film, a single E-ticket
+may be purchased. The User may purchase single E-tickets once the E-pass is exhausted, unless the Platform
+Owner decides otherwise.
+6. An E-pass allows the streaming of a set number of films hosted on the Platform throughout the access period
+obtained in accordance with the information in  §1 Art. 7 of these Terms, subject to the provisions of §4 Art. 10
+of these Terms.
+7. The purchaser of an E-pass may watch the films covered by the E-pass either by accessing the Film Subpage
+or by clicking the “Watch with your E-pass” button next to the films tagged by the User as “To Watch” on the My
+Account subpage.
+8. The number of E-passes and the availability of specific films through an E-pass may be limited; further access
+to these films will be impossible after the limit is reached. Information about limited availability or unavailability
+is listed on the Buy Access subpage.
+9. Against Gravity reserves the right to restrict E-pass access to specific films. Information about restricted access
+via an E-pass is listed on the Film Subpage.
+10. After creating an E-ticket with an active E-pass, the User has 12 hours to watch the film after clicking the
+“Watch with your E-pass” button on the Film Subpage or after clicking the “Watch with your E-pass” button next
+to the films tagged by the User as “To Watch” on the My Account subpage.
+§5
+Payments
+1. The Customer is obliged to pay for the Service in a timely fashion.
+2. The Price of a Single product is specified in the Product Description, the Agreement, or on the Price List. The
+Price is available prior to the placement of the Order by the User.
+3. Online payments are made via a third-party online payment operator (hereinafter referred to as the “Payment
+System Operator”). The Payment System Operator is PayU and its terms of service are available
+on  https://poland.payu.com/dokumenty-prawne-do-pobrania/
+4. Against Gravity is not responsible for any consequence of malfunctions of the payment system maintained by
+the Payment System Operator covered by §5 Art. 1 above, nor for any action or neglect on the part of the
+Payment System Operator.
+5. Placing an online order is tantamount to committing to pay for it by the User.
+6. If the User’s bank fails to confirm the payment for the online order within 5 minutes of it being placed, the online
+order will be automatically canceled. The money transferred from the User’s bank account will remain with the
+Payment System Operator.
+7. Against Gravity may issue a VAT invoice upon the User’s request.
+8. Users who are entrepreneurs may request a VAT invoice for an E-pass electronically at the time of purchase
+via the online form available on the Platform after the selection of an E-pass. An electronic VAT invoice will be
+sent. In order to receive a VAT invoice, the name, surname, address, company name and NIP number must be
+provided.
+9. Users who are natural persons may request a VAT invoice for an E-pass electronically via the online form
+available on the Platform. An electronic VAT invoice will be sent. In order to receive a VAT invoice, full name
+and address must be provided.
+10. The Users who are natural persons may request a VAT invoice for an E-ticket electronically by sending an e-
+mail to  vod@againstgravity.pl within 3 months of the last day of the month when the paid Service had been
+performed. In order to receive a VAT invoice, the Users must provide their full name and address;
+entrepreneurs must additionally provide their company name (WARNING: method not applicable for Users who
+are entrepreneurs).
+11. Against Gravity has the right to terminate User Accounts with 14 days’ notice (by sending the cancellation
+notice to the User in writing or by e-mail). In the case of Customers who are also Consumers, any termination
+requires significant grounds, i.e. 1) changes to universally applicable laws impacting the rights and duties
+resulting from the Agreement between the User and Against Gravity or differences in interpretation of the
+above laws due to court rulings, decisions, orders, recommendations, or guidelines of the relevant institutions
+or organs; 2) the discontinuance of the Service provided by Against Gravity as defined in these Terms,
+particularly the closure of the vod.mdag.pl film portal.
+12. Against Gravity will place the necessary information on the main page of the Platform in order to notify the
+Users of the Service and/or Platform, as well as refund the cost of unused tickets and passes to the Users’
+bank accounts. The Users consent to the above by accepting these Terms without raising any issue or
+objection.
+13. The use of the Service requires Internet access, which is not included in the prices for the Service.
+14. Specific materials may be periodically unavailable. Information about the availability of specific materials is
+provided on the Platform.
+§ 6
+Specific Regulations
+1. Films and other audiovisual materials are accessible via the Platform.
+2. Access to the films on the Platform may also be gained by receiving an access code allowing authorized
+access to said content in accordance with the terms set by the Platform Owner.
+3. Films and other audiovisual material hosted on the Platform are accessible around the clock; however,
+maintenance of the Platform may result in occasional downtime, making the Platform temporarily inaccessible
+to Users. The Owner will notify Users about downtime on the Platform website. Following any downtime, active
+access to films will be extended by the duration of said downtime in order to maintain the acquired rights of the
+Users.
+4. Access to the films on the Platform is only possible on the territory of Poland. The User must use a Polish IP
+address. The User is obliged to not use or attempt to use the Platform outside of Poland.
+5. The Users may only screen the films hosted on the Platform on one device at a time.
+6. Access to paid and free films on the Platform will terminate along with the User’s period of access defined in
+accordance with §1 Art. 7 of these Terms.
+7. The use of the Platform requires access to a device meeting the following technical parameters and capable of
+Internet access meeting the following minimum requirements:
+1. compatible web browsers:: Chrome, Safari 13 and up, Firefox, Microsoft Edge,
+2. the HD quality of the movies is adapted to the connection speed during the streaming; maximum
+possible resolution: 1080p, minimum possible resolution: 540p,
+3. minimum required download speed: 2 Mbps; the Platform Owner recommends speeds over 10 Mbps.
+8. The Users may screen the films hosted on the Platform on Chromecast devices.
+9. The quality of streamed films and audiovisual material may depend on the technical parameters of the User’s
+Internet connection and of the device granting the User access to films and other audiovisual materials hosted
+on the Platform.
+10. The Platform Owner is not responsible for inaccessibility or disruptions in accessibility of films and other
+audiovisual materials hosted on the Platform caused by events outside the Owner’s control, as well as
+technical problems or restrictions related to the Users’ Internet connection or device. As the Owner has no
+control over the Internet and the Users’ devices, the Users are aware of the related risks, particularly the
+impossibility to guarantee constant and uninterrupted access to the Platform. Against Gravity states that
+technical problems or restrictions related to the Users’ electronic devices (firewalls, blocks, incompatible
+multimedia player versions, antivirus software etc) may restrict or disable the Users’ access to the Service
+provided by the Platform. “Devices” are electronic devices meeting the minimum technical requirements
+specified in these Terms and connected to the Internet, allowing the use of the Service.
+11. Any attempt to break into the Platform or use it in violation of these Terms or applicable laws will result in
+irreversible termination of access to the Service followed by appropriate legal action. Saving, copying, or
+interfering with the content and materials on the Platform is prohibited.
+12. Brief periods of downtime may occur due to necessary maintenance activities. In case of extended downtime
+due to a malfunction, Against Gravity will attempt to repair the malfunction as quickly as possible.
+13. Against Gravity affirms that the Service utilizes digital data transmission which may be negatively affected by
+factors and circumstances outside of Against Gravity’s control, e.g. weather conditions, installation errors, low
+signal strength, or network malfunctions.
+14. The Users are authorized to access the films on the Platform for their personal use. The Users are not
+authorized to provide public or commercial access to the films or their elements in any form.
+15. The sale of selected Materials on the Platform may be restricted in order for Against Gravity to maintain
+appropriate quality of the Service. Access to Materials may be limited due to the type of the Users’ Application
+or Device. Information about accessibility restrictions will be listed on the Platform on the Film Subpages.
+16. The use of the Platform in violation of the law is prohibited. This includes uploading any content or material
+violating the law and these Terms. The Users of this Service are required to ensure that minors cannot access
+Audiovisual Materials (particularly containing drastic, offensive, erotic, or violent themes) containing content
+which may be inappropriate for minors.  The Audiovisual Materials will be tagged on the Platform in
+accordance with the relevant laws.
+17. Access to the Service may be restricted in case of attempting to access the Service simultaneously on several
+devices or in case of attempting unauthorized access to the User Account on the Platform. Information about
+restrictions will be provided in the form of a pop-up on the Platform. If access is restricted, the Customer should
+contact Against Gravity.
+18. Against Gravity reserves the right to restrict access to the Service or immediately terminate the Agreement in
+the event of Service or Platform usage in contravention of these Terms or applicable laws after the User had
+been requested to remedy the violation and did not comply within the stated period.
+§7
+Copyright and Films
+1. The films available on the Platform are protected by copyright held by Against Gravity or another institution
+providing the relevant license to the Platform Owner. It is prohibited to download, forward, copy, reproduce,
+transmit, publish, modify, loan, lend, sell, distribute, and create derivative works of any content hosted on the
+Platform, as well as to use it in violation of these Terms and permissible use laws.
+2. Users may pause and rewind the films streamed on the Platform, subject to the provisions of §3 Art. 5, §4 Art.
+6, and §4 Art. 10 of these Terms.
+3. The films hosted on the Platform are available with Polish subtitles or in Polish. A subset of the films is
+available with Polish and English subtitles. While streaming a film where Polish and English subtitles are
+available, the User may select Polish or English subtitles; however, some films may be screened with
+permanent subtitles. Audio descriptions are available for a subset of the films; this information is listed on the
+Film Subpage. Children’s films hosted on the Platform may be voice-overed.
+§8
+Legal Responsibility
+Events resulting from circumstances beyond the control of Against Gravity do not constitute a failure in performance
+or inadequate performance on the part of Against Gravity. These include:
+1. restrictions or interruptions of Internet access, or
+2. failures or malfunctions of the User’s devices or software, or
+3. other interruptions in the use of the Service resulting from any action or neglect on part of the User in violation
+of the Agreement or these Terms, or
+4. restrictions in the operation of this Platform covered in these Terms and consented to by the User at the
+moment of consenting to these Terms.
+§9
+Cancellations
+1. This Service Agreement may be entered into with the use of means of remote communication, including
+electronically.
+2. The right to cancel does not apply in the cases outlined in Art. 38 of the May 30, 2014 Law on consumer rights,
+including in the case of commencing the Service with the User’s unambiguous consent before the end of the
+cancellation period and after the User had been notified about waiving their right to cancel the Agreement.
+3. As this Service is performed “on demand”, in the case of Agreements entered into remotely or outside of the
+company headquarters, Against Gravity provides the Service after receiving the Customer’s unambiguous
+consent to commence providing the Service before the end of the cancellation period. A statement including
+the said consent is included with the Order and confirmed by the User.
+4. Additionally, Against Gravity affirms that in accordance with Article 38 par. 13 of the May 30, 2014 Act on
+consumer rights, the right to cancel a remote agreement on the delivery of digital content (films) on the
+Platform does not apply to Purchasers/Consumers entering into an agreement on the service of delivery of
+digital content not encoded on a tangible medium, as long as the service had commenced with the Consumer’s
+unambiguous consent before the end of the 14-day cancellation period and after the User had been notified by
+the Service Provider about waiving their right to cancel the agreement.
+5. Additionally, Against Gravity affirms that with the exception of the cases outlined above, the Users have the
+right to cancel the agreement without stating a cause within 14 days of entering into the agreement covered in
+§1 Art. 1 of these Terms or at the time of receiving access to the Catalogue or directly to the Products available
+on the Platform. In the event of a cancellation the agreement is considered void.
+6. In order to make use of their right to cancel the agreement, the User should:
+1. in the case of a Service provided free of charge, the User should close the Page;
+2. in the case of a paid Service, the User should send an unambiguous cancellation notice to Against
+Gravity, ul. Bukowińska 26C / 12, 02-703 Warszawa, labeled as “vod.mdag.pl”,  or electronically to
+vod@againstgravity.pl ; an example of a cancellation notice is provided below: “I hereby announce my
+cancellation of the agreement on digital content delivery via vod.mdag.pl Agreement date: Name of the
+Consumer: Address of the Consumer: Date: E-mail used to authorize or register on the Platform /
+Signature if the cancellation notice is sent by post”
+7. In order to cancel the Agreement, the User should send the cancellation notice within 14 days of entering into
+the agreement. Upon receiving the cancellation notice, Against Gravity will promptly confirm the receipt of the
+notice via e-mail to the address used in the process of user registration or authorization.
+8. Consequences of cancellation: upon canceling this agreement the User will be promptly refunded the cost of
+the purchase, no later than 14 days after the Service Provider had been notified about the cancellation.
+§10
+Complaints Policy
+1. All Users have the right to submit a complaint about issues related to the functioning of the Service.
+2. Complaints related to Service access, Platform functioning, and the services themselves must be submitted to
+the following e-mail address: vod@againstgravity.pl. The complaint should include the User’s data: full name,
+residential address, registration e-mail, as well as a description of the cause for complaint.
+3. The Platform Owner will examine the complaint and inform the User about the decision within 14 days of the
+receipt of the complaint. Against     Gravity will inform the User about the outcome of the complaint process by
+sending an e-mail to the address indicated in the complaint by the User.
+4. The Service Provider reserves the right to extend the period specified in Art. 3 above by no more than 10 days
+if the complaint process requires extraordinary steps and activities or in the case of obstacles beyond the
+Service Provider’s control (equipment malfunctions, network downtime, etc).
+5. If the complaint must be amended in order to be resolved, Against Gravity will promptly notify the Customer
+about the deadline (no less than 7 days) and scope of amendment, along with a notification that a lack of
+response within the stated time will result in the complaint remaining unresolved. If no amendment is submitted
+within the stated time, the complaint will remain unresolved.
+6. Complaints about electronic payments must be submitted to the Payment System Operator.
+7. The legal relationships resulting from the use of the Service shall be governed by the law of Poland.
+8. The User has the right to seek redress in court or, in the case of consumers, through mediation or courts of
+arbitration.
+9. The rules and procedures of access to extrajudicial manners of seeking redress by consumers are specified
+separately in acts or documents appointing the institutions carrying out such proceedings or in their internal
+acts (e.g. statutes or regulations).
+§11
+Newsletter
+1. Users may sign up for the newsletter through a dedicated form located at the website of the Platform and
+accessible to all Users. The agreement for the newsletter service becomes binding at the moment of entering
+the e-mail address into the publicly available form located on the Platform and clicking “Sign up for the
+newsletter”.
+2. Users may sign up for the newsletter by ticking the “Opt in to the newsletter” field at the time of purchasing an
+E-pass.
+3. The newsletter is a promotional publication covering products, services, and events organized by Against
+Gravity and third parties collaborating with Against Gravity.
+4. As additional functions, e.g. contact forms or newsletter signups, are made available to Users, the relevant
+notification on Personal data processing and the extent of said processing will be provided during the data
+collection for the purpose of the above functions.
+§12
+Personal Data Protection
+1. The Personal Data Administrator is Against Gravity Sp. z o.o. headquartered in Warsaw on Bukowińska
+26C/12, 02-703, registered in the City of Warsaw Regional Court, 12th Commercial Division of the National
+Court Register no. KRS 0000199919, share capital of 50 000 PLN (fully paid), NIP: 5262757178, REGON:
+015682568. All queries about personal data protection should be directed by e-mail to vod@againstgravity.pl or
+by post to Against Gravity sp. z o.o. , ul. Bukowińska 26c/12, 02-703 Warszawa.
+2. The personal data is processed for the duration of the agreement and until the termination of any claims
+related to its implementation. Detailed information about the period of personal data processing is specified in
+the Privacy Policy.
+3. Any individual disclosing their personal data has the right to demand access to said data, the right to amend it,
+the right to restrict its processing, the right to delete it, the right to object to processing or direct marketing, and
+the right to file a complaint with the supervisory authority of personal data protection. Personal data does not
+undergo profiling. To the extent that personal data is processed for the purposes of delivering the services of
+the vod.mdag.pl Platform (Terms) or processed consensually, the Users also have the right to transfer their
+data. Consent may be withdrawn at any time without affecting the lawfulness of processing carried out on the
+basis of consent before it was withdrawn.
+4. Against Gravity transfers the Users’ personal data to Payment System Operators and permits their processing
+for the purpose of processing the Users’ payments for Services as well as to enable Payment System
+Operators to carry out the duties specified in laws in force and applicable to said payments.
+5. Against Gravity uses “cookies”, i.e. text files stored on the hard drive of the User’s computer. The cookies are
+not intended to gather any information about the individual Users; they are used to maintain the Users’
+navigation parameters and login status, as well as to aggregate statistical data on user flow. Statistics help to
+understand the Platform’s usage patterns, which enables improvements to its structure and content. Detailed
+regulations of cookie use can be found on the Platform in the Terms of Service.
+6. An e-mail address is required in order to register (create an account) on the Platform. This data will be
+processed for the purpose of carrying out the services of the Platform (agreement). The Users’ personal data
+(particularly e-mail addresses) entered in the form during registration to vod.mdag.pl or afterwards in the
+editing process (account data modification) as well as User activity data collected on the Platform or other
+functions (page views, clicks, service usage, purchase history) may be processed for the marketing purposes
+of the Administrator (including necessary analytics and marketing profile collation) and the Users have the right
+to object to this processing.
+7. Trusted Partner Marketing. If the User voluntarily consents to marketing activities, their personal data entered
+in the form during registration to vod.mdag.pl or afterwards in the editing process, as well as User activity data
+collected on the Platform or other functions (page views, clicks, purchase history – if applicable, service usage
+including necessary analytics and marketing profile collation) will be used to deliver ads of our Trusted
+Partners’ products and services (as indicated in the Privacy Policy) tailored to the User’s interests.
+8. Detailed information about the period of personal data processing, justified interest of the Administrator, entities
+authorized to receive personal data, and the implementation of rights of personal data subjects, including the
+right to file a complaint with the President of the Office for Personal Data Protection, can be found in
+the Privacy Policy.
+§13
+Final Provisions
+ 
+1. The National Broadcasting Council is the competent authority in the matters of on-demand audiovisual media
+services.
+2. The Platform Owner is not liable for incoming e-mails (to the address provided by the User) being blocked by
+mail server administrators, nor for the deletion and/or blocking of e-mails by software installed on the device
+operated by the User. The Platform Owner retains the right to stop online sales of E-tickets and E-passes at
+any time without stating a reason.
+3. The Platform Owner retains the right to modify these Terms within the scope of the law currently in force.
+Orders placed prior to the date of modification of these Terms coming into force will be realized in accordance
+with the provisions in force on the day of order placement. Modifications to these Terms will be announced to
+the Users on the Platform website and during logging in to the Platform.
+4. All modifications to these Terms come into force at the moment of their publication on the website of the
+Platform unless stated otherwise. Once the information about modifications of these Terms are published on
+the main page of the Platform or in other applicable locations, the Users should promptly review the changes,
+as logging in to the Platform after the modifications are announced is tantamount to the Users’ full consent to
+the modified Terms.
+5. The provisions of these Terms remaining in force at the moment of requesting to purchase Service Access
+apply to the purchased Products. Modifications to these Terms will be announced to the Users on the website
+of the Platform and during logging in to the Platform. The Users who had entered into an Agreement under the
+provisions of an earlier version of the Terms of Service will be notified about the modifications and requested to
+accept the new Terms. Customers who do not accept the new Terms have the right to cancel their Agreement
+without notice no later than 14 days from the date of announcement of the new Terms. The Users have the
+right to terminate the agreement at any time with 14 days’ notice or by removing their User Account. The Users
+have the right to remove their User Account by e-mailing a request to vod@againstgravity.pl. Users removing
+their User Accounts or terminating their Agreements for causes unrelated to Against Gravity are not entitled to
+refunds for purchased services remaining active at the time of termination.
+6. These Terms are available in two language versions, Polish and English. In the event of any dispute as to
+these Terms the Polish language version shall prevail.
+7. Any matters not covered in these Terms will be governed by the provisions of the Polish law.
+8. These Terms are made available through the Application of the Platform or at vod.mdag.pl free of charge prior
+to entering into any Agreement and at any request of the Customer in a form that permits said Terms to be
+downloaded, saved, and printed.
+ 
+These Terms of Service are valid as of December 18, 2020.

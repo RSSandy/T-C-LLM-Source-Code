@@ -1,0 +1,425 @@
+Terms & Conditions
+Gett Terms of Use
+GETT CUSTOMER TERMS AND CONDITIONS
+IMPORTANT:
+THESE TERMS AND CONDITIONS (“Conditions”) DEFINE THE
+BASIS UPON WHICH GETT WILL PROVIDE YOU WITH ACCESS
+TO THE GETT MOBILE APPLICATION PLATFORM, PURSUANT TO
+WHICH YOU WILL BE ABLE TO REQUEST CERTAIN
+TRANSPORTATION SERVICES FROM THIRD PARTY DRIVERS BY
+PLACING ORDERS THROUGH GETT’S MOBILE APPLICATION
+PLATFORM. THESE CONDITIONS (TOGETHER WITH THE
+DOCUMENTS REFERRED TO HEREIN) SET OUT THE TERMS OF
+USE ON WHICH YOU MAY, AS A CUSTOMER, USE THE APP AND
+REQUEST TRANSPORTATION SERVICES. BY USING THE APP
+AND TICKING THE ACCEPTANCE BOX, YOU INDICATE THAT YOU
+ACCEPT THESE TERMS OF USE WHICH APPLY, AMONG OTHER
+THINGS, TO ALL SERVICES HERE IN UNDER TO BE RENDERED
+TO OR BY YOU VIA THE APP WITHIN THE UK AND THAT YOU
+AGREE TO ABIDE BY THEM. PLEASE READ THESE TERMS OF
+USE CAREFULLY BEFORE YOU START TO USE THE APP AND/OR
+REQUEST TRANSPORTATION SERVICES. IF YOU DO NOT AGREE
+TO THESE TERMS OF USE, YOU MUST NOT USE THE APP OR
+REQUEST THE TRANSPORTATION SERVICES.
+YOUR ATTENTION IS PARTICULARLY DRAWN TO CONDITION 9
+WHICH LIMITS GETT’S LIABILITY TO YOU.
+1.DEFINITIONS AND INTERPRETATION
+i) In these Conditions (unless the context otherwise requires), the
+following words and phrases shall have the following meanings:
+“App” means the mobile application which provides a platform for
+placing Orders and is owned by Gett;
+“Cancellation Fee” means the fee charged for cancellation of an
+Order as outlined in Condition 4.7;
+“Cancellation Policy” means Gett’s cancellation and no show policy
+available on the website or by clicking here.
+“Collection Location” means the location notified by you via the App
+to be picked up by a Driver;
+“Customer” means the individual making a request via Gett’s mobile
+application platform for Transportation Services. A reference to “you” or
+“your” shall be construed as a reference to the Customer;
+“Customer Account” means the Customer’s account with Gett which
+contains the Customer’s personal information including their name,
+address, email address, phone number and payment information;
+“Data Protection Laws” means (until 25 May 2018) the Data
+Protection Act 1998 and (from 25 May 2018) the General Data
+Protection Regulation, together with all legislation made thereunder
+and any other laws relating to the processing of Personal Data, in each
+case as amended, superseded or replaced from time to time;
+“Driver” means a driver who is an independent contractor and has
+entered into a driver agreement with Gett to provide transportation
+services to users of the App, including Customers;
+“Fees” means the fare charges payable by the Customer in
+connection with the Transportation Services and the Technology Fee
+as further outlined in Condition 4;
+“Final Location” means the location notified by the Customer using
+the App as the final destination for the Transportation Services;
+“Gett” means GT Gettaxi (UK) Limited a company established under
+the laws of England and Wales with company number 07603404
+whose registered office is at 1 Plough Place, London, EC4A 1DE and
+references to “us” or “we” shall be construed accordingly;
+“Intellectual Property Rights” means any and all patents,
+trademarks and service marks, registered designs, design rights and
+copyright, moral rights, rights in data and databases and other
+protectable lists of information, rights in confidential information, trade
+secrets, inventions and know how, trade and business names, domain
+names, get ups, logos and trade dress (including all extensions,
+revivals and renewals, where relevant) in each case whether
+registered or unregistered and application for any of them and the
+goodwill attaching to any of them and any rights or forms of protection
+of a similar nature and having equivalent or similar effect to any of
+them which may subsist anywhere in the world;
+“Order” means a request for Transportation Services by the Customer
+via the App;
+“Privacy Policy” means Gett’s privacy policy available on the Gett
+website or by clicking here;
+“Personal Data” has the meaning set out in the Data Protection Laws;
+“Services” means the platform for ordering Drivers, through the App,
+for performance of Transportation Services;
+“Standby Fee” means the sum of £0.50 for each minute a Driver is
+waiting to collect you or such other sum as notified to you from time to
+time via the App; and
+“Technology Fee” means the charge levied by Gett for the provision
+of the Services, including for the convenience of accessing
+Transportation Services via the App but not for the provision of
+Transportation Services;
+“Transportation Services” means transportation services to be
+provided to you by a Driver.
+1. ii) In these Conditions (unless the context requires otherwise):
+2. a) the words “including”, “include”, or “in particular” means
+including, includes or in particular without limitation and words in
+the singular include the plural and in the plural shall include the
+singular;
+3. b) reference to a party shall, upon any assignment or other
+transfer that is permitted by these Conditions, be construed to
+include those successors and permitted assigns or transferees;
+4. c) the contents list, headings, and any descriptive notes are for
+ease of reference only and shall not affect the construction or
+interpretation of these Conditions; and
+5. d) reference to any legislative provision shall be deemed to
+include any statutory instrument, by-law, regulation, rule,
+subordinate or delegated legislation or order and any rules and
+regulations which are made under it, and any subsequent re-
+enactment or amendment of the same.
+iii) These Conditions shall apply to the Customer’s access and use of
+the Services and all Orders placed by the Customer through the App.
+2.SERVICES
+2.1 You must be 18 years of age or older to use the App and place
+Orders. Access to the App is permitted for personal use only.
+2.2 The App provides a means to enable Customers who seek
+transportation to certain destinations to be connected with Drivers. Gett
+do not provide transportation services, rather we are a technological
+service provider that uses an electronic platform to provide the
+Services.
+2.3 Access to, and use of, the App is free of charge. You will need to
+set up a Customer Account and provide your payment details in order
+to access the Services. Any notice or other communication permitted
+or required in accordance with these Conditions by Gett will be in
+writing and sent to the email address that you provided when setting
+up your Customer Account and/or the App.
+2.4 Notwithstanding the provisions of Condition 2.1, Gett does not
+guarantee availability nor uninterrupted or error free use of the App
+and shall not be liable for any damage, loss, claims, costs or expenses
+resulting from or as a consequence of scheduled or unscheduled
+downtime, unavailability or slowness.
+3.TRANSPORTATION SERVICES
+3.1 In order to connect you to Drivers, you will be required to enter
+your Collection Location into the App. Where you enter your Final
+Location, we will provide you with an estimated Fee for the journey,
+based on the information provided, and provide you with the availability
+of Drivers. If you wish to proceed with your request for Transportation
+Services, you should select the order button and you will be connected
+with a Driver for Transportation Services and this shall constitute an
+Order. By selecting the order button, you will enter into a contract for
+Transportation Services with a Driver and be provided with their details
+via the App. For the avoidance of any doubt, your contract for
+Transportation Services will be with the Driver selected and will not be
+with Gett. You acknowledge and agree that Gett is not a party to your
+contract for Transportation Services.
+3.2 You acknowledge that your geo-location information must be
+provided by your device in order to enable us to provide the Services.
+You acknowledge and agree that your geo-location information will be
+accessible by the App and when you are logged-in your location will be
+displayed to Gett and Drivers.
+3.3 Transportation Services may be cancelled by you prior to the Driver
+arriving at the Collection Location, subject to the payment of a
+Cancellation Fee. If you are not at the Collection Location when the
+Driver arrives, you may be charged the Standby Fee. Drivers may
+cancel their provision of Transportation Services at any time.
+3.4 Following a Driver completing an Order, you will be able to rate
+your Driver via the App. Where you chose to rate your Driver, you must
+provide accurate feedback on the Driver in order to allow us to monitor
+the quality of the Transportation Services they provide to users of the
+App. Drivers may also be permitted to rate you as a Customer and
+such information may be used by Drivers when deciding whether to
+accept or reject your future Orders. Customers must (and where
+appropriate Customer’s must ensure their guests) at all times act in a
+polite and courteous manner towards Drivers and any other
+passengers of the vehicle.
+4.FEES
+4.1 In consideration of the Transportation Services, you will be charged
+the Fees. The Fees may be calculated on either a fixed fee or a
+metered basis and an additional Technology Fee may be added.
+Where the Fees are paid on a fixed fee basis, the amount of the Fee
+will be notified via the App and you will have the opportunity to place
+the Order at your sole discretion at such fixed fees. If you chose to pay
+on a metered basis, the Fee will be calculated in accordance with the
+published hackney carriage fees. As a provider of Transportation
+Services, all Drivers are required by Gett to provide the Transportation
+Services in an effective, efficient and safe manner. Once the
+Transportation Services have been completed and payment made, we
+will send you an electronic receipt. Details of past journeys are
+available via the App.
+4.2 As part of the booking process, for every Order you place, you
+agree to Gett making a pre-authorisation payment on your payment
+card provided on your Customer Account (“Pre-Authorisation
+Payment”). The amount of the Pre-Authorised Payment will either be:
+(i) the fixed fee; (ii) where you select a metered fare and provide a
+Final Location, the estimated Fee; or (iii) in all other cases, the Fee
+estimated by Gett acting reasonably. This amount will not be debited
+from your account at the time of placing your Order, but is ring-fenced
+for payment of the Fee. A request will be made against the card you
+provided for payment of the Fee following completion of your Order. If,
+after fulfilment of your Order, full payment is not successfully made by
+you, the Pre-Authorised Payment may be used to settle, or as part
+payment, towards the outstanding Fee. If payment is received in full,
+the Pre-Authorisation Payment will be released by Gett. Please note
+that this may take your bank up to 5 working days to process.
+4.3 If you fail to make payment of the Fee either in full or in part Gett
+may:
+4.3.1 suspend your access to the Services;
+4.3.2 permanently delete your Customer Account and access to the
+Services; or
+4.3.3 continue to attempt to charge your chosen payment card or any
+other payment cards registered on your account for any outstanding
+Fee(s) until such Fee(s) have been paid in full.
+4.4 If you select to make payment of the Fee by cash and then fail to
+do so, you authorise Gett to charge your payment card to recover such
+unpaid Fees.
+4.5 If you select a fixed fee payment and then, during the course of the
+Transportation Services, require the Driver to change his route in any
+matter whatsoever, including making any unscheduled stops or using
+an alternative route, the fixed fee may be recalculated to take account
+of such changes. Fees will be recalculated based on the meter and
+such changes to the fixed fee will be notified to you via the App.
+4.6 If you are not waiting at the Collection Location when the Driver
+arrives, you will be charged the Standby Fee. If you do not arrive in 5
+minutes, your Order will be cancelled and you will be charged the
+Cancellation Fee and the Standby Fee.
+4.7 If during the provision of the Transportation Service you soil the
+Driver’s vehicle, you will be charged an additional soiling fee in
+accordance with the relevant local published hackney carriage fees.
+4.8 If after placing an Order you decide to cancel your Order, you will
+be charged a Cancellation Fee or such other Cancellation Fee as Gett
+may notify from time to time, as per the Cancellation Policy here.
+4.9 If you raise a complaint pursuant to clause 16 of these Terms and
+Conditions then subject to Gett’s absolute discretion any refund that it
+may determine to provide to you will be credited to the payment card
+you used for the Journey or such other method as is deemed
+reasonable by Gett for cash payments.
+5.FEES AND PROMOTIONS
+5.1 From time to time, Gett may run promotional offers or bonuses for
+using the Services and details of such promotions and bonuses shall
+be made available via the App, text message or email. Gett will notify
+you of offers that you are eligible to accept from time to time and any
+additional promotional terms and conditions. Where a promotion offers
+Customers or Drivers a bonus for submitting or completing a set
+numbers of Orders, you must not do anything in fulfilment of this
+promotion which may be deemed fraudulent. All Orders must involve
+the provision of Transportation Services to bone fide Customers and
+you must not collude with Drivers and/or create any fake or fictitious
+Customer profiles and/or submit fictitious journeys in order to qualify
+for any promotional or bonus payment. Gett reserves the right to report
+any fraudulent activities to relevant law enforcement authorities.
+5.2 Where it is reasonably considered by Gett that you have acted in a
+manner that is otherwise than in accordance with Condition 5.1 above,
+Gett will notify you and, at its sole discretion, may withhold any
+promotional payment or discount and/or suspend or terminate your
+access to the App. If you receive such a notification and you believe
+that you have not breached the requirements of Condition 5.1, you can
+appeal this decision by writing to us
+at customercare.uk@gett.com within 48 hours of receipt of such
+notification and providing full reasons for your dispute.
+6.DATA AND DATA PRIVACY
+6.1 By downloading and/or using the App you consent to Gett
+processing your Personal Data. Gett will process your Personal Data
+for purposes connected with the Services. From time to time, Gett may
+process your Personal Data in order to notify you of opportunities
+connected with the Services either directly or by an affiliate of Gett.
+When processing your Personal Data, Gett will take appropriate
+technological measures to protect and keep your Personal Data secure
+and shall process your information in accordance with Data Protection
+Laws. Your Personal Data may be processed outside of the EEA.
+6.2 In order to allow us to provide you with the Services and for Drivers
+to provide you with Transportation Services, your Personal Data may
+be transferred by Gett to Drivers as well as other data such as your
+telephone number. As an independent contractor, Gett advises all
+Drivers that they must ensure that they keep your Personal Data safe
+and secure at all times and not allow access to any third parties to
+such information. Drivers are advised that they are not permitted to
+store your Personal Data on their mobile device or any other mobile
+telephone (other than on the App) unless you provide them with
+express permission.
+6.3 We also process your Personal Data in accordance with Gett’s
+Privacy Policy, please ensure that you read this document before using
+the App. By using the App, you acknowledge and confirm that you
+have understood the use of your Personal Data set out in the Privacy
+Policy.
+6.4 Gett does not guarantee that the App will be secure or free from
+bugs or viruses. You must not misuse the App by knowingly introducing
+viruses, trojans, worms, logic bombs or other material which is
+malicious or technologically harmful. You must not attempt to gain
+unauthorised access to the App, the server on which the App is stored
+or any server, device or database connected to the App. You must not
+attack the App via a denial-of-service attack or a distributed denial-of
+service attack. By breaching this provision, you may commit a criminal
+offence under the Computer Misuse Act 1990. Gett will report any such
+breach to the relevant law enforcement authorities and Gett will co-
+operate with those authorities by disclosing your identity to them. In the
+event of such a breach, your right to use the App will cease
+immediately.
+6.5 The App may include links to other websites, apps or material
+which is beyond Gett’s control and which are owned and controlled by
+third parties. Gett is not responsible for the content on these links, the
+internet or World Wide Web pages or any other site or app outside the
+App. Where the App contain links to other sites or apps or materials
+provided by third parties, these links are provided for your information
+only. These links are provided as a courtesy to Gett’s users and are not
+administered or verified in any way by Gett. Such links are accessed
+by you at your own risk and Gett makes no representations or
+warranties about the content of such websites or apps and cannot be
+held liable for the content and activities of these websites or any losses
+you suffer as a result of using such third party websites. Gett may
+provide links to third party websites or apps that use cookies on users
+to collect data and/or to solicit personal information. As a result, Gett
+strongly recommends that you read the privacy policies and terms of
+use of any third party websites or apps prior to using them.
+6.6 Electronic Communications
+When you use the App or send us emails or use pop-ups or make
+calls, you may be communicating with Gett electronically. Gett will
+communicate with you by email, pop-up, phone, text or by posting
+notices on the Gett website. You agree that all agreements, notices,
+disclosures and other communications sent to you electronically satisfy
+any legal requirement that such communications should be in writing.
+7.INTELLECTUAL PROPERTY
+You acknowledge that all Intellectual Property Rights and all other
+rights in the App are owned by Gett and remain vested in Gett at all
+times and you do not acquire any rights in or to the App under these
+Conditions.
+8.SUSPENSION OR MODIFICATION
+Gett reserves the right, at its sole discretion, to change, alter, suspend
+or indefinitely close the App and/or your access to the Services. From
+time to time, Gett may also restrict access to some or all parts of the
+Services and/or the App.
+9.GETT’S LIABILITY
+9.1 Nothing in these Conditions excludes or limits Gett’s liability for
+death or personal injury arising from Gett’s negligence, or its fraud or
+fraudulent misrepresentation, or any other liability that cannot be
+excluded or limited by English law.
+9.2 The material displayed on the App is provided without any
+guarantees, conditions or warranties as to its accuracy. You must bear
+the risks associated with the use of the App, the Services and the
+internet.
+9.3 To the fullest extent permitted by law, Gett (including its officers,
+directors and employees) and third parties (including any agents or
+sub-contractors) connected to it hereby expressly exclude:
+9.3.1 all conditions, warranties and other terms which might otherwise
+be implied by statute, common law or the law of equity in it provision of
+the Services and/or use of the App; and
+9.3.2 any liability arising under or in connection with:
+9.3.2.1 use of, or inability to use, the App and/or Services;
+9.3.2.2 use of or reliance on any content displayed on the App;
+9.3.2.3 incompatibility of the App with any of your electronic and/or
+mobile equipment, devices, software or telecommunications links; and
+9.3.2.4 unsuitability, unreliability or inaccuracy of the App and/or the
+Services.
+9.4 Gett shall not be liable to the Customer for the actions or omissions
+of any Driver or in connection with the Transportation Services. Your
+contract for the Transportation Services is with the Driver directly and
+therefore any claim that you may have in relation to the Transportation
+Services should be directed to the Driver. If you are unclear as to who
+provided you with the Transportation Services, you can contact us
+at customercare.uk@gett.com and ask us to provide you with the
+Driver details.
+9.5 If we fail to comply with these Conditions, we are responsible for
+loss or damage you suffer that is a foreseeable result of our breaking
+of our contract with you or our failing to use reasonable care and skill,
+but we are not responsible for any loss or damage that is not
+foreseeable. Loss or damage is foreseeable if either it is obvious that it
+will happen or, if at the time these Conditions were accepted, both we
+and you knew it might happen. We only provide access to the App
+and/or Services for domestic and private use. You agree not to use the
+App and/or Services for any commercial, business or re-sale purposes
+and we have no liability to you for any loss of profit or revenue, loss of
+business, business interruption or loss of business opportunity.
+9.6 Gett will not be liable for any loss or damage caused by a virus,
+distributed denial-of-service attack, or other technologically harmful
+material that may infect your electronic and/or mobile equipment,
+computer programs, data or other proprietary material due to your use
+of the App and/or the Services or to your downloading of any content
+on it, or on any website linked to it.
+9.7 Gett shall not be in breach of these Conditions nor liable for any
+delay in performing, or failure to perform, any of its obligations under
+these Conditions if such delay or failure results from events,
+circumstances or causes beyond its reasonable control.
+9.8 Subject to the remainder of this Condition 9, Gett’s total liability to
+you in connection with these Conditions and the Services, however
+arising whether caused by tort (including negligence), breach of
+contract or otherwise, shall be limited to the Fees payable by you in
+relation to the Order in which the liability arose.
+10.TERMINATION
+10.1 These Conditions shall exist for an indefinite period of time.
+However, you may terminate your agreement with us at any time by
+permanently deleting the App installed on any device and deactivating
+your account.
+10.2 Gett is entitled to terminate its provision of the Services to you or
+your licence to use the App, with immediate effect, by disabling your
+account or otherwise preventing you from accessing or using the App,
+at its sole discretion.
+11.VARIATIONS
+11.1 Gett reserves the right, in its sole discretion, to vary these
+Conditions at any time. We will notify you of any changes by emails
+and/or through the App and the date of the most recent revisions will
+appear at the bottom of this page.
+11.2 If there is any inconsistency between Gett’s Privacy Policy and
+these Conditions, the Privacy Policy shall prevail.
+12. ASSIGNMENT
+Your Customer Account and the Services are personal to you, and
+therefore you may not assign, sub-licence or transfer in any other way
+your rights and obligations under these Conditions of use to any third
+party. However, if necessary, Gett may freely assign its rights and
+obligations without your consent and without the need to notify you
+before assigning them.
+13. INVALIDITY
+If any part of these Conditions are disallowed or found to be ineffective
+by any court or regulator, the other provisions shall continue to apply to
+the maximum extent permitted by law.
+14.THIRD PARTY RIGHTS
+Rights under these Conditions only accrue to a person party to these
+Conditions. Accordingly a person who is not a party to these
+Conditions shall have no rights under the Contracts (Rights of Third
+Parties) Act 1999 to enforce any of its Conditions, but this does not
+affect any right or remedy of a third party which exists or is available
+apart from that Act.
+15.WAIVER
+No failure or delay by Gett to exercise any right or remedy provided in
+these Conditions or by law shall constitute a waiver of that or any right
+or remedy, nor shall it preclude or restrict the further exercise of that or
+any right or remedy. No single or partial exercise of such remedy shall
+preclude or restrict the further exercise of that or any other right or
+remedy.
+16.CONTACTING US AND COMPLAINTS
+If you have any concerns, or wish to contact us for any reason, you
+can do so by emailing us at customercare.uk@gett.com .
+17.JURISDICTION AND APPLICABLE LAW
+These Conditions, and any non-contractual obligations arising out of
+them, are governed and construed in accordance with the law of
+England and Wales and any proceedings resulting out of these terms
+of use, and any non-contractual obligations arising out of them, the
+Privacy Policy, Services and/or the use of the App shall be held in the
+Courts of England and Wales.
+18.NO AGENCY
+Nothing in these Conditions shall be construed as creating, in any
+form, an agency relationship between Gett and Customers under the
+laws of England and Wales.
+19.YOUR STATUTORY RIGHTS
+These Conditions are without prejudice to your statutory rights.

@@ -1,0 +1,547 @@
+Poniżej znajduje się ogólny regulamin zawierający szczegółowe postanowienia i
+warunki, dotyczące użytkowania Aplikacji iTaxi i zamawiania usług za
+pośrednictwem Call Center i Aplikacji iTaxi oraz wszystkich związanych z tym
+funkcjonalności i usług obowiązujący od dnia 01.01.2022 roku.
+REGULAMIN
+KORZYSTANIA Z APLIKACJI I
+Z APLIKACJI I
+Z APLIKACJI I
+Z APLIKACJI I
+Z APLIKACJI I
+USŁUG ITAXI
+USŁUG ITAXI
+USŁUG ITAXI
+USŁUG ITAXI
+USŁUG ITAXI
+Definicje
+iTaxi – iTaxi.pl S.A. z siedzibą w Warszawie, ul. Przasnyska 6B, 01-756 Warszawa
+
+Aplikacja iTaxi – oprogramowanie i serwis iTaxi służące do zamawiania Usług
+przewozu osób i zawierania umów o przewóz osób przez użytkowników, których
+Urządzenia mobilne posiadają możliwość łączenia się z Internetem.
+
+Call Center – infolinia telefoniczna obsługiwana przez iTaxi za pośrednictwem
+operatorów i automatycznych systemów, za pośrednictwem których można zamówić
+usługi realizowane przez iTaxi.
+
+Pasażer – zalogowany i akceptujący poniższy regulamin użytkownik Aplikacji iTaxi,
+który zamawia Usługę przewozu osób za pomocą Aplikacji iTaxi, i który zawiera
+umowę przewozu osób. Pasażer logując się do Aplikacji iTaxi ma możliwość
+logowania się na jeden z profili: prywatny lub biznesowy.
+
+Kierowca – licencjonowany taksówkarz, który może przyjmować zlecenia na przewóz
+osób od Pasażera oraz wykonywać przewóz na mocy odrębnej umowy o współpracę
+z iTaxi.
+
+Urządzenia mobilne – przenośne urządzenia pozwalające na łączenie się z
+Internetem bezprzewodowo. Urządzenia za pomocą których następuje korzystanie z
+Aplikacji iTaxi.
+
+Usługa przewozu osób – usługa transportu świadczona Pasażerom przez Kierowców
+za pomocą taksówki (w rozumieniu art. 2 pkt 43 ustawy z dnia 20.06.1997 r. prawo o
+ruchu drogowym Dz. U. z 2005 r. nr 108 poz.908 z późn. zm., w związku z art. 4 pkt 1
+Ustawy z 06.09.2001 r. o transporcie drogowym, Dz. U. 2007, nr 125, poz. 874).
+
+Cena gwarantowana – usługa dostępna w ramach Aplikacji iTaxi, na zasadach
+określonych niniejszym regulaminem, dla Pasażerów logujących się do Aplikacji iTaxi
+na profil prywatny.
+§1. Ogólne uwagi dotyczące usług oferowanych przez iTaxi
+1. iTaxi udostępnia Pasażerowi nieodpłatnie Aplikację iTaxi (kosztami może być
+objęte mobilne połączenie transmisji danych zgodne z taryfikatorem dostawcy
+Internetu), przeznaczoną do działania w Urządzeniach mobilnych. Zgodnie z
+poniższym regulaminem korzystający z Aplikacji iTaxi, Pasażer zamawia Usługę
+przewozu osób wypełniając formularz i klikając w przycisk „ZAMÓW”, a tym
+samym wyraża wolę zawarcia umowy dotyczącej przewozu osób z Kierowcą
+(licencjonowanym taksówkarzem). Informacje, w tym dane Pasażera wyświetlane
+są po stronie zalogowanego Kierowcy, który potwierdza wolę wykonania usługi
+poprzez wciśnięcie przycisku „PRZYJMIJ ZLECENIE”. Pasażer otrzymuje
+komunikat zwrotny od razu po zaakceptowaniu zlecenia przez Kierowcę wraz z
+informacjami dotyczącymi aktualnej pozycji Kierowcy i danymi pozwalającymi na
+jego identyfikację (Imię i Nazwisko, Samochód jakim porusza się Kierowca).
+Pasażer ma również możliwość w każdej chwili połączyć się z bezpośrednio z
+Kierowcą, który przyjął zlecenie, poprzez wciśnięcie w przycisk „ZADZWOŃ”.
+Kierowca, który przyjął zamówioną usługę, w celu zawarcia umowy jest
+zobowiązany stawić się w lokalizacji wskazanej przez Pasażera. Umowa
+przewozu osób zostaje zawarta poprzez złożenie oświadczeń woli: Pasażera po
+wciśnięciu przycisku „ZAMÓW”, którym potwierdza zamówienie usługi akceptując
+jednocześnie wszystkie warunki przewozu, a następnie przez Kierowcę po
+wciśnięciu przycisku „PRZYJMIJ ZLECENIE”, którym potwierdza przyjęcie
+informacji od Pasażera i wyraża zgodę na wykonanie usługi.
+2. Pasażer akceptuje fakt, że usługi wyszukiwania taksówkarza dla zamówionego
+przejazdu wykonywane są bezpośrednio po przesłaniu zgłoszenia Pasażera przez
+Aplikację iTaxi. Po wykonaniu usługi przez iTaxi, tj. po zaakceptowaniu zgłoszenia
+przez taksówkarza, Pasażer traci prawo do odstąpienia od umowy wyszukania
+taksówkarza, wobec uznania jej za wykonaną.
+3. Zawarcie umowy o przewóz osób nie jest skutkiem korzystania z Aplikacji iTaxi,
+ale korzystanie z aplikacji może zakończyć się zawarciem takiej umowy. Umowa
+przewozu osób może zostać zawarta wyłącznie pomiędzy Kierowcą a Pasażerem
+na warunkach opisanych w niniejszym regulaminie. Usługi iTaxi polegają
+wyłącznie na udostępnieniu funkcji Aplikacji iTaxi, w ramach których następuje
+m.in. przekazanie Pasażerowi informacji o dostępnych Kierowcach
+(licencjonowanych taksówkarzach) gotowych świadczyć Usługę przewozu osób, a
+Kierowcy informacji o potrzebie uzyskania tej usługi przez Pasażera.
+§2. Opłaty i płatności
+1. iTaxi może pobierać dodatkowe opłaty za obsługę i zamawianie kursów w ramach
+Usługi przewozu osób w zależności od kanału jakim Usługa przewozu osób jest
+zamawiana i/lub miejsca realizacji Usługi przewozu osób, a także rodzaju
+zamówionej usługi dodatkowej. W takim przypadku opłata zostanie uwzględniona
+i doliczona do kwoty kursu w ramach Usługi przewozu osób za zrealizowany
+przejazd. Aktualny cennik usług dodatkowych dostępny jest na
+stronie www.itaxi.pl.
+2. Skorzystanie z usługi iTaxi wymaga aktywnego połączenia z Internetem, jak
+również korzystanie z Aplikacji iTaxi wymaga dysponowania sprawnym
+Urządzeniem mobilnym. Pasażer we własnym zakresie i na własną
+odpowiedzialność musi zadbać o spełnienie wymogów technicznych urządzenia,
+jego konfigurację, aktualność oprogramowania oraz o dostęp do Internetu. Koszty
+zakupu Urządzenia mobilnego oraz koszty połączenia z Internetem, za które
+operator lub dostawca może pobierać dodatkowe opłaty, ponosi w całości
+Pasażer. iTaxi.pl nie realizuje bezpłatnego dojazdu do Pasażera. W związku z tym.
+Pasażer zamawiając kurs, bez względu na sposób jego zamówienia (Call Center,
+Aplikacja iTaxi, panel biznesowy), akceptuje naliczane opłaty za dojazd do
+Pasażera. Dopłata stanowić będzie różnicę pomiędzy minimalną wartością kursu
+w ramach Usługi przewozu osób z bezpłatnym dojazdem a wartością
+zrealizowanego kursu w ramach Usługi przewozu osób. Minimalna wartość kursu
+w ramach Usługi przewozu osób dla poszczególnych typów zamawianych kursów
+wskazana jest cenniku usług dodatkowych, który dostępny jest na
+stronie www.itaxi.pl.
+3. Na podstawie zawartej umowy przewozu osób, pomiędzy Pasażerem a Kierowcą
+następuje rozliczenie Usługi przewozu osób. Rozliczenie następuje w oparciu o
+wystawiony przez Kierowcę paragon.
+4. Kierowca może posiadać fizyczną lub wirtualną kasę fiskalną. Kasa mająca
+postać oprogramowania zamiast drukowania paragonów fiskalnych
+potwierdzających wykonanie usługi może wysłać nabywcy e-Paragon. Pasażer
+instalując Aplikację iTaxi i zamawiając kurs w ramach Usługi przewozu osób
+wyraża zgodę na otrzymywanie paragonu w wersji elektronicznej SMSem lub
+mailowo.
+5. iTaxi może wprowadzić formę rozliczania z Pasażerami za płatności mobilne. W
+takim przypadku płatność za Usługę przewozu osób, zamówioną za pomocą
+Aplikacji iTaxi, będzie pobierana od Pasażera za pomocą elektronicznego
+polecenia zapłaty, kart kredytowych czy innych systemów i opcji płatności
+mobilnych udostępnionych w Aplikacji iTaxi. W przypadku, gdy Pasażer
+dysponuje voucherem, posiada Kod Promocyjny lub przyznano mu rabat,
+Kierowca nie pobiera należności od Pasażera bądź pobiera opłatę częściową
+zgodna z przyjętymi ustaleniami rozliczeń za voucher lub zgodnie z udzielonym
+rabatem. Rabaty, zniżki, Kody Promocyjne i vouchery podlegają rozliczeniom
+pomiędzy Pasażerem i iTaxi i nie mają związku z realizacją zlecenia i wynikającymi
+z tego obowiązkami Kierowcy a jedynie z wysokością opłaty za zlecenie, którą w
+imieniu Kierowcy pobiera iTaxi.
+§3. Warunki rezygnacji z zamówionego przejazdu
+1. Jeżeli Pasażer rezygnuje z przejazdu po tym, jak Kierowca po akceptacji zlecenia
+Pasażera rozpoczął jego realizację albo Kierowca przerwał realizację zlecenia po
+bezskutecznym oczekiwaniu na Pasażera pod adresem początkowym, do którego
+została przez Pasażera zamówiona taksówka iTaxi może naliczyć Pasażerowi
+opłatę za złożenie i przerwanie zlecenia, zgodnie z pkt. 2 i 3. Opłata, o której
+mowa w niniejszym ustępie, jeśli okoliczności na to pozwalają (np. w przypadku
+płatności elektronicznych) jest pobierana niezwłocznie po przerwaniu zlecenia, co
+Pasażer akceptuje i zobowiązuje się w takim przypadku do niezwłocznego
+uiszczenia opłaty. W pozostałych przypadkach Pasażer zobowiązany jest do
+uiszczenia opłaty przy najbliższym kursie.
+2. iTaxi zastrzega sobie pobranie opłaty od Pasażera za złożenie i przerwanie
+zlecenia Usługi przewozu osób z winy Pasażera. Wysokość opłaty za złożenie i
+przerwanie zlecenia Usługi przewozu osób z winy Pasażera dostępne są w
+aktualnym cenniku usług dodatkowych, który dostępny jest na
+stronie www.itaxi.pl.
+3. W przypadku złożenia zlecenia Usługi przewozu osób obejmującego rezerwację
+pojazdu o określonych przez Pasażera parametrach dodatkowych wiążących się z
+naliczeniem dopłaty do takiego zlecenia, w przypadku przerwania realizacji
+takiego zlecenia do opłaty określonej w ust. 2 powyżej zostanie również doliczone
+50% dopłaty określonej w cenniku, który dostępny jest na stronie www.itaxi.pl,
+dla danego zlecenia.
+4. Pasażer może wystąpić o zwrot nienależnie pobranej od niego opłaty za złożenie i
+przerwanie zlecenia Usługi przewozu osób, jeżeli uznaje, że opłata została
+pobrana bezzasadnie.
+5. Żądanie, o którym mowa w pkt. 4, należy przesłać na adres e-
+mail: bok@itaxi.pl niezwłocznie po zakończeniu realizacji zlecenia jednak nie
+później niż w ciągu 30 dni od pobrania opłaty.
+6. Po trzykrotnym przerwaniu zlecenia Usługi przewozu osób, o którym mowa w
+niniejszym paragrafie lub w przypadku nieuiszczenia opłaty za złożenie i
+przerwanie zlecenia Usługi przewozu osób, o której mowa w niniejszym
+paragrafie, niezależnie od naliczonych opłat za złożenie i przerwanie zlecenia iTaxi
+ma prawo do częściowego lub całkowitego ograniczenia funkcji Aplikacji iTaxi
+Pasażera, w tym w szczególności ograniczenia czasowego możliwości
+zamawiania przejazdów, ograniczenia dostępnych form płatności lub
+zablokowania konta Pasażera.
+7. Powyższe zasady dotyczące rezygnacji z zamówionego przejazdu i przerwania
+zlecenia, w tym opłaty
+
+z tym związane, mają zastosowanie niezależnie od rodzaju konta (profil prywatny,
+profil biznesowy), jak również niezależnie od formy złożenia lub rezygnacji z
+zamówienia (np. przez Aplikację, call center, panel biznesowy itp.).
+§4. Ogólne warunki korzystania z Kodów Promocyjnych
+1. Kod Promocyjny uprawnia do zniżkowego przejazdu taksówką, tj. Pasażer
+zobligowany jest do uiszczenia Kierowcy opłaty w wysokości kwoty wyświetlonej
+na taksometrze pomniejszonej o przysługującą Pasażerowi zniżkę wynikającą, z
+przysługującego mu Kodu Promocyjnego. Wartość zniżki na pojedynczą usługę
+przewozu osób jest przekazywana do wiadomości Pasażera wraz z Kodem
+Promocyjnym. Jeżeli kwota wyświetlona na taksometrze będzie równa lub niższa
+od kwoty przysługującej Pasażerowi z tytułu przyznanej mu zniżki, to taka Usługa
+przewozu osób jest traktowana jako usługa bezpłatna, jednocześnie
+niewykorzystana część przysługującej Pasażerowi zniżki zostaje utracona.
+Jakakolwiek wypłata ekwiwalentu Kodu Promocyjnego w gotówce lub w innej
+formie nie jest możliwa.
+2. Kody Promocyjne obowiązują jedynie do zamówień dokonanych przez Aplikację
+iTaxi. Kod Promocyjny należy wpisać w menu Aplikacji iTaxi w zakładce kody
+promocyjne przed złożeniem zamówienia taksówki. Kod jest ważny dopiero, kiedy
+zostanie poprawnie zweryfikowany przez Aplikację iTaxi, tj. Aplikacja iTaxi
+poinformuje Pasażera, że kod jest prawidłowy.
+3. Kod Promocyjny może zostać wykorzystany tylko jeden raz przez Pasażera w
+trakcie okresu ważności kodu. Kod Promocyjny może zostać wprowadzony do
+Aplikacji iTaxi tylko jeden raz. Ponowne wprowadzenie kodu nie jest możliwe.
+Niewykorzystany Kod Promocyjny na koniec okresu ważności traci ważność.
+4. Aplikacja iTaxi uniemożliwia wykorzystanie kodu Pasażerom, którzy wcześniej
+korzystali już z innych Kodów Promocyjnych. Oznacza to, że Pasażer w Aplikacji
+iTaxi może zweryfikować poprawnie w danym momencie tylko jeden Kod
+Promocyjny na unikalny numer telefonu, bez względu na źródło pochodzenia
+kodu i jego wartość.
+5. Wyjątkiem od reguł zawartych w punktach §4.3 i §4.4 regulaminu są kody
+kilkukrotnego, lub wielorazowego użytku. Jeśli Pasażer jest w posiadaniu kodu
+uprawniającego do wielu zniżek, to może zweryfikować go tyle razy, ile razy może
+skorzystać ze zniżkowego przejazdu (informacja ile razy jest każdorazowo
+przekazywana Pasażerowi wraz z Kodem Promocyjnym). W przypadku kodów
+kilkukrotnego/wielorazowego użytku Pasażer musi zweryfikować ten sam kod
+przed każdym oddzielnym zamówieniem taksówki, np. jeśli kod uprawnia do
+zniżki na dwa przejazdy to należy go zweryfikować zarówno przed pierwszym jak i
+przed drugim przejazdem, jeśli Pasażer nie zweryfikuje kodu przed drugim
+przejazdem, to ten przejazd będzie pełnopłatny – w takiej sytuacji kod dalej jest
+ważny, ale należy go zweryfikować przed kolejnym zamówieniem taksówki.
+6. W ramach jednego przejazdu nie można skorzystać jednocześnie z więcej niż
+jednego Kodu Promocyjnego, zniżki, kuponów czy innych rabatów wpływających
+na kwotę należną Kierowcy za przejazd.
+7. Kod Promocyjny, który uległ zagubieniu lub kradzieży, nie może zostać
+wykorzystany, zabroniona jest również odsprzedaż kodu.
+8. Jeśli zajdzie podejrzenie o nieuprawnionym użyciu Kodu Promocyjnego lub
+naruszeniu warunków niniejszego regulaminu, iTaxi ma prawo zablokować profil
+Pasażera i odmówić Pasażerowi dostępu do usług możliwych za pośrednictwem
+Aplikacji iTaxi. W przypadku zaistnienia takiej sytuacji Pasażerowi nie przysługują
+żadne roszczenia względem iTaxi dotyczące wartości niewykorzystanych Kodów
+Promocyjnych.
+9. iTaxi zastrzega sobie prawo do wyłączenia obowiązywania Kodów Promocyjnych
+z oferowanych form przejazdu.
+§5. Ogólne warunki korzystania z usługi „Cena gwarantowana”(dawniej „Bilet
+iTaxi”)
+1. „Cena gwarantowana” to usługa dostępna w Aplikacji iTaxi.
+2. Wybór usługi „Cena gwarantowana” jest dobrowolnym wyborem dokonywanym
+przez Pasażera i oznacza akceptację przedstawionych w Aplikacji iTaxi warunków
+przejazdu. Pasażer klikając w Aplikacji iTaxi usługę przejazdu z „Ceną
+gwarantowaną” oświadcza, że zna i akceptuje przedstawione warunki przejazdu
+w tym w szczególności kwotę należności za przejazd na wybranej przez siebie
+trasie.
+3. Pasażer oświadcza, że przyjmuje do wiadomości, i akceptuje fakt, że “Cena
+gwarantowana” na tej samej trasie w różnych porach dnia oraz w różnych dniach
+może się znacząco różnić, w zależności od przejezdności dróg oraz popytu i
+podaży na usługi taksówkowe.
+4. Z usługi „Cena gwarantowana” mogą korzystać tylko Pasażerowie logujący się w
+Aplikacji iTaxi na profil prywatny. Przejazdy biznesowe wyłączone są z działania
+usługi „Cena gwarantowana”.
+5. „Cena gwarantowana” dostępna jest tylko w przypadku uzupełnienia pełnego
+adresu startu i końca przejazdu.
+6. Usługi „Cena gwarantowana” nie można zamówić dla:
+zamówień z dopłatami (np. BUS, kombi, premium),
+zamówień terminowych,
+dla przejazdów biznesowych (zalogowany pasażer biznesowy do Aplikacji
+iTaxi),
+dla przejazdów na voucher biznesowy wpisany do Aplikacji iTaxi,
+dla kursów zamawianych na call center iTaxi,
+dla kursów ze stref np. na lotnisku Chopina.
+7. Usługa „Cena gwarantowana” zakłada przejazd z punktu odbioru do punktu
+docelowego bez żadnych postojów na trasie, czy jakiejkolwiek zmiany trasy
+optymalnego przejazdu.
+8. Adres początkowy podany w Aplikacji iTaxi musi być identyczny z adresem
+odbioru pod którym Pasażer oczekuje na Kierowcę.
+9. Jeśli Kierowca będzie musiał oczekiwać na Pasażera dłużej niż 5 minut, oznacza
+to rezygnację z usługi “Cena gwarantowana” i rozliczenie przejazdu na podstawie
+wskazań taksometru.
+10. Jeśli Pasażer w trakcie trwania przejazdu na „Cena gwarantowana” będzie chciał
+zmienić trasę lub dodać jakikolwiek postój, usługa „Cena gwarantowana”
+przestaje obowiązywać, a Pasażer zobowiązany jest na koniec kursu dokonać
+płatności na podstawie wskazań taksometru. W tym przypadku na koniec kursu
+zostaną wystawione 2 paragony: jeden na kwotę wskazaną w usłudze z „Ceną
+gwarantowną” oraz drugi na różnicę wynikającą ze wskazań taksometru i kwoty
+widniejącej na usłudze z „Ceną gwarantowaną” podczas zamawiania usługi.
+11. W przypadku wystąpienia w trakcie realizacji zlecenia okoliczności niezależnych i
+niemożliwych do przewidzenia przez Pasażera lub Kierowcę, uniemożliwiających
+realizację przejazdu z “Ceną gwarantowaną” zaplanowaną optymalną trasą
+przejazdu – zlecenie to może być:
+zakończone w momencie ujawnienia tych okoliczności na żądanie Pasażera
+z obowiązkiem dokonania zapłaty według wskazania taksometru liczonego
+od rozpoczęcia realizacji zlecenia lub
+kontynuowane do adresu docelowego lub innego określonego przez
+Pasażera z obowiązkiem dokonania zapłaty według wskazania taksometru
+liczonego od rozpoczęcia realizacji zlecenia
+12. Anulowanie lub przerwanie realizacji przejazdu z “Ceną gwarantowaną” przez
+Pasażera lub przez Kierowcę z winy Pasażera podlega naliczeniu opłat za złożenie
+i przerwanie zlecenia, o której mowa w § 3 niniejszego regulaminu, o ile dane
+zlecenie nie jest następnie opłacone na podstawie wskazania taksometru.
+13. iTaxi zastrzega sobie prawo do wprowadzenia usługi „Cena gwarantowana” w
+wybranych miastach. Aktualna lista miast wraz ze strefami obowiązywania usługi
+jest dostępna na stronie www.itaxi.pl.
+§6. Dostępność Aplikacji iTaxi i zaprzestanie świadczenia usług
+1. W ramach ogólnych warunków korzystania z Aplikacji iTaxi będzie dbać o
+zapewnienie najwyższej dostępności Aplikacji iTaxi jak również o jak najszybsze
+usuwanie wszelkich awarii spowodowanych błędnym działaniem Aplikacji iTaxi.
+2. iTaxi zastrzega sobie prawo do częściowego lub całkowitego zawieszenia
+działalności serwisu bez indywidualnego powiadomienia Pasażerów i Kierowców.
+W przypadku całkowitego zawieszenia działalności, na
+stronie www.itaxi.pl. zostanie opublikowany stosowny komunikat informujący o
+zaprzestaniu oferowania usług przez iTaxi.
+3. iTaxi zastrzega sobie prawo do zmian i dalszego rozwoju Aplikacji iTaxi oraz
+rozszerzania profilu świadczonych za pomocą Aplikacji iTaxi usług. Zmiany takie
+mogą być wprowadzane do Aplikacji iTaxi w dowolnej chwili bez konieczności
+uprzedniego poinformowania Pasażerów i Kierowców.
+§7. Ogólne prawa i obowiązki Pasażera
+1. Przed rozpoczęciem korzystania z usług iTaxi, Pasażer zobowiązany jest do
+zapoznania się z regulaminem i Rozpoczynając korzystanie z usług iTaxi Pasażer
+akceptuje zapisy obu dokumentów w aktualnym brzmieniu i zobowiązuje się do
+ich przestrzegania.
+2. Pełne korzystanie z Aplikacji iTaxi wymaga rejestracji konta Pasażera poprzez
+podanie zgodnych z prawdą danych osobowych Pasażera (Imię, Nazwisko oraz
+numer telefonu). W Aplikacji iTaxi umożliwia korzystanie z niektórych funkcji
+Aplikacji iTaxi bez pełnej rejestracji konta Pasażera. Rejestracja konta lub
+korzystanie z funkcji dostępnych bez pełnej rejestracji konta Pasażera, jest
+jednoznaczna z akceptacją regulaminu. W toku rejestracji konta osoba
+rejestrująca konto ma możliwość dodania karty płatniczej do swojego konta, przy
+czym zasady weryfikacji takiej karty są określane przez dostawcę danej usługi
+płatniczej, w szczególności mogą być związane z zablokowaniem określonej
+kwoty w celu weryfikacji karty.
+3. Pasażer jest zobowiązany do podania kompletnych i zgodnych z prawdą danych
+osobowych wymaganych przez iTaxi oraz do ich sprawdzania i aktualizowania
+bez jakichkolwiek wezwań ze strony iTaxi.
+4. Pasażer zobowiązany jest do korzystania z Aplikacji iTaxi tylko w sposób zgodny z
+jej przeznaczeniem. Pasażer nie będzie sam, ani przy udziale osób trzecich
+zmieniał, obchodził i łamał zabezpieczeń Aplikacji iTaxi, jak również nie będzie
+wywierał negatywnego wpływu na Aplikację iTaxi powodując jej uszkodzenia lub
+używał w sposób doprowadzający do jej przeciążenia.
+5. Pasażerowi nie przysługują żadne prawa do udostępnionego przez iTaxi
+oprogramowania, które pozostają własnością iTaxi. Zabrania się całkowitego lub
+częściowego kopiowania, modyfikowania i rozpowszechniania oraz
+reprodukowania udostępnionego oprogramowania.
+6. Pasażer nie powinien umożliwiać osobom trzecim dostępu do Aplikacji iTaxi. Za
+poufność i bezpieczeństwo swojego profilu odpowiedzialny jest wyłącznie
+Pasażer, który zobowiązany jest także do niezwłocznego poinformowania iTaxi o
+nieautoryzowanym wykorzystaniu jego profilu w Aplikacji iTaxi przez osoby
+trzecie.
+7. Pasażer jest zobowiązany niezwłocznie poinformować iTaxi w przypadku, gdy
+osoby trzecie mogłyby dochodzić swych roszczeń w stosunku do iTaxi, ze
+względu na naruszenie prawa przez Pasażera.
+8. Pasażer nie może przetwarzać ani wykorzystywać danych osobowych
+pozostałych użytkowników Aplikacji iTaxi, w tym innych Pasażerów i Kierowców,
+które zostaną mu udostępnione podczas korzystania z Aplikacji iTaxi.
+9. Konto w Aplikacji iTaxi może być usunięte, zarówno w zakresie profili prywatnych
+jak i biznesowych. W celu usunięcia konta należy przesłać na
+adres bok@itaxi.pl informację z żądaniem usunięcia konta w Aplikacji iTaxi, przy
+czym w zakresie konta (profilu) biznesowego usunięcie konta następuje wyłącznie
+na wniosek osoby zarządzającej takim kontem (administratora konta
+biznesowego, tj. użytkownika, który zawarł umowę z iTaxi zgodnie z Regulaminem
+korzystania z usług iTaxi i korzystania z Aplikacji iTaxi, przeznaczonym dla
+klientów biznesowych w zakresie działalności i małych firm). Konto jest usuwane
+niezwłocznie po dokonaniu prawidłowego zgłoszenia.
+§8. Odpowiedzialność iTaxi. Procedura reklamacyjna.
+1. Z zastrzeżeniem bezwzględnie obowiązujących przepisów prawa, iTaxi nie ponosi
+odpowiedzialności za autentyczność, poprawność i kompletność danych jakie są
+przekazywane za pośrednictwem Aplikacji iTaxi pomiędzy Pasażerem a Kierowcą.
+iTaxi nie ponosi również odpowiedzialności za to, iż dane zostaną otrzymane we
+właściwym czasie (zarówno przez Pasażera jak i przez Kierowcę).
+2. Zabezpieczenie danych znajdujących się w Urządzeniach mobilnych leży w gestii
+Pasażera i Kierowcy.
+3. iTaxi zapewnia jedynie dostęp do Aplikacji iTaxi i usług świadczonych za pomocą
+Aplikacji iTaxi. iTaxi nie świadczy Usług przewozu osób wykonywanych przez
+Kierowcę, w związku z tym odpowiedzialność z tego tytułu, z zastrzeżeniem
+bezwzględnie obowiązujących przepisów prawa, spoczywa na stronach umowy o
+Usługę przewozu osób.
+4. Zabronione jest dostarczanie przez użytkowników Aplikacji iTaxi treści o
+charakterze bezprawnym. Z zastrzeżeniem bezwzględnie obowiązujących
+przepisów prawa, za treści upubliczniane i rozpowszechniane przez Pasażerów i
+Kierowców w ramach Aplikacji iTaxi, odpowiedzialność ponoszą Pasażerowie i
+Kierowcy je zamieszczający. iTaxi zastrzega sobie prawo do bezzwłocznego
+usunięcia publikacji, które w jakikolwiek sposób są sprzeczne z prawem,
+naruszają ogólnie przyjęte normy i zasady współżycia społecznego jak również
+normy moralne i obyczajowe.
+5. iTaxi stosuje następującą procedurę reklamacyjną:
+reklamacje należy składać za pośrednictwem formularza dostępnego na
+stronie https://itaxi.pl/reklamacja/ lub mailowo na adres bok@itaxi.pl,
+składana reklamacja powinna zawierać: dane Pasażera, w tym adres e-mail
+na który zostanie przesłana odpowiedź, dane firmy (firma, NIP/REGON) jeśli
+przejazd realizowany jest w ramach przejazdów biznesowych, dokładne
+informacje dotyczące kursu będącego przedmiotem reklamacji (data,
+godzina, trasa przejazdu), opis przyczyny reklamacji,
+iTaxi udziela odpowiedzi na reklamację w terminie 14 dni roboczych od jej
+złożenia. Odpowiedź jest udzielana na adres e-mail zgłaszającego, podany w
+zgłoszeniu reklamacyjnym, z tym zastrzeżeniem, że w przypadku reklamacji
+dotyczącej kursu biznesowego odpowiedź na reklamację udzielana jest
+osobie reprezentującej podmiot (firmę), w zakresie zawarcia i wykonania
+umowy dotyczącej przejazdów biznesowych zawarta z iTaxi.pl (którą może
+być w szczególności administrator konta biznesowego),
+dla właściwego rozpatrzenia reklamacji iTaxi może zwrócić się z prośbą do
+zgłaszającego reklamację o złożenie dodatkowych pisemnych informacji lub
+dostarczenie dodatkowych dokumentów, jeżeli ich uzyskanie będzie
+niezbędne do właściwego rozpatrzenia reklamacji.
+6. Procedura reklamacyjna, o której mowa w ust. 5 stanowi:
+stosowaną przez iTaxi procedurę rozpatrywania reklamacji w rozumieniu art. 8
+pkt 4 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz.U.2019.134
+t.j. z dnia 2019.01.23) – w zakresie dotyczącym konsumentów,
+tryb postępowania reklamacyjnego w rozumieniu art. 8 ust. 3 pkt 4 ustawy z
+dnia z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną
+(z.U.2019.123 t.j. z dnia 2019.01.21) – w zakresie dotyczącym usługi
+świadczonej drogą elektroniczną.
+7. W zakresie usług świadczonych na rzecz konsumentów i umów z konsumentami,
+procedura reklamacyjna, o której mowa w ust. 5 nie wyłącza ani nie ogranicza
+innych dopuszczalnych prawem sposobów zgłaszania reklamacji, przy czym, w
+przypadku przyczyn, za które iTaxi nie odpowiada, niezachowania procedury
+reklamacyjnej ze strony zgłaszającego może wpłynąć na termin rozpatrzenia
+reklamacji.
+§9. Ochrona danych osobowych
+1. iTaxi zapewnia należytą ochronę danych osobowych Pasażera. Wszelkie dane
+osobowe przekazane przez Pasażera są przetwarzane zgodnie z powszechnie
+obowiązującymi przepisami prawa w zakresie danych osobowych, w
+szczególności zgodnie z przepisami Rozporządzenia Parlamentu Europejskiego i
+Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych
+w związku z przetwarzaniem danych osobowych i w sprawie swobodnego
+przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne
+rozporządzenie o ochronie danych).
+2. Szczegółowe informacje na temat przetwarzania danych osobowych Pasażera
+przez iTaxi znajdują się w Polityce prywatności.
+§10. System oceny Użytkowników
+1. Pasażer jest zobowiązany do rzetelnej oceny usług świadczonych przez
+Kierowców, zarówno samego Kierowcy jak i pojazdu. Pasażer zobowiązuje się do
+podawania wyłącznie prawdziwych informacji.
+2. Pasażer wyraża zgodę na publikowanie zanonimizowanych ocen w Aplikacji iTaxi
+oraz na stronie www.itaxi.pl.
+§11. Postanowienia końcowe
+1. Jeśli którekolwiek z postanowień niniejszego regulaminu (lub część
+któregokolwiek z postanowień) zostanie uznane przez sąd lub inny uprawniony
+organ jako nieważne, niewykonalne lub niezgodne z prawem, pozostałe
+postanowienia pozostaną w mocy i w będą uznawane za obowiązujące i wiążące.
+Postanowienie uznane za nieważne, niewykonalne lub niezgodne z prawem
+zostanie zastąpione przez inne postanowienie, które najlepiej będzie odpowiadać
+ekonomicznemu i gospodarczemu celowi korzystania z Aplikacji iTaxi.
+2. iTaxi zastrzega sobie prawo do zmiany treści regulaminu. O zmianie treści
+regulaminu iTaxi informuje Pasażerów na stronie internetowej www.itaxi.pl oraz w
+Aplikacji iTaxi. Nowy regulamin obowiązuje od dnia umieszczenia nowej jego
+wersji na stronie internetowej www.itaxi.pl oraz w Aplikacji iTaxi, chyba, że
+komunikat zawierający informację o zmianie treści Regulaminu podaje inny termin
+obowiązywania zmiany Regulaminu. Komunikat o zmianie wskazuje zakres
+dokonywanej zmiany. Wraz z komunikatem i wskazaniem daty obowiązywania
+zamieszczana jest nowa wersja Regulaminu. Regulamin w aktualnej wersji, jak
+również informacja o jego każdorazowej zmianie i dacie obowiązywania, dostępne
+są na stronie www.itaxi.pl jak również w Aplikacji. iTaxi zapewnia stałą możliwość
+wglądu do regulaminu na stronie internetowej www.itaxi.pl. oraz w Aplikacji iTaxi,
+w tym również możliwość pobrania w formacie pdf. Zalogowanie do Aplikacji iTaxi
+oznacza akceptację regulaminu w jego aktualnej wersji. Postanowienia
+niniejszego punktu mają zastosowanie do cennika usług dodatkowych, który
+dostępny jest na stronie www.itaxi.pl.
+3. Pasażer ma prawo do pisemnego zgłoszenia sprzeciwu do zmian
+wprowadzonych w regulaminie w terminie 7 dni od daty jego publikacji.
+Zgłoszenie sprzeciwu spowoduje automatycznie ustanie uprawnień do
+korzystania z Aplikacji iTaxi przez Pasażera, zaś brak zgłoszenia sprzeciwu
+skutkuje wejściem w życie zmian regulaminu po upływie terminu na zgłoszenie
+sprzeciwu.
+4. Prawem właściwym dla niniejszego regulaminu będzie prawo polskie, przy czym
+w odniesieniu do konsumenta, postanowienia niniejszego punktu nie prowadzą
+do pozbawienia konsumenta ochrony przyznanej mu na podstawie przepisów,
+których nie można wyłączyć w drodze umowy, na mocy prawa, jakie zgodnie z
+właściwymi przepisami prawa byłoby właściwe w braku wyboru prawa.
+Regulamin wchodzi w życie z dniem 01.01.2022 roku.
+Aktualna wersja regulaminu do pobrania w PDF.
+
+Poprzednia wersja regulaminu dostępna tutaj.
+Ó
+Definicje
+Wyrażając zgodę na poniższe warunki Pasażer akceptuje, aby iTaxi obciążyło kartę
+debetową lub konto bankowe Pasażera (np. kartę kredytową, konto PayPal,
+elektroniczne polecenie zapłaty lub inną opcję płatności), które zostało wskazane
+przez niego w aplikacji iTaxi w trakcie procesu płatności za usługę przewozu osób na
+kwotę potwierdzoną przez Pasażera.
+Użytkownik ma możliwość włączenia funkcji automatycznego pobierania środków za
+wykonanie usługi korzystając z domyślnie wybranego sposobu płatności, bez
+konieczności każdorazowego potwierdzania kwoty transakcji.
+
+Poniższe warunki obowiązują łącznie z Regulaminem korzystania z aplikacji iTaxi przez
+Pasażera.
+§1. Przedmiot usługi
+1. iTaxi oferuje możliwość płatności bezgotówkowej, do maksymalnej wysokości
+wyznaczonej przez iTaxi, za Usługę przewozu osób zamówioną za pomocą
+Aplikacji iTaxi, w tym z tytułu wszelkich opłat dodatkowych z tym związanych.
+Opłata jest pobierana od Użytkownika za pomocą elektronicznego polecenia
+zapłaty, kart kredytowych lub systemów płatności mobilnych.
+2. W trakcie rejestracji usługi płatności mobilne, Pasażer ma możliwość wyboru
+preferowanego sposobu płatności bezgotówkowej, który może zostać zmieniony
+lub usunięty w dowolnej chwili, poza czasem trwania kursu.
+3. W przypadku płatności za pomocą usługi PayPal, Użytkownik zapłaci kwotę
+potwierdzoną w trakcie procesu płatności bez ujawniania świadczącemu usługę
+przewozu swojego konta PayPal. Zgodnie z warunkami korzystania z serwisu
+PayPal Pasażer zobowiązany jest założyć konto w systemie PayPal i może zostać
+obciążony za dodatkową opłatą za skorzystanie z tej usługi. PayPal zastrzega
+sobie prawo do obciążenia konta PayPal Użytkownika w różnych kwotach w
+procesie płatności.
+§2. Obowiązki Pasażera
+1. Pasażer ma pełną dowolność w przypadku wyboru sposobu płatności. Płatność
+może zostać dokonana gotówką lub kartą u Kierowcy bądź jedną z metod
+bezgotówkowych zgodnie z §1 ust 1.
+2. W przypadku płatności bezgotówkowej przyjmuje się do zapłaty wartość kwoty
+brutto.
+OGÓLNE WARUNKI W RAMACH
+USŁUGI
+
+„PŁATNOŚCI MOBILNE”
+3. Użytkownik zobowiązany jest do nieudostępniania swojego konta iTaxi osobom
+nieuprawnionym. W przypadku utraty urządzenia na którym Użytkownik korzysta
+z aplikacji iTaxi oraz usług płatności mobilnych, lub innego nieuprawnionego
+korzystania z konta przez osoby trzecie, Pasażer jest zobligowany do
+powiadomienia iTaxi w formie pisemnej na adres ul. Przasnyska 6B, 01-756
+Warszawa, formie elektronicznej na adres bok@itaxi.pl lub numerem telefonu +48
+22 439 00 66.
+4. W przypadku płatności bezgotówkowej za przejazd, potwierdzenia płatności
+zostaną wysłane w formie elektronicznej na adres email Pasażera, który został
+podany w trakcie rejestracji. Paragon za kurs Użytkownik otrzyma od podmiotu
+świadczącego usługę przejazdu. Dostęp do faktury znajduje się w panelu
+biznesowym aplikacji iTaxi i na prośbę Użytkownika może zostać wysłana na
+adres email Pasażera lub na adres korespondencyjny.
+5. W przypadku, gdy zajdzie podejrzenie nadużycia lub nieuprawnionego
+korzystania z aplikacji lub usługi płatności mobilne, iTaxi zastrzega sobie prawo
+do zablokowania konta lub możliwości płatności bezgotówkowej Użytkownika na
+czas nieokreślony. Jednocześnie Pasażer zostanie powiadomiony niezwłocznie o
+zaistniałej sytuacji po zablokowania konta lub usługi płatności mobilnych wraz z
+uzasadnieniem takiego zdarzenia. Użytkownik może zostać również zablokowany
+w razie nieudanej próby ściągnięcia środków z konta w ciągu 24 godzin od
+pierwszej próby podjęcia transakcji.
+6. iTaxi w indywidualnych przypadkach zastrzega sobie prawo do wyłączenia
+możliwości płatności bezgotówkowych bez podania przyczyny.
+§3. Czas obowiązywania
+1. Ogólne warunki płatności w ramach usługi „Płatności mobilne” obowiązują przez
+czas nieokreślony od momentu zaakceptowania ich przez Użytkownika.
+2. Dopuszcza się możliwość zrezygnowania z usługi płatności mobilnych przez obie
+strony w dowolnej chwili bez podania przyczyny. Wymaganą formą
+powiadomienia o rezygnacji z usługi jest forma pisemna za pośrednictwem poczty
+elektronicznej na adres bok@itaxi.pl.
+3. Pasażer po rezygnacji z usługi „Płatności mobilne” nie będzie mógł korzystać z
+dotychczasowych płatności bezgotówkowych za pomocą aplikacji iTaxi.
+§4. Zasady płatności
+1. Pasażer zobowiązuje się do zapewnienia wystarczających środków na koncie
+wykorzystywanym do płatności mobilnych. W przypadku braku wystarczających
+środków na koncie w chwili płatności bezgotówkowej skutkującym nieudaną
+próbą obciążenia konta Pasażera, iTaxi zastrzega sobie prawo do
+wyegzekwowania należnych opłat i kosztów w innej formie, np. przelew bankowy
+lub rozliczenie gotówką bezpośrednio u świadczącego usługę przejazdu.
+2. Z zastrzeżeniem bezwzględnie obowiązujących przepisów prawa iTaxi nie ponosi
+odpowiedzialności za proces płatności bezgotówkowych w tym proces
+obciążania karty kredytowej lub konta PayPal. W razie wystąpienia błędów
+dotyczących obciążeń, błędów rachunkowych lub awarii systemu płatniczego
+Pasażer zobowiązany jest do bezpośredniego kontaktu z dostawcą usług
+płatniczych lub wystawcą instrumentu płatniczego.
+3. W przypadku powstania szkody spowodowanej używaniem konta, które zostało
+zgłoszone wcześniej przez Użytkownika do zablokowania, iTaxi zobowiązuje się
+do pokrycia kosztów szkód.
+§5. Postanowienia końcowe
+1. iTaxi zastrzega możliwość zmiany niniejszych warunków w ramach usługi
+„Płatności Mobilne”, powiadamiając o zaistniałych zmianach na stronie
+internetowej www.itaxi.pl i terminie wejścia w życie ich obowiązywania. Aktualny
+regulamin usługi „Płatności mobilne” znajduje się na stronie
+internetowej www.itaxi.pl lub w aplikacji zainstalowanej na urządzeniu mobilnym.
+2. Pasażer po otrzymaniu informacji o wprowadzeniu zmiany w regulaminie usługi
+„Płatności mobilne”, może nie wyrazić zgody na dalsze korzystanie z usługi co
+skutkuje ustaniem uprawnień Pasażera do korzystania z możliwości płatności
+bezgotówkowej w aplikacji iTaxi.
+3. W przypadku uznania przez sąd właściwy, lub inny upoważnione organ, że któryś
+z wyżej wymienionych punktów regulaminu jest nieważny, podlegający
+unieważnieniu, pozbawiony mocy prawnej, nieobowiązujący lub niewykonalny,
+przyjmuje się, że pozostałe części nadal będą wiążące i obowiązujące.
