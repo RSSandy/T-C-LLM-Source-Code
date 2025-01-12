@@ -29,7 +29,7 @@ The following goals are planned for future development:
 - Fine-tune LegalBERT: Create a pipeline to process annotated texts and use them to fine-tune the LegalBERT model.
 - Implement RAG Mechanism: Develop a Retrieval-Augmented Generation (RAG) mechanism that feeds LegalBERT or the LLaMA model the legal context surrounding specific clauses/terms to improve classification and explanation quality.
 
-## Citation
+## Citations
 LegalBERT: [Link Text](https://huggingface.co/nlpaueb/legal-bert-base-uncased) 
 
 LLaMA Model: [Link Text](https://huggingface.co/huihui-ai/Llama-3.2-1B-Instruct-abliterated)
