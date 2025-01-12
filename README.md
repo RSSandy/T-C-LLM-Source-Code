@@ -1,4 +1,4 @@
-# Terms of Service (ToS) Clause Analysis Pipeline
+# Terms of Service (ToS) Clause Risk Scanner 
 ## Project Overview
 This project develops an automated data pipeline that processes Terms of Service (ToS) documents to identify potentially problematic or "shady" clauses and generate user-friendly explanations in simpler language. Legal documents, such as ToS, are often difficult for most users to understand due to their complex, legal language. This tool aims to make these documents more accessible by flagging harmful clauses and clarifying their risks.
 
