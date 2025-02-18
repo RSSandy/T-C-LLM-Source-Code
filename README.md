@@ -16,7 +16,7 @@ The repository contains the following components:
 
 *TOS_LLM.ipynb* - Source Code: The source code for the notebook that implements the pipeline described above.
 
-*/Example TOS* - Example ToS Files: A folder containing a set of example ToS documents for testing and demonstration purposes.
+*Example TOS* - Example ToS Files: A folder containing a set of example ToS documents for testing and demonstration purposes.
 
 *app.py*  - Streamlit App (unfinished): An unfinished app.py file for a Streamlit app that allows users to upload ToS documents and view flagged clauses with their explanations.
 
